@@ -1315,20 +1315,300 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-24,2020-03-25,IS,Iceland,,,721.13,
 2020-03-24,2020-03-26,IS,Iceland,,,836.093,
 2020-03-24,2020-03-27,IS,Iceland,,,967.603,
-2020-03-25,2020-03-15,IT,Italy,,,21345.289,21157
-2020-03-25,2020-03-16,IT,Italy,,,24777.696,24938
-2020-03-25,2020-03-17,IT,Italy,,,28519.952,27980
-2020-03-25,2020-03-18,IT,Italy,,,32566.699,31506
-2020-03-25,2020-03-19,IT,Italy,,,36908.983,35713
-2020-03-25,2020-03-20,IT,Italy,,,41534.499,41035
-2020-03-25,2020-03-21,IT,Italy,,,46427.909,47021
-2020-03-25,2020-03-22,IT,Italy,,,51571.205,53578
-2020-03-25,2020-03-23,IT,Italy,,,56944.121,59514
-2020-03-25,2020-03-24,IT,Italy,,,62524.552,64378
-2020-03-25,2020-03-25,IT,Italy,,,68288.987,64378
-2020-03-25,2020-03-26,IT,Italy,,,74212.937,
-2020-03-25,2020-03-27,IT,Italy,,,80271.339,
-2020-03-25,2020-03-28,IT,Italy,,,86438.941,
+2020-03-24,2020-03-14,IT,Italy,21,Piemont,1042.735,873
+2020-03-24,2020-03-15,IT,Italy,21,Piemont,1304.945,1111
+2020-03-24,2020-03-16,IT,Italy,21,Piemont,1608.787,1516
+2020-03-24,2020-03-17,IT,Italy,21,Piemont,1955.82,1897
+2020-03-24,2020-03-18,IT,Italy,21,Piemont,2346.869,2341
+2020-03-24,2020-03-19,IT,Italy,21,Piemont,2782.004,2932
+2020-03-24,2020-03-20,IT,Italy,21,Piemont,3260.537,3461
+2020-03-24,2020-03-21,IT,Italy,21,Piemont,3781.056,3752
+2020-03-24,2020-03-22,IT,Italy,21,Piemont,4341.477,4420
+2020-03-24,2020-03-23,IT,Italy,21,Piemont,4939.124,4861
+2020-03-24,2020-03-24,IT,Italy,21,Piemont,5570.81,5515
+2020-03-24,2020-03-25,IT,Italy,21,Piemont,6232.942,
+2020-03-24,2020-03-26,IT,Italy,21,Piemont,6921.618,
+2020-03-24,2020-03-27,IT,Italy,21,Piemont,7632.731,
+2020-03-24,2020-03-14,IT,Italy,23,Aosta Valley,43.548,42
+2020-03-24,2020-03-15,IT,Italy,23,Aosta Valley,68.514,57
+2020-03-24,2020-03-16,IT,Italy,23,Aosta Valley,99.868,105
+2020-03-24,2020-03-17,IT,Italy,23,Aosta Valley,136.614,136
+2020-03-24,2020-03-18,IT,Italy,23,Aosta Valley,177.271,165
+2020-03-24,2020-03-19,IT,Italy,23,Aosta Valley,220.146,215
+2020-03-24,2020-03-20,IT,Italy,23,Aosta Valley,263.592,264
+2020-03-24,2020-03-21,IT,Italy,23,Aosta Valley,306.176,313
+2020-03-24,2020-03-22,IT,Italy,23,Aosta Valley,346.777,364
+2020-03-24,2020-03-23,IT,Italy,23,Aosta Valley,384.606,393
+2020-03-24,2020-03-24,IT,Italy,23,Aosta Valley,419.184,400
+2020-03-24,2020-03-25,IT,Italy,23,Aosta Valley,450.29,
+2020-03-24,2020-03-26,IT,Italy,23,Aosta Valley,477.905,
+2020-03-24,2020-03-27,IT,Italy,23,Aosta Valley,502.151,
+2020-03-24,2020-03-14,IT,Italy,25,Lombardy,11375.976,11685
+2020-03-24,2020-03-15,IT,Italy,25,Lombardy,12960.025,13272
+2020-03-24,2020-03-16,IT,Italy,25,Lombardy,14652.178,14649
+2020-03-24,2020-03-17,IT,Italy,25,Lombardy,16446.46,16220
+2020-03-24,2020-03-18,IT,Italy,25,Lombardy,18335.804,17713
+2020-03-24,2020-03-19,IT,Italy,25,Lombardy,20312.219,19884
+2020-03-24,2020-03-20,IT,Italy,25,Lombardy,22366.97,22264
+2020-03-24,2020-03-21,IT,Italy,25,Lombardy,24490.76,25515
+2020-03-24,2020-03-22,IT,Italy,25,Lombardy,26673.909,27206
+2020-03-24,2020-03-23,IT,Italy,25,Lombardy,28906.526,28761
+2020-03-24,2020-03-24,IT,Italy,25,Lombardy,31178.666,30703
+2020-03-24,2020-03-25,IT,Italy,25,Lombardy,33480.481,
+2020-03-24,2020-03-26,IT,Italy,25,Lombardy,35802.34,
+2020-03-24,2020-03-27,IT,Italy,25,Lombardy,38134.946,
+2020-03-24,2020-03-14,IT,Italy,34,Veneto,1856.503,1937
+2020-03-24,2020-03-15,IT,Italy,34,Veneto,2140.3,2172
+2020-03-24,2020-03-16,IT,Italy,34,Veneto,2453.147,2473
+2020-03-24,2020-03-17,IT,Italy,34,Veneto,2796.056,2704
+2020-03-24,2020-03-18,IT,Italy,34,Veneto,3169.866,3214
+2020-03-24,2020-03-19,IT,Italy,34,Veneto,3575.232,3484
+2020-03-24,2020-03-20,IT,Italy,34,Veneto,4012.611,4031
+2020-03-24,2020-03-21,IT,Italy,34,Veneto,4482.261,4617
+2020-03-24,2020-03-22,IT,Italy,34,Veneto,4984.235,5122
+2020-03-24,2020-03-23,IT,Italy,34,Veneto,5518.382,5505
+2020-03-24,2020-03-24,IT,Italy,34,Veneto,6084.352,5948
+2020-03-24,2020-03-25,IT,Italy,34,Veneto,6681.597,
+2020-03-24,2020-03-26,IT,Italy,34,Veneto,7309.383,
+2020-03-24,2020-03-27,IT,Italy,34,Veneto,7966.8,
+2020-03-24,2020-03-14,IT,Italy,36,Friuli Venezia Giulia,269.097,301
+2020-03-24,2020-03-15,IT,Italy,36,Friuli Venezia Giulia,322.451,347
+2020-03-24,2020-03-16,IT,Italy,36,Friuli Venezia Giulia,381.493,386
+2020-03-24,2020-03-17,IT,Italy,36,Friuli Venezia Giulia,446.033,394
+2020-03-24,2020-03-18,IT,Italy,36,Friuli Venezia Giulia,515.785,462
+2020-03-24,2020-03-19,IT,Italy,36,Friuli Venezia Giulia,590.373,599
+2020-03-24,2020-03-20,IT,Italy,36,Friuli Venezia Giulia,669.351,656
+2020-03-24,2020-03-21,IT,Italy,36,Friuli Venezia Giulia,752.215,790
+2020-03-24,2020-03-22,IT,Italy,36,Friuli Venezia Giulia,838.418,874
+2020-03-24,2020-03-23,IT,Italy,36,Friuli Venezia Giulia,927.389,930
+2020-03-24,2020-03-24,IT,Italy,36,Friuli Venezia Giulia,1018.541,992
+2020-03-24,2020-03-25,IT,Italy,36,Friuli Venezia Giulia,1111.292,
+2020-03-24,2020-03-26,IT,Italy,36,Friuli Venezia Giulia,1205.071,
+2020-03-24,2020-03-27,IT,Italy,36,Friuli Venezia Giulia,1299.331,
+2020-03-24,2020-03-14,IT,Italy,42,Liguria,427.658,463
+2020-03-24,2020-03-15,IT,Italy,42,Liguria,525.961,559
+2020-03-24,2020-03-16,IT,Italy,42,Liguria,639.155,667
+2020-03-24,2020-03-17,IT,Italy,42,Liguria,767.993,778
+2020-03-24,2020-03-18,IT,Italy,42,Liguria,913.041,887
+2020-03-24,2020-03-19,IT,Italy,42,Liguria,1074.663,1059
+2020-03-24,2020-03-20,IT,Italy,42,Liguria,1253.014,1221
+2020-03-24,2020-03-21,IT,Italy,42,Liguria,1448.031,1436
+2020-03-24,2020-03-22,IT,Italy,42,Liguria,1659.442,1665
+2020-03-24,2020-03-23,IT,Italy,42,Liguria,1886.771,1924
+2020-03-24,2020-03-24,IT,Italy,42,Liguria,2129.352,2116
+2020-03-24,2020-03-25,IT,Italy,42,Liguria,2386.35,
+2020-03-24,2020-03-26,IT,Italy,42,Liguria,2656.777,
+2020-03-24,2020-03-27,IT,Italy,42,Liguria,2939.52,
+2020-03-24,2020-03-14,IT,Italy,45,Emilia-Romagna,2688.338,2644
+2020-03-24,2020-03-15,IT,Italy,45,Emilia-Romagna,3090.746,3093
+2020-03-24,2020-03-16,IT,Italy,45,Emilia-Romagna,3541.306,3522
+2020-03-24,2020-03-17,IT,Italy,45,Emilia-Romagna,4044.088,3931
+2020-03-24,2020-03-18,IT,Italy,45,Emilia-Romagna,4603.307,4525
+2020-03-24,2020-03-19,IT,Italy,45,Emilia-Romagna,5223.31,5214
+2020-03-24,2020-03-20,IT,Italy,45,Emilia-Romagna,5908.561,5968
+2020-03-24,2020-03-21,IT,Italy,45,Emilia-Romagna,6663.624,6705
+2020-03-24,2020-03-22,IT,Italy,45,Emilia-Romagna,7493.142,7555
+2020-03-24,2020-03-23,IT,Italy,45,Emilia-Romagna,8401.819,8535
+2020-03-24,2020-03-24,IT,Italy,45,Emilia-Romagna,9394.396,9254
+2020-03-24,2020-03-25,IT,Italy,45,Emilia-Romagna,10475.634,
+2020-03-24,2020-03-26,IT,Italy,45,Emilia-Romagna,11650.286,
+2020-03-24,2020-03-27,IT,Italy,45,Emilia-Romagna,12923.074,
+2020-03-24,2020-03-14,IT,Italy,52,Tuscany,629.945,630
+2020-03-24,2020-03-15,IT,Italy,52,Tuscany,771.054,781
+2020-03-24,2020-03-16,IT,Italy,52,Tuscany,929.999,866
+2020-03-24,2020-03-17,IT,Italy,52,Tuscany,1106.522,1053
+2020-03-24,2020-03-18,IT,Italy,52,Tuscany,1300.015,1330
+2020-03-24,2020-03-19,IT,Italy,52,Tuscany,1509.546,1482
+2020-03-24,2020-03-20,IT,Italy,52,Tuscany,1733.902,1793
+2020-03-24,2020-03-21,IT,Italy,52,Tuscany,1971.632,2012
+2020-03-24,2020-03-22,IT,Italy,52,Tuscany,2221.104,2277
+2020-03-24,2020-03-23,IT,Italy,52,Tuscany,2480.554,2461
+2020-03-24,2020-03-24,IT,Italy,52,Tuscany,2748.141,2699
+2020-03-24,2020-03-25,IT,Italy,52,Tuscany,3021.994,
+2020-03-24,2020-03-26,IT,Italy,52,Tuscany,3300.257,
+2020-03-24,2020-03-27,IT,Italy,52,Tuscany,3581.127,
+2020-03-24,2020-03-14,IT,Italy,55,Umbria,107.799,107
+2020-03-24,2020-03-15,IT,Italy,55,Umbria,139.305,143
+2020-03-24,2020-03-16,IT,Italy,55,Umbria,176.348,164
+2020-03-24,2020-03-17,IT,Italy,55,Umbria,219.048,197
+2020-03-24,2020-03-18,IT,Italy,55,Umbria,267.385,247
+2020-03-24,2020-03-19,IT,Italy,55,Umbria,321.198,334
+2020-03-24,2020-03-20,IT,Italy,55,Umbria,380.196,395
+2020-03-24,2020-03-21,IT,Italy,55,Umbria,443.969,462
+2020-03-24,2020-03-22,IT,Italy,55,Umbria,512.017,521
+2020-03-24,2020-03-23,IT,Italy,55,Umbria,583.764,577
+2020-03-24,2020-03-24,IT,Italy,55,Umbria,658.583,648
+2020-03-24,2020-03-25,IT,Italy,55,Umbria,735.824,
+2020-03-24,2020-03-26,IT,Italy,55,Umbria,814.825,
+2020-03-24,2020-03-27,IT,Italy,55,Umbria,894.941,
+2020-03-24,2020-03-14,IT,Italy,57,Marche,900.191,899
+2020-03-24,2020-03-15,IT,Italy,57,Marche,1054.23,1133
+2020-03-24,2020-03-16,IT,Italy,57,Marche,1219.412,1242
+2020-03-24,2020-03-17,IT,Italy,57,Marche,1394.448,1371
+2020-03-24,2020-03-18,IT,Italy,57,Marche,1577.906,1568
+2020-03-24,2020-03-19,IT,Italy,57,Marche,1768.258,1737
+2020-03-24,2020-03-20,IT,Italy,57,Marche,1963.933,1981
+2020-03-24,2020-03-21,IT,Italy,57,Marche,2163.362,2153
+2020-03-24,2020-03-22,IT,Italy,57,Marche,2365.016,2421
+2020-03-24,2020-03-23,IT,Italy,57,Marche,2567.441,2569
+2020-03-24,2020-03-24,IT,Italy,57,Marche,2769.278,2736
+2020-03-24,2020-03-25,IT,Italy,57,Marche,2969.289,
+2020-03-24,2020-03-26,IT,Italy,57,Marche,3166.362,
+2020-03-24,2020-03-27,IT,Italy,57,Marche,3359.524,
+2020-03-24,2020-03-14,IT,Italy,62,Lazio,342.204,357
+2020-03-24,2020-03-15,IT,Italy,62,Lazio,420.344,436
+2020-03-24,2020-03-16,IT,Italy,62,Lazio,510.744,523
+2020-03-24,2020-03-17,IT,Italy,62,Lazio,614.228,607
+2020-03-24,2020-03-18,IT,Italy,62,Lazio,731.51,724
+2020-03-24,2020-03-19,IT,Italy,62,Lazio,863.174,823
+2020-03-24,2020-03-20,IT,Italy,62,Lazio,1009.664,1008
+2020-03-24,2020-03-21,IT,Italy,62,Lazio,1171.269,1190
+2020-03-24,2020-03-22,IT,Italy,62,Lazio,1348.117,1383
+2020-03-24,2020-03-23,IT,Italy,62,Lazio,1540.175,1540
+2020-03-24,2020-03-24,IT,Italy,62,Lazio,1747.248,1728
+2020-03-24,2020-03-25,IT,Italy,62,Lazio,1968.987,
+2020-03-24,2020-03-26,IT,Italy,62,Lazio,2204.897,
+2020-03-24,2020-03-27,IT,Italy,62,Lazio,2454.344,
+2020-03-24,2020-03-14,IT,Italy,65,Abruzzo,112.004,112
+2020-03-24,2020-03-15,IT,Italy,65,Abruzzo,150.133,137
+2020-03-24,2020-03-16,IT,Italy,65,Abruzzo,195.089,176
+2020-03-24,2020-03-17,IT,Italy,65,Abruzzo,246.564,229
+2020-03-24,2020-03-18,IT,Italy,65,Abruzzo,303.981,263
+2020-03-24,2020-03-19,IT,Italy,65,Abruzzo,366.543,385
+2020-03-24,2020-03-20,IT,Italy,65,Abruzzo,433.299,449
+2020-03-24,2020-03-21,IT,Italy,65,Abruzzo,503.209,529
+2020-03-24,2020-03-22,IT,Italy,65,Abruzzo,575.205,587
+2020-03-24,2020-03-23,IT,Italy,65,Abruzzo,648.248,663
+2020-03-24,2020-03-24,IT,Italy,65,Abruzzo,721.366,689
+2020-03-24,2020-03-25,IT,Italy,65,Abruzzo,793.688,
+2020-03-24,2020-03-26,IT,Italy,65,Abruzzo,864.461,
+2020-03-24,2020-03-27,IT,Italy,65,Abruzzo,933.059,
+2020-03-24,2020-03-14,IT,Italy,67,Molise,21.078,17
+2020-03-24,2020-03-15,IT,Italy,67,Molise,24.028,17
+2020-03-24,2020-03-16,IT,Italy,67,Molise,27.391,21
+2020-03-24,2020-03-17,IT,Italy,67,Molise,31.222,25
+2020-03-24,2020-03-18,IT,Italy,67,Molise,35.586,28
+2020-03-24,2020-03-19,IT,Italy,67,Molise,40.559,46
+2020-03-24,2020-03-20,IT,Italy,67,Molise,46.224,50
+2020-03-24,2020-03-21,IT,Italy,67,Molise,52.677,61
+2020-03-24,2020-03-22,IT,Italy,67,Molise,60.028,66
+2020-03-24,2020-03-23,IT,Italy,67,Molise,68.401,67
+2020-03-24,2020-03-24,IT,Italy,67,Molise,77.937,73
+2020-03-24,2020-03-25,IT,Italy,67,Molise,88.798,
+2020-03-24,2020-03-26,IT,Italy,67,Molise,101.166,
+2020-03-24,2020-03-27,IT,Italy,67,Molise,115.251,
+2020-03-24,2020-03-14,IT,Italy,72,Campania,282.885,272
+2020-03-24,2020-03-15,IT,Italy,72,Campania,337.188,333
+2020-03-24,2020-03-16,IT,Italy,72,Campania,398.216,400
+2020-03-24,2020-03-17,IT,Italy,72,Campania,466.187,460
+2020-03-24,2020-03-18,IT,Italy,72,Campania,541.249,460
+2020-03-24,2020-03-19,IT,Italy,72,Campania,623.474,652
+2020-03-24,2020-03-20,IT,Italy,72,Campania,712.862,749
+2020-03-24,2020-03-21,IT,Italy,72,Campania,809.334,844
+2020-03-24,2020-03-22,IT,Italy,72,Campania,912.74,936
+2020-03-24,2020-03-23,IT,Italy,72,Campania,1022.86,1026
+2020-03-24,2020-03-24,IT,Italy,72,Campania,1139.409,1101
+2020-03-24,2020-03-25,IT,Italy,72,Campania,1262.045,
+2020-03-24,2020-03-26,IT,Italy,72,Campania,1390.375,
+2020-03-24,2020-03-27,IT,Italy,72,Campania,1523.961,
+2020-03-24,2020-03-14,IT,Italy,75,Apulia,169.894,166
+2020-03-24,2020-03-15,IT,Italy,75,Apulia,214.826,230
+2020-03-24,2020-03-16,IT,Italy,75,Apulia,267.762,230
+2020-03-24,2020-03-17,IT,Italy,75,Apulia,329.266,340
+2020-03-24,2020-03-18,IT,Italy,75,Apulia,399.796,383
+2020-03-24,2020-03-19,IT,Italy,75,Apulia,479.692,478
+2020-03-24,2020-03-20,IT,Italy,75,Apulia,569.162,581
+2020-03-24,2020-03-21,IT,Italy,75,Apulia,668.275,675
+2020-03-24,2020-03-22,IT,Italy,75,Apulia,776.964,786
+2020-03-24,2020-03-23,IT,Italy,75,Apulia,895.022,906
+2020-03-24,2020-03-24,IT,Italy,75,Apulia,1022.117,1005
+2020-03-24,2020-03-25,IT,Italy,75,Apulia,1157.795,
+2020-03-24,2020-03-26,IT,Italy,75,Apulia,1301.501,
+2020-03-24,2020-03-27,IT,Italy,75,Apulia,1452.586,
+2020-03-24,2020-03-14,IT,Italy,78,Calabria,53.821,60
+2020-03-24,2020-03-15,IT,Italy,78,Calabria,71.603,68
+2020-03-24,2020-03-16,IT,Italy,78,Calabria,92.369,89
+2020-03-24,2020-03-17,IT,Italy,78,Calabria,115.927,114
+2020-03-24,2020-03-18,IT,Italy,78,Calabria,141.968,129
+2020-03-24,2020-03-19,IT,Italy,78,Calabria,170.097,169
+2020-03-24,2020-03-20,IT,Italy,78,Calabria,199.861,207
+2020-03-24,2020-03-21,IT,Italy,78,Calabria,230.781,235
+2020-03-24,2020-03-22,IT,Italy,78,Calabria,262.378,273
+2020-03-24,2020-03-23,IT,Italy,78,Calabria,294.198,292
+2020-03-24,2020-03-24,IT,Italy,78,Calabria,325.825,319
+2020-03-24,2020-03-25,IT,Italy,78,Calabria,356.896,
+2020-03-24,2020-03-26,IT,Italy,78,Calabria,387.106,
+2020-03-24,2020-03-27,IT,Italy,78,Calabria,416.205,
+2020-03-24,2020-03-14,IT,Italy,82,Sicily,143.725,156
+2020-03-24,2020-03-15,IT,Italy,82,Sicily,172.057,188
+2020-03-24,2020-03-16,IT,Italy,82,Sicily,205.896,213
+2020-03-24,2020-03-17,IT,Italy,82,Sicily,246.297,237
+2020-03-24,2020-03-18,IT,Italy,82,Sicily,294.514,282
+2020-03-24,2020-03-19,IT,Italy,82,Sicily,352.038,340
+2020-03-24,2020-03-20,IT,Italy,82,Sicily,420.639,408
+2020-03-24,2020-03-21,IT,Italy,82,Sicily,502.419,490
+2020-03-24,2020-03-22,IT,Italy,82,Sicily,599.875,630
+2020-03-24,2020-03-23,IT,Italy,82,Sicily,715.967,721
+2020-03-24,2020-03-24,IT,Italy,82,Sicily,854.208,846
+2020-03-24,2020-03-25,IT,Italy,82,Sicily,1018.761,
+2020-03-24,2020-03-26,IT,Italy,82,Sicily,1214.563,
+2020-03-24,2020-03-27,IT,Italy,82,Sicily,1447.461,
+2020-03-24,2020-03-14,IT,Italy,88,Sardinia,56.713,47
+2020-03-24,2020-03-15,IT,Italy,88,Sardinia,79.229,77
+2020-03-24,2020-03-16,IT,Italy,88,Sardinia,106.345,107
+2020-03-24,2020-03-17,IT,Italy,88,Sardinia,137.803,117
+2020-03-24,2020-03-18,IT,Italy,88,Sardinia,173.115,134
+2020-03-24,2020-03-19,IT,Italy,88,Sardinia,211.622,206
+2020-03-24,2020-03-20,IT,Italy,88,Sardinia,252.552,293
+2020-03-24,2020-03-21,IT,Italy,88,Sardinia,295.091,330
+2020-03-24,2020-03-22,IT,Italy,88,Sardinia,338.432,339
+2020-03-24,2020-03-23,IT,Italy,88,Sardinia,381.829,359
+2020-03-24,2020-03-24,IT,Italy,88,Sardinia,424.617,421
+2020-03-24,2020-03-25,IT,Italy,88,Sardinia,466.238,
+2020-03-24,2020-03-26,IT,Italy,88,Sardinia,506.244,
+2020-03-24,2020-03-27,IT,Italy,88,Sardinia,544.296,
+2020-03-24,2020-03-14,IT,Italy,BZ,South Tyrol,161.2,173
+2020-03-24,2020-03-15,IT,Italy,BZ,South Tyrol,208.344,204
+2020-03-24,2020-03-16,IT,Italy,BZ,South Tyrol,261.758,241
+2020-03-24,2020-03-17,IT,Italy,BZ,South Tyrol,320.686,291
+2020-03-24,2020-03-18,IT,Italy,BZ,South Tyrol,384.174,376
+2020-03-24,2020-03-19,IT,Italy,BZ,South Tyrol,451.147,436
+2020-03-24,2020-03-20,IT,Italy,BZ,South Tyrol,520.482,548
+2020-03-24,2020-03-21,IT,Italy,BZ,South Tyrol,591.073,621
+2020-03-24,2020-03-22,IT,Italy,BZ,South Tyrol,661.881,678
+2020-03-24,2020-03-23,IT,Italy,BZ,South Tyrol,731.974,724
+2020-03-24,2020-03-24,IT,Italy,BZ,South Tyrol,800.546,781
+2020-03-24,2020-03-25,IT,Italy,BZ,South Tyrol,866.932,
+2020-03-24,2020-03-26,IT,Italy,BZ,South Tyrol,930.605,
+2020-03-24,2020-03-27,IT,Italy,BZ,South Tyrol,991.171,
+2020-03-24,2020-03-14,IT,Italy,TN,Trentino-Alto Adige,212.774,206
+2020-03-24,2020-03-15,IT,Italy,TN,Trentino-Alto Adige,268.59,378
+2020-03-24,2020-03-16,IT,Italy,TN,Trentino-Alto Adige,333.062,378
+2020-03-24,2020-03-17,IT,Italy,TN,Trentino-Alto Adige,406.268,385
+2020-03-24,2020-03-18,IT,Italy,TN,Trentino-Alto Adige,488.092,455
+2020-03-24,2020-03-19,IT,Italy,TN,Trentino-Alto Adige,578.223,523
+2020-03-24,2020-03-20,IT,Italy,TN,Trentino-Alto Adige,676.178,642
+2020-03-24,2020-03-21,IT,Italy,TN,Trentino-Alto Adige,781.319,782
+2020-03-24,2020-03-22,IT,Italy,TN,Trentino-Alto Adige,892.885,954
+2020-03-24,2020-03-23,IT,Italy,TN,Trentino-Alto Adige,1010.018,1023
+2020-03-24,2020-03-24,IT,Italy,TN,Trentino-Alto Adige,1131.797,1110
+2020-03-24,2020-03-25,IT,Italy,TN,Trentino-Alto Adige,1257.264,
+2020-03-24,2020-03-26,IT,Italy,TN,Trentino-Alto Adige,1385.456,
+2020-03-24,2020-03-27,IT,Italy,TN,Trentino-Alto Adige,1515.423,
+2020-03-25,2020-03-15,IT,Italy,,,21008.45,21157
+2020-03-25,2020-03-16,IT,Italy,,,24398.936,24747
+2020-03-25,2020-03-17,IT,Italy,,,28133.109,27980
+2020-03-25,2020-03-18,IT,Italy,,,32217.018,31506
+2020-03-25,2020-03-19,IT,Italy,,,36653.648,35713
+2020-03-25,2020-03-20,IT,Italy,,,41442.882,41035
+2020-03-25,2020-03-21,IT,Italy,,,46581.511,47021
+2020-03-25,2020-03-22,IT,Italy,,,52063.319,53578
+2020-03-25,2020-03-23,IT,Italy,,,57879.207,59138
+2020-03-25,2020-03-24,IT,Italy,,,64017.374,63927
+2020-03-25,2020-03-25,IT,Italy,,,70463.534,69176
+2020-03-25,2020-03-26,IT,Italy,,,77201.166,
+2020-03-25,2020-03-27,IT,Italy,,,84211.779,
+2020-03-25,2020-03-28,IT,Italy,,,91475.209,
 2020-03-24,2020-03-14,JP,Japan,,,684.151,737
 2020-03-24,2020-03-15,JP,Japan,,,726.753,780
 2020-03-24,2020-03-16,JP,Japan,,,770.35,814
@@ -1791,398 +2071,440 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-24,2020-03-25,TW,Taiwan,,,176.534,
 2020-03-24,2020-03-26,TW,Taiwan,,,191.34,
 2020-03-24,2020-03-27,TW,Taiwan,,,207.385,
-2020-03-23,2020-03-13,US,United States of America,CA,California,214.924,202
-2020-03-23,2020-03-14,US,United States of America,CA,California,273.38,252
-2020-03-23,2020-03-15,US,United States of America,CA,California,345.423,293
-2020-03-23,2020-03-16,US,United States of America,CA,California,433.633,335
-2020-03-23,2020-03-17,US,United States of America,CA,California,540.949,483
-2020-03-23,2020-03-18,US,United States of America,CA,California,670.702,611
-2020-03-23,2020-03-19,US,United States of America,CA,California,826.638,924
-2020-03-23,2020-03-20,US,United States of America,CA,California,1012.944,1063
-2020-03-23,2020-03-21,US,United States of America,CA,California,1234.27,1279
-2020-03-23,2020-03-22,US,United States of America,CA,California,1495.742,1536
-2020-03-23,2020-03-23,US,United States of America,CA,California,1802.981,1733
-2020-03-23,2020-03-24,US,United States of America,CA,California,2162.109,
-2020-03-23,2020-03-25,US,United States of America,CA,California,2579.753,
-2020-03-23,2020-03-26,US,United States of America,CA,California,3063.045,
-2020-03-23,2020-03-13,US,United States of America,CO,Colorado,61.887,72
-2020-03-23,2020-03-14,US,United States of America,CO,Colorado,77.486,101
-2020-03-23,2020-03-15,US,United States of America,CO,Colorado,97.004,131
-2020-03-23,2020-03-16,US,United States of America,CO,Colorado,121.422,131
-2020-03-23,2020-03-17,US,United States of America,CO,Colorado,151.966,160
-2020-03-23,2020-03-18,US,United States of America,CO,Colorado,190.167,183
-2020-03-23,2020-03-19,US,United States of America,CO,Colorado,237.938,216
-2020-03-23,2020-03-20,US,United States of America,CO,Colorado,297.669,277
-2020-03-23,2020-03-21,US,United States of America,CO,Colorado,372.344,363
-2020-03-23,2020-03-22,US,United States of America,CO,Colorado,465.689,475
-2020-03-23,2020-03-23,US,United States of America,CO,Colorado,582.355,591
-2020-03-23,2020-03-24,US,United States of America,CO,Colorado,728.151,
-2020-03-23,2020-03-25,US,United States of America,CO,Colorado,910.323,
-2020-03-23,2020-03-26,US,United States of America,CO,Colorado,1137.916,
-2020-03-23,2020-03-13,US,United States of America,FL,Florida,58.86,50
-2020-03-23,2020-03-14,US,United States of America,FL,Florida,81.463,77
-2020-03-23,2020-03-15,US,United States of America,FL,Florida,112.01,116
-2020-03-23,2020-03-16,US,United States of America,FL,Florida,153.024,141
-2020-03-23,2020-03-17,US,United States of America,FL,Florida,207.744,186
-2020-03-23,2020-03-18,US,United States of America,FL,Florida,280.297,314
-2020-03-23,2020-03-19,US,United States of America,FL,Florida,375.91,390
-2020-03-23,2020-03-20,US,United States of America,FL,Florida,501.162,520
-2020-03-23,2020-03-21,US,United States of America,FL,Florida,664.28,658
-2020-03-23,2020-03-22,US,United States of America,FL,Florida,875.499,830
-2020-03-23,2020-03-23,US,United States of America,FL,Florida,1147.469,1171
-2020-03-23,2020-03-24,US,United States of America,FL,Florida,1495.738,
-2020-03-23,2020-03-25,US,United States of America,FL,Florida,1939.311,
-2020-03-23,2020-03-26,US,United States of America,FL,Florida,2501.288,
-2020-03-23,2020-03-13,US,United States of America,GA,Georgia,40.859,42
-2020-03-23,2020-03-14,US,United States of America,GA,Georgia,59.997,66
-2020-03-23,2020-03-15,US,United States of America,GA,Georgia,86.045,99
-2020-03-23,2020-03-16,US,United States of America,GA,Georgia,120.702,121
-2020-03-23,2020-03-17,US,United States of America,GA,Georgia,165.836,146
-2020-03-23,2020-03-18,US,United States of America,GA,Georgia,223.447,197
-2020-03-23,2020-03-19,US,United States of America,GA,Georgia,295.611,287
-2020-03-23,2020-03-20,US,United States of America,GA,Georgia,384.419,420
-2020-03-23,2020-03-21,US,United States of America,GA,Georgia,491.912,507
-2020-03-23,2020-03-22,US,United States of America,GA,Georgia,620.006,600
-2020-03-23,2020-03-23,US,United States of America,GA,Georgia,770.434,772
-2020-03-23,2020-03-24,US,United States of America,GA,Georgia,944.677,
-2020-03-23,2020-03-25,US,United States of America,GA,Georgia,1143.921,
-2020-03-23,2020-03-26,US,United States of America,GA,Georgia,1369.01,
-2020-03-23,2020-03-13,US,United States of America,IA,Iowa,10.438,16
-2020-03-23,2020-03-14,US,United States of America,IA,Iowa,13.163,17
-2020-03-23,2020-03-15,US,United States of America,IA,Iowa,16.599,18
-2020-03-23,2020-03-16,US,United States of America,IA,Iowa,20.927,22
-2020-03-23,2020-03-17,US,United States of America,IA,Iowa,26.38,23
-2020-03-23,2020-03-18,US,United States of America,IA,Iowa,33.25,29
-2020-03-23,2020-03-19,US,United States of America,IA,Iowa,41.903,38
-2020-03-23,2020-03-20,US,United States of America,IA,Iowa,52.799,45
-2020-03-23,2020-03-21,US,United States of America,IA,Iowa,66.519,68
-2020-03-23,2020-03-22,US,United States of America,IA,Iowa,83.793,90
-2020-03-23,2020-03-23,US,United States of America,IA,Iowa,105.537,105
-2020-03-23,2020-03-24,US,United States of America,IA,Iowa,132.904,
-2020-03-23,2020-03-25,US,United States of America,IA,Iowa,167.343,
-2020-03-23,2020-03-26,US,United States of America,IA,Iowa,210.676,
-2020-03-23,2020-03-13,US,United States of America,IL,Illinois,15.346,32
-2020-03-23,2020-03-14,US,United States of America,IL,Illinois,32.159,46
-2020-03-23,2020-03-15,US,United States of America,IL,Illinois,61.633,64
-2020-03-23,2020-03-16,US,United States of America,IL,Illinois,109.205,93
-2020-03-23,2020-03-17,US,United States of America,IL,Illinois,180.589,160
-2020-03-23,2020-03-18,US,United States of America,IL,Illinois,281.048,289
-2020-03-23,2020-03-19,US,United States of America,IL,Illinois,414.658,426
-2020-03-23,2020-03-20,US,United States of America,IL,Illinois,583.738,590
-2020-03-23,2020-03-21,US,United States of America,IL,Illinois,788.538,759
-2020-03-23,2020-03-22,US,United States of America,IL,Illinois,1027.23,1058
-2020-03-23,2020-03-23,US,United States of America,IL,Illinois,1296.146,1285
-2020-03-23,2020-03-24,US,United States of America,IL,Illinois,1590.21,
-2020-03-23,2020-03-25,US,United States of America,IL,Illinois,1903.441,
-2020-03-23,2020-03-26,US,United States of America,IL,Illinois,2229.471,
-2020-03-23,2020-03-13,US,United States of America,IN,Indiana,6.834,12
-2020-03-23,2020-03-14,US,United States of America,IN,Indiana,9.87,15
-2020-03-23,2020-03-15,US,United States of America,IN,Indiana,14.249,19
-2020-03-23,2020-03-16,US,United States of America,IN,Indiana,20.564,24
-2020-03-23,2020-03-17,US,United States of America,IN,Indiana,29.665,30
-2020-03-23,2020-03-18,US,United States of America,IN,Indiana,42.78,39
-2020-03-23,2020-03-19,US,United States of America,IN,Indiana,61.671,56
-2020-03-23,2020-03-20,US,United States of America,IN,Indiana,88.871,79
-2020-03-23,2020-03-21,US,United States of America,IN,Indiana,128.021,126
-2020-03-23,2020-03-22,US,United States of America,IN,Indiana,184.351,201
-2020-03-23,2020-03-23,US,United States of America,IN,Indiana,265.37,259
-2020-03-23,2020-03-24,US,United States of America,IN,Indiana,381.859,
-2020-03-23,2020-03-25,US,United States of America,IN,Indiana,549.284,
-2020-03-23,2020-03-26,US,United States of America,IN,Indiana,789.832,
-2020-03-23,2020-03-13,US,United States of America,KY,Kentucky,7.833,11
-2020-03-23,2020-03-14,US,United States of America,KY,Kentucky,10.195,14
-2020-03-23,2020-03-15,US,United States of America,KY,Kentucky,13.267,16
-2020-03-23,2020-03-16,US,United States of America,KY,Kentucky,17.262,21
-2020-03-23,2020-03-17,US,United States of America,KY,Kentucky,22.456,22
-2020-03-23,2020-03-18,US,United States of America,KY,Kentucky,29.206,26
-2020-03-23,2020-03-19,US,United States of America,KY,Kentucky,37.979,35
-2020-03-23,2020-03-20,US,United States of America,KY,Kentucky,49.377,47
-2020-03-23,2020-03-21,US,United States of America,KY,Kentucky,64.185,54
-2020-03-23,2020-03-22,US,United States of America,KY,Kentucky,83.417,99
-2020-03-23,2020-03-23,US,United States of America,KY,Kentucky,108.392,104
-2020-03-23,2020-03-24,US,United States of America,KY,Kentucky,140.819,
-2020-03-23,2020-03-25,US,United States of America,KY,Kentucky,182.911,
-2020-03-23,2020-03-26,US,United States of America,KY,Kentucky,237.542,
-2020-03-23,2020-03-13,US,United States of America,LA,Louisiana,45.575,36
-2020-03-23,2020-03-14,US,United States of America,LA,Louisiana,63.697,69
-2020-03-23,2020-03-15,US,United States of America,LA,Louisiana,88.803,91
-2020-03-23,2020-03-16,US,United States of America,LA,Louisiana,123.498,114
-2020-03-23,2020-03-17,US,United States of America,LA,Louisiana,171.323,171
-2020-03-23,2020-03-18,US,United States of America,LA,Louisiana,237.088,240
-2020-03-23,2020-03-19,US,United States of America,LA,Louisiana,327.303,347
-2020-03-23,2020-03-20,US,United States of America,LA,Louisiana,450.756,479
-2020-03-23,2020-03-21,US,United States of America,LA,Louisiana,619.291,585
-2020-03-23,2020-03-22,US,United States of America,LA,Louisiana,848.82,837
-2020-03-23,2020-03-23,US,United States of America,LA,Louisiana,1160.681,1172
-2020-03-23,2020-03-24,US,United States of America,LA,Louisiana,1583.412,
-2020-03-23,2020-03-25,US,United States of America,LA,Louisiana,2155.094,
-2020-03-23,2020-03-26,US,United States of America,LA,Louisiana,2926.425,
-2020-03-23,2020-03-13,US,United States of America,MA,Massachusetts,98.385,123
-2020-03-23,2020-03-14,US,United States of America,MA,Massachusetts,121.061,138
-2020-03-23,2020-03-15,US,United States of America,MA,Massachusetts,148.946,138
-2020-03-23,2020-03-16,US,United States of America,MA,Massachusetts,183.234,164
-2020-03-23,2020-03-17,US,United States of America,MA,Massachusetts,225.387,218
-2020-03-23,2020-03-18,US,United States of America,MA,Massachusetts,277.206,256
-2020-03-23,2020-03-19,US,United States of America,MA,Massachusetts,340.899,328
-2020-03-23,2020-03-20,US,United States of America,MA,Massachusetts,419.178,413
-2020-03-23,2020-03-21,US,United States of America,MA,Massachusetts,515.372,525
-2020-03-23,2020-03-22,US,United States of America,MA,Massachusetts,633.567,646
-2020-03-23,2020-03-23,US,United States of America,MA,Massachusetts,778.778,777
-2020-03-23,2020-03-24,US,United States of America,MA,Massachusetts,957.161,
-2020-03-23,2020-03-25,US,United States of America,MA,Massachusetts,1176.266,
-2020-03-23,2020-03-26,US,United States of America,MA,Massachusetts,1445.359,
-2020-03-23,2020-03-13,US,United States of America,MD,Maryland,13.042,17
-2020-03-23,2020-03-14,US,United States of America,MD,Maryland,20.114,26
-2020-03-23,2020-03-15,US,United States of America,MD,Maryland,30.013,31
-2020-03-23,2020-03-16,US,United States of America,MD,Maryland,43.441,37
-2020-03-23,2020-03-17,US,United States of America,MD,Maryland,61.13,57
-2020-03-23,2020-03-18,US,United States of America,MD,Maryland,83.813,85
-2020-03-23,2020-03-19,US,United States of America,MD,Maryland,112.183,107
-2020-03-23,2020-03-20,US,United States of America,MD,Maryland,146.858,149
-2020-03-23,2020-03-21,US,United States of America,MD,Maryland,188.348,190
-2020-03-23,2020-03-22,US,United States of America,MD,Maryland,237.024,244
-2020-03-23,2020-03-23,US,United States of America,MD,Maryland,293.104,288
-2020-03-23,2020-03-24,US,United States of America,MD,Maryland,356.636,
-2020-03-23,2020-03-25,US,United States of America,MD,Maryland,427.503,
-2020-03-23,2020-03-26,US,United States of America,MD,Maryland,505.427,
-2020-03-23,2020-03-13,US,United States of America,MI,Michigan,0.005,16
-2020-03-23,2020-03-14,US,United States of America,MI,Michigan,0.163,25
-2020-03-23,2020-03-15,US,United States of America,MI,Michigan,2.074,33
-2020-03-23,2020-03-16,US,United States of America,MI,Michigan,13.46,53
-2020-03-23,2020-03-17,US,United States of America,MI,Michigan,53.188,65
-2020-03-23,2020-03-18,US,United States of America,MI,Michigan,145.992,80
-2020-03-23,2020-03-19,US,United States of America,MI,Michigan,306.583,336
-2020-03-23,2020-03-20,US,United States of America,MI,Michigan,528.825,549
-2020-03-23,2020-03-21,US,United States of America,MI,Michigan,789.377,787
-2020-03-23,2020-03-22,US,United States of America,MI,Michigan,1059.544,1035
-2020-03-23,2020-03-23,US,United States of America,MI,Michigan,1315.38,1328
-2020-03-23,2020-03-24,US,United States of America,MI,Michigan,1541.956,
-2020-03-23,2020-03-25,US,United States of America,MI,Michigan,1732.958,
-2020-03-23,2020-03-26,US,United States of America,MI,Michigan,1888.226,
-2020-03-23,2020-03-13,US,United States of America,MN,Minnesota,22.013,14
-2020-03-23,2020-03-14,US,United States of America,MN,Minnesota,27.833,21
-2020-03-23,2020-03-15,US,United States of America,MN,Minnesota,35.183,35
-2020-03-23,2020-03-16,US,United States of America,MN,Minnesota,44.46,54
-2020-03-23,2020-03-17,US,United States of America,MN,Minnesota,56.169,60
-2020-03-23,2020-03-18,US,United States of America,MN,Minnesota,70.942,77
-2020-03-23,2020-03-19,US,United States of America,MN,Minnesota,89.577,89
-2020-03-23,2020-03-20,US,United States of America,MN,Minnesota,113.076,115
-2020-03-23,2020-03-21,US,United States of America,MN,Minnesota,142.702,138
-2020-03-23,2020-03-22,US,United States of America,MN,Minnesota,180.04,169
-2020-03-23,2020-03-23,US,United States of America,MN,Minnesota,227.087,235
-2020-03-23,2020-03-24,US,United States of America,MN,Minnesota,286.351,
-2020-03-23,2020-03-25,US,United States of America,MN,Minnesota,360.986,
-2020-03-23,2020-03-26,US,United States of America,MN,Minnesota,454.95,
-2020-03-23,2020-03-13,US,United States of America,NC,North Carolina,9.292,15
-2020-03-23,2020-03-14,US,United States of America,NC,North Carolina,14.84,23
-2020-03-23,2020-03-15,US,United States of America,NC,North Carolina,22.97,32
-2020-03-23,2020-03-16,US,United States of America,NC,North Carolina,34.53,33
-2020-03-23,2020-03-17,US,United States of America,NC,North Carolina,50.515,40
-2020-03-23,2020-03-18,US,United States of America,NC,North Carolina,72.044,63
-2020-03-23,2020-03-19,US,United States of America,NC,North Carolina,100.34,97
-2020-03-23,2020-03-20,US,United States of America,NC,North Carolina,136.692,137
-2020-03-23,2020-03-21,US,United States of America,NC,North Carolina,182.406,184
-2020-03-23,2020-03-22,US,United States of America,NC,North Carolina,238.762,255
-2020-03-23,2020-03-23,US,United States of America,NC,North Carolina,306.958,297
-2020-03-23,2020-03-24,US,United States of America,NC,North Carolina,388.064,
-2020-03-23,2020-03-25,US,United States of America,NC,North Carolina,482.976,
-2020-03-23,2020-03-26,US,United States of America,NC,North Carolina,592.379,
-2020-03-23,2020-03-13,US,United States of America,NE,Nebraska,11.816,13
-2020-03-23,2020-03-14,US,United States of America,NE,Nebraska,13.692,14
-2020-03-23,2020-03-15,US,United States of America,NE,Nebraska,15.864,17
-2020-03-23,2020-03-16,US,United States of America,NE,Nebraska,18.38,18
-2020-03-23,2020-03-17,US,United States of America,NE,Nebraska,21.293,21
-2020-03-23,2020-03-18,US,United States of America,NE,Nebraska,24.666,24
-2020-03-23,2020-03-19,US,United States of America,NE,Nebraska,28.573,27
-2020-03-23,2020-03-20,US,United States of America,NE,Nebraska,33.096,32
-2020-03-23,2020-03-21,US,United States of America,NE,Nebraska,38.332,38
-2020-03-23,2020-03-22,US,United States of America,NE,Nebraska,44.395,48
-2020-03-23,2020-03-23,US,United States of America,NE,Nebraska,51.414,50
-2020-03-23,2020-03-24,US,United States of America,NE,Nebraska,59.538,
-2020-03-23,2020-03-25,US,United States of America,NE,Nebraska,68.942,
-2020-03-23,2020-03-26,US,United States of America,NE,Nebraska,79.828,
-2020-03-23,2020-03-13,US,United States of America,NJ,New Jersey,54.75,50
-2020-03-23,2020-03-14,US,United States of America,NJ,New Jersey,83.413,50
-2020-03-23,2020-03-15,US,United States of America,NJ,New Jersey,126.299,98
-2020-03-23,2020-03-16,US,United States of America,NJ,New Jersey,190.071,178
-2020-03-23,2020-03-17,US,United States of America,NJ,New Jersey,284.33,267
-2020-03-23,2020-03-18,US,United States of America,NJ,New Jersey,422.821,427
-2020-03-23,2020-03-19,US,United States of America,NJ,New Jersey,625.112,742
-2020-03-23,2020-03-20,US,United States of America,NJ,New Jersey,918.889,890
-2020-03-23,2020-03-21,US,United States of America,NJ,New Jersey,1343.099,1327
-2020-03-23,2020-03-22,US,United States of America,NJ,New Jersey,1952.224,1914
-2020-03-23,2020-03-23,US,United States of America,NJ,New Jersey,2822.041,2844
-2020-03-23,2020-03-24,US,United States of America,NJ,New Jersey,4057.366,
-2020-03-23,2020-03-25,US,United States of America,NJ,New Jersey,5802.389,
-2020-03-23,2020-03-26,US,United States of America,NJ,New Jersey,8254.398,
-2020-03-23,2020-03-13,US,United States of America,NV,Nevada,16.02,11
-2020-03-23,2020-03-14,US,United States of America,NV,Nevada,21.053,20
-2020-03-23,2020-03-15,US,United States of America,NV,Nevada,27.66,21
-2020-03-23,2020-03-16,US,United States of America,NV,Nevada,36.33,45
-2020-03-23,2020-03-17,US,United States of America,NV,Nevada,47.702,55
-2020-03-23,2020-03-18,US,United States of America,NV,Nevada,62.615,55
-2020-03-23,2020-03-19,US,United States of America,NV,Nevada,82.167,95
-2020-03-23,2020-03-20,US,United States of America,NV,Nevada,107.79,109
-2020-03-23,2020-03-21,US,United States of America,NV,Nevada,141.363,124
-2020-03-23,2020-03-22,US,United States of America,NV,Nevada,185.337,190
-2020-03-23,2020-03-23,US,United States of America,NV,Nevada,242.917,245
-2020-03-23,2020-03-24,US,United States of America,NV,Nevada,318.291,
-2020-03-23,2020-03-25,US,United States of America,NV,Nevada,416.929,
-2020-03-23,2020-03-26,US,United States of America,NV,Nevada,545.972,
-2020-03-23,2020-03-13,US,United States of America,NY,New York,114.776,421
-2020-03-23,2020-03-14,US,United States of America,NY,New York,243.533,524
-2020-03-23,2020-03-15,US,United States of America,NY,New York,484.713,729
-2020-03-23,2020-03-16,US,United States of America,NY,New York,909.897,950
-2020-03-23,2020-03-17,US,United States of America,NY,New York,1618.985,1700
-2020-03-23,2020-03-18,US,United States of America,NY,New York,2742.927,2382
-2020-03-23,2020-03-19,US,United States of America,NY,New York,4443.402,4152
-2020-03-23,2020-03-20,US,United States of America,NY,New York,6908.8,7102
-2020-03-23,2020-03-21,US,United States of America,NY,New York,10346.419,10356
-2020-03-23,2020-03-22,US,United States of America,NY,New York,14971.451,15168
-2020-03-23,2020-03-23,US,United States of America,NY,New York,20993.86,20875
-2020-03-23,2020-03-24,US,United States of America,NY,New York,28604.578,
-2020-03-23,2020-03-25,US,United States of America,NY,New York,37962.541,
-2020-03-23,2020-03-26,US,United States of America,NY,New York,49183.89,
-2020-03-23,2020-03-13,US,United States of America,OH,Ohio,12.463,13
-2020-03-23,2020-03-14,US,United States of America,OH,Ohio,19.142,13
-2020-03-23,2020-03-15,US,United States of America,OH,Ohio,28.89,36
-2020-03-23,2020-03-16,US,United States of America,OH,Ohio,42.88,50
-2020-03-23,2020-03-17,US,United States of America,OH,Ohio,62.633,67
-2020-03-23,2020-03-18,US,United States of America,OH,Ohio,90.088,88
-2020-03-23,2020-03-19,US,United States of America,OH,Ohio,127.679,119
-2020-03-23,2020-03-20,US,United States of America,OH,Ohio,178.411,169
-2020-03-23,2020-03-21,US,United States of America,OH,Ohio,245.936,247
-2020-03-23,2020-03-22,US,United States of America,OH,Ohio,334.628,351
-2020-03-23,2020-03-23,US,United States of America,OH,Ohio,449.646,442
-2020-03-23,2020-03-24,US,United States of America,OH,Ohio,596.992,
-2020-03-23,2020-03-25,US,United States of America,OH,Ohio,783.55,
-2020-03-23,2020-03-26,US,United States of America,OH,Ohio,1017.112,
-2020-03-23,2020-03-13,US,United States of America,OR,Oregon,25.055,30
-2020-03-23,2020-03-14,US,United States of America,OR,Oregon,30.716,30
-2020-03-23,2020-03-15,US,United States of America,OR,Oregon,37.651,36
-2020-03-23,2020-03-16,US,United States of America,OR,Oregon,46.148,39
-2020-03-23,2020-03-17,US,United States of America,OR,Oregon,56.555,47
-2020-03-23,2020-03-18,US,United States of America,OR,Oregon,69.302,75
-2020-03-23,2020-03-19,US,United States of America,OR,Oregon,84.912,88
-2020-03-23,2020-03-20,US,United States of America,OR,Oregon,104.025,114
-2020-03-23,2020-03-21,US,United States of America,OR,Oregon,127.427,114
-2020-03-23,2020-03-22,US,United States of America,OR,Oregon,156.076,161
-2020-03-23,2020-03-23,US,United States of America,OR,Oregon,191.144,191
-2020-03-23,2020-03-24,US,United States of America,OR,Oregon,234.064,
-2020-03-23,2020-03-25,US,United States of America,OR,Oregon,286.59,
-2020-03-23,2020-03-26,US,United States of America,OR,Oregon,350.863,
-2020-03-23,2020-03-13,US,United States of America,PA,Pennsylvania,28.95,33
-2020-03-23,2020-03-14,US,United States of America,PA,Pennsylvania,40.114,47
-2020-03-23,2020-03-15,US,United States of America,PA,Pennsylvania,55.387,63
-2020-03-23,2020-03-16,US,United States of America,PA,Pennsylvania,76.206,76
-2020-03-23,2020-03-17,US,United States of America,PA,Pennsylvania,104.487,96
-2020-03-23,2020-03-18,US,United States of America,PA,Pennsylvania,142.772,133
-2020-03-23,2020-03-19,US,United States of America,PA,Pennsylvania,194.422,185
-2020-03-23,2020-03-20,US,United States of America,PA,Pennsylvania,263.87,268
-2020-03-23,2020-03-21,US,United States of America,PA,Pennsylvania,356.935,371
-2020-03-23,2020-03-22,US,United States of America,PA,Pennsylvania,481.237,479
-2020-03-23,2020-03-23,US,United States of America,PA,Pennsylvania,646.719,644
-2020-03-23,2020-03-24,US,United States of America,PA,Pennsylvania,866.313,
-2020-03-23,2020-03-25,US,United States of America,PA,Pennsylvania,1156.781,
-2020-03-23,2020-03-26,US,United States of America,PA,Pennsylvania,1539.784,
-2020-03-23,2020-03-13,US,United States of America,RI,Rhode Island,10.204,14
-2020-03-23,2020-03-14,US,United States of America,RI,Rhode Island,12.886,20
-2020-03-23,2020-03-15,US,United States of America,RI,Rhode Island,16.272,20
-2020-03-23,2020-03-16,US,United States of America,RI,Rhode Island,20.544,21
-2020-03-23,2020-03-17,US,United States of America,RI,Rhode Island,25.934,21
-2020-03-23,2020-03-18,US,United States of America,RI,Rhode Island,32.733,33
-2020-03-23,2020-03-19,US,United States of America,RI,Rhode Island,41.308,33
-2020-03-23,2020-03-20,US,United States of America,RI,Rhode Island,52.123,54
-2020-03-23,2020-03-21,US,United States of America,RI,Rhode Island,65.759,66
-2020-03-23,2020-03-22,US,United States of America,RI,Rhode Island,82.951,83
-2020-03-23,2020-03-23,US,United States of America,RI,Rhode Island,104.621,106
-2020-03-23,2020-03-24,US,United States of America,RI,Rhode Island,131.934,
-2020-03-23,2020-03-25,US,United States of America,RI,Rhode Island,166.353,
-2020-03-23,2020-03-26,US,United States of America,RI,Rhode Island,209.721,
-2020-03-23,2020-03-13,US,United States of America,SC,South Carolina,7.25,12
-2020-03-23,2020-03-14,US,United States of America,SC,South Carolina,10.518,13
-2020-03-23,2020-03-15,US,United States of America,SC,South Carolina,15.254,19
-2020-03-23,2020-03-16,US,United States of America,SC,South Carolina,22.113,28
-2020-03-23,2020-03-17,US,United States of America,SC,South Carolina,32.044,33
-2020-03-23,2020-03-18,US,United States of America,SC,South Carolina,46.419,60
-2020-03-23,2020-03-19,US,United States of America,SC,South Carolina,67.217,60
-2020-03-23,2020-03-20,US,United States of America,SC,South Carolina,97.297,81
-2020-03-23,2020-03-21,US,United States of America,SC,South Carolina,140.786,152
-2020-03-23,2020-03-22,US,United States of America,SC,South Carolina,203.638,195
-2020-03-23,2020-03-23,US,United States of America,SC,South Carolina,294.442,299
-2020-03-23,2020-03-24,US,United States of America,SC,South Carolina,425.578,
-2020-03-23,2020-03-25,US,United States of America,SC,South Carolina,614.892,
-2020-03-23,2020-03-26,US,United States of America,SC,South Carolina,888.094,
-2020-03-23,2020-03-13,US,United States of America,TN,Tennessee,7.881,26
-2020-03-23,2020-03-14,US,United States of America,TN,Tennessee,14.86,32
-2020-03-23,2020-03-15,US,United States of America,TN,Tennessee,26.543,39
-2020-03-23,2020-03-16,US,United States of America,TN,Tennessee,45.123,52
-2020-03-23,2020-03-17,US,United States of America,TN,Tennessee,73.318,73
-2020-03-23,2020-03-18,US,United States of America,TN,Tennessee,114.301,98
-2020-03-23,2020-03-19,US,United States of America,TN,Tennessee,171.575,154
-2020-03-23,2020-03-20,US,United States of America,TN,Tennessee,248.781,228
-2020-03-23,2020-03-21,US,United States of America,TN,Tennessee,349.483,371
-2020-03-23,2020-03-22,US,United States of America,TN,Tennessee,476.927,505
-2020-03-23,2020-03-23,US,United States of America,TN,Tennessee,633.823,615
-2020-03-23,2020-03-24,US,United States of America,TN,Tennessee,822.157,
-2020-03-23,2020-03-25,US,United States of America,TN,Tennessee,1043.061,
-2020-03-23,2020-03-26,US,United States of America,TN,Tennessee,1296.744,
-2020-03-23,2020-03-13,US,United States of America,TX,Texas,22.009,39
-2020-03-23,2020-03-14,US,United States of America,TX,Texas,32.418,51
-2020-03-23,2020-03-15,US,United States of America,TX,Texas,46.473,56
-2020-03-23,2020-03-16,US,United States of America,TX,Texas,64.965,57
-2020-03-23,2020-03-17,US,United States of America,TX,Texas,88.711,64
-2020-03-23,2020-03-18,US,United States of America,TX,Texas,118.526,83
-2020-03-23,2020-03-19,US,United States of America,TX,Texas,155.184,143
-2020-03-23,2020-03-20,US,United States of America,TX,Texas,199.385,194
-2020-03-23,2020-03-21,US,United States of America,TX,Texas,251.723,304
-2020-03-23,2020-03-22,US,United States of America,TX,Texas,312.661,334
-2020-03-23,2020-03-23,US,United States of America,TX,Texas,382.505,352
-2020-03-23,2020-03-24,US,United States of America,TX,Texas,461.399,
-2020-03-23,2020-03-25,US,United States of America,TX,Texas,549.311,
-2020-03-23,2020-03-26,US,United States of America,TX,Texas,646.043,
-2020-03-23,2020-03-13,US,United States of America,VA,Virginia,23.643,30
-2020-03-23,2020-03-14,US,United States of America,VA,Virginia,30.037,30
-2020-03-23,2020-03-15,US,United States of America,VA,Virginia,38.154,45
-2020-03-23,2020-03-16,US,United States of America,VA,Virginia,48.457,51
-2020-03-23,2020-03-17,US,United States of America,VA,Virginia,61.533,67
-2020-03-23,2020-03-18,US,United States of America,VA,Virginia,78.125,77
-2020-03-23,2020-03-19,US,United States of America,VA,Virginia,99.175,94
-2020-03-23,2020-03-20,US,United States of America,VA,Virginia,125.878,114
-2020-03-23,2020-03-21,US,United States of America,VA,Virginia,159.747,152
-2020-03-23,2020-03-22,US,United States of America,VA,Virginia,202.696,219
-2020-03-23,2020-03-23,US,United States of America,VA,Virginia,257.154,254
-2020-03-23,2020-03-24,US,United States of America,VA,Virginia,326.192,
-2020-03-23,2020-03-25,US,United States of America,VA,Virginia,413.702,
-2020-03-23,2020-03-26,US,United States of America,VA,Virginia,524.608,
-2020-03-23,2020-03-13,US,United States of America,WA,Washington,426.559,457
-2020-03-23,2020-03-14,US,United States of America,WA,Washington,521.789,568
-2020-03-23,2020-03-15,US,United States of America,WA,Washington,630.342,642
-2020-03-23,2020-03-16,US,United States of America,WA,Washington,752.596,769
-2020-03-23,2020-03-17,US,United States of America,WA,Washington,888.726,904
-2020-03-23,2020-03-18,US,United States of America,WA,Washington,1038.701,1012
-2020-03-23,2020-03-19,US,United States of America,WA,Washington,1202.287,1187
-2020-03-23,2020-03-20,US,United States of America,WA,Washington,1379.058,1376
-2020-03-23,2020-03-21,US,United States of America,WA,Washington,1568.405,1524
-2020-03-23,2020-03-22,US,United States of America,WA,Washington,1769.557,1793
-2020-03-23,2020-03-23,US,United States of America,WA,Washington,1981.605,1996
-2020-03-23,2020-03-24,US,United States of America,WA,Washington,2203.525,
-2020-03-23,2020-03-25,US,United States of America,WA,Washington,2434.202,
-2020-03-23,2020-03-26,US,United States of America,WA,Washington,2672.456,
-2020-03-23,2020-03-13,US,United States of America,WI,Wisconsin,6.912,19
-2020-03-23,2020-03-14,US,United States of America,WI,Wisconsin,14.281,19
-2020-03-23,2020-03-15,US,United States of America,WI,Wisconsin,26.782,33
-2020-03-23,2020-03-16,US,United States of America,WI,Wisconsin,46.178,47
-2020-03-23,2020-03-17,US,United States of America,WI,Wisconsin,74.033,72
-2020-03-23,2020-03-18,US,United States of America,WI,Wisconsin,111.439,106
-2020-03-23,2020-03-19,US,United States of America,WI,Wisconsin,158.826,155
-2020-03-23,2020-03-20,US,United States of America,WI,Wisconsin,215.9,206
-2020-03-23,2020-03-21,US,United States of America,WI,Wisconsin,281.692,281
-2020-03-23,2020-03-22,US,United States of America,WI,Wisconsin,354.703,385
-2020-03-23,2020-03-23,US,United States of America,WI,Wisconsin,433.098,416
-2020-03-23,2020-03-24,US,United States of America,WI,Wisconsin,514.901,
-2020-03-23,2020-03-25,US,United States of America,WI,Wisconsin,598.17,
-2020-03-23,2020-03-26,US,United States of America,WI,Wisconsin,681.129,
+2020-03-24,2020-03-14,US,United States of America,AR,Arkansas,2.557,12
+2020-03-24,2020-03-15,US,United States of America,AR,Arkansas,6.231,16
+2020-03-24,2020-03-16,US,United States of America,AR,Arkansas,13.064,22
+2020-03-24,2020-03-17,US,United States of America,AR,Arkansas,24.171,22
+2020-03-24,2020-03-18,US,United States of America,AR,Arkansas,40.309,33
+2020-03-24,2020-03-19,US,United States of America,AR,Arkansas,61.66,46
+2020-03-24,2020-03-20,US,United States of America,AR,Arkansas,87.79,96
+2020-03-24,2020-03-21,US,United States of America,AR,Arkansas,117.755,118
+2020-03-24,2020-03-22,US,United States of America,AR,Arkansas,150.308,165
+2020-03-24,2020-03-23,US,United States of America,AR,Arkansas,184.114,174
+2020-03-24,2020-03-24,US,United States of America,AR,Arkansas,217.93,218
+2020-03-24,2020-03-25,US,United States of America,AR,Arkansas,250.716,
+2020-03-24,2020-03-26,US,United States of America,AR,Arkansas,281.69,
+2020-03-24,2020-03-27,US,United States of America,AR,Arkansas,310.327,
+2020-03-24,2020-03-14,US,United States of America,AZ,Arizona,4.367,12
+2020-03-24,2020-03-15,US,United States of America,AZ,Arizona,7.125,12
+2020-03-24,2020-03-16,US,United States of America,AZ,Arizona,11.496,18
+2020-03-24,2020-03-17,US,United States of America,AZ,Arizona,18.347,20
+2020-03-24,2020-03-18,US,United States of America,AZ,Arizona,28.972,28
+2020-03-24,2020-03-19,US,United States of America,AZ,Arizona,45.278,44
+2020-03-24,2020-03-20,US,United States of America,AZ,Arizona,70.047,65
+2020-03-24,2020-03-21,US,United States of America,AZ,Arizona,107.297,104
+2020-03-24,2020-03-22,US,United States of America,AZ,Arizona,162.772,152
+2020-03-24,2020-03-23,US,United States of America,AZ,Arizona,244.601,265
+2020-03-24,2020-03-24,US,United States of America,AZ,Arizona,364.183,357
+2020-03-24,2020-03-25,US,United States of America,AZ,Arizona,537.346,
+2020-03-24,2020-03-26,US,United States of America,AZ,Arizona,785.87,
+2020-03-24,2020-03-27,US,United States of America,AZ,Arizona,1139.454,
+2020-03-24,2020-03-14,US,United States of America,CA,California,263.218,252
+2020-03-24,2020-03-15,US,United States of America,CA,California,347.562,293
+2020-03-24,2020-03-16,US,United States of America,CA,California,448.866,335
+2020-03-24,2020-03-17,US,United States of America,CA,California,567.982,483
+2020-03-24,2020-03-18,US,United States of America,CA,California,705.335,611
+2020-03-24,2020-03-19,US,United States of America,CA,California,860.893,924
+2020-03-24,2020-03-20,US,United States of America,CA,California,1034.178,1063
+2020-03-24,2020-03-21,US,United States of America,CA,California,1224.292,1279
+2020-03-24,2020-03-22,US,United States of America,CA,California,1429.966,1536
+2020-03-24,2020-03-23,US,United States of America,CA,California,1649.62,1733
+2020-03-24,2020-03-24,US,United States of America,CA,California,1881.437,1733
+2020-03-24,2020-03-25,US,United States of America,CA,California,2123.429,
+2020-03-24,2020-03-26,US,United States of America,CA,California,2373.516,
+2020-03-24,2020-03-27,US,United States of America,CA,California,2629.587,
+2020-03-24,2020-03-14,US,United States of America,CO,Colorado,78.172,101
+2020-03-24,2020-03-15,US,United States of America,CO,Colorado,97.709,131
+2020-03-24,2020-03-16,US,United States of America,CO,Colorado,122.113,131
+2020-03-24,2020-03-17,US,United States of America,CO,Colorado,152.592,160
+2020-03-24,2020-03-18,US,United States of America,CO,Colorado,190.652,183
+2020-03-24,2020-03-19,US,United States of America,CO,Colorado,238.174,216
+2020-03-24,2020-03-20,US,United States of America,CO,Colorado,297.501,277
+2020-03-24,2020-03-21,US,United States of America,CO,Colorado,371.555,363
+2020-03-24,2020-03-22,US,United States of America,CO,Colorado,463.98,475
+2020-03-24,2020-03-23,US,United States of America,CO,Colorado,579.318,591
+2020-03-24,2020-03-24,US,United States of America,CO,Colorado,723.231,720
+2020-03-24,2020-03-25,US,United States of America,CO,Colorado,902.773,
+2020-03-24,2020-03-26,US,United States of America,CO,Colorado,1126.734,
+2020-03-24,2020-03-27,US,United States of America,CO,Colorado,1406.067,
+2020-03-24,2020-03-14,US,United States of America,CT,Connecticut,13.703,11
+2020-03-24,2020-03-15,US,United States of America,CT,Connecticut,20.044,20
+2020-03-24,2020-03-16,US,United States of America,CT,Connecticut,29.308,26
+2020-03-24,2020-03-17,US,United States of America,CT,Connecticut,42.836,41
+2020-03-24,2020-03-18,US,United States of America,CT,Connecticut,62.586,68
+2020-03-24,2020-03-19,US,United States of America,CT,Connecticut,91.405,96
+2020-03-24,2020-03-20,US,United States of America,CT,Connecticut,133.442,194
+2020-03-24,2020-03-21,US,United States of America,CT,Connecticut,194.738,194
+2020-03-24,2020-03-22,US,United States of America,CT,Connecticut,284.079,223
+2020-03-24,2020-03-23,US,United States of America,CT,Connecticut,414.248,415
+2020-03-24,2020-03-24,US,United States of America,CT,Connecticut,603.828,618
+2020-03-24,2020-03-25,US,United States of America,CT,Connecticut,879.829,
+2020-03-24,2020-03-26,US,United States of America,CT,Connecticut,1281.492,
+2020-03-24,2020-03-27,US,United States of America,CT,Connecticut,1865.804,
+2020-03-24,2020-03-14,US,United States of America,FL,Florida,77.322,77
+2020-03-24,2020-03-15,US,United States of America,FL,Florida,109.321,116
+2020-03-24,2020-03-16,US,United States of America,FL,Florida,152.496,141
+2020-03-24,2020-03-17,US,United States of America,FL,Florida,209.987,186
+2020-03-24,2020-03-18,US,United States of America,FL,Florida,285.578,314
+2020-03-24,2020-03-19,US,United States of America,FL,Florida,383.764,390
+2020-03-24,2020-03-20,US,United States of America,FL,Florida,509.817,520
+2020-03-24,2020-03-21,US,United States of America,FL,Florida,669.835,658
+2020-03-24,2020-03-22,US,United States of America,FL,Florida,870.787,830
+2020-03-24,2020-03-23,US,United States of America,FL,Florida,1120.535,1171
+2020-03-24,2020-03-24,US,United States of America,FL,Florida,1427.843,1412
+2020-03-24,2020-03-25,US,United States of America,FL,Florida,1802.367,
+2020-03-24,2020-03-26,US,United States of America,FL,Florida,2254.616,
+2020-03-24,2020-03-27,US,United States of America,FL,Florida,2795.898,
+2020-03-24,2020-03-14,US,United States of America,GA,Georgia,64.598,66
+2020-03-24,2020-03-15,US,United States of America,GA,Georgia,88.923,99
+2020-03-24,2020-03-16,US,United States of America,GA,Georgia,121.083,121
+2020-03-24,2020-03-17,US,United States of America,GA,Georgia,163.147,146
+2020-03-24,2020-03-18,US,United States of America,GA,Georgia,217.603,197
+2020-03-24,2020-03-19,US,United States of America,GA,Georgia,287.402,287
+2020-03-24,2020-03-20,US,United States of America,GA,Georgia,376.007,420
+2020-03-24,2020-03-21,US,United States of America,GA,Georgia,487.445,507
+2020-03-24,2020-03-22,US,United States of America,GA,Georgia,626.347,600
+2020-03-24,2020-03-23,US,United States of America,GA,Georgia,797.983,772
+2020-03-24,2020-03-24,US,United States of America,GA,Georgia,1008.298,1026
+2020-03-24,2020-03-25,US,United States of America,GA,Georgia,1263.928,
+2020-03-24,2020-03-26,US,United States of America,GA,Georgia,1572.215,
+2020-03-24,2020-03-27,US,United States of America,GA,Georgia,1941.207,
+2020-03-24,2020-03-14,US,United States of America,IA,Iowa,13.963,17
+2020-03-24,2020-03-15,US,United States of America,IA,Iowa,17.428,18
+2020-03-24,2020-03-16,US,United States of America,IA,Iowa,21.751,22
+2020-03-24,2020-03-17,US,United States of America,IA,Iowa,27.142,23
+2020-03-24,2020-03-18,US,United States of America,IA,Iowa,33.864,29
+2020-03-24,2020-03-19,US,United States of America,IA,Iowa,42.246,38
+2020-03-24,2020-03-20,US,United States of America,IA,Iowa,52.696,45
+2020-03-24,2020-03-21,US,United States of America,IA,Iowa,65.722,68
+2020-03-24,2020-03-22,US,United States of America,IA,Iowa,81.957,90
+2020-03-24,2020-03-23,US,United States of America,IA,Iowa,102.188,105
+2020-03-24,2020-03-24,US,United States of America,IA,Iowa,127.397,124
+2020-03-24,2020-03-25,US,United States of America,IA,Iowa,158.804,
+2020-03-24,2020-03-26,US,United States of America,IA,Iowa,197.927,
+2020-03-24,2020-03-27,US,United States of America,IA,Iowa,246.656,
+2020-03-24,2020-03-14,US,United States of America,IL,Illinois,28.933,46
+2020-03-24,2020-03-15,US,United States of America,IL,Illinois,57.94,64
+2020-03-24,2020-03-16,US,United States of America,IL,Illinois,105.88,93
+2020-03-24,2020-03-17,US,United States of America,IL,Illinois,178.708,160
+2020-03-24,2020-03-18,US,United States of America,IL,Illinois,281.522,289
+2020-03-24,2020-03-19,US,United States of America,IL,Illinois,417.703,426
+2020-03-24,2020-03-20,US,United States of America,IL,Illinois,588.355,590
+2020-03-24,2020-03-21,US,United States of America,IL,Illinois,792.142,759
+2020-03-24,2020-03-22,US,United States of America,IL,Illinois,1025.518,1058
+2020-03-24,2020-03-23,US,United States of America,IL,Illinois,1283.229,1285
+2020-03-24,2020-03-24,US,United States of America,IL,Illinois,1558.952,1551
+2020-03-24,2020-03-25,US,United States of America,IL,Illinois,1845.954,
+2020-03-24,2020-03-26,US,United States of America,IL,Illinois,2137.651,
+2020-03-24,2020-03-27,US,United States of America,IL,Illinois,2428.035,
+2020-03-24,2020-03-14,US,United States of America,IN,Indiana,9.661,15
+2020-03-24,2020-03-15,US,United States of America,IN,Indiana,14.169,19
+2020-03-24,2020-03-16,US,United States of America,IN,Indiana,20.69,24
+2020-03-24,2020-03-17,US,United States of America,IN,Indiana,30.083,30
+2020-03-24,2020-03-18,US,United States of America,IN,Indiana,43.554,39
+2020-03-24,2020-03-19,US,United States of America,IN,Indiana,62.794,56
+2020-03-24,2020-03-20,US,United States of America,IN,Indiana,90.159,79
+2020-03-24,2020-03-21,US,United States of America,IN,Indiana,128.919,126
+2020-03-24,2020-03-22,US,United States of America,IN,Indiana,183.596,201
+2020-03-24,2020-03-23,US,United States of America,IN,Indiana,260.416,259
+2020-03-24,2020-03-24,US,United States of America,IN,Indiana,367.918,365
+2020-03-24,2020-03-25,US,United States of America,IN,Indiana,517.765,
+2020-03-24,2020-03-26,US,United States of America,IN,Indiana,725.825,
+2020-03-24,2020-03-27,US,United States of America,IN,Indiana,1013.603,
+2020-03-24,2020-03-14,US,United States of America,KY,Kentucky,10.583,14
+2020-03-24,2020-03-15,US,United States of America,KY,Kentucky,13.879,16
+2020-03-24,2020-03-16,US,United States of America,KY,Kentucky,18.112,21
+2020-03-24,2020-03-17,US,United States of America,KY,Kentucky,23.522,22
+2020-03-24,2020-03-18,US,United States of America,KY,Kentucky,30.404,26
+2020-03-24,2020-03-19,US,United States of America,KY,Kentucky,39.116,35
+2020-03-24,2020-03-20,US,United States of America,KY,Kentucky,50.095,47
+2020-03-24,2020-03-21,US,United States of America,KY,Kentucky,63.868,54
+2020-03-24,2020-03-22,US,United States of America,KY,Kentucky,81.069,99
+2020-03-24,2020-03-23,US,United States of America,KY,Kentucky,102.458,104
+2020-03-24,2020-03-24,US,United States of America,KY,Kentucky,128.941,124
+2020-03-24,2020-03-25,US,United States of America,KY,Kentucky,161.593,
+2020-03-24,2020-03-26,US,United States of America,KY,Kentucky,201.686,
+2020-03-24,2020-03-27,US,United States of America,KY,Kentucky,250.714,
+2020-03-24,2020-03-14,US,United States of America,LA,Louisiana,51.541,69
+2020-03-24,2020-03-15,US,United States of America,LA,Louisiana,78.702,91
+2020-03-24,2020-03-16,US,United States of America,LA,Louisiana,117.378,114
+2020-03-24,2020-03-17,US,United States of America,LA,Louisiana,171.209,171
+2020-03-24,2020-03-18,US,United States of America,LA,Louisiana,244.537,240
+2020-03-24,2020-03-19,US,United States of America,LA,Louisiana,342.408,347
+2020-03-24,2020-03-20,US,United States of America,LA,Louisiana,470.553,479
+2020-03-24,2020-03-21,US,United States of America,LA,Louisiana,635.315,585
+2020-03-24,2020-03-22,US,United States of America,LA,Louisiana,843.555,837
+2020-03-24,2020-03-23,US,United States of America,LA,Louisiana,1102.516,1172
+2020-03-24,2020-03-24,US,United States of America,LA,Louisiana,1419.665,1388
+2020-03-24,2020-03-25,US,United States of America,LA,Louisiana,1802.503,
+2020-03-24,2020-03-26,US,United States of America,LA,Louisiana,2258.371,
+2020-03-24,2020-03-27,US,United States of America,LA,Louisiana,2794.248,
+2020-03-24,2020-03-14,US,United States of America,MA,Massachusetts,103.707,138
+2020-03-24,2020-03-15,US,United States of America,MA,Massachusetts,131.168,138
+2020-03-24,2020-03-16,US,United States of America,MA,Massachusetts,165.875,164
+2020-03-24,2020-03-17,US,United States of America,MA,Massachusetts,209.733,218
+2020-03-24,2020-03-18,US,United States of America,MA,Massachusetts,265.15,256
+2020-03-24,2020-03-19,US,United States of America,MA,Massachusetts,335.158,328
+2020-03-24,2020-03-20,US,United States of America,MA,Massachusetts,423.588,413
+2020-03-24,2020-03-21,US,United States of America,MA,Massachusetts,535.271,525
+2020-03-24,2020-03-22,US,United States of America,MA,Massachusetts,676.3,646
+2020-03-24,2020-03-23,US,United States of America,MA,Massachusetts,854.359,777
+2020-03-24,2020-03-24,US,United States of America,MA,Massachusetts,1079.138,1159
+2020-03-24,2020-03-25,US,United States of America,MA,Massachusetts,1362.853,
+2020-03-24,2020-03-26,US,United States of America,MA,Massachusetts,1720.906,
+2020-03-24,2020-03-27,US,United States of America,MA,Massachusetts,2172.706,
+2020-03-24,2020-03-14,US,United States of America,MD,Maryland,19.505,26
+2020-03-24,2020-03-15,US,United States of America,MD,Maryland,29.545,31
+2020-03-24,2020-03-16,US,United States of America,MD,Maryland,43.221,37
+2020-03-24,2020-03-17,US,United States of America,MD,Maryland,61.245,57
+2020-03-24,2020-03-18,US,United States of America,MD,Maryland,84.285,85
+2020-03-24,2020-03-19,US,United States of America,MD,Maryland,112.93,107
+2020-03-24,2020-03-20,US,United States of America,MD,Maryland,147.645,149
+2020-03-24,2020-03-21,US,United States of America,MD,Maryland,188.742,190
+2020-03-24,2020-03-22,US,United States of America,MD,Maryland,236.363,244
+2020-03-24,2020-03-23,US,United States of America,MD,Maryland,290.469,288
+2020-03-24,2020-03-24,US,United States of America,MD,Maryland,350.846,349
+2020-03-24,2020-03-25,US,United States of America,MD,Maryland,417.118,
+2020-03-24,2020-03-26,US,United States of America,MD,Maryland,488.768,
+2020-03-24,2020-03-27,US,United States of America,MD,Maryland,565.166,
+2020-03-24,2020-03-14,US,United States of America,MI,Michigan,3.657,25
+2020-03-24,2020-03-15,US,United States of America,MI,Michigan,12.697,33
+2020-03-24,2020-03-16,US,United States of America,MI,Michigan,35.65,53
+2020-03-24,2020-03-17,US,United States of America,MI,Michigan,83.933,65
+2020-03-24,2020-03-18,US,United States of America,MI,Michigan,170.76,80
+2020-03-24,2020-03-19,US,United States of America,MI,Michigan,307.772,336
+2020-03-24,2020-03-20,US,United States of America,MI,Michigan,501.69,549
+2020-03-24,2020-03-21,US,United States of America,MI,Michigan,752.401,787
+2020-03-24,2020-03-22,US,United States of America,MI,Michigan,1053.036,1035
+2020-03-24,2020-03-23,US,United States of America,MI,Michigan,1391.671,1328
+2020-03-24,2020-03-24,US,United States of America,MI,Michigan,1753.785,1791
+2020-03-24,2020-03-25,US,United States of America,MI,Michigan,2124.642,
+2020-03-24,2020-03-26,US,United States of America,MI,Michigan,2491.07,
+2020-03-24,2020-03-27,US,United States of America,MI,Michigan,2842.502,
+2020-03-24,2020-03-14,US,United States of America,MN,Minnesota,26.368,21
+2020-03-24,2020-03-15,US,United States of America,MN,Minnesota,34.405,35
+2020-03-24,2020-03-16,US,United States of America,MN,Minnesota,44.521,54
+2020-03-24,2020-03-17,US,United States of America,MN,Minnesota,57.149,60
+2020-03-24,2020-03-18,US,United States of America,MN,Minnesota,72.789,77
+2020-03-24,2020-03-19,US,United States of America,MN,Minnesota,92.01,89
+2020-03-24,2020-03-20,US,United States of America,MN,Minnesota,115.459,115
+2020-03-24,2020-03-21,US,United States of America,MN,Minnesota,143.861,138
+2020-03-24,2020-03-22,US,United States of America,MN,Minnesota,178.021,169
+2020-03-24,2020-03-23,US,United States of America,MN,Minnesota,218.832,235
+2020-03-24,2020-03-24,US,United States of America,MN,Minnesota,267.27,262
+2020-03-24,2020-03-25,US,United States of America,MN,Minnesota,324.396,
+2020-03-24,2020-03-26,US,United States of America,MN,Minnesota,391.358,
+2020-03-24,2020-03-27,US,United States of America,MN,Minnesota,469.382,
+2020-03-24,2020-03-14,US,United States of America,NC,North Carolina,15.666,23
+2020-03-24,2020-03-15,US,United States of America,NC,North Carolina,23.706,32
+2020-03-24,2020-03-16,US,United States of America,NC,North Carolina,35.041,33
+2020-03-24,2020-03-17,US,United States of America,NC,North Carolina,50.659,40
+2020-03-24,2020-03-18,US,United States of America,NC,North Carolina,71.722,63
+2020-03-24,2020-03-19,US,United States of America,NC,North Carolina,99.56,97
+2020-03-24,2020-03-20,US,United States of America,NC,North Carolina,135.655,137
+2020-03-24,2020-03-21,US,United States of America,NC,North Carolina,181.621,184
+2020-03-24,2020-03-22,US,United States of America,NC,North Carolina,239.169,255
+2020-03-24,2020-03-23,US,United States of America,NC,North Carolina,310.071,297
+2020-03-24,2020-03-24,US,United States of America,NC,North Carolina,396.114,398
+2020-03-24,2020-03-25,US,United States of America,NC,North Carolina,499.052,
+2020-03-24,2020-03-26,US,United States of America,NC,North Carolina,620.553,
+2020-03-24,2020-03-27,US,United States of America,NC,North Carolina,762.155,
+2020-03-24,2020-03-14,US,United States of America,NE,Nebraska,13.673,14
+2020-03-24,2020-03-15,US,United States of America,NE,Nebraska,16.051,17
+2020-03-24,2020-03-16,US,United States of America,NE,Nebraska,18.745,18
+2020-03-24,2020-03-17,US,United States of America,NE,Nebraska,21.782,21
+2020-03-24,2020-03-18,US,United States of America,NE,Nebraska,25.189,24
+2020-03-24,2020-03-19,US,United States of America,NE,Nebraska,28.993,27
+2020-03-24,2020-03-20,US,United States of America,NE,Nebraska,33.219,32
+2020-03-24,2020-03-21,US,United States of America,NE,Nebraska,37.896,38
+2020-03-24,2020-03-22,US,United States of America,NE,Nebraska,43.047,48
+2020-03-24,2020-03-23,US,United States of America,NE,Nebraska,48.697,50
+2020-03-24,2020-03-24,US,United States of America,NE,Nebraska,54.871,52
+2020-03-24,2020-03-25,US,United States of America,NE,Nebraska,61.589,
+2020-03-24,2020-03-26,US,United States of America,NE,Nebraska,68.873,
+2020-03-24,2020-03-27,US,United States of America,NE,Nebraska,76.74,
+2020-03-24,2020-03-14,US,United States of America,NJ,New Jersey,62.465,50
+2020-03-24,2020-03-15,US,United States of America,NJ,New Jersey,105.227,98
+2020-03-24,2020-03-16,US,United States of America,NJ,New Jersey,172.202,178
+2020-03-24,2020-03-17,US,United States of America,NJ,New Jersey,274.197,267
+2020-03-24,2020-03-18,US,United States of America,NJ,New Jersey,425.467,427
+2020-03-24,2020-03-19,US,United States of America,NJ,New Jersey,644.273,742
+2020-03-24,2020-03-20,US,United States of America,NJ,New Jersey,953.372,890
+2020-03-24,2020-03-21,US,United States of America,NJ,New Jersey,1380.385,1327
+2020-03-24,2020-03-22,US,United States of America,NJ,New Jersey,1957.983,1914
+2020-03-24,2020-03-23,US,United States of America,NJ,New Jersey,2723.855,2844
+2020-03-24,2020-03-24,US,United States of America,NJ,New Jersey,3720.44,3675
+2020-03-24,2020-03-25,US,United States of America,NJ,New Jersey,4994.386,
+2020-03-24,2020-03-26,US,United States of America,NJ,New Jersey,6595.77,
+2020-03-24,2020-03-27,US,United States of America,NJ,New Jersey,8577.071,
+2020-03-24,2020-03-14,US,United States of America,NV,Nevada,18.762,20
+2020-03-24,2020-03-15,US,United States of America,NV,Nevada,26.168,21
+2020-03-24,2020-03-16,US,United States of America,NV,Nevada,35.952,45
+2020-03-24,2020-03-17,US,United States of America,NV,Nevada,48.689,55
+2020-03-24,2020-03-18,US,United States of America,NV,Nevada,65.038,55
+2020-03-24,2020-03-19,US,United States of America,NV,Nevada,85.746,95
+2020-03-24,2020-03-20,US,United States of America,NV,Nevada,111.64,109
+2020-03-24,2020-03-21,US,United States of America,NV,Nevada,143.627,124
+2020-03-24,2020-03-22,US,United States of America,NV,Nevada,182.681,190
+2020-03-24,2020-03-23,US,United States of America,NV,Nevada,229.838,245
+2020-03-24,2020-03-24,US,United States of America,NV,Nevada,286.176,278
+2020-03-24,2020-03-25,US,United States of America,NV,Nevada,352.802,
+2020-03-24,2020-03-26,US,United States of America,NV,Nevada,430.836,
+2020-03-24,2020-03-27,US,United States of America,NV,Nevada,521.39,
+2020-03-24,2020-03-14,US,United States of America,NY,New York,97.3,524
+2020-03-24,2020-03-15,US,United States of America,NY,New York,269.532,729
+2020-03-24,2020-03-16,US,United States of America,NY,New York,645.009,950
+2020-03-24,2020-03-17,US,United States of America,NY,New York,1361.766,1700
+2020-03-24,2020-03-18,US,United States of America,NY,New York,2582.47,2382
+2020-03-24,2020-03-19,US,United States of America,NY,New York,4467.42,4152
+2020-03-24,2020-03-20,US,United States of America,NY,New York,7143.288,7102
+2020-03-24,2020-03-21,US,United States of America,NY,New York,10677.454,10356
+2020-03-24,2020-03-22,US,United States of America,NY,New York,15064.991,15168
+2020-03-24,2020-03-23,US,United States of America,NY,New York,20230.264,20875
+2020-03-24,2020-03-24,US,United States of America,NY,New York,26040.458,25665
+2020-03-24,2020-03-25,US,United States of America,NY,New York,32325.872,
+2020-03-24,2020-03-26,US,United States of America,NY,New York,38901.605,
+2020-03-24,2020-03-27,US,United States of America,NY,New York,45586.556,
+2020-03-24,2020-03-14,US,United States of America,OH,Ohio,16.793,13
+2020-03-24,2020-03-15,US,United States of America,OH,Ohio,26.714,36
+2020-03-24,2020-03-16,US,United States of America,OH,Ohio,41.269,50
+2020-03-24,2020-03-17,US,United States of America,OH,Ohio,62.03,67
+2020-03-24,2020-03-18,US,United States of America,OH,Ohio,90.871,88
+2020-03-24,2020-03-19,US,United States of America,OH,Ohio,129.955,119
+2020-03-24,2020-03-20,US,United States of America,OH,Ohio,181.704,169
+2020-03-24,2020-03-21,US,United States of America,OH,Ohio,248.749,247
+2020-03-24,2020-03-22,US,United States of America,OH,Ohio,333.854,351
+2020-03-24,2020-03-23,US,United States of America,OH,Ohio,439.842,442
+2020-03-24,2020-03-24,US,United States of America,OH,Ohio,569.491,564
+2020-03-24,2020-03-25,US,United States of America,OH,Ohio,725.444,
+2020-03-24,2020-03-26,US,United States of America,OH,Ohio,910.111,
+2020-03-24,2020-03-27,US,United States of America,OH,Ohio,1125.577,
+2020-03-24,2020-03-14,US,United States of America,OR,Oregon,31.243,30
+2020-03-24,2020-03-15,US,United States of America,OR,Oregon,38.619,36
+2020-03-24,2020-03-16,US,United States of America,OR,Oregon,47.536,39
+2020-03-24,2020-03-17,US,United States of America,OR,Oregon,58.271,47
+2020-03-24,2020-03-18,US,United States of America,OR,Oregon,71.142,75
+2020-03-24,2020-03-19,US,United States of America,OR,Oregon,86.513,88
+2020-03-24,2020-03-20,US,United States of America,OR,Oregon,104.798,114
+2020-03-24,2020-03-21,US,United States of America,OR,Oregon,126.466,114
+2020-03-24,2020-03-22,US,United States of America,OR,Oregon,152.045,161
+2020-03-24,2020-03-23,US,United States of America,OR,Oregon,182.132,191
+2020-03-24,2020-03-24,US,United States of America,OR,Oregon,217.392,209
+2020-03-24,2020-03-25,US,United States of America,OR,Oregon,258.569,
+2020-03-24,2020-03-26,US,United States of America,OR,Oregon,306.489,
+2020-03-24,2020-03-27,US,United States of America,OR,Oregon,362.067,
+2020-03-24,2020-03-14,US,United States of America,PA,Pennsylvania,39.281,47
+2020-03-24,2020-03-15,US,United States of America,PA,Pennsylvania,54.764,63
+2020-03-24,2020-03-16,US,United States of America,PA,Pennsylvania,75.917,76
+2020-03-24,2020-03-17,US,United States of America,PA,Pennsylvania,104.655,96
+2020-03-24,2020-03-18,US,United States of America,PA,Pennsylvania,143.481,133
+2020-03-24,2020-03-19,US,United States of America,PA,Pennsylvania,195.655,185
+2020-03-24,2020-03-20,US,United States of America,PA,Pennsylvania,265.389,268
+2020-03-24,2020-03-21,US,United States of America,PA,Pennsylvania,358.106,371
+2020-03-24,2020-03-22,US,United States of America,PA,Pennsylvania,480.748,479
+2020-03-24,2020-03-23,US,United States of America,PA,Pennsylvania,642.15,644
+2020-03-24,2020-03-24,US,United States of America,PA,Pennsylvania,853.508,851
+2020-03-24,2020-03-25,US,United States of America,PA,Pennsylvania,1128.927,
+2020-03-24,2020-03-26,US,United States of America,PA,Pennsylvania,1486.102,
+2020-03-24,2020-03-27,US,United States of America,PA,Pennsylvania,1947.112,
+2020-03-24,2020-03-14,US,United States of America,RI,Rhode Island,13.417,20
+2020-03-24,2020-03-15,US,United States of America,RI,Rhode Island,17.198,20
+2020-03-24,2020-03-16,US,United States of America,RI,Rhode Island,21.864,21
+2020-03-24,2020-03-17,US,United States of America,RI,Rhode Island,27.577,21
+2020-03-24,2020-03-18,US,United States of America,RI,Rhode Island,34.517,33
+2020-03-24,2020-03-19,US,United States of America,RI,Rhode Island,42.885,33
+2020-03-24,2020-03-20,US,United States of America,RI,Rhode Island,52.9,54
+2020-03-24,2020-03-21,US,United States of America,RI,Rhode Island,64.803,66
+2020-03-24,2020-03-22,US,United States of America,RI,Rhode Island,78.854,83
+2020-03-24,2020-03-23,US,United States of America,RI,Rhode Island,95.332,106
+2020-03-24,2020-03-24,US,United States of America,RI,Rhode Island,114.533,106
+2020-03-24,2020-03-25,US,United States of America,RI,Rhode Island,136.77,
+2020-03-24,2020-03-26,US,United States of America,RI,Rhode Island,162.37,
+2020-03-24,2020-03-27,US,United States of America,RI,Rhode Island,191.672,
+2020-03-24,2020-03-14,US,United States of America,SC,South Carolina,5.199,13
+2020-03-24,2020-03-15,US,United States of America,SC,South Carolina,10.134,19
+2020-03-24,2020-03-16,US,United States of America,SC,South Carolina,18.319,28
+2020-03-24,2020-03-17,US,United States of America,SC,South Carolina,30.969,33
+2020-03-24,2020-03-18,US,United States of America,SC,South Carolina,49.339,60
+2020-03-24,2020-03-19,US,United States of America,SC,South Carolina,74.574,60
+2020-03-24,2020-03-20,US,United States of America,SC,South Carolina,107.572,81
+2020-03-24,2020-03-21,US,United States of America,SC,South Carolina,148.876,152
+2020-03-24,2020-03-22,US,United States of America,SC,South Carolina,198.607,195
+2020-03-24,2020-03-23,US,United States of America,SC,South Carolina,256.458,299
+2020-03-24,2020-03-24,US,United States of America,SC,South Carolina,321.727,298
+2020-03-24,2020-03-25,US,United States of America,SC,South Carolina,393.393,
+2020-03-24,2020-03-26,US,United States of America,SC,South Carolina,470.21,
+2020-03-24,2020-03-27,US,United States of America,SC,South Carolina,550.808,
+2020-03-24,2020-03-14,US,United States of America,TN,Tennessee,3.117,32
+2020-03-24,2020-03-15,US,United States of America,TN,Tennessee,10.185,39
+2020-03-24,2020-03-16,US,United States of America,TN,Tennessee,26.47,52
+2020-03-24,2020-03-17,US,United States of America,TN,Tennessee,57.196,73
+2020-03-24,2020-03-18,US,United States of America,TN,Tennessee,106.481,98
+2020-03-24,2020-03-19,US,United States of America,TN,Tennessee,175.79,154
+2020-03-24,2020-03-20,US,United States of America,TN,Tennessee,263.404,228
+2020-03-24,2020-03-21,US,United States of America,TN,Tennessee,364.999,371
+2020-03-24,2020-03-22,US,United States of America,TN,Tennessee,474.866,505
+2020-03-24,2020-03-23,US,United States of America,TN,Tennessee,587.157,615
+2020-03-24,2020-03-24,US,United States of America,TN,Tennessee,696.811,667
+2020-03-24,2020-03-25,US,United States of America,TN,Tennessee,800.015,
+2020-03-24,2020-03-26,US,United States of America,TN,Tennessee,894.301,
+2020-03-24,2020-03-27,US,United States of America,TN,Tennessee,978.394,
+2020-03-24,2020-03-14,US,United States of America,TX,Texas,27.818,51
+2020-03-24,2020-03-15,US,United States of America,TX,Texas,42.922,56
+2020-03-24,2020-03-16,US,United States of America,TX,Texas,63.179,57
+2020-03-24,2020-03-17,US,United States of America,TX,Texas,89.168,64
+2020-03-24,2020-03-18,US,United States of America,TX,Texas,121.223,83
+2020-03-24,2020-03-19,US,United States of America,TX,Texas,159.391,143
+2020-03-24,2020-03-20,US,United States of America,TX,Texas,203.432,194
+2020-03-24,2020-03-21,US,United States of America,TX,Texas,252.848,304
+2020-03-24,2020-03-22,US,United States of America,TX,Texas,306.926,334
+2020-03-24,2020-03-23,US,United States of America,TX,Texas,364.804,352
+2020-03-24,2020-03-24,US,United States of America,TX,Texas,425.53,410
+2020-03-24,2020-03-25,US,United States of America,TX,Texas,488.126,
+2020-03-24,2020-03-26,US,United States of America,TX,Texas,551.639,
+2020-03-24,2020-03-27,US,United States of America,TX,Texas,615.183,
+2020-03-24,2020-03-14,US,United States of America,VA,Virginia,30.402,30
+2020-03-24,2020-03-15,US,United States of America,VA,Virginia,39.115,45
+2020-03-24,2020-03-16,US,United States of America,VA,Virginia,50.056,51
+2020-03-24,2020-03-17,US,United States of America,VA,Virginia,63.723,67
+2020-03-24,2020-03-18,US,United States of America,VA,Virginia,80.704,77
+2020-03-24,2020-03-19,US,United States of America,VA,Virginia,101.698,94
+2020-03-24,2020-03-20,US,United States of America,VA,Virginia,127.524,114
+2020-03-24,2020-03-21,US,United States of America,VA,Virginia,159.139,152
+2020-03-24,2020-03-22,US,United States of America,VA,Virginia,197.658,219
+2020-03-24,2020-03-23,US,United States of America,VA,Virginia,244.371,254
+2020-03-24,2020-03-24,US,United States of America,VA,Virginia,300.761,290
+2020-03-24,2020-03-25,US,United States of America,VA,Virginia,368.531,
+2020-03-24,2020-03-26,US,United States of America,VA,Virginia,449.623,
+2020-03-24,2020-03-27,US,United States of America,VA,Virginia,546.239,
+2020-03-24,2020-03-14,US,United States of America,WA,Washington,520.92,568
+2020-03-24,2020-03-15,US,United States of America,WA,Washington,629.082,642
+2020-03-24,2020-03-16,US,United States of America,WA,Washington,751.059,769
+2020-03-24,2020-03-17,US,United States of America,WA,Washington,887.101,904
+2020-03-24,2020-03-18,US,United States of America,WA,Washington,1037.257,1012
+2020-03-24,2020-03-19,US,United States of America,WA,Washington,1201.381,1187
+2020-03-24,2020-03-20,US,United States of America,WA,Washington,1379.133,1376
+2020-03-24,2020-03-21,US,United States of America,WA,Washington,1569.99,1524
+2020-03-24,2020-03-22,US,United States of America,WA,Washington,1773.265,1793
+2020-03-24,2020-03-23,US,United States of America,WA,Washington,1988.123,1996
+2020-03-24,2020-03-24,US,United States of America,WA,Washington,2213.605,2221
+2020-03-24,2020-03-25,US,United States of America,WA,Washington,2448.654,
+2020-03-24,2020-03-26,US,United States of America,WA,Washington,2692.133,
+2020-03-24,2020-03-27,US,United States of America,WA,Washington,2942.854,
+2020-03-24,2020-03-14,US,United States of America,WI,Wisconsin,9.338,19
+2020-03-24,2020-03-15,US,United States of America,WI,Wisconsin,21.205,33
+2020-03-24,2020-03-16,US,United States of America,WI,Wisconsin,41.531,47
+2020-03-24,2020-03-17,US,United States of America,WI,Wisconsin,72.056,72
+2020-03-24,2020-03-18,US,United States of America,WI,Wisconsin,113.193,106
+2020-03-24,2020-03-19,US,United States of America,WI,Wisconsin,163.908,155
+2020-03-24,2020-03-20,US,United States of America,WI,Wisconsin,222.018,206
+2020-03-24,2020-03-21,US,United States of America,WI,Wisconsin,284.717,281
+2020-03-24,2020-03-22,US,United States of America,WI,Wisconsin,349.107,385
+2020-03-24,2020-03-23,US,United States of America,WI,Wisconsin,412.608,416
+2020-03-24,2020-03-24,US,United States of America,WI,Wisconsin,473.184,457
+2020-03-24,2020-03-25,US,United States of America,WI,Wisconsin,529.413,
+2020-03-24,2020-03-26,US,United States of America,WI,Wisconsin,580.451,
+2020-03-24,2020-03-27,US,United States of America,WI,Wisconsin,625.935,
 2020-03-24,2020-03-14,US,United States of America,,,1791.855,2174
 2020-03-24,2020-03-15,US,United States of America,,,2587.792,2951
 2020-03-24,2020-03-16,US,United States of America,,,3700.614,3774
