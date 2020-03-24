@@ -806,7 +806,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-21,US,United States of America,KS,Kansas,55,2,38.5266,-96.7265,
 2020-03-21,US,United States of America,KY,Kentucky,54,2,37.6681,-84.6701,
 2020-03-21,US,United States of America,LA,Louisiana,585,16,31.1695,-91.8678,
-2020-03-21,US,United States of America,MA,Massachusetts,525,51,42.2302,-71.5301,
+2020-03-21,US,United States of America,MA,Massachusetts,525,1,42.2302,-71.5301,
 2020-03-21,US,United States of America,MD,Maryland,190,2,39.0639,-76.8021,
 2020-03-21,US,United States of America,ME,Maine,73,,44.6939,-69.3819,
 2020-03-21,US,United States of America,MI,Michigan,787,5,43.3266,-84.5361,
