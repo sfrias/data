@@ -1105,20 +1105,20 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-24,2020-03-25,ES,Spain,VC,Comunidad Valenciana,2376.981,
 2020-03-24,2020-03-26,ES,Spain,VC,Comunidad Valenciana,2597.307,
 2020-03-24,2020-03-27,ES,Spain,VC,Comunidad Valenciana,2800.792,
-2020-03-25,2020-03-15,ES,Spain,,,5654.502,6393
-2020-03-25,2020-03-16,ES,Spain,,,7218.83,7753
-2020-03-25,2020-03-17,ES,Spain,,,9097.554,9191
-2020-03-25,2020-03-18,ES,Spain,,,11325.7,11178
-2020-03-25,2020-03-19,ES,Spain,,,13937.008,13716
-2020-03-25,2020-03-20,ES,Spain,,,16963.078,17147
-2020-03-25,2020-03-21,ES,Spain,,,20432.563,19980
-2020-03-25,2020-03-22,ES,Spain,,,24370.429,24926
-2020-03-25,2020-03-23,ES,Spain,,,28797.322,28572
-2020-03-25,2020-03-24,ES,Spain,,,33729.047,33089
-2020-03-25,2020-03-25,ES,Spain,,,39176.187,39673
-2020-03-25,2020-03-26,ES,Spain,,,45143.866,
-2020-03-25,2020-03-27,ES,Spain,,,51631.646,
-2020-03-25,2020-03-28,ES,Spain,,,58633.574,
+2020-03-25,2020-03-15,ES,Spain,,,5625.076,6393
+2020-03-25,2020-03-16,ES,Spain,,,7123.882,7753
+2020-03-25,2020-03-17,ES,Spain,,,8937.673,9191
+2020-03-25,2020-03-18,ES,Spain,,,11112.557,11178
+2020-03-25,2020-03-19,ES,Spain,,,13697.494,13716
+2020-03-25,2020-03-20,ES,Spain,,,16743.857,17147
+2020-03-25,2020-03-21,ES,Spain,,,20304.901,19980
+2020-03-25,2020-03-22,ES,Spain,,,24435.161,24926
+2020-03-25,2020-03-23,ES,Spain,,,29189.789,28572
+2020-03-25,2020-03-24,ES,Spain,,,34623.853,33089
+2020-03-25,2020-03-25,ES,Spain,,,40791.594,42058
+2020-03-25,2020-03-26,ES,Spain,,,47745.681,
+2020-03-25,2020-03-27,ES,Spain,,,55536.473,
+2020-03-25,2020-03-28,ES,Spain,,,64211.296,
 2020-03-24,2020-03-13,FI,Finland,,,131.527,155
 2020-03-24,2020-03-15,FI,Finland,,,169.653,210
 2020-03-24,2020-03-16,FI,Finland,,,213.1,267
@@ -2099,20 +2099,20 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-24,2020-03-25,US,United States of America,AZ,Arizona,537.346,
 2020-03-24,2020-03-26,US,United States of America,AZ,Arizona,785.87,
 2020-03-24,2020-03-27,US,United States of America,AZ,Arizona,1139.454,
-2020-03-24,2020-03-14,US,United States of America,CA,California,263.218,252
-2020-03-24,2020-03-15,US,United States of America,CA,California,347.562,293
-2020-03-24,2020-03-16,US,United States of America,CA,California,448.866,335
-2020-03-24,2020-03-17,US,United States of America,CA,California,567.982,483
-2020-03-24,2020-03-18,US,United States of America,CA,California,705.335,611
-2020-03-24,2020-03-19,US,United States of America,CA,California,860.893,924
-2020-03-24,2020-03-20,US,United States of America,CA,California,1034.178,1063
-2020-03-24,2020-03-21,US,United States of America,CA,California,1224.292,1279
-2020-03-24,2020-03-22,US,United States of America,CA,California,1429.966,1536
-2020-03-24,2020-03-23,US,United States of America,CA,California,1649.62,1733
-2020-03-24,2020-03-24,US,United States of America,CA,California,1881.437,1733
-2020-03-24,2020-03-25,US,United States of America,CA,California,2123.429,
-2020-03-24,2020-03-26,US,United States of America,CA,California,2373.516,
-2020-03-24,2020-03-27,US,United States of America,CA,California,2629.587,
+2020-03-24,2020-03-14,US,United States of America,CA,California,272.848,252
+2020-03-24,2020-03-15,US,United States of America,CA,California,346.429,293
+2020-03-24,2020-03-16,US,United States of America,CA,California,436.262,335
+2020-03-24,2020-03-17,US,United States of America,CA,California,545.059,483
+2020-03-24,2020-03-18,US,United States of America,CA,California,675.804,611
+2020-03-24,2020-03-19,US,United States of America,CA,California,831.749,924
+2020-03-24,2020-03-20,US,United States of America,CA,California,1016.409,1063
+2020-03-24,2020-03-21,US,United States of America,CA,California,1233.548,1279
+2020-03-24,2020-03-22,US,United States of America,CA,California,1487.158,1536
+2020-03-24,2020-03-23,US,United States of America,CA,California,1781.439,1733
+2020-03-24,2020-03-24,US,United States of America,CA,California,2120.767,2102
+2020-03-24,2020-03-25,US,United States of America,CA,California,2509.665,
+2020-03-24,2020-03-26,US,United States of America,CA,California,2952.763,
+2020-03-24,2020-03-27,US,United States of America,CA,California,3454.756,
 2020-03-24,2020-03-14,US,United States of America,CO,Colorado,78.172,101
 2020-03-24,2020-03-15,US,United States of America,CO,Colorado,97.709,131
 2020-03-24,2020-03-16,US,United States of America,CO,Colorado,122.113,131
