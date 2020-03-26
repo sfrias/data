@@ -1569,12 +1569,20 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-25,CN,China,SN,Shaanxi,250,3,35.1917,108.8701,,Shaanxi
 2020-03-25,CN,China,TJ,Tianjin,145,3,39.3054,117.323,,Tianjin
 2020-03-25,CN,China,ZJ,Zhejiang,1241,1,29.1832,120.0934,,Zhejiang
-2020-03-26,CN,China,GD,Guangdong,1433,8,23.3417,113.4244,,Guangdong
+2020-03-26,CN,China,BJ,Beijing,565,8,40.1824,116.4142,,Beijing
+2020-03-26,CN,China,FJ,Fujian,328,1,26.0789,117.9874,,Fujian
+2020-03-26,CN,China,GD,Guangdong,1444,8,23.3417,113.4244,,Guangdong
 2020-03-26,CN,China,GS,Gansu,136,2,37.8099,101.0583,,Gansu
-2020-03-26,CN,China,HB,Hubei,67801,3163,30.9756,112.2707,,Hubei
+2020-03-26,CN,China,HA,Henan,1275,22,33.882,113.614,,Henan
+2020-03-26,CN,China,HB,Hubei,67801,3169,30.9756,112.2707,,Hubei
+2020-03-26,CN,China,HK,Hong Kong,410,4,22.3,114.2,,Hong Kong
 2020-03-26,CN,China,HL,Heilongjiang,484,13,47.862,127.7615,,Heilongjiang
 2020-03-26,CN,China,JL,Jilin,95,1,43.6661,126.1923,,Jilin
+2020-03-26,CN,China,JS,Jiangsu,640,0,32.9711,119.455,,Jiangsu
+2020-03-26,CN,China,MO,Macau,31,0,22.1667,113.55,,Macau
 2020-03-26,CN,China,SH,Shanghai,451,5,31.202,121.4491,,Shanghai
+2020-03-26,CN,China,SN,Shaanxi,253,3,35.1917,108.8701,,Shaanxi
 2020-03-26,CN,China,SN,Shanxi,135,0,37.5777,112.2922,,Shanxi
 2020-03-26,CN,China,TJ,Tianjin,147,3,39.3054,117.323,,Tianjin
 2020-03-26,CN,China,YN,Yunnan,178,2,24.974,101.487,,Yunnan
+2020-03-26,CN,China,ZJ,Zhejiang,1243,1,29.1832,120.0934,,Zhejiang

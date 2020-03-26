@@ -6,26 +6,26 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-16,CN,China,NX,Ningxia,75,0,37.2692,106.1655,,Ningxia
 2020-03-18,CN,China,GZ,Guizhou,146,2,26.8154,106.8748,,Guizhou
 2020-03-20,CN,China,GX,Guangxi,254,2,23.8298,108.7881,,Guangxi
-2020-03-23,CN,China,HA,Henan,1274,22,33.882,113.614,,Henan
 2020-03-23,CN,China,HE,Hebei,319,6,39.549,116.1306,,Hebei
 2020-03-23,CN,China,JX,Jiangxi,936,1,27.614,115.7221,,Jiangxi
 2020-03-23,CN,China,LN,Liaoning,127,2,41.2956,122.6085,,Liaoning
 2020-03-24,CN,China,CQ,Chongqing,578,6,30.0572,107.874,,Chongqing
 2020-03-24,CN,China,HI,Hainan,168,6,19.1959,109.7453,,Hainan
-2020-03-25,CN,China,BJ,Beijing,561,8,40.1824,116.4142,,Beijing
-2020-03-25,CN,China,FJ,Fujian,322,1,26.0789,117.9874,,Fujian
-2020-03-25,CN,China,HK,Hong Kong,410,4,22.3,114.2,,Hong Kong
-2020-03-25,CN,China,JS,Jiangsu,638,0,32.9711,119.455,,Jiangsu
-2020-03-25,CN,China,MO,Macau,30,0,22.1667,113.55,,Macau
 2020-03-25,CN,China,SC,Sichuan,547,3,30.6171,102.7103,,Sichuan
 2020-03-25,CN,China,SD,Shandong,769,7,36.3427,118.1498,,Shandong
-2020-03-25,CN,China,ZJ,Zhejiang,1241,1,29.1832,120.0934,,Zhejiang
-2020-03-26,CN,China,GD,Guangdong,1433,8,23.3417,113.4244,,Guangdong
+2020-03-26,CN,China,BJ,Beijing,565,8,40.1824,116.4142,,Beijing
+2020-03-26,CN,China,FJ,Fujian,328,1,26.0789,117.9874,,Fujian
+2020-03-26,CN,China,GD,Guangdong,1444,8,23.3417,113.4244,,Guangdong
 2020-03-26,CN,China,GS,Gansu,136,2,37.8099,101.0583,,Gansu
-2020-03-26,CN,China,HB,Hubei,67801,3163,30.9756,112.2707,,Hubei
+2020-03-26,CN,China,HA,Henan,1275,22,33.882,113.614,,Henan
+2020-03-26,CN,China,HB,Hubei,67801,3169,30.9756,112.2707,,Hubei
+2020-03-26,CN,China,HK,Hong Kong,410,4,22.3,114.2,,Hong Kong
 2020-03-26,CN,China,HL,Heilongjiang,484,13,47.862,127.7615,,Heilongjiang
 2020-03-26,CN,China,JL,Jilin,95,1,43.6661,126.1923,,Jilin
+2020-03-26,CN,China,JS,Jiangsu,640,0,32.9711,119.455,,Jiangsu
+2020-03-26,CN,China,MO,Macau,31,0,22.1667,113.55,,Macau
 2020-03-26,CN,China,SH,Shanghai,451,5,31.202,121.4491,,Shanghai
 2020-03-26,CN,China,SN,Shanxi,135,0,37.5777,112.2922,,Shanxi
 2020-03-26,CN,China,TJ,Tianjin,147,3,39.3054,117.323,,Tianjin
 2020-03-26,CN,China,YN,Yunnan,178,2,24.974,101.487,,Yunnan
+2020-03-26,CN,China,ZJ,Zhejiang,1243,1,29.1832,120.0934,,Zhejiang
