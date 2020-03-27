@@ -648,7 +648,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-18,US,United States of America,HI,Hawaii,14,,21.0943,-157.4983,,HI
 2020-03-18,US,United States of America,IA,Iowa,29,,42.0115,-93.2105,,IA
 2020-03-18,US,United States of America,ID,Idaho,9,,44.2405,-114.4788,,ID
-2020-03-18,US,United States of America,IL,Illinois,289,1,40.3495,-88.9861,,IL
+2020-03-18,US,United States of America,IL,Illinois,288,1,40.3495,-88.9861,,IL
 2020-03-18,US,United States of America,IN,Indiana,39,2,39.8494,-86.2583,,IN
 2020-03-18,US,United States of America,KS,Kansas,16,1,38.5266,-96.7265,,KS
 2020-03-18,US,United States of America,KY,Kentucky,26,1,37.6681,-84.6701,,KY
@@ -699,7 +699,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-19,US,United States of America,HI,Hawaii,16,,21.0943,-157.4983,,HI
 2020-03-19,US,United States of America,IA,Iowa,38,,42.0115,-93.2105,,IA
 2020-03-19,US,United States of America,ID,Idaho,11,,44.2405,-114.4788,,ID
-2020-03-19,US,United States of America,IL,Illinois,426,4,40.3495,-88.9861,,IL
+2020-03-19,US,United States of America,IL,Illinois,422,4,40.3495,-88.9861,,IL
 2020-03-19,US,United States of America,IN,Indiana,56,2,39.8494,-86.2583,,IN
 2020-03-19,US,United States of America,KS,Kansas,34,1,38.5266,-96.7265,,KS
 2020-03-19,US,United States of America,KY,Kentucky,35,1,37.6681,-84.6701,,KY
@@ -750,7 +750,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-20,US,United States of America,HI,Hawaii,26,,21.0943,-157.4983,,HI
 2020-03-20,US,United States of America,IA,Iowa,45,,42.0115,-93.2105,,IA
 2020-03-20,US,United States of America,ID,Idaho,23,,44.2405,-114.4788,,ID
-2020-03-20,US,United States of America,IL,Illinois,590,5,40.3495,-88.9861,,IL
+2020-03-20,US,United States of America,IL,Illinois,585,5,40.3495,-88.9861,,IL
 2020-03-20,US,United States of America,IN,Indiana,79,2,39.8494,-86.2583,,IN
 2020-03-20,US,United States of America,KS,Kansas,44,1,38.5266,-96.7265,,KS
 2020-03-20,US,United States of America,KY,Kentucky,47,1,37.6681,-84.6701,,KY
@@ -801,7 +801,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-21,US,United States of America,HI,Hawaii,37,,21.0943,-157.4983,,HI
 2020-03-21,US,United States of America,IA,Iowa,68,,42.0115,-93.2105,,IA
 2020-03-21,US,United States of America,ID,Idaho,31,,44.2405,-114.4788,,ID
-2020-03-21,US,United States of America,IL,Illinois,759,6,40.3495,-88.9861,,IL
+2020-03-21,US,United States of America,IL,Illinois,753,6,40.3495,-88.9861,,IL
 2020-03-21,US,United States of America,IN,Indiana,126,4,39.8494,-86.2583,,IN
 2020-03-21,US,United States of America,KS,Kansas,55,2,38.5266,-96.7265,,KS
 2020-03-21,US,United States of America,KY,Kentucky,54,2,37.6681,-84.6701,,KY
@@ -852,7 +852,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-22,US,United States of America,HI,Hawaii,48,,21.0943,-157.4983,,HI
 2020-03-22,US,United States of America,IA,Iowa,90,,42.0115,-93.2105,,IA
 2020-03-22,US,United States of America,ID,Idaho,42,0,44.2405,-114.4788,,ID
-2020-03-22,US,United States of America,IL,Illinois,1058,9,40.3495,-88.9861,,IL
+2020-03-22,US,United States of America,IL,Illinois,1049,9,40.3495,-88.9861,,IL
 2020-03-22,US,United States of America,IN,Indiana,201,6,39.8494,-86.2583,,IN
 2020-03-22,US,United States of America,KS,Kansas,64,2,38.5266,-96.7265,,KS
 2020-03-22,US,United States of America,KY,Kentucky,99,3,37.6681,-84.6701,,KY
@@ -903,7 +903,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-23,US,United States of America,HI,Hawaii,56,,21.0943,-157.4983,,HI
 2020-03-23,US,United States of America,IA,Iowa,105,,42.0115,-93.2105,,IA
 2020-03-23,US,United States of America,ID,Idaho,47,0,44.2405,-114.4788,,ID
-2020-03-23,US,United States of America,IL,Illinois,1285,12,40.3495,-88.9861,,IL
+2020-03-23,US,United States of America,IL,Illinois,1273,12,40.3495,-88.9861,,IL
 2020-03-23,US,United States of America,IN,Indiana,259,7,39.8494,-86.2583,,IN
 2020-03-23,US,United States of America,KS,Kansas,82,2,38.5266,-96.7265,,KS
 2020-03-23,US,United States of America,KY,Kentucky,104,3,37.6681,-84.6701,,KY
@@ -954,7 +954,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-24,US,United States of America,HI,Hawaii,77,1,21.0943,-157.4983,,HI
 2020-03-24,US,United States of America,IA,Iowa,124,,42.0115,-93.2105,,IA
 2020-03-24,US,United States of America,ID,Idaho,50,0,44.2405,-114.4788,,ID
-2020-03-24,US,United States of America,IL,Illinois,1551,16,40.3495,-88.9861,,IL
+2020-03-24,US,United States of America,IL,Illinois,1535,16,40.3495,-88.9861,,IL
 2020-03-24,US,United States of America,IN,Indiana,365,12,39.8494,-86.2583,,IN
 2020-03-24,US,United States of America,KS,Kansas,98,2,38.5266,-96.7265,,KS
 2020-03-24,US,United States of America,KY,Kentucky,124,4,37.6681,-84.6701,,KY
@@ -995,7 +995,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude,Lon
 2020-03-25,US,United States of America,AL,Alabama,283,0,32.3182,-86.9023,,AL
 2020-03-25,US,United States of America,AR,Arkansas,280,2,34.9697,-92.3731,,AR
 2020-03-25,US,United States of America,AZ,Arizona,450,6,33.7298,-111.4312,,AZ
-2020-03-25,US,United States of America,CA,California,2102,40,36.1162,-119.6816,,CA
+2020-03-25,US,United States of America,CA,California,2355,53,36.1162,-119.6816,,CA
 2020-03-25,US,United States of America,CO,Colorado,912,11,39.0598,-105.3111,,CO
 2020-03-25,US,United States of America,CT,Connecticut,875,19,41.5978,-72.7554,,CT
 2020-03-25,US,United States of America,DC,District of Columbia,183,2,38.8974,-77.0268,,DC

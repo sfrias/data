@@ -1483,20 +1483,20 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-25,2020-03-26,FR,France,BFC,Bourgogne-Franche-Comté,1853.2,
 2020-03-25,2020-03-27,FR,France,BFC,Bourgogne-Franche-Comté,2083.107,
 2020-03-25,2020-03-28,FR,France,BFC,Bourgogne-Franche-Comté,2332.789,
-2020-03-25,2020-03-15,FR,France,BRE,Brittany,175.385,195
-2020-03-25,2020-03-16,FR,France,BRE,Brittany,200.821,213
-2020-03-25,2020-03-17,FR,France,BRE,Brittany,229.234,236
-2020-03-25,2020-03-18,FR,France,BRE,Brittany,260.878,252
-2020-03-25,2020-03-19,FR,France,BRE,Brittany,296.013,268
-2020-03-25,2020-03-20,FR,France,BRE,Brittany,334.911,306
-2020-03-25,2020-03-21,FR,France,BRE,Brittany,377.853,359
-2020-03-25,2020-03-22,FR,France,BRE,Brittany,425.127,446
-2020-03-25,2020-03-23,FR,France,BRE,Brittany,477.029,490
-2020-03-25,2020-03-24,FR,France,BRE,Brittany,533.859,526
-2020-03-25,2020-03-25,FR,France,BRE,Brittany,595.924,603
-2020-03-25,2020-03-26,FR,France,BRE,Brittany,663.535,
-2020-03-25,2020-03-27,FR,France,BRE,Brittany,737.004,
-2020-03-25,2020-03-28,FR,France,BRE,Brittany,816.644,
+2020-03-26,2020-03-16,FR,France,BRE,Brittany,197.498,213
+2020-03-26,2020-03-17,FR,France,BRE,Brittany,225.603,236
+2020-03-26,2020-03-18,FR,France,BRE,Brittany,257.217,252
+2020-03-26,2020-03-19,FR,France,BRE,Brittany,292.709,268
+2020-03-26,2020-03-20,FR,France,BRE,Brittany,332.482,306
+2020-03-26,2020-03-21,FR,France,BRE,Brittany,376.968,359
+2020-03-26,2020-03-22,FR,France,BRE,Brittany,426.637,446
+2020-03-26,2020-03-23,FR,France,BRE,Brittany,481.993,490
+2020-03-26,2020-03-24,FR,France,BRE,Brittany,543.579,526
+2020-03-26,2020-03-25,FR,France,BRE,Brittany,611.976,603
+2020-03-26,2020-03-26,FR,France,BRE,Brittany,687.809,707
+2020-03-26,2020-03-27,FR,France,BRE,Brittany,771.744,
+2020-03-26,2020-03-28,FR,France,BRE,Brittany,864.491,
+2020-03-26,2020-03-29,FR,France,BRE,Brittany,966.808,
 2020-03-26,2020-03-16,FR,France,COR,Corsica,122.048,126
 2020-03-26,2020-03-17,FR,France,COR,Corsica,135.675,145
 2020-03-26,2020-03-18,FR,France,COR,Corsica,149.07,152
@@ -1651,20 +1651,20 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-25,2020-03-26,FR,France,PAC,Provence-Alpes-Côte d'Azur,2227.365,
 2020-03-25,2020-03-27,FR,France,PAC,Provence-Alpes-Côte d'Azur,2549.964,
 2020-03-25,2020-03-28,FR,France,PAC,Provence-Alpes-Côte d'Azur,2902.426,
-2020-03-25,2020-03-15,FR,France,PDL,Pays de la Loire,83.92,99
-2020-03-25,2020-03-16,FR,France,PDL,Pays de la Loire,100.221,109
-2020-03-25,2020-03-17,FR,France,PDL,Pays de la Loire,118.945,126
-2020-03-25,2020-03-18,FR,France,PDL,Pays de la Loire,140.323,128
-2020-03-25,2020-03-19,FR,France,PDL,Pays de la Loire,164.587,160
-2020-03-25,2020-03-20,FR,France,PDL,Pays de la Loire,191.971,161
-2020-03-25,2020-03-21,FR,France,PDL,Pays de la Loire,222.707,234
-2020-03-25,2020-03-22,FR,France,PDL,Pays de la Loire,257.022,270
-2020-03-25,2020-03-23,FR,France,PDL,Pays de la Loire,295.139,293
-2020-03-25,2020-03-24,FR,France,PDL,Pays de la Loire,337.271,343
-2020-03-25,2020-03-25,FR,France,PDL,Pays de la Loire,383.619,379
-2020-03-25,2020-03-26,FR,France,PDL,Pays de la Loire,434.371,
-2020-03-25,2020-03-27,FR,France,PDL,Pays de la Loire,489.701,
-2020-03-25,2020-03-28,FR,France,PDL,Pays de la Loire,549.765,
+2020-03-26,2020-03-16,FR,France,PDL,Pays de la Loire,98.964,109
+2020-03-26,2020-03-17,FR,France,PDL,Pays de la Loire,117.21,126
+2020-03-26,2020-03-18,FR,France,PDL,Pays de la Loire,138.232,128
+2020-03-26,2020-03-19,FR,France,PDL,Pays de la Loire,162.351,160
+2020-03-26,2020-03-20,FR,France,PDL,Pays de la Loire,189.91,161
+2020-03-26,2020-03-21,FR,France,PDL,Pays de la Loire,221.274,234
+2020-03-26,2020-03-22,FR,France,PDL,Pays de la Loire,256.832,270
+2020-03-26,2020-03-23,FR,France,PDL,Pays de la Loire,296.99,293
+2020-03-26,2020-03-24,FR,France,PDL,Pays de la Loire,342.178,343
+2020-03-26,2020-03-25,FR,France,PDL,Pays de la Loire,392.843,379
+2020-03-26,2020-03-26,FR,France,PDL,Pays de la Loire,449.449,459
+2020-03-26,2020-03-27,FR,France,PDL,Pays de la Loire,512.477,
+2020-03-26,2020-03-28,FR,France,PDL,Pays de la Loire,582.422,
+2020-03-26,2020-03-29,FR,France,PDL,Pays de la Loire,659.792,
 2020-03-27,2020-03-17,FR,France,,,6392.287,6633
 2020-03-27,2020-03-18,FR,France,,,7636.404,7730
 2020-03-27,2020-03-19,FR,France,,,9062.437,9134
@@ -2799,20 +2799,20 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-26,2020-03-27,US,United States of America,AZ,Arizona,714.908,
 2020-03-26,2020-03-28,US,United States of America,AZ,Arizona,858.061,
 2020-03-26,2020-03-29,US,United States of America,AZ,Arizona,1005.499,
-2020-03-26,2020-03-16,US,United States of America,CA,California,442.255,335
-2020-03-26,2020-03-17,US,United States of America,CA,California,548.597,483
-2020-03-26,2020-03-18,US,United States of America,CA,California,675.647,611
-2020-03-26,2020-03-19,US,United States of America,CA,California,826.368,924
-2020-03-26,2020-03-20,US,United States of America,CA,California,1003.96,1063
-2020-03-26,2020-03-21,US,United States of America,CA,California,1211.839,1279
-2020-03-26,2020-03-22,US,United States of America,CA,California,1453.626,1536
-2020-03-26,2020-03-23,US,United States of America,CA,California,1733.126,1733
-2020-03-26,2020-03-24,US,United States of America,CA,California,2054.305,2102
-2020-03-26,2020-03-25,US,United States of America,CA,California,2421.262,2102
-2020-03-26,2020-03-26,US,United States of America,CA,California,2838.196,3006
-2020-03-26,2020-03-27,US,United States of America,CA,California,3309.376,
-2020-03-26,2020-03-28,US,United States of America,CA,California,3839.098,
-2020-03-26,2020-03-29,US,United States of America,CA,California,4431.651,
+2020-03-26,2020-03-16,US,United States of America,CA,California,438.348,335
+2020-03-26,2020-03-17,US,United States of America,CA,California,545.288,483
+2020-03-26,2020-03-18,US,United States of America,CA,California,673.709,611
+2020-03-26,2020-03-19,US,United States of America,CA,California,826.894,924
+2020-03-26,2020-03-20,US,United States of America,CA,California,1008.438,1063
+2020-03-26,2020-03-21,US,United States of America,CA,California,1222.239,1279
+2020-03-26,2020-03-22,US,United States of America,CA,California,1472.5,1536
+2020-03-26,2020-03-23,US,United States of America,CA,California,1763.712,1733
+2020-03-26,2020-03-24,US,United States of America,CA,California,2100.645,2102
+2020-03-26,2020-03-25,US,United States of America,CA,California,2488.322,2355
+2020-03-26,2020-03-26,US,United States of America,CA,California,2931.995,3006
+2020-03-26,2020-03-27,US,United States of America,CA,California,3437.119,
+2020-03-26,2020-03-28,US,United States of America,CA,California,4009.314,
+2020-03-26,2020-03-29,US,United States of America,CA,California,4654.328,
 2020-03-26,2020-03-16,US,United States of America,CO,Colorado,123.17,131
 2020-03-26,2020-03-17,US,United States of America,CO,Colorado,154.265,160
 2020-03-26,2020-03-18,US,United States of America,CO,Colorado,192.952,183
@@ -2897,20 +2897,20 @@ ForecastDate,Date,CountryCode,CountryName,RegionCode,RegionName,Estimated,Confir
 2020-03-26,2020-03-27,US,United States of America,IA,Iowa,218.459,
 2020-03-26,2020-03-28,US,United States of America,IA,Iowa,263.924,
 2020-03-26,2020-03-29,US,United States of America,IA,Iowa,317.972,
-2020-03-26,2020-03-16,US,United States of America,IL,Illinois,137.839,93
-2020-03-26,2020-03-17,US,United States of America,IL,Illinois,203.05,160
-2020-03-26,2020-03-18,US,United States of America,IL,Illinois,291.313,289
-2020-03-26,2020-03-19,US,United States of America,IL,Illinois,407.78,426
-2020-03-26,2020-03-20,US,United States of America,IL,Illinois,557.865,590
-2020-03-26,2020-03-21,US,United States of America,IL,Illinois,747.05,759
-2020-03-26,2020-03-22,US,United States of America,IL,Illinois,980.664,1058
-2020-03-26,2020-03-23,US,United States of America,IL,Illinois,1263.661,1285
-2020-03-26,2020-03-24,US,United States of America,IL,Illinois,1600.409,1551
-2020-03-26,2020-03-25,US,United States of America,IL,Illinois,1994.498,1865
-2020-03-26,2020-03-26,US,United States of America,IL,Illinois,2448.587,2538
-2020-03-26,2020-03-27,US,United States of America,IL,Illinois,2964.296,
-2020-03-26,2020-03-28,US,United States of America,IL,Illinois,3542.143,
-2020-03-26,2020-03-29,US,United States of America,IL,Illinois,4181.531,
+2020-03-26,2020-03-16,US,United States of America,IL,Illinois,138.479,93
+2020-03-26,2020-03-17,US,United States of America,IL,Illinois,202.676,160
+2020-03-26,2020-03-18,US,United States of America,IL,Illinois,289.433,288
+2020-03-26,2020-03-19,US,United States of America,IL,Illinois,403.933,422
+2020-03-26,2020-03-20,US,United States of America,IL,Illinois,551.736,585
+2020-03-26,2020-03-21,US,United States of America,IL,Illinois,738.61,753
+2020-03-26,2020-03-22,US,United States of America,IL,Illinois,970.343,1049
+2020-03-26,2020-03-23,US,United States of America,IL,Illinois,1252.532,1273
+2020-03-26,2020-03-24,US,United States of America,IL,Illinois,1590.375,1535
+2020-03-26,2020-03-25,US,United States of America,IL,Illinois,1988.469,1865
+2020-03-26,2020-03-26,US,United States of America,IL,Illinois,2450.633,2538
+2020-03-26,2020-03-27,US,United States of America,IL,Illinois,2979.764,
+2020-03-26,2020-03-28,US,United States of America,IL,Illinois,3577.728,
+2020-03-26,2020-03-29,US,United States of America,IL,Illinois,4245.297,
 2020-03-26,2020-03-16,US,United States of America,IN,Indiana,18.028,24
 2020-03-26,2020-03-17,US,United States of America,IN,Indiana,27.888,30
 2020-03-26,2020-03-18,US,United States of America,IN,Indiana,42.301,39
