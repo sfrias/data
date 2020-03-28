@@ -6662,6 +6662,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,AZ,Arizona,92,3,73.60,13.80,4.60,269.60,52.20,17.60
 2020-03-25,US,United States of America,AZ,Arizona,93,1,74.40,13.95,4.65,337.60,66.15,22.20
 2020-03-26,US,United States of America,AZ,Arizona,127,2,101.60,19.05,6.35,426.40,84.75,28.40
+2020-03-27,US,United States of America,AZ,Arizona,159,5,127.20,23.85,7.95,536.80,108.60,36.35
 2020-03-19,US,United States of America,CA,California,313,5,250.40,46.95,15.65,577.60,128.25,43.55
 2020-03-20,US,United States of America,CA,California,139,2,111.20,20.85,6.95,688.80,146.25,50.50
 2020-03-21,US,United States of America,CA,California,216,4,172.80,32.40,10.80,821.60,174.75,60.95
@@ -6670,6 +6671,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,CA,California,369,13,295.20,55.35,18.45,1295.20,285.00,99.40
 2020-03-25,US,United States of America,CA,California,253,13,202.40,37.95,12.65,1395.20,322.95,111.10
 2020-03-26,US,United States of America,CA,California,651,12,520.80,97.65,32.55,1665.60,413.10,142.45
+2020-03-27,US,United States of America,CA,California,873,13,698.40,130.95,43.65,2252.80,537.90,183.85
 2020-03-19,US,United States of America,FL,Florida,76,1,60.80,11.40,3.80,286.40,56.40,19.40
 2020-03-20,US,United States of America,FL,Florida,130,2,104.00,19.50,6.50,376.00,75.45,25.55
 2020-03-21,US,United States of America,FL,Florida,138,2,110.40,20.70,6.90,464.80,96.00,32.45
@@ -6678,6 +6680,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,FL,Florida,241,4,192.80,36.15,12.05,980.80,207.00,69.70
 2020-03-25,US,United States of America,FL,Florida,270,4,216.00,40.50,13.50,1094.40,244.80,83.15
 2020-03-26,US,United States of America,FL,Florida,673,6,538.40,100.95,33.65,1572.00,341.70,116.35
+2020-03-27,US,United States of America,FL,Florida,410,6,328.00,61.50,20.50,1796.00,397.35,136.65
 2020-03-19,US,United States of America,GA,Georgia,90,9,72.00,13.50,4.50,204.80,42.15,14.25
 2020-03-20,US,United States of America,GA,Georgia,133,3,106.40,19.95,6.65,302.40,61.95,20.90
 2020-03-21,US,United States of America,GA,Georgia,87,1,69.60,13.05,4.35,352.80,74.25,25.25
@@ -6686,6 +6689,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,GA,Georgia,254,7,203.20,38.10,12.70,704.00,149.25,50.70
 2020-03-25,US,United States of America,GA,Georgia,221,8,176.80,33.15,11.05,840.00,180.75,61.50
 2020-03-26,US,United States of America,GA,Georgia,278,8,222.40,41.70,13.90,990.40,218.85,75.15
+2020-03-27,US,United States of America,GA,Georgia,476,16,380.80,71.40,23.80,1264.80,285.30,98.50
 2020-03-19,US,United States of America,IL,Illinois,134,3,107.20,20.10,6.70,317.60,62.40,20.90
 2020-03-20,US,United States of America,IL,Illinois,163,1,130.40,24.45,8.15,442.40,86.85,29.00
 2020-03-21,US,United States of America,IL,Illinois,168,1,134.40,25.20,8.40,565.60,111.90,37.40
@@ -6694,6 +6698,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,IL,Illinois,262,4,209.60,39.30,13.10,1100.00,226.50,76.40
 2020-03-25,US,United States of America,IL,Illinois,330,3,264.00,49.50,16.50,1261.60,274.95,92.30
 2020-03-26,US,United States of America,IL,Illinois,673,7,538.40,100.95,33.65,1692.80,373.80,125.95
+2020-03-27,US,United States of America,IL,Illinois,522,8,417.60,78.30,26.10,1980.00,449.40,151.75
 2020-03-19,US,United States of America,MA,Massachusetts,72,,57.60,10.80,3.60,186.40,47.25,16.30
 2020-03-20,US,United States of America,MA,Massachusetts,85,,68.00,12.75,4.25,232.00,60.00,20.55
 2020-03-21,US,United States of America,MA,Massachusetts,112,0,89.60,16.80,5.60,309.60,72.60,25.85
@@ -6702,6 +6707,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,MA,Massachusetts,382,2,305.60,57.30,19.10,752.80,159.60,55.90
 2020-03-25,US,United States of America,MA,Massachusetts,679,4,543.20,101.85,33.95,1265.60,257.25,87.30
 2020-03-26,US,United States of America,MA,Massachusetts,579,10,463.20,86.85,28.95,1671.20,341.85,116.25
+2020-03-27,US,United States of America,MA,Massachusetts,823,10,658.40,123.45,41.15,2261.60,465.30,157.25
 2020-03-19,US,United States of America,NC,North Carolina,34,0,27.20,5.10,1.70,68.00,14.25,4.80
 2020-03-20,US,United States of America,NC,North Carolina,40,0,32.00,6.00,2.00,97.60,20.25,6.80
 2020-03-21,US,United States of America,NC,North Carolina,47,0,37.60,7.05,2.35,128.80,27.30,9.10
@@ -6710,6 +6716,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,NC,North Carolina,101,0,80.80,15.15,5.05,286.40,57.90,19.80
 2020-03-25,US,United States of America,NC,North Carolina,106,1,84.80,15.90,5.30,352.80,73.35,24.85
 2020-03-26,US,United States of America,NC,North Carolina,132,1,105.60,19.80,6.60,431.20,91.95,31.45
+2020-03-27,US,United States of America,NC,North Carolina,127,1,101.60,19.05,6.35,500.80,109.65,37.55
 2020-03-19,US,United States of America,NH,New Hampshire,13,,10.40,1.95,0.65,26.40,5.55,1.85
 2020-03-20,US,United States of America,NH,New Hampshire,5,,4.00,0.75,0.25,30.40,6.00,2.10
 2020-03-21,US,United States of America,NH,New Hampshire,11,,8.80,1.65,0.55,38.40,7.65,2.65
@@ -6718,6 +6725,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,NH,New Hampshire,23,,18.40,3.45,1.15,67.20,14.25,4.85
 2020-03-25,US,United States of America,NH,New Hampshire,7,0,5.60,1.05,0.35,65.60,15.30,5.20
 2020-03-26,US,United States of America,NH,New Hampshire,29,0,23.20,4.35,1.45,78.40,19.50,6.65
+2020-03-27,US,United States of America,NH,New Hampshire,21,0,16.80,3.15,1.05,91.20,21.75,7.60
 2020-03-19,US,United States of America,NY,New York,1770,0,1416.00,265.50,88.50,3148.80,611.40,207.30
 2020-03-20,US,United States of America,NY,New York,2950,23,2360.00,442.50,147.50,5344.80,1049.55,354.00
 2020-03-21,US,United States of America,NY,New York,3254,9,2603.20,488.10,162.70,7865.60,1532.10,516.15
@@ -6726,6 +6734,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,NY,New York,4790,96,3832.00,718.50,239.50,19172.00,3817.35,1276.15
 2020-03-25,US,United States of America,NY,New York,5146,75,4116.80,771.90,257.30,22743.20,4558.50,1531.90
 2020-03-26,US,United States of America,NY,New York,6447,100,5157.60,967.05,322.35,26484.80,5510.10,1852.10
+2020-03-27,US,United States of America,NY,New York,7377,134,5901.60,1106.55,368.85,30026.40,6585.90,2220.95
 2020-03-19,US,United States of America,OR,Oregon,13,0,10.40,1.95,0.65,55.20,12.15,4.25
 2020-03-20,US,United States of America,OR,Oregon,26,0,20.80,3.90,1.30,67.20,15.00,5.55
 2020-03-21,US,United States of America,OR,Oregon,0,0,0.00,0.00,0.00,67.20,15.00,5.55
@@ -6734,6 +6743,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,OR,Oregon,18,3,14.40,2.70,0.90,129.60,28.50,9.75
 2020-03-25,US,United States of America,OR,Oregon,0,0,0.00,0.00,0.00,107.20,26.85,9.70
 2020-03-26,US,United States of America,OR,Oregon,118,3,94.40,17.70,5.90,191.20,44.55,15.40
+2020-03-27,US,United States of America,OR,Oregon,87,1,69.60,13.05,4.35,240.00,56.70,19.75
 2020-03-19,US,United States of America,SC,South Carolina,0,0,0.00,0.00,0.00,40.00,8.70,3.00
 2020-03-20,US,United States of America,SC,South Carolina,21,0,16.80,3.15,1.05,55.20,11.85,4.05
 2020-03-21,US,United States of America,SC,South Carolina,71,0,56.80,10.65,3.55,111.20,21.75,7.60
@@ -6742,6 +6752,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,SC,South Carolina,-1,0,-0.80,-0.15,-0.05,212.00,43.20,14.55
 2020-03-25,US,United States of America,SC,South Carolina,126,2,100.80,18.90,6.30,291.20,61.80,20.85
 2020-03-26,US,United States of America,SC,South Carolina,32,2,25.60,4.80,1.60,316.80,66.45,22.35
+2020-03-27,US,United States of America,SC,South Carolina,0,0,0.00,0.00,0.00,300.00,65.55,22.30
 2020-03-19,US,United States of America,TX,Texas,60,1,48.00,9.00,3.00,96.00,20.25,7.10
 2020-03-20,US,United States of America,TX,Texas,51,2,40.80,7.65,2.55,124.00,27.90,9.65
 2020-03-21,US,United States of America,TX,Texas,110,0,88.00,16.50,5.50,202.40,43.80,14.95
@@ -6750,6 +6761,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,TX,Texas,58,1,46.40,8.70,2.90,276.80,58.05,19.90
 2020-03-25,US,United States of America,TX,Texas,564,3,451.20,84.60,28.20,712.80,140.25,48.05
 2020-03-26,US,United States of America,TX,Texas,422,6,337.60,63.30,21.10,1002.40,201.75,68.75
+2020-03-27,US,United States of America,TX,Texas,335,5,268.00,50.25,16.75,1229.60,251.25,85.40
 2020-03-19,US,United States of America,WA,Washington,175,14,140.00,26.25,8.75,680.00,162.75,57.40
 2020-03-20,US,United States of America,WA,Washington,189,8,151.20,28.35,9.45,735.20,191.10,65.30
 2020-03-21,US,United States of America,WA,Washington,148,9,118.40,22.20,7.40,764.80,208.20,72.25
@@ -6758,6 +6770,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,WA,Washington,225,15,180.00,33.75,11.25,1053.60,282.60,104.25
 2020-03-25,US,United States of America,WA,Washington,248,13,198.40,37.20,12.40,1165.60,301.80,115.35
 2020-03-26,US,United States of America,WA,Washington,111,9,88.80,16.65,5.55,1114.40,301.80,115.65
+2020-03-27,US,United States of America,WA,Washington,627,15,501.60,94.05,31.35,1464.80,384.75,143.50
 2020-03-19,US,United States of America,WI,Wisconsin,49,,39.20,7.35,2.45,117.60,23.10,7.70
 2020-03-20,US,United States of America,WI,Wisconsin,51,,40.80,7.65,2.55,149.60,30.75,10.25
 2020-03-21,US,United States of America,WI,Wisconsin,75,1,60.00,11.25,3.75,209.60,42.00,14.00
@@ -6766,6 +6779,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,WI,Wisconsin,41,0,32.80,6.15,2.05,308.00,67.35,22.80
 2020-03-25,US,United States of America,WI,Wisconsin,128,2,102.40,19.20,6.40,383.20,84.90,29.15
 2020-03-26,US,United States of America,WI,Wisconsin,122,1,97.60,18.30,6.10,441.60,103.20,35.20
+2020-03-27,US,United States of America,WI,Wisconsin,135,5,108.00,20.25,6.75,508.80,121.35,41.70
 2020-03-21,HU,Hungary,,,18,3,14.40,2.70,0.90,62.40,14.25,5.05
 2020-03-22,HU,Hungary,,,28,0,22.40,4.20,1.40,80.00,18.30,6.35
 2020-03-23,HU,Hungary,,,36,3,28.80,5.40,1.80,102.40,23.25,8.00
@@ -6789,6 +6803,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,CO,Colorado,129,1,103.20,19.35,6.45,448.00,101.25,35.55
 2020-03-25,US,United States of America,CO,Colorado,192,4,153.60,28.80,9.60,583.20,126.00,45.00
 2020-03-26,US,United States of America,CO,Colorado,174,8,139.20,26.10,8.70,696.00,147.75,52.90
+2020-03-27,US,United States of America,CO,Colorado,344,5,275.20,51.60,17.20,922.40,194.85,69.25
 2020-03-20,US,United States of America,DC,District of Columbia,32,1,25.60,4.80,1.60,48.80,10.50,3.55
 2020-03-21,US,United States of America,DC,District of Columbia,6,0,4.80,0.90,0.30,53.60,11.40,3.85
 2020-03-22,US,United States of America,DC,District of Columbia,21,0,16.80,3.15,1.05,65.60,13.95,4.90
@@ -6796,6 +6811,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,DC,District of Columbia,21,0,16.80,3.15,1.05,92.00,19.05,6.80
 2020-03-25,US,United States of America,DC,District of Columbia,46,0,36.80,6.90,2.30,121.60,25.95,8.90
 2020-03-26,US,United States of America,DC,District of Columbia,48,1,38.40,7.20,2.40,153.60,33.15,11.35
+2020-03-27,US,United States of America,DC,District of Columbia,36,0,28.80,5.40,1.80,156.80,37.65,12.85
 2020-03-20,US,United States of America,MD,Maryland,42,0,33.60,6.30,2.10,105.60,21.90,7.45
 2020-03-21,US,United States of America,MD,Maryland,41,1,32.80,6.15,2.05,131.20,27.75,9.35
 2020-03-22,US,United States of America,MD,Maryland,54,1,43.20,8.10,2.70,170.40,35.70,12.05
@@ -6803,6 +6819,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,MD,Maryland,61,0,48.80,9.15,3.05,233.60,50.55,17.20
 2020-03-25,US,United States of America,MD,Maryland,74,1,59.20,11.10,3.70,270.40,60.90,20.85
 2020-03-26,US,United States of America,MD,Maryland,157,0,125.60,23.55,7.85,378.40,83.10,28.55
+2020-03-27,US,United States of America,MD,Maryland,194,1,155.20,29.10,9.70,500.00,111.45,38.10
 2020-03-20,US,United States of America,MI,Michigan,213,0,170.40,31.95,10.65,426.40,82.35,27.45
 2020-03-21,US,United States of America,MI,Michigan,238,2,190.40,35.70,11.90,609.60,118.05,39.35
 2020-03-22,US,United States of America,MI,Michigan,248,3,198.40,37.20,12.40,801.60,155.25,51.75
@@ -6810,6 +6827,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,MI,Michigan,463,9,370.40,69.45,23.15,1380.80,268.35,89.55
 2020-03-25,US,United States of America,MI,Michigan,503,19,402.40,75.45,25.15,1771.20,341.70,114.70
 2020-03-26,US,United States of America,MI,Michigan,562,17,449.60,84.30,28.10,2016.00,424.65,142.70
+2020-03-27,US,United States of America,MI,Michigan,801,32,640.80,120.15,40.05,2486.40,543.60,182.75
 2020-03-20,US,United States of America,NE,Nebraska,5,0,4.00,0.75,0.25,15.20,4.65,1.60
 2020-03-21,US,United States of America,NE,Nebraska,6,0,4.80,0.90,0.30,19.20,5.25,1.90
 2020-03-22,US,United States of America,NE,Nebraska,10,0,8.00,1.50,0.50,24.80,6.75,2.35
@@ -6817,6 +6835,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,NE,Nebraska,2,0,1.60,0.30,0.10,24.80,6.30,2.45
 2020-03-25,US,United States of America,NE,Nebraska,9,0,7.20,1.35,0.45,29.60,7.20,2.90
 2020-03-26,US,United States of America,NE,Nebraska,12,0,9.60,1.80,0.60,36.80,8.85,3.40
+2020-03-27,US,United States of America,NE,Nebraska,12,0,9.60,1.80,0.60,42.40,10.20,3.75
 2020-03-20,US,United States of America,NJ,New Jersey,148,2,118.40,22.20,7.40,672.00,132.60,44.45
 2020-03-21,US,United States of America,NJ,New Jersey,437,5,349.60,65.55,21.85,1021.60,197.40,66.30
 2020-03-22,US,United States of America,NJ,New Jersey,587,4,469.60,88.05,29.35,1452.80,284.85,95.50
@@ -6824,6 +6843,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,NJ,New Jersey,831,17,664.80,124.65,41.55,2726.40,546.75,183.20
 2020-03-25,US,United States of America,NJ,New Jersey,727,18,581.60,109.05,36.35,3180.00,652.80,219.35
 2020-03-26,US,United States of America,NJ,New Jersey,2474,19,1979.20,371.10,123.70,4907.20,1023.90,342.60
+2020-03-27,US,United States of America,NJ,New Jersey,1949,27,1559.20,292.35,97.45,6348.00,1309.05,439.75
 2020-03-20,US,United States of America,NV,Nevada,14,0,11.20,2.10,0.70,78.40,16.20,5.40
 2020-03-21,US,United States of America,NV,Nevada,15,1,12.00,2.25,0.75,83.20,18.45,6.15
 2020-03-22,US,United States of America,NV,Nevada,66,0,52.80,9.90,3.30,135.20,28.50,9.45
@@ -6831,6 +6851,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,NV,Nevada,33,0,26.40,4.95,1.65,178.40,40.65,13.85
 2020-03-25,US,United States of America,NV,Nevada,43,2,34.40,6.45,2.15,212.80,46.50,16.05
 2020-03-26,US,United States of America,NV,Nevada,99,4,79.20,14.85,4.95,260.00,60.00,20.75
+2020-03-27,US,United States of America,NV,Nevada,115,0,92.00,17.25,5.75,340.80,77.10,26.40
 2020-03-20,US,United States of America,OH,Ohio,50,,40.00,7.50,2.50,124.80,25.35,8.45
 2020-03-21,US,United States of America,OH,Ohio,78,2,62.40,11.70,3.90,187.20,36.60,12.35
 2020-03-22,US,United States of America,OH,Ohio,104,0,83.20,15.60,5.20,252.00,52.20,17.55
@@ -6838,6 +6859,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,OH,Ohio,122,2,97.60,18.30,6.10,397.60,83.85,28.05
 2020-03-25,US,United States of America,OH,Ohio,140,2,112.00,21.00,7.00,492.80,103.65,35.05
 2020-03-26,US,United States of America,OH,Ohio,163,5,130.40,24.45,8.15,598.40,128.10,43.15
+2020-03-27,US,United States of America,OH,Ohio,270,4,216.00,40.50,13.50,774.40,165.15,56.60
 2020-03-20,US,United States of America,TN,Tennessee,74,,59.20,11.10,3.70,161.60,33.75,11.35
 2020-03-21,US,United States of America,TN,Tennessee,143,,114.40,21.45,7.15,271.20,55.20,18.50
 2020-03-22,US,United States of America,TN,Tennessee,134,,107.20,20.10,6.70,372.80,74.70,25.20
@@ -6845,6 +6867,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,TN,Tennessee,52,0,41.60,7.80,2.60,475.20,97.35,33.20
 2020-03-25,US,United States of America,TN,Tennessee,117,1,93.60,17.55,5.85,548.80,113.70,38.85
 2020-03-26,US,United States of America,TN,Tennessee,173,0,138.40,25.95,8.65,642.40,138.75,47.50
+2020-03-27,US,United States of America,TN,Tennessee,246,3,196.80,36.90,12.30,780.00,174.60,59.25
 2020-03-20,US,United States of America,VA,Virginia,20,0,16.00,3.00,1.00,67.20,16.80,5.70
 2020-03-21,US,United States of America,VA,Virginia,38,0,30.40,5.70,1.90,97.60,22.35,7.60
 2020-03-22,US,United States of America,VA,Virginia,67,1,53.60,10.05,3.35,139.20,31.65,10.95
@@ -6852,6 +6875,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,VA,Virginia,36,1,28.80,5.40,1.80,178.40,40.95,14.35
 2020-03-25,US,United States of America,VA,Virginia,101,2,80.80,15.15,5.05,251.20,54.15,19.15
 2020-03-26,US,United States of America,VA,Virginia,69,4,55.20,10.35,3.45,292.80,64.50,22.55
+2020-03-27,US,United States of America,VA,Virginia,144,1,115.20,21.60,7.20,392.00,83.85,29.35
 2020-03-23,PS,Palestine,,,7,0,5.60,1.05,0.35,16.80,5.85,2.60
 2020-03-24,PS,Palestine,,,0,0,0.00,0.00,0.00,16.00,4.50,2.15
 2020-03-25,PS,Palestine,,,1,0,0.80,0.15,0.05,15.20,4.50,2.05
@@ -6863,72 +6887,84 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,AK,Alaska,14,,11.20,2.10,0.70,26.40,5.40,1.80
 2020-03-25,US,United States of America,AK,Alaska,6,,4.80,0.90,0.30,28.80,6.15,2.10
 2020-03-26,US,United States of America,AK,Alaska,17,0,13.60,2.55,0.85,42.40,8.70,2.95
+2020-03-27,US,United States of America,AK,Alaska,10,0,8.00,1.50,0.50,45.60,10.20,3.45
 2020-03-21,US,United States of America,AR,Arkansas,22,,17.60,3.30,1.10,84.80,17.70,5.90
 2020-03-22,US,United States of America,AR,Arkansas,47,,37.60,7.05,2.35,119.20,24.75,8.25
 2020-03-23,US,United States of America,AR,Arkansas,9,0,7.20,1.35,0.45,121.60,26.10,8.70
 2020-03-24,US,United States of America,AR,Arkansas,44,0,35.20,6.60,2.20,156.80,31.80,10.90
 2020-03-25,US,United States of America,AR,Arkansas,62,2,49.60,9.30,3.10,197.60,40.65,14.00
 2020-03-26,US,United States of America,AR,Arkansas,55,1,44.00,8.25,2.75,231.20,48.45,16.75
+2020-03-27,US,United States of America,AR,Arkansas,46,0,36.80,6.90,2.30,228.00,54.75,18.75
 2020-03-21,US,United States of America,DE,Delaware,7,0,5.60,1.05,0.35,31.20,6.75,2.25
 2020-03-22,US,United States of America,DE,Delaware,11,0,8.80,1.65,0.55,40.00,8.40,2.80
 2020-03-23,US,United States of America,DE,Delaware,12,0,9.60,1.80,0.60,48.00,10.05,3.40
 2020-03-24,US,United States of America,DE,Delaware,23,0,18.40,3.45,1.15,60.00,13.05,4.55
 2020-03-25,US,United States of America,DE,Delaware,24,0,19.20,3.60,1.20,72.00,16.65,5.75
 2020-03-26,US,United States of America,DE,Delaware,15,1,12.00,2.25,0.75,80.00,18.60,6.45
+2020-03-27,US,United States of America,DE,Delaware,33,1,26.40,4.95,1.65,100.00,23.55,7.95
 2020-03-21,US,United States of America,IA,Iowa,23,,18.40,3.45,1.15,40.80,9.75,3.40
 2020-03-22,US,United States of America,IA,Iowa,22,,17.60,3.30,1.10,57.60,12.30,4.50
 2020-03-23,US,United States of America,IA,Iowa,15,,12.00,2.25,0.75,66.40,13.80,5.25
 2020-03-24,US,United States of America,IA,Iowa,19,,15.20,2.85,0.95,80.80,16.50,6.05
 2020-03-25,US,United States of America,IA,Iowa,21,,16.80,3.15,1.05,92.80,19.35,6.85
 2020-03-26,US,United States of America,IA,Iowa,34,0,27.20,5.10,1.70,112.80,24.30,8.30
+2020-03-27,US,United States of America,IA,Iowa,56,2,44.80,8.40,2.80,152.00,32.55,11.05
 2020-03-21,US,United States of America,IN,Indiana,47,2,37.60,7.05,2.35,88.80,18.60,6.25
 2020-03-22,US,United States of America,IN,Indiana,75,2,60.00,11.25,3.75,145.60,29.25,10.00
 2020-03-23,US,United States of America,IN,Indiana,58,1,46.40,8.70,2.90,188.00,37.35,12.85
 2020-03-24,US,United States of America,IN,Indiana,106,5,84.80,15.90,5.30,268.00,52.95,18.15
 2020-03-25,US,United States of America,IN,Indiana,112,2,89.60,16.80,5.60,350.40,69.75,23.55
 2020-03-26,US,United States of America,IN,Indiana,168,3,134.40,25.20,8.40,471.20,94.50,31.75
+2020-03-27,US,United States of America,IN,Indiana,336,7,268.80,50.40,16.80,721.60,144.30,48.45
 2020-03-21,US,United States of America,KS,Kansas,11,1,8.80,1.65,0.55,39.20,8.10,2.75
 2020-03-22,US,United States of America,KS,Kansas,9,0,7.20,1.35,0.45,44.80,9.45,3.20
 2020-03-23,US,United States of America,KS,Kansas,18,0,14.40,2.70,0.90,56.80,12.15,4.05
 2020-03-24,US,United States of America,KS,Kansas,16,0,12.80,2.40,0.80,66.40,14.10,4.85
 2020-03-25,US,United States of America,KS,Kansas,28,1,22.40,4.20,1.40,88.00,18.00,6.25
 2020-03-26,US,United States of America,KS,Kansas,42,0,33.60,6.30,2.10,107.20,24.30,8.35
+2020-03-27,US,United States of America,KS,Kansas,34,1,27.20,5.10,1.70,126.40,29.10,9.90
 2020-03-21,US,United States of America,KY,Kentucky,7,1,5.60,1.05,0.35,32.00,7.50,2.70
 2020-03-22,US,United States of America,KY,Kentucky,45,1,36.00,6.75,2.25,66.40,13.95,4.90
 2020-03-23,US,United States of America,KY,Kentucky,5,0,4.00,0.75,0.25,66.40,14.40,5.15
 2020-03-24,US,United States of America,KY,Kentucky,20,1,16.00,3.00,1.00,81.60,17.40,6.00
 2020-03-25,US,United States of America,KY,Kentucky,33,0,26.40,4.95,1.65,104.80,21.90,7.55
 2020-03-26,US,United States of America,KY,Kentucky,41,0,32.80,6.15,2.05,130.40,27.60,9.50
+2020-03-27,US,United States of America,KY,Kentucky,50,2,40.00,7.50,2.50,160.80,34.80,12.00
 2020-03-21,US,United States of America,MN,Minnesota,23,,18.40,3.45,1.15,93.60,20.40,6.90
 2020-03-22,US,United States of America,MN,Minnesota,31,0,24.80,4.65,1.55,107.20,24.90,8.40
 2020-03-23,US,United States of America,MN,Minnesota,66,0,52.80,9.90,3.30,144.80,34.50,11.70
 2020-03-24,US,United States of America,MN,Minnesota,27,0,21.60,4.05,1.35,161.60,37.95,13.00
 2020-03-25,US,United States of America,MN,Minnesota,25,0,20.00,3.75,1.25,168.00,40.95,14.20
 2020-03-26,US,United States of America,MN,Minnesota,59,1,47.20,8.85,2.95,205.60,48.75,17.05
+2020-03-27,US,United States of America,MN,Minnesota,52,2,41.60,7.80,2.60,226.40,54.45,19.45
 2020-03-21,US,United States of America,NM,New Mexico,14,,11.20,2.10,0.70,37.60,8.55,2.85
 2020-03-22,US,United States of America,NM,New Mexico,0,,0.00,0.00,0.00,35.20,8.55,2.85
 2020-03-23,US,United States of America,NM,New Mexico,8,,6.40,1.20,0.40,38.40,9.30,3.25
 2020-03-24,US,United States of America,NM,New Mexico,18,,14.40,2.70,0.90,48.00,11.70,4.15
 2020-03-25,US,United States of America,NM,New Mexico,17,,13.60,2.55,0.85,57.60,13.50,5.00
 2020-03-26,US,United States of America,NM,New Mexico,12,0,9.60,1.80,0.60,61.60,15.30,5.45
+2020-03-27,US,United States of America,NM,New Mexico,24,0,19.20,3.60,1.20,74.40,18.45,6.55
 2020-03-21,US,United States of America,PA,Pennsylvania,103,1,82.40,15.45,5.15,259.20,54.60,18.45
 2020-03-22,US,United States of America,PA,Pennsylvania,108,0,86.40,16.20,5.40,332.80,70.05,23.85
 2020-03-23,US,United States of America,PA,Pennsylvania,165,4,132.00,24.75,8.25,454.40,94.35,32.00
 2020-03-24,US,United States of America,PA,Pennsylvania,207,1,165.60,31.05,10.35,604.00,124.35,42.20
 2020-03-25,US,United States of America,PA,Pennsylvania,276,4,220.80,41.40,13.80,795.20,164.10,55.75
 2020-03-26,US,United States of America,PA,Pennsylvania,560,5,448.00,84.00,28.00,1201.60,246.00,83.60
+2020-03-27,US,United States of America,PA,Pennsylvania,531,6,424.80,79.65,26.55,1560.00,323.25,109.80
 2020-03-21,US,United States of America,VT,Vermont,0,0,0.00,0.00,0.00,20.00,4.20,1.45
 2020-03-22,US,United States of America,VT,Vermont,23,0,18.40,3.45,1.15,38.40,7.65,2.60
 2020-03-23,US,United States of America,VT,Vermont,23,3,18.40,3.45,1.15,53.60,11.10,3.70
 2020-03-24,US,United States of America,VT,Vermont,20,2,16.00,3.00,1.00,68.00,13.95,4.70
 2020-03-25,US,United States of America,VT,Vermont,28,1,22.40,4.20,1.40,83.20,18.15,6.10
 2020-03-26,US,United States of America,VT,Vermont,35,1,28.00,5.25,1.75,108.80,23.10,7.85
+2020-03-27,US,United States of America,VT,Vermont,26,1,20.80,3.90,1.30,124.00,27.00,9.10
 2020-03-21,US,United States of America,WV,West Virginia,4,0,3.20,0.60,0.20,8.80,1.65,0.55
 2020-03-22,US,United States of America,WV,West Virginia,1,0,0.80,0.15,0.05,9.60,1.80,0.60
 2020-03-23,US,United States of America,WV,West Virginia,4,0,3.20,0.60,0.20,12.80,2.40,0.80
 2020-03-24,US,United States of America,WV,West Virginia,4,0,3.20,0.60,0.20,16.00,3.00,1.00
 2020-03-25,US,United States of America,WV,West Virginia,19,0,15.20,2.85,0.95,30.40,5.85,1.95
 2020-03-26,US,United States of America,WV,West Virginia,12,0,9.60,1.80,0.60,39.20,7.65,2.55
+2020-03-27,US,United States of America,WV,West Virginia,25,0,20.00,3.75,1.25,55.20,11.40,3.80
 2020-03-23,ZA,South Africa,,,34,0,27.20,5.10,1.70,178.40,40.05,13.65
 2020-03-24,ZA,South Africa,,,128,0,102.40,19.20,6.40,272.00,58.35,20.00
 2020-03-25,ZA,South Africa,,,155,0,124.00,23.25,7.75,377.60,81.00,27.70
@@ -6959,76 +6995,91 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,US,United States of America,AL,Alabama,48,0,38.40,7.20,2.40,143.20,32.25,10.75
 2020-03-25,US,United States of America,AL,Alabama,68,0,54.40,10.20,3.40,189.60,42.30,14.15
 2020-03-26,US,United States of America,AL,Alabama,223,1,178.40,33.45,11.15,350.40,75.00,25.30
+2020-03-27,US,United States of America,AL,Alabama,81,2,64.80,12.15,4.05,404.80,86.25,29.35
 2020-03-22,US,United States of America,CT,Connecticut,29,1,23.20,4.35,1.45,162.40,33.15,11.15
 2020-03-23,US,United States of America,CT,Connecticut,192,5,153.60,28.80,9.60,311.20,61.80,20.70
 2020-03-24,US,United States of America,CT,Connecticut,203,2,162.40,30.45,10.15,461.60,91.80,30.85
 2020-03-25,US,United States of America,CT,Connecticut,257,7,205.60,38.55,12.85,645.60,130.35,43.65
 2020-03-26,US,United States of America,CT,Connecticut,137,2,109.60,20.55,6.85,732.80,150.15,50.45
+2020-03-27,US,United States of America,CT,Connecticut,279,6,223.20,41.85,13.95,877.60,190.65,64.25
 2020-03-22,US,United States of America,HI,Hawaii,11,,8.80,1.65,0.55,36.80,6.90,2.35
 2020-03-23,US,United States of America,HI,Hawaii,8,,6.40,1.20,0.40,39.20,8.10,2.75
 2020-03-24,US,United States of America,HI,Hawaii,21,,16.80,3.15,1.05,53.60,11.25,3.75
 2020-03-25,US,United States of America,HI,Hawaii,13,0,10.40,1.95,0.65,60.80,13.20,4.40
 2020-03-26,US,United States of America,HI,Hawaii,5,,4.00,0.75,0.25,63.20,13.95,4.65
+2020-03-27,US,United States of America,HI,Hawaii,11,,8.80,1.65,0.55,64.00,15.60,5.20
 2020-03-22,US,United States of America,ID,Idaho,11,,8.80,1.65,0.55,29.60,6.30,2.10
 2020-03-23,US,United States of America,ID,Idaho,5,0,4.00,0.75,0.25,33.60,7.05,2.35
 2020-03-24,US,United States of America,ID,Idaho,3,0,2.40,0.45,0.15,34.40,7.50,2.50
 2020-03-25,US,United States of America,ID,Idaho,23,0,18.40,3.45,1.15,51.20,10.95,3.65
 2020-03-26,US,United States of America,ID,Idaho,50,0,40.00,7.50,2.50,89.60,18.15,6.15
+2020-03-27,US,United States of America,ID,Idaho,66,3,52.80,9.90,3.30,132.80,27.60,9.45
 2020-03-22,US,United States of America,LA,Louisiana,252,4,201.60,37.80,12.60,596.80,125.40,41.85
 2020-03-23,US,United States of America,LA,Louisiana,335,14,268.00,50.25,16.75,846.40,174.90,58.60
 2020-03-24,US,United States of America,LA,Louisiana,216,12,172.80,32.40,10.80,973.60,206.10,69.35
 2020-03-25,US,United States of America,LA,Louisiana,407,19,325.60,61.05,20.35,1244.00,263.85,89.70
 2020-03-26,US,United States of America,LA,Louisiana,510,18,408.00,76.50,25.50,1566.40,335.40,114.95
+2020-03-27,US,United States of America,LA,Louisiana,441,36,352.80,66.15,22.05,1813.60,398.25,136.60
 2020-03-22,US,United States of America,ME,Maine,16,,12.80,2.40,0.80,68.80,13.35,4.45
 2020-03-23,US,United States of America,ME,Maine,18,,14.40,2.70,0.90,72.00,16.05,5.35
 2020-03-24,US,United States of America,ME,Maine,18,,14.40,2.70,0.90,74.40,18.60,6.25
 2020-03-25,US,United States of America,ME,Maine,24,,19.20,3.60,1.20,84.80,21.90,7.45
 2020-03-26,US,United States of America,ME,Maine,6,,4.80,0.90,0.30,81.60,22.80,7.75
+2020-03-27,US,United States of America,ME,Maine,13,,10.40,1.95,0.65,88.80,24.75,8.35
 2020-03-22,US,United States of America,MO,Missouri,17,0,13.60,2.55,0.85,68.00,13.35,4.50
 2020-03-23,US,United States of America,MO,Missouri,93,0,74.40,13.95,4.65,141.60,27.30,9.10
 2020-03-24,US,United States of America,MO,Missouri,0,0,0.00,0.00,0.00,140.00,27.30,9.10
 2020-03-25,US,United States of America,MO,Missouri,173,5,138.40,25.95,8.65,274.40,53.10,17.75
 2020-03-26,US,United States of America,MO,Missouri,146,0,116.80,21.90,7.30,382.40,74.70,25.05
+2020-03-27,US,United States of America,MO,Missouri,167,0,133.60,25.05,8.35,497.60,99.60,33.40
 2020-03-22,US,United States of America,MS,Mississippi,67,0,53.60,10.05,3.35,157.60,31.05,10.35
 2020-03-23,US,United States of America,MS,Mississippi,42,0,33.60,6.30,2.10,189.60,37.35,12.45
 2020-03-24,US,United States of America,MS,Mississippi,71,0,56.80,10.65,3.55,239.20,47.85,16.00
 2020-03-25,US,United States of America,MS,Mississippi,57,1,45.60,8.55,2.85,274.40,55.95,18.85
 2020-03-26,US,United States of America,MS,Mississippi,108,4,86.40,16.20,5.40,348.00,71.85,24.25
+2020-03-27,US,United States of America,MS,Mississippi,94,2,75.20,14.10,4.70,399.20,85.35,28.90
 2020-03-22,US,United States of America,MT,Montana,11,,8.80,1.65,0.55,19.20,4.65,1.55
 2020-03-23,US,United States of America,MT,Montana,3,,2.40,0.45,0.15,21.60,5.10,1.70
 2020-03-24,US,United States of America,MT,Montana,12,,9.60,1.80,0.60,30.40,6.75,2.30
 2020-03-25,US,United States of America,MT,Montana,7,,5.60,1.05,0.35,34.40,7.80,2.65
 2020-03-26,US,United States of America,MT,Montana,18,,14.40,2.70,0.90,47.20,9.90,3.55
+2020-03-27,US,United States of America,MT,Montana,37,,29.60,5.55,1.85,73.60,15.15,5.35
 2020-03-22,US,United States of America,ND,North Dakota,0,0,0.00,0.00,0.00,21.60,4.20,1.40
 2020-03-23,US,United States of America,ND,North Dakota,2,0,1.60,0.30,0.10,23.20,4.50,1.50
 2020-03-24,US,United States of America,ND,North Dakota,4,0,3.20,0.60,0.20,24.80,4.95,1.70
 2020-03-25,US,United States of America,ND,North Dakota,5,0,4.00,0.75,0.25,26.40,5.70,1.95
 2020-03-26,US,United States of America,ND,North Dakota,13,0,10.40,1.95,0.65,29.60,7.65,2.60
+2020-03-27,US,United States of America,ND,North Dakota,13,0,10.40,1.95,0.65,36.00,9.60,3.20
 2020-03-22,US,United States of America,OK,Oklahoma,14,1,11.20,2.10,0.70,46.40,9.75,3.30
 2020-03-23,US,United States of America,OK,Oklahoma,14,0,11.20,2.10,0.70,56.80,11.85,4.00
 2020-03-24,US,United States of America,OK,Oklahoma,25,1,20.00,3.75,1.25,71.20,15.45,5.25
 2020-03-25,US,United States of America,OK,Oklahoma,58,2,46.40,8.70,2.90,108.00,24.15,8.10
 2020-03-26,US,United States of America,OK,Oklahoma,84,2,67.20,12.60,4.20,163.20,36.60,12.30
+2020-03-27,US,United States of America,OK,Oklahoma,74,1,59.20,11.10,3.70,218.40,46.95,15.95
 2020-03-22,US,United States of America,RI,Rhode Island,17,,13.60,2.55,0.85,50.40,12.00,4.05
 2020-03-23,US,United States of America,RI,Rhode Island,23,,18.40,3.45,1.15,68.00,15.15,5.15
 2020-03-24,US,United States of America,RI,Rhode Island,0,,0.00,0.00,0.00,68.00,15.15,5.15
 2020-03-25,US,United States of America,RI,Rhode Island,18,,14.40,2.70,0.90,72.80,16.50,6.05
 2020-03-26,US,United States of America,RI,Rhode Island,41,,32.80,6.15,2.05,105.60,21.75,8.00
+2020-03-27,US,United States of America,RI,Rhode Island,0,,0.00,0.00,0.00,88.80,21.75,8.00
 2020-03-22,US,United States of America,SD,South Dakota,7,0,5.60,1.05,0.35,9.60,3.15,1.05
 2020-03-23,US,United States of America,SD,South Dakota,7,0,5.60,1.05,0.35,14.40,3.45,1.40
 2020-03-24,US,United States of America,SD,South Dakota,2,0,1.60,0.30,0.10,15.20,3.30,1.50
 2020-03-25,US,United States of America,SD,South Dakota,11,0,8.80,1.65,0.55,24.00,4.80,2.05
 2020-03-26,US,United States of America,SD,South Dakota,5,0,4.00,0.75,0.25,28.00,5.55,2.05
+2020-03-27,US,United States of America,SD,South Dakota,12,0,9.60,1.80,0.60,35.20,7.35,2.50
 2020-03-22,US,United States of America,UT,Utah,45,1,36.00,6.75,2.25,122.40,26.85,9.00
 2020-03-23,US,United States of America,UT,Utah,76,0,60.80,11.40,3.80,174.40,38.25,12.80
 2020-03-24,US,United States of America,UT,Utah,42,0,33.60,6.30,2.10,198.40,44.25,14.90
 2020-03-25,US,United States of America,UT,Utah,47,0,37.60,7.05,2.35,226.40,51.00,17.20
 2020-03-26,US,United States of America,UT,Utah,56,0,44.80,8.40,2.80,259.20,59.40,20.00
+2020-03-27,US,United States of America,UT,Utah,78,1,62.40,11.70,3.90,294.40,67.80,23.80
 2020-03-22,US,United States of America,WY,Wyoming,1,,0.80,0.15,0.05,16.80,3.60,1.20
 2020-03-23,US,United States of America,WY,Wyoming,2,,1.60,0.30,0.10,18.40,3.90,1.30
 2020-03-24,US,United States of America,WY,Wyoming,3,,2.40,0.45,0.15,15.20,4.20,1.45
 2020-03-25,US,United States of America,WY,Wyoming,15,,12.00,2.25,0.75,23.20,6.45,2.20
 2020-03-26,US,United States of America,WY,Wyoming,9,,7.20,1.35,0.45,28.00,7.65,2.65
+2020-03-27,US,United States of America,WY,Wyoming,17,,13.60,2.55,0.85,40.80,10.05,3.45
 2020-03-25,BG,Bulgaria,,,19,0,15.20,2.85,0.95,111.20,29.55,10.90
 2020-03-26,BG,Bulgaria,,,22,0,17.60,3.30,1.10,120.00,31.65,11.90
 2020-03-27,BG,Bulgaria,,,22,0,17.60,3.30,1.10,127.20,33.45,12.85
