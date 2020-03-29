@@ -4565,6 +4565,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,ES,Spain,,,8578,655,6862.40,1286.70,428.90,31232.80,7565.25,2703.00
 2020-03-28,ES,Spain,,,7871,769,6296.80,1180.65,393.55,35263.20,8445.90,3055.45
 2020-03-29,ES,Spain,,,8189,832,6551.20,1228.35,409.45,37857.60,9458.55,3401.95
+2020-03-30,ES,Spain,,,6549,838,5239.20,982.35,327.45,40180.00,10142.85,3652.20
 2020-01-16,IT,Italy,,,0,0,0.00,0.00,0.00,0.00,0.00,0.00
 2020-01-17,IT,Italy,,,0,0,0.00,0.00,0.00,0.00,0.00,0.00
 2020-01-18,IT,Italy,,,0,0,0.00,0.00,0.00,0.00,0.00,0.00
@@ -4722,7 +4723,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,CN,China,BJ,Beijing,5,0,4.00,0.75,0.25,68.80,19.35,6.55
 2020-03-27,CN,China,BJ,Beijing,3,0,2.40,0.45,0.15,62.40,19.05,6.70
 2020-03-28,CN,China,BJ,Beijing,4,0,3.20,0.60,0.20,59.20,18.15,6.85
-2020-03-29,CN,China,BJ,Beijing,3,0,2.40,0.45,0.15,49.60,18.00,6.95
+2020-03-29,CN,China,BJ,Beijing,4,0,3.20,0.60,0.20,50.40,18.15,7.00
 2020-02-06,CN,China,CQ,Chongqing,24,0,19.20,3.60,1.20,174.40,51.45,19.75
 2020-02-07,CN,China,CQ,Chongqing,15,0,12.00,2.25,0.75,163.20,51.00,20.30
 2020-02-08,CN,China,CQ,Chongqing,13,0,10.40,1.95,0.65,144.80,47.70,20.05
@@ -5469,7 +5470,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,CN,China,TJ,Tianjin,6,0,4.80,0.90,0.30,12.00,2.25,0.75
 2020-03-27,CN,China,TJ,Tianjin,1,0,0.80,0.15,0.05,12.80,2.40,0.80
 2020-03-28,CN,China,TJ,Tianjin,9,0,7.20,1.35,0.45,20.00,3.75,1.25
-2020-03-29,CN,China,TJ,Tianjin,2,0,1.60,0.30,0.10,20.80,4.05,1.35
+2020-03-29,CN,China,TJ,Tianjin,5,0,4.00,0.75,0.25,23.20,4.50,1.50
 2020-02-07,CN,China,YN,Yunnan,3,0,2.40,0.45,0.15,42.40,18.75,6.75
 2020-02-08,CN,China,YN,Yunnan,2,0,1.60,0.30,0.10,37.60,17.85,6.80
 2020-02-09,CN,China,YN,Yunnan,3,0,2.40,0.45,0.15,33.60,14.55,6.80
@@ -5884,7 +5885,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,CN,China,HK,Hong Kong,43,0,34.40,6.45,2.15,236.80,48.60,16.90
 2020-03-27,CN,China,HK,Hong Kong,66,0,52.80,9.90,3.30,270.40,58.20,20.20
 2020-03-28,CN,China,HK,Hong Kong,42,0,33.60,6.30,2.10,295.20,63.60,21.75
-2020-03-29,CN,China,HK,Hong Kong,21,0,16.80,3.15,1.05,260.80,65.55,22.65
+2020-03-29,CN,China,HK,Hong Kong,80,0,64.00,12.00,4.00,308.00,74.40,25.60
 2020-03-26,CN,China,MO,Macau,1,0,0.80,0.15,0.05,15.20,3.15,1.05
 2020-03-27,CN,China,MO,Macau,2,0,1.60,0.30,0.10,15.20,3.45,1.15
 2020-03-28,CN,China,MO,Macau,2,0,1.60,0.30,0.10,14.40,3.75,1.25
@@ -6483,6 +6484,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,AN,Andalucía,396,21,316.80,59.40,19.80,1918.40,470.55,165.80
 2020-03-27,ES,Spain,AN,Andalucía,387,10,309.60,58.05,19.35,2004.80,503.40,183.90
 2020-03-28,ES,Spain,AN,Andalucía,484,31,387.20,72.60,24.20,2209.60,558.45,202.90
+2020-03-29,ES,Spain,AN,Andalucía,405,32,324.00,60.75,20.25,2365.60,599.85,220.65
 2020-03-18,ES,Spain,AR,Aragón,19,1,15.20,2.85,0.95,144.80,33.00,11.30
 2020-03-19,ES,Spain,AR,Aragón,55,2,44.00,8.25,2.75,173.60,40.50,14.05
 2020-03-20,ES,Spain,AR,Aragón,79,2,63.20,11.85,3.95,224.00,52.05,17.95
@@ -6494,6 +6496,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,AR,Aragón,209,8,167.20,31.35,10.45,668.00,155.40,53.55
 2020-03-27,ES,Spain,AR,Aragón,222,10,177.60,33.30,11.10,782.40,178.65,63.70
 2020-03-28,ES,Spain,AR,Aragón,254,0,203.20,38.10,12.70,934.40,212.70,75.60
+2020-03-29,ES,Spain,AR,Aragón,266,35,212.80,39.90,13.30,1060.80,247.65,88.90
 2020-03-18,ES,Spain,AS,Asturias,49,0,39.20,7.35,2.45,168.00,35.55,12.05
 2020-03-19,ES,Spain,AS,Asturias,50,0,40.00,7.50,2.50,196.00,43.05,14.50
 2020-03-20,ES,Spain,AS,Asturias,52,1,41.60,7.80,2.60,221.60,50.55,16.95
@@ -6505,6 +6508,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,AS,Asturias,62,2,49.60,9.30,3.10,439.20,112.35,40.45
 2020-03-27,ES,Spain,AS,Asturias,59,2,47.20,8.85,2.95,444.80,114.45,42.65
 2020-03-28,ES,Spain,AS,Asturias,104,4,83.20,15.60,5.20,414.40,124.05,46.85
+2020-03-29,ES,Spain,AS,Asturias,84,8,67.20,12.60,4.20,434.40,134.25,49.80
 2020-03-18,ES,Spain,CB,Cantabria,10,1,8.00,1.50,0.50,44.80,8.70,2.90
 2020-03-19,ES,Spain,CB,Cantabria,15,0,12.00,2.25,0.75,53.60,10.95,3.65
 2020-03-20,ES,Spain,CB,Cantabria,61,0,48.80,9.15,3.05,92.00,19.80,6.70
@@ -6516,6 +6520,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,CB,Cantabria,161,3,128.80,24.15,8.05,470.40,96.00,32.95
 2020-03-27,ES,Spain,CB,Cantabria,139,4,111.20,20.85,6.95,532.80,113.85,39.70
 2020-03-28,ES,Spain,CB,Cantabria,127,1,101.60,19.05,6.35,577.60,131.85,45.40
+2020-03-29,ES,Spain,CB,Cantabria,86,4,68.80,12.90,4.30,592.80,144.75,49.60
 2020-03-18,ES,Spain,CE,Ceuta,0,0,0.00,0.00,0.00,0.80,0.15,0.05
 2020-03-19,ES,Spain,CE,Ceuta,0,0,0.00,0.00,0.00,0.80,0.15,0.05
 2020-03-20,ES,Spain,CE,Ceuta,4,0,3.20,0.60,0.20,4.00,0.75,0.25
@@ -6527,6 +6532,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,CE,Ceuta,1,0,0.80,0.15,0.05,7.20,1.50,0.50
 2020-03-27,ES,Spain,CE,Ceuta,7,0,5.60,1.05,0.35,9.60,2.40,0.85
 2020-03-28,ES,Spain,CE,Ceuta,0,1,0.00,0.00,0.00,9.60,2.40,0.85
+2020-03-29,ES,Spain,CE,Ceuta,4,0,3.20,0.60,0.20,12.80,3.00,1.05
 2020-03-18,ES,Spain,CL,Castilla y León,237,10,189.60,35.55,11.85,477.60,98.10,33.00
 2020-03-19,ES,Spain,CL,Castilla y León,200,7,160.00,30.00,10.00,620.80,128.10,42.85
 2020-03-20,ES,Spain,CL,Castilla y León,279,14,223.20,41.85,13.95,782.40,168.75,56.80
@@ -6538,6 +6544,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,CL,Castilla y León,548,41,438.40,82.20,27.40,2096.00,489.75,170.85
 2020-03-27,ES,Spain,CL,Castilla y León,644,46,515.20,96.60,32.20,2388.00,576.00,202.00
 2020-03-28,ES,Spain,CL,Castilla y León,659,69,527.20,98.85,32.95,2660.00,668.55,231.10
+2020-03-29,ES,Spain,CL,Castilla y León,623,59,498.40,93.45,31.15,2936.00,747.45,259.55
 2020-03-18,ES,Spain,CM,Castilla La Mancha,108,11,86.40,16.20,5.40,483.20,99.00,33.40
 2020-03-19,ES,Spain,CM,Castilla La Mancha,126,14,100.80,18.90,6.30,548.80,117.90,39.45
 2020-03-20,ES,Spain,CM,Castilla La Mancha,243,0,194.40,36.45,12.15,680.00,154.35,51.55
@@ -6549,6 +6556,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,CM,Castilla La Mancha,603,53,482.40,90.45,30.15,2065.60,464.10,165.60
 2020-03-27,ES,Spain,CM,Castilla La Mancha,551,51,440.80,82.65,27.55,2312.00,529.95,190.95
 2020-03-28,ES,Spain,CM,Castilla La Mancha,578,81,462.40,86.70,28.90,2471.20,591.75,215.90
+2020-03-29,ES,Spain,CM,Castilla La Mancha,734,91,587.20,110.10,36.70,2741.60,701.85,247.85
 2020-03-18,ES,Spain,CN,Islas Canarias,33,1,26.40,4.95,1.65,115.20,25.50,8.70
 2020-03-19,ES,Spain,CN,Islas Canarias,39,0,31.20,5.85,1.95,135.20,30.30,10.65
 2020-03-20,ES,Spain,CN,Islas Canarias,67,1,53.60,10.05,3.35,173.60,40.50,13.95
@@ -6560,6 +6568,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,CN,Islas Canarias,127,3,101.60,19.05,6.35,451.20,104.10,37.35
 2020-03-27,ES,Spain,CN,Islas Canarias,94,3,75.20,14.10,4.70,472.80,115.35,41.35
 2020-03-28,ES,Spain,CN,Islas Canarias,147,9,117.60,22.05,7.35,541.60,135.90,47.75
+2020-03-29,ES,Spain,CN,Islas Canarias,100,3,80.00,15.00,5.00,568.80,146.55,51.75
 2020-03-18,ES,Spain,CT,Cataluña,472,23,377.60,70.80,23.60,1368.00,276.30,92.55
 2020-03-19,ES,Spain,CT,Cataluña,836,14,668.80,125.40,41.80,1953.60,401.70,134.35
 2020-03-20,ES,Spain,CT,Cataluña,568,27,454.40,85.20,28.40,2363.20,483.15,162.30
@@ -6571,6 +6580,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,CT,Cataluña,1655,156,1324.00,248.25,82.75,7112.00,1662.45,571.80
 2020-03-27,ES,Spain,CT,Cataluña,1348,208,1078.40,202.20,67.40,7736.00,1833.75,634.00
 2020-03-28,ES,Spain,CT,Cataluña,1323,190,1058.40,198.45,66.15,8048.00,2004.00,697.35
+2020-03-29,ES,Spain,CT,Cataluña,763,156,610.40,114.45,38.15,8257.60,2044.80,725.85
 2020-03-18,ES,Spain,EX,Extremadura,41,3,32.80,6.15,2.05,148.00,28.20,9.40
 2020-03-19,ES,Spain,EX,Extremadura,47,2,37.60,7.05,2.35,177.60,35.25,11.75
 2020-03-20,ES,Spain,EX,Extremadura,56,2,44.80,8.40,2.80,206.40,43.65,14.55
@@ -6582,6 +6592,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,EX,Extremadura,227,19,181.60,34.05,11.35,582.40,135.45,48.00
 2020-03-27,ES,Spain,EX,Extremadura,262,11,209.60,39.30,13.10,747.20,170.40,60.60
 2020-03-28,ES,Spain,EX,Extremadura,163,19,130.40,24.45,8.15,832.00,192.45,67.75
+2020-03-29,ES,Spain,EX,Extremadura,62,12,49.60,9.30,3.10,857.60,195.45,69.50
 2020-03-18,ES,Spain,GA,Galicia,49,0,39.20,7.35,2.45,241.60,50.70,17.05
 2020-03-19,ES,Spain,GA,Galicia,112,1,89.60,16.80,5.60,334.40,67.50,22.60
 2020-03-20,ES,Spain,GA,Galicia,125,1,100.00,18.75,6.25,394.40,85.95,28.85
@@ -6593,6 +6604,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,GA,Galicia,262,5,209.60,39.30,13.10,1169.60,270.00,93.80
 2020-03-27,ES,Spain,GA,Galicia,407,11,325.60,61.05,20.35,1395.20,319.05,114.35
 2020-03-28,ES,Spain,GA,Galicia,450,4,360.00,67.50,22.50,1626.40,379.05,134.35
+2020-03-29,ES,Spain,GA,Galicia,367,13,293.60,55.05,18.35,1779.20,427.05,151.20
 2020-03-18,ES,Spain,IB,Islas Baleares,20,0,16.00,3.00,1.00,76.80,15.90,5.50
 2020-03-19,ES,Spain,IB,Islas Baleares,57,1,45.60,8.55,2.85,117.60,24.45,8.20
 2020-03-20,ES,Spain,IB,Islas Baleares,34,0,27.20,5.10,1.70,138.40,29.25,9.85
@@ -6604,6 +6616,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,IB,Islas Baleares,98,4,78.40,14.70,4.90,392.80,94.80,32.20
 2020-03-27,ES,Spain,IB,Islas Baleares,95,5,76.00,14.25,4.75,441.60,109.05,36.65
 2020-03-28,ES,Spain,IB,Islas Baleares,107,4,85.60,16.05,5.35,492.80,118.35,41.60
+2020-03-29,ES,Spain,IB,Islas Baleares,96,3,76.80,14.40,4.80,501.60,129.90,46.50
 2020-03-18,ES,Spain,MC,Murcia,25,0,20.00,3.75,1.25,88.80,18.30,6.10
 2020-03-19,ES,Spain,MC,Murcia,45,0,36.00,6.75,2.25,112.80,25.05,8.35
 2020-03-20,ES,Spain,MC,Murcia,37,0,29.60,5.55,1.85,135.20,30.45,10.20
@@ -6615,6 +6628,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,MC,Murcia,119,3,95.20,17.85,5.95,343.20,82.35,29.25
 2020-03-27,ES,Spain,MC,Murcia,118,7,94.40,17.70,5.90,408.00,96.45,34.40
 2020-03-28,ES,Spain,MC,Murcia,88,2,70.40,13.20,4.40,449.60,108.75,38.35
+2020-03-29,ES,Spain,MC,Murcia,70,3,56.00,10.50,3.50,460.80,116.25,41.25
 2020-03-18,ES,Spain,MD,Madrid,766,35,612.80,114.90,38.30,3690.40,825.00,279.40
 2020-03-19,ES,Spain,MD,Madrid,1140,108,912.00,171.00,57.00,4311.20,990.45,335.35
 2020-03-20,ES,Spain,MD,Madrid,388,130,310.40,58.20,19.40,4140.00,1044.45,353.75
@@ -6626,6 +6640,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,MD,Madrid,2569,265,2055.20,385.35,128.45,8311.20,2133.90,807.10
 2020-03-27,ES,Spain,MD,Madrid,2077,322,1661.60,311.55,103.85,9662.40,2354.85,892.75
 2020-03-28,ES,Spain,MD,Madrid,2277,345,1821.60,341.55,113.85,10079.20,2603.25,976.50
+2020-03-29,ES,Spain,MD,Madrid,1157,325,925.60,173.55,57.85,10380.00,2670.90,986.85
 2020-03-18,ES,Spain,ML,Melilla,3,0,2.40,0.45,0.15,16.00,3.00,1.00
 2020-03-19,ES,Spain,ML,Melilla,3,0,2.40,0.45,0.15,18.40,3.45,1.15
 2020-03-20,ES,Spain,ML,Melilla,1,0,0.80,0.15,0.05,17.60,3.60,1.20
@@ -6637,6 +6652,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,ML,Melilla,1,1,0.80,0.15,0.05,12.80,5.40,1.95
 2020-03-27,ES,Spain,ML,Melilla,3,0,2.40,0.45,0.15,14.40,5.10,2.10
 2020-03-28,ES,Spain,ML,Melilla,3,0,2.40,0.45,0.15,16.00,5.55,2.15
+2020-03-29,ES,Spain,ML,Melilla,3,0,2.40,0.45,0.15,18.40,4.65,2.25
 2020-03-18,ES,Spain,NC,Navarra,73,1,58.40,10.95,3.65,272.00,57.45,19.25
 2020-03-19,ES,Spain,NC,Navarra,96,1,76.80,14.40,4.80,327.20,71.85,23.95
 2020-03-20,ES,Spain,NC,Navarra,72,1,57.60,10.80,3.60,339.20,82.65,27.55
@@ -6648,6 +6664,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,NC,Navarra,214,16,171.20,32.10,10.70,743.20,189.75,68.25
 2020-03-27,ES,Spain,NC,Navarra,230,9,184.00,34.50,11.50,869.60,218.70,78.40
 2020-03-28,ES,Spain,NC,Navarra,188,12,150.40,28.20,9.40,932.00,233.25,84.95
+2020-03-29,ES,Spain,NC,Navarra,182,14,145.60,27.30,9.10,973.60,254.70,93.25
 2020-03-18,ES,Spain,PV,País Vasco,208,4,166.40,31.20,10.40,598.40,139.20,48.00
 2020-03-19,ES,Spain,PV,País Vasco,217,13,173.60,32.55,10.85,675.20,171.75,58.65
 2020-03-20,ES,Spain,PV,País Vasco,275,18,220.00,41.25,13.75,838.40,204.45,72.40
@@ -6659,6 +6676,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,PV,País Vasco,675,25,540.00,101.25,33.75,2204.80,529.35,186.05
 2020-03-27,ES,Spain,PV,País Vasco,655,27,524.00,98.25,32.75,2508.80,595.65,212.75
 2020-03-28,ES,Spain,PV,País Vasco,535,14,428.00,80.25,26.75,2728.80,675.90,235.95
+2020-03-29,ES,Spain,PV,País Vasco,604,44,483.20,90.60,30.20,2914.40,746.25,266.15
 2020-03-18,ES,Spain,RI,La Rioja,64,0,51.20,9.60,3.20,192.00,58.50,20.80
 2020-03-19,ES,Spain,RI,La Rioja,49,0,39.20,7.35,2.45,210.40,64.35,23.05
 2020-03-20,ES,Spain,RI,La Rioja,29,2,23.20,4.35,1.45,203.20,66.30,24.30
@@ -6670,6 +6688,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,RI,La Rioja,67,6,53.60,10.05,3.35,421.60,107.55,40.80
 2020-03-27,ES,Spain,RI,La Rioja,241,12,192.80,36.15,12.05,591.20,140.40,51.55
 2020-03-28,ES,Spain,RI,La Rioja,200,10,160.00,30.00,10.00,697.60,168.60,59.65
+2020-03-29,ES,Spain,RI,La Rioja,193,3,154.40,28.95,9.65,780.00,191.10,67.55
 2020-03-18,ES,Spain,VC,Comunidad Valenciana,185,9,148.00,27.75,9.25,528.80,104.40,35.55
 2020-03-19,ES,Spain,VC,Comunidad Valenciana,195,2,156.00,29.25,9.75,676.00,133.65,45.10
 2020-03-20,ES,Spain,VC,Comunidad Valenciana,184,9,147.20,27.60,9.20,808.80,160.20,54.30
@@ -6681,6 +6700,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,ES,Spain,VC,Comunidad Valenciana,584,24,467.20,87.60,29.20,1823.20,460.50,156.75
 2020-03-27,ES,Spain,VC,Comunidad Valenciana,332,31,265.60,49.80,16.60,1941.60,468.45,172.80
 2020-03-28,ES,Spain,VC,Comunidad Valenciana,502,36,401.60,75.30,25.10,2136.80,543.75,197.00
+2020-03-29,ES,Spain,VC,Comunidad Valenciana,750,33,600.00,112.50,37.50,2544.00,636.45,232.70
 2020-03-28,JO,Jordan,,,40,0,32.00,6.00,2.00,114.40,29.55,10.55
 2020-03-22,LV,Latvia,,,13,0,10.40,1.95,0.65,78.40,17.70,6.15
 2020-03-23,LV,Latvia,,,15,0,12.00,2.25,0.75,86.40,19.65,6.85
@@ -6738,6 +6758,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,ACT,Australian Capital Territory,9,0,7.20,1.35,0.45,39.20,7.80,2.65
 2020-03-27,AU,Australia,ACT,Australian Capital Territory,9,0,7.20,1.35,0.45,44.80,9.15,3.05
 2020-03-28,AU,Australia,ACT,Australian Capital Territory,9,0,7.20,1.35,0.45,49.60,10.35,3.50
+2020-03-29,AU,Australia,ACT,Australian Capital Territory,6,0,4.80,0.90,0.30,46.40,11.25,3.80
 2020-03-19,AU,Australia,NSW,New South Wales,40,,32.00,6.00,2.00,183.20,40.50,14.20
 2020-03-20,AU,Australia,NSW,New South Wales,75,,60.00,11.25,3.75,232.00,51.15,17.80
 2020-03-21,AU,Australia,NSW,New South Wales,54,,43.20,8.10,2.70,259.20,58.20,20.35
@@ -6748,6 +6769,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,NSW,New South Wales,190,0,152.00,28.50,9.50,730.40,166.20,57.75
 2020-03-27,AU,Australia,NSW,New South Wales,186,0,148.80,27.90,9.30,819.20,190.80,66.40
 2020-03-28,AU,Australia,NSW,New South Wales,212,1,169.60,31.80,10.60,945.60,217.05,76.30
+2020-03-29,AU,Australia,NSW,New South Wales,174,0,139.20,26.10,8.70,1006.40,237.30,84.00
 2020-03-19,AU,Australia,NT,Northern Territory,0,,0.00,0.00,0.00,0.00,0.00,-0.05
 2020-03-20,AU,Australia,NT,Northern Territory,2,,1.60,0.30,0.10,1.60,0.30,0.05
 2020-03-21,AU,Australia,NT,Northern Territory,2,,1.60,0.30,0.10,3.20,0.60,0.20
@@ -6758,6 +6780,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,NT,Northern Territory,7,0,5.60,1.05,0.35,9.60,1.80,0.60
 2020-03-27,AU,Australia,NT,Northern Territory,2,0,1.60,0.30,0.10,9.60,2.10,0.70
 2020-03-28,AU,Australia,NT,Northern Territory,1,0,0.80,0.15,0.05,8.80,2.25,0.75
+2020-03-29,AU,Australia,NT,Northern Territory,0,0,0.00,0.00,0.00,8.00,2.25,0.75
 2020-03-19,AU,Australia,QLD,Queensland,50,,40.00,7.50,2.50,93.60,19.50,6.65
 2020-03-20,AU,Australia,QLD,Queensland,40,,32.00,6.00,2.00,119.20,25.35,8.55
 2020-03-21,AU,Australia,QLD,Queensland,37,,29.60,5.55,1.85,140.00,30.90,10.35
@@ -6768,6 +6791,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,QLD,Queensland,50,0,40.00,7.50,2.50,279.20,67.05,23.65
 2020-03-27,AU,Australia,QLD,Queensland,62,0,49.60,9.30,3.10,296.80,73.95,26.40
 2020-03-28,AU,Australia,QLD,Queensland,70,0,56.00,10.50,3.50,323.20,83.55,29.50
+2020-03-29,AU,Australia,QLD,Queensland,31,1,24.80,4.65,1.55,317.60,86.70,30.50
 2020-03-19,AU,Australia,SA,South Australia,5,,4.00,0.75,0.25,24.00,5.25,1.85
 2020-03-20,AU,Australia,SA,South Australia,8,,6.40,1.20,0.40,27.20,6.45,2.15
 2020-03-21,AU,Australia,SA,South Australia,17,,13.60,2.55,0.85,38.40,9.00,3.00
@@ -6778,6 +6802,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,SA,South Australia,38,0,30.40,5.70,1.90,154.40,32.40,11.30
 2020-03-27,AU,Australia,SA,South Australia,22,0,17.60,3.30,1.10,165.60,35.55,12.25
 2020-03-28,AU,Australia,SA,South Australia,30,0,24.00,4.50,1.50,176.00,38.55,13.55
+2020-03-29,AU,Australia,SA,South Australia,12,0,9.60,1.80,0.60,159.20,40.05,14.00
 2020-03-19,AU,Australia,TAS,Tasmania,0,,0.00,0.00,0.00,5.60,1.20,0.45
 2020-03-20,AU,Australia,TAS,Tasmania,0,,0.00,0.00,0.00,4.00,1.20,0.45
 2020-03-21,AU,Australia,TAS,Tasmania,6,,4.80,0.90,0.30,8.80,2.10,0.75
@@ -6788,6 +6813,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,TAS,Tasmania,5,0,4.00,0.75,0.25,29.60,6.30,2.20
 2020-03-27,AU,Australia,TAS,Tasmania,11,0,8.80,1.65,0.55,38.40,7.65,2.75
 2020-03-28,AU,Australia,TAS,Tasmania,4,0,3.20,0.60,0.20,36.80,8.25,2.85
+2020-03-29,AU,Australia,TAS,Tasmania,4,0,3.20,0.60,0.20,35.20,8.85,3.05
 2020-03-19,AU,Australia,VIC,Victoria,29,,23.20,4.35,1.45,98.40,20.85,7.00
 2020-03-20,AU,Australia,VIC,Victoria,28,,22.40,4.20,1.40,113.60,24.90,8.40
 2020-03-21,AU,Australia,VIC,Victoria,51,,40.80,7.65,2.55,144.00,32.10,10.95
@@ -6798,6 +6824,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,VIC,Victoria,54,3,43.20,8.10,2.70,296.00,70.65,24.90
 2020-03-27,AU,Australia,VIC,Victoria,54,0,43.20,8.10,2.70,316.80,77.55,27.35
 2020-03-28,AU,Australia,VIC,Victoria,111,0,88.80,16.65,5.55,364.80,92.10,32.45
+2020-03-29,AU,Australia,VIC,Victoria,84,1,67.20,12.60,4.20,378.40,101.25,36.00
 2020-03-19,AU,Australia,WA,Western Australia,17,,13.60,2.55,0.85,34.40,7.35,2.50
 2020-03-20,AU,Australia,WA,Western Australia,12,,9.60,1.80,0.60,40.00,9.00,3.05
 2020-03-21,AU,Australia,WA,Western Australia,26,,20.80,3.90,1.30,58.40,12.60,4.35
@@ -6808,6 +6835,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,AU,Australia,WA,Western Australia,26,1,20.80,3.90,1.30,143.20,32.10,11.10
 2020-03-27,AU,Australia,WA,Western Australia,24,0,19.20,3.60,1.20,152.80,35.55,12.30
 2020-03-28,AU,Australia,WA,Western Australia,23,0,18.40,3.45,1.15,150.40,37.50,13.20
+2020-03-29,AU,Australia,WA,Western Australia,33,0,26.40,4.95,1.65,152.80,42.00,14.70
 2020-03-20,CL,Chile,,,104,0,83.20,15.60,5.20,247.20,50.55,17.05
 2020-03-21,CL,Chile,,,92,0,73.60,13.80,4.60,312.80,63.60,21.55
 2020-03-22,CL,Chile,,,103,0,82.40,15.45,5.15,380.80,78.60,26.65
