@@ -4770,6 +4770,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-28,IT,Italy,,,5959,969,4767.20,893.85,297.95,31581.60,9262.65,3569.25
 2020-03-29,IT,Italy,,,5974,889,4779.20,896.10,298.70,31115.20,9673.80,3740.60
 2020-03-30,IT,Italy,,,5217,756,4173.60,782.55,260.85,30840.80,9927.45,3826.60
+2020-03-31,IT,Italy,,,4050,812,3240.00,607.50,202.50,30249.60,9903.90,3849.60
 2020-02-06,CN,China,AH,Anhui,61,0,48.80,9.15,3.05,312.80,82.80,29.50
 2020-02-07,CN,China,AH,Anhui,74,0,59.20,11.10,3.70,342.40,90.75,32.80
 2020-02-08,CN,China,AH,Anhui,68,0,54.40,10.20,3.40,348.80,99.45,35.90
@@ -5955,6 +5956,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,IDF,Île-de-France,,118,,,,,,
 2020-03-28,FR,France,IDF,Île-de-France,,110,,,,,,
 2020-03-29,FR,France,IDF,Île-de-France,,119,,,,,,
+2020-03-30,FR,France,IDF,Île-de-France,,147,,,,,,
 2020-02-12,FR,France,NAQ,Nouvelle-Aquitaine,0,,0.00,0.00,0.00,0.00,0.00,0.00
 2020-02-20,FR,France,NAQ,Nouvelle-Aquitaine,0,,0.00,0.00,0.00,0.00,0.00,0.00
 2020-02-28,FR,France,NAQ,Nouvelle-Aquitaine,0,,0.00,0.00,0.00,0.00,0.00,0.00
@@ -5987,6 +5989,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,NAQ,Nouvelle-Aquitaine,,8,,,,,,
 2020-03-28,FR,France,NAQ,Nouvelle-Aquitaine,,8,,,,,,
 2020-03-29,FR,France,NAQ,Nouvelle-Aquitaine,,8,,,,,,
+2020-03-30,FR,France,NAQ,Nouvelle-Aquitaine,,14,,,,,,
 2020-02-21,CN,China,QH,Qinghai,0,0,0.00,0.00,0.00,0.80,1.50,0.85
 2020-02-24,CN,China,QH,Qinghai,0,0,0.00,0.00,0.00,0.00,1.35,0.70
 2020-03-09,FR,France,ARA,Auvergne-Rhône-Alpes,36,2,28.80,5.40,1.80,120.00,26.55,8.85
@@ -6007,9 +6010,10 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,FR,France,ARA,Auvergne-Rhône-Alpes,119,1,95.20,17.85,5.95,920.80,228.60,83.75
 2020-03-25,FR,France,ARA,Auvergne-Rhône-Alpes,236,18,188.80,35.40,11.80,988.00,251.55,93.30
 2020-03-26,FR,France,ARA,Auvergne-Rhône-Alpes,,29,,,,,,
-2020-03-27,FR,France,ARA,Auvergne-Rhône-Alpes,,32,,,,,,
-2020-03-28,FR,France,ARA,Auvergne-Rhône-Alpes,,30,,,,,,
+2020-03-27,FR,France,ARA,Auvergne-Rhône-Alpes,,33,,,,,,
+2020-03-28,FR,France,ARA,Auvergne-Rhône-Alpes,,29,,,,,,
 2020-03-29,FR,France,ARA,Auvergne-Rhône-Alpes,,32,,,,,,
+2020-03-30,FR,France,ARA,Auvergne-Rhône-Alpes,,37,,,,,,
 2020-03-04,CN,China,HK,Hong Kong,2,0,1.60,0.30,0.10,13.60,5.25,2.25
 2020-03-05,CN,China,HK,Hong Kong,3,0,2.40,0.45,0.15,10.40,5.55,2.20
 2020-03-06,CN,China,HK,Hong Kong,0,0,0.00,0.00,0.00,9.60,4.65,2.10
@@ -6060,6 +6064,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,21,Piemont,558,120,446.40,83.70,27.90,2904.80,897.15,325.60
 2020-03-28,IT,Italy,21,Piemont,579,48,463.20,86.85,28.95,3135.20,923.25,341.55
 2020-03-29,IT,Italy,21,Piemont,535,67,428.00,80.25,26.75,3028.80,946.35,366.65
+2020-03-30,IT,Italy,21,Piemont,506,65,404.80,75.90,25.30,3080.80,955.65,380.05
 2020-03-10,IT,Italy,23,Aosta Valley,2,0,1.60,0.30,0.10,13.60,2.55,0.85
 2020-03-11,IT,Italy,23,Aosta Valley,3,1,2.40,0.45,0.15,16.00,3.00,1.00
 2020-03-12,IT,Italy,23,Aosta Valley,7,0,5.60,1.05,0.35,20.00,4.05,1.35
@@ -6080,6 +6085,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,23,Aosta Valley,44,9,35.20,6.60,2.20,150.40,59.25,21.25
 2020-03-28,IT,Italy,23,Aosta Valley,59,4,47.20,8.85,2.95,158.40,60.90,24.15
 2020-03-29,IT,Italy,23,Aosta Valley,73,2,58.40,10.95,3.65,176.00,67.20,27.10
+2020-03-30,IT,Italy,23,Aosta Valley,0,7,0.00,0.00,0.00,152.80,62.85,26.35
 2020-03-10,IT,Italy,25,Lombardy,322,135,257.60,48.30,16.10,3416.80,808.20,280.95
 2020-03-11,IT,Italy,25,Lombardy,1489,149,1191.20,223.35,74.45,4368.00,1012.35,352.00
 2020-03-12,IT,Italy,25,Lombardy,1445,127,1156.00,216.75,72.25,5179.20,1216.50,423.35
@@ -6100,6 +6106,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,25,Lombardy,2409,541,1927.20,361.35,120.45,12027.20,3603.90,1428.65
 2020-03-28,IT,Italy,25,Lombardy,2117,542,1693.60,317.55,105.85,11120.00,3714.90,1479.75
 2020-03-29,IT,Italy,25,Lombardy,1592,416,1273.60,238.80,79.60,11040.80,3718.05,1466.10
+2020-03-30,IT,Italy,25,Lombardy,1154,458,923.20,173.10,57.70,10720.00,3667.20,1444.45
 2020-03-10,IT,Italy,34,Veneto,112,6,89.60,16.80,5.60,439.20,111.75,41.15
 2020-03-11,IT,Italy,34,Veneto,167,3,133.60,25.05,8.35,530.40,130.80,49.00
 2020-03-12,IT,Italy,34,Veneto,361,3,288.80,54.15,18.05,781.60,178.95,65.65
@@ -6120,6 +6127,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,34,Veneto,562,26,449.60,84.30,28.10,2772.80,798.75,305.65
 2020-03-28,IT,Italy,34,Veneto,433,49,346.40,64.95,21.65,2650.40,818.55,316.75
 2020-03-29,IT,Italy,34,Veneto,428,30,342.40,64.20,21.40,2588.80,848.10,321.05
+2020-03-30,IT,Italy,34,Veneto,366,21,292.80,54.90,18.30,2575.20,826.50,327.60
 2020-03-10,IT,Italy,36,Friuli Venezia Giulia,23,2,18.40,3.45,1.15,82.40,17.40,5.80
 2020-03-11,IT,Italy,36,Friuli Venezia Giulia,10,3,8.00,1.50,0.50,86.40,18.90,6.30
 2020-03-12,IT,Italy,36,Friuli Venezia Giulia,41,2,32.80,6.15,2.05,116.80,25.05,8.35
@@ -6140,6 +6148,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,36,Friuli Venezia Giulia,94,4,75.20,14.10,4.70,528.80,145.50,57.50
 2020-03-28,IT,Italy,36,Friuli Venezia Giulia,119,11,95.20,17.85,5.95,516.80,157.50,58.95
 2020-03-29,IT,Italy,36,Friuli Venezia Giulia,44,11,35.20,6.60,2.20,484.80,162.90,58.95
+2020-03-30,IT,Italy,36,Friuli Venezia Giulia,21,9,16.80,3.15,1.05,456.80,155.85,57.70
 2020-03-10,IT,Italy,42,Liguria,32,1,25.60,4.80,1.60,93.60,18.30,7.05
 2020-03-11,IT,Italy,42,Liguria,53,0,42.40,7.95,2.65,134.40,26.25,9.65
 2020-03-12,IT,Italy,42,Liguria,80,3,64.00,12.00,4.00,196.80,34.80,13.15
@@ -6160,6 +6169,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,42,Liguria,129,51,103.20,19.35,6.45,1180.00,320.55,121.10
 2020-03-28,IT,Italy,42,Liguria,126,27,100.80,18.90,6.30,1108.80,323.25,123.85
 2020-03-29,IT,Italy,42,Liguria,254,19,203.20,38.10,12.70,1128.80,344.70,130.65
+2020-03-30,IT,Italy,42,Liguria,141,20,112.80,21.15,7.05,1034.40,349.50,132.90
 2020-03-10,IT,Italy,45,Emilia-Romagna,147,15,117.60,22.05,7.35,890.40,215.40,75.75
 2020-03-11,IT,Italy,45,Emilia-Romagna,206,28,164.80,30.90,10.30,956.00,239.10,85.65
 2020-03-12,IT,Italy,45,Emilia-Romagna,208,33,166.40,31.20,10.40,999.20,259.50,95.00
@@ -6180,6 +6190,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,45,Emilia-Romagna,772,93,617.60,115.80,38.60,4496.00,1274.25,482.05
 2020-03-28,IT,Italy,45,Emilia-Romagna,795,77,636.00,119.25,39.75,4542.40,1329.15,506.00
 2020-03-29,IT,Italy,45,Emilia-Romagna,736,99,588.80,110.40,36.80,4451.20,1378.20,523.75
+2020-03-30,IT,Italy,45,Emilia-Romagna,412,95,329.60,61.80,20.60,3996.80,1350.90,521.90
 2020-03-10,IT,Italy,52,Tuscany,56,0,44.80,8.40,2.80,196.00,39.30,13.20
 2020-03-11,IT,Italy,52,Tuscany,56,0,44.80,8.40,2.80,225.60,46.80,15.90
 2020-03-12,IT,Italy,52,Tuscany,44,4,35.20,6.60,2.20,242.40,52.95,18.10
@@ -6200,6 +6211,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,52,Tuscany,224,19,179.20,33.60,11.20,1325.60,400.35,154.30
 2020-03-28,IT,Italy,52,Tuscany,367,21,293.60,55.05,18.35,1444.00,442.65,167.35
 2020-03-29,IT,Italy,52,Tuscany,305,17,244.00,45.75,15.25,1476.00,460.35,174.60
+2020-03-30,IT,Italy,52,Tuscany,290,16,232.00,43.50,14.50,1560.80,462.30,181.55
 2020-03-10,IT,Italy,55,Umbria,9,0,7.20,1.35,0.45,23.20,5.55,1.85
 2020-03-11,IT,Italy,55,Umbria,9,0,7.20,1.35,0.45,29.60,6.90,2.30
 2020-03-12,IT,Italy,55,Umbria,18,0,14.40,2.70,0.90,44.00,9.60,3.20
@@ -6220,6 +6232,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,55,Umbria,82,1,65.60,12.30,4.10,391.20,111.15,41.00
 2020-03-28,IT,Italy,55,Umbria,85,7,68.00,12.75,4.25,405.60,120.75,44.65
 2020-03-29,IT,Italy,55,Umbria,54,3,43.20,8.10,2.70,401.60,123.90,45.80
+2020-03-30,IT,Italy,55,Umbria,28,2,22.40,4.20,1.40,379.20,120.60,45.40
 2020-03-10,IT,Italy,57,Marche,71,3,56.80,10.65,3.55,266.40,58.65,19.70
 2020-03-11,IT,Italy,57,Marche,85,5,68.00,12.75,4.25,316.00,70.95,23.95
 2020-03-12,IT,Italy,57,Marche,113,4,90.40,16.95,5.65,374.40,87.15,29.55
@@ -6240,6 +6253,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,57,Marche,82,26,65.60,12.30,4.10,972.00,309.45,130.20
 2020-03-28,IT,Italy,57,Marche,177,28,141.60,26.55,8.85,976.00,319.65,132.40
 2020-03-29,IT,Italy,57,Marche,185,22,148.00,27.75,9.25,909.60,328.05,132.95
+2020-03-30,IT,Italy,57,Marche,126,31,100.80,18.90,6.30,892.00,317.40,127.55
 2020-03-10,IT,Italy,62,Lazio,14,1,11.20,2.10,0.70,81.60,16.95,5.65
 2020-03-11,IT,Italy,62,Lazio,34,0,27.20,5.10,1.70,96.00,22.05,7.35
 2020-03-12,IT,Italy,62,Lazio,50,3,40.00,7.50,2.50,124.80,29.10,9.85
@@ -6260,6 +6274,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,62,Lazio,199,12,159.20,29.85,9.95,1029.60,278.85,104.75
 2020-03-28,IT,Italy,62,Lazio,210,6,168.00,31.50,10.50,1052.00,297.30,111.40
 2020-03-29,IT,Italy,62,Lazio,201,12,160.80,30.15,10.05,1058.40,314.85,117.45
+2020-03-30,IT,Italy,62,Lazio,208,14,166.40,31.20,10.40,1099.20,328.50,123.90
 2020-03-10,IT,Italy,65,Abruzzo,8,1,6.40,1.20,0.40,25.60,5.55,1.90
 2020-03-11,IT,Italy,65,Abruzzo,0,0,0.00,0.00,0.00,24.80,5.55,1.90
 2020-03-12,IT,Italy,65,Abruzzo,46,1,36.80,6.90,2.30,60.80,12.30,4.20
@@ -6280,6 +6295,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,65,Abruzzo,71,5,56.80,10.65,3.55,454.40,132.00,46.65
 2020-03-28,IT,Italy,65,Abruzzo,116,8,92.80,17.40,5.80,483.20,143.55,52.20
 2020-03-29,IT,Italy,65,Abruzzo,160,12,128.00,24.00,8.00,564.80,159.60,59.05
+2020-03-30,IT,Italy,65,Abruzzo,52,14,41.60,7.80,2.60,545.60,162.30,60.40
 2020-03-10,IT,Italy,67,Molise,1,0,0.80,0.15,0.05,9.60,2.25,0.75
 2020-03-11,IT,Italy,67,Molise,1,0,0.80,0.15,0.05,10.40,2.40,0.80
 2020-03-12,IT,Italy,67,Molise,0,0,0.00,0.00,0.00,7.20,2.40,0.80
@@ -6300,6 +6316,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,67,Molise,6,1,4.80,0.90,0.30,47.20,13.80,4.65
 2020-03-28,IT,Italy,67,Molise,14,0,11.20,2.10,0.70,49.60,15.30,5.30
 2020-03-29,IT,Italy,67,Molise,4,0,3.20,0.60,0.20,48.80,15.30,5.50
+2020-03-30,IT,Italy,67,Molise,7,0,5.60,1.05,0.35,53.60,15.90,5.85
 2020-03-10,IT,Italy,72,Campania,7,0,5.60,1.05,0.35,77.60,18.60,6.35
 2020-03-11,IT,Italy,72,Campania,27,1,21.60,4.05,1.35,98.40,22.50,7.70
 2020-03-12,IT,Italy,72,Campania,25,0,20.00,3.75,1.25,107.20,24.90,8.95
@@ -6320,6 +6337,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,72,Campania,144,15,115.20,21.60,7.20,564.00,168.15,63.75
 2020-03-28,IT,Italy,72,Campania,138,11,110.40,20.70,6.90,598.40,178.80,68.60
 2020-03-29,IT,Italy,72,Campania,167,8,133.60,25.05,8.35,658.40,194.85,74.35
+2020-03-30,IT,Italy,72,Campania,193,8,154.40,28.95,9.65,740.80,223.80,80.95
 2020-03-10,IT,Italy,75,Apulia,9,0,7.20,1.35,0.45,42.40,8.70,2.95
 2020-03-11,IT,Italy,75,Apulia,18,2,14.40,2.70,0.90,54.40,11.10,3.85
 2020-03-12,IT,Italy,75,Apulia,27,0,21.60,4.05,1.35,72.00,15.15,5.20
@@ -6340,6 +6358,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,75,Apulia,152,4,121.60,22.80,7.60,602.40,165.60,61.50
 2020-03-28,IT,Italy,75,Apulia,124,2,99.20,18.60,6.20,626.40,184.20,66.45
 2020-03-29,IT,Italy,75,Apulia,91,15,72.80,13.65,4.55,610.40,181.35,69.15
+2020-03-30,IT,Italy,75,Apulia,163,5,130.40,24.45,8.15,644.80,199.35,74.10
 2020-03-10,IT,Italy,77,Basilicata,2,0,1.60,0.30,0.10,4.80,1.05,0.35
 2020-03-11,IT,Italy,77,Basilicata,1,0,0.80,0.15,0.05,5.60,1.20,0.40
 2020-03-12,IT,Italy,77,Basilicata,0,0,0.00,0.00,0.00,5.60,1.20,0.40
@@ -6360,6 +6379,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,77,Basilicata,17,2,13.60,2.55,0.85,79.20,21.00,7.15
 2020-03-28,IT,Italy,77,Basilicata,31,0,24.80,4.65,1.55,92.80,25.50,8.60
 2020-03-29,IT,Italy,77,Basilicata,20,1,16.00,3.00,1.00,96.80,27.30,9.60
+2020-03-30,IT,Italy,77,Basilicata,12,1,9.60,1.80,0.60,99.20,28.05,10.15
 2020-03-10,IT,Italy,78,Calabria,2,0,1.60,0.30,0.10,9.60,1.95,0.65
 2020-03-11,IT,Italy,78,Calabria,6,0,4.80,0.90,0.30,14.40,2.70,0.95
 2020-03-12,IT,Italy,78,Calabria,14,0,11.20,2.10,0.70,24.80,4.80,1.65
@@ -6380,6 +6400,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,78,Calabria,101,4,80.80,15.15,5.05,229.60,63.90,23.05
 2020-03-28,IT,Italy,78,Calabria,61,3,48.80,9.15,3.05,256.00,69.90,25.85
 2020-03-29,IT,Italy,78,Calabria,59,4,47.20,8.85,2.95,272.80,75.00,27.70
+2020-03-30,IT,Italy,78,Calabria,33,6,26.40,4.95,1.65,284.00,77.70,28.95
 2020-03-10,IT,Italy,82,Sicily,8,0,6.40,1.20,0.40,44.00,8.70,3.10
 2020-03-11,IT,Italy,82,Sicily,21,0,16.80,3.15,1.05,52.00,11.85,4.00
 2020-03-12,IT,Italy,82,Sicily,32,2,25.60,4.80,1.60,77.60,16.65,5.60
@@ -6400,6 +6421,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,82,Sicily,86,6,68.80,12.90,4.30,673.60,159.30,56.75
 2020-03-28,IT,Italy,82,Sicily,109,18,87.20,16.35,5.45,695.20,171.90,61.45
 2020-03-29,IT,Italy,82,Sicily,101,8,80.80,15.15,5.05,664.00,183.45,65.20
+2020-03-30,IT,Italy,82,Sicily,95,11,76.00,14.25,4.75,667.20,190.95,68.35
 2020-03-10,IT,Italy,88,Sardinia,1,0,0.80,0.15,0.05,15.20,3.00,1.00
 2020-03-11,IT,Italy,88,Sardinia,17,0,13.60,2.55,0.85,28.00,5.55,1.85
 2020-03-12,IT,Italy,88,Sardinia,2,0,1.60,0.30,0.10,29.60,5.85,1.95
@@ -6420,6 +6442,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,88,Sardinia,36,2,28.80,5.40,1.80,189.60,67.95,24.55
 2020-03-28,IT,Italy,88,Sardinia,94,5,75.20,14.10,4.70,235.20,77.55,29.05
 2020-03-29,IT,Italy,88,Sardinia,14,1,11.20,2.10,0.70,239.20,78.15,29.55
+2020-03-30,IT,Italy,88,Sardinia,44,1,35.20,6.60,2.20,258.40,82.20,30.25
 2020-03-10,IT,Italy,BZ,South Tyrol,29,0,23.20,4.35,1.45,29.60,5.55,1.90
 2020-03-11,IT,Italy,BZ,South Tyrol,37,0,29.60,5.55,1.85,59.20,11.10,3.70
 2020-03-12,IT,Italy,BZ,South Tyrol,29,1,23.20,4.35,1.45,82.40,15.45,5.15
@@ -6440,6 +6463,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,BZ,South Tyrol,97,12,77.60,14.55,4.85,364.00,119.85,44.95
 2020-03-28,IT,Italy,BZ,South Tyrol,106,4,84.80,15.90,5.30,390.40,130.20,49.20
 2020-03-29,IT,Italy,BZ,South Tyrol,105,0,84.00,15.75,5.25,428.80,138.45,52.05
+2020-03-30,IT,Italy,BZ,South Tyrol,111,10,88.80,16.65,5.55,480.80,142.35,56.05
 2020-03-10,IT,Italy,TN,Trentino-Alto Adige,19,0,15.20,2.85,0.95,38.40,7.80,2.60
 2020-03-11,IT,Italy,TN,Trentino-Alto Adige,25,0,20.00,3.75,1.25,57.60,11.55,3.85
 2020-03-12,IT,Italy,TN,Trentino-Alto Adige,30,1,24.00,4.50,1.50,80.00,16.05,5.35
@@ -6460,6 +6484,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,IT,Italy,TN,Trentino-Alto Adige,94,16,75.20,14.10,4.70,599.20,151.95,64.20
 2020-03-28,IT,Italy,TN,Trentino-Alto Adige,114,18,91.20,17.10,5.70,578.40,169.05,67.10
 2020-03-29,IT,Italy,TN,Trentino-Alto Adige,89,9,71.20,13.35,4.45,512.00,181.35,69.40
+2020-03-30,IT,Italy,TN,Trentino-Alto Adige,88,18,70.40,13.20,4.40,527.20,184.05,65.20
 2020-03-14,FR,France,BFC,Bourgogne-Franche-Comté,68,1,54.40,10.20,3.40,187.20,49.80,17.00
 2020-03-15,FR,France,BFC,Bourgogne-Franche-Comté,72,0,57.60,10.80,3.60,240.00,59.55,20.35
 2020-03-16,FR,France,BFC,Bourgogne-Franche-Comté,95,0,76.00,14.25,4.75,310.40,73.20,24.85
@@ -6476,6 +6501,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,BFC,Bourgogne-Franche-Comté,,16,,,,,,
 2020-03-28,FR,France,BFC,Bourgogne-Franche-Comté,,9,,,,,,
 2020-03-29,FR,France,BFC,Bourgogne-Franche-Comté,,16,,,,,,
+2020-03-30,FR,France,BFC,Bourgogne-Franche-Comté,,23,,,,,,
 2020-03-15,FR,France,GES,Grand Est,293,21,234.40,43.95,14.65,892.80,204.75,68.85
 2020-03-16,FR,France,GES,Grand Est,165,6,132.00,24.75,8.25,986.40,227.55,77.10
 2020-03-17,FR,France,GES,Grand Est,277,10,221.60,41.55,13.85,1084.80,261.45,90.65
@@ -6491,6 +6517,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,GES,Grand Est,,77,,,,,,
 2020-03-28,FR,France,GES,Grand Est,,96,,,,,,
 2020-03-29,FR,France,GES,Grand Est,,62,,,,,,
+2020-03-30,FR,France,GES,Grand Est,,104,,,,,,
 2020-03-16,FR,France,HDF,Hauts-de-France,80,,64.00,12.00,4.00,324.80,79.20,29.25
 2020-03-17,FR,France,HDF,Hauts-de-France,26,7,20.80,3.90,1.30,312.80,82.20,30.20
 2020-03-18,FR,France,HDF,Hauts-de-France,55,9,44.00,8.25,2.75,324.00,99.45,31.15
@@ -6503,8 +6530,9 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-25,FR,France,HDF,Hauts-de-France,221,14,176.80,33.15,11.05,868.00,207.75,76.55
 2020-03-26,FR,France,HDF,Hauts-de-France,157,10,125.60,23.55,7.85,952.80,217.05,82.35
 2020-03-27,FR,France,HDF,Hauts-de-France,,22,,,,,,
-2020-03-28,FR,France,HDF,Hauts-de-France,,27,,,,,,
-2020-03-29,FR,France,HDF,Hauts-de-France,,15,,,,,,
+2020-03-28,FR,France,HDF,Hauts-de-France,,14,,,,,,
+2020-03-29,FR,France,HDF,Hauts-de-France,155,5,124.00,23.25,7.75,,,
+2020-03-30,FR,France,HDF,Hauts-de-France,,54,,,,,,
 2020-03-16,FR,France,BRE,Brittany,18,0,14.40,2.70,0.90,113.60,28.35,10.60
 2020-03-17,FR,France,BRE,Brittany,23,0,18.40,3.45,1.15,124.00,30.75,11.15
 2020-03-18,FR,France,BRE,Brittany,16,4,12.80,2.40,0.80,127.20,32.70,11.65
@@ -6516,9 +6544,10 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,FR,France,BRE,Brittany,36,3,28.80,5.40,1.80,232.00,60.90,22.75
 2020-03-25,FR,France,BRE,Brittany,77,3,61.60,11.55,3.85,280.80,66.90,26.10
 2020-03-26,FR,France,BRE,Brittany,104,1,83.20,15.60,5.20,351.20,79.35,30.70
-2020-03-27,FR,France,BRE,Brittany,,5,,,,,,
-2020-03-28,FR,France,BRE,Brittany,,3,,,,,,
+2020-03-27,FR,France,BRE,Brittany,90,3,72.00,13.50,4.50,392.80,90.30,33.85
+2020-03-28,FR,France,BRE,Brittany,,5,,,,,,
 2020-03-29,FR,France,BRE,Brittany,,4,,,,,,
+2020-03-30,FR,France,BRE,Brittany,,4,,,,,,
 2020-03-17,FR,France,COR,Corsica,19,,15.20,2.85,0.95,82.40,21.75,7.25
 2020-03-18,FR,France,COR,Corsica,7,,5.60,1.05,0.35,80.80,22.35,7.60
 2020-03-19,FR,France,COR,Corsica,12,1,9.60,1.80,0.60,80.00,23.85,8.20
@@ -6532,6 +6561,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,COR,Corsica,,-2,,,,,,
 2020-03-28,FR,France,COR,Corsica,,0,,,,,,
 2020-03-29,FR,France,COR,Corsica,,0,,,,,,
+2020-03-30,FR,France,COR,Corsica,,0,,,,,,
 2020-03-17,FR,France,CVL,Centre-Val de Loire,13,,10.40,1.95,0.65,68.80,15.45,5.15
 2020-03-18,FR,France,CVL,Centre-Val de Loire,25,0,20.00,3.75,1.25,86.40,18.75,6.40
 2020-03-19,FR,France,CVL,Centre-Val de Loire,29,0,23.20,4.35,1.45,101.60,22.50,7.85
@@ -6542,9 +6572,10 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,FR,France,CVL,Centre-Val de Loire,89,0,71.20,13.35,4.45,277.60,63.00,21.65
 2020-03-25,FR,France,CVL,Centre-Val de Loire,111,5,88.80,16.65,5.55,346.40,79.20,27.20
 2020-03-26,FR,France,CVL,Centre-Val de Loire,84,7,67.20,12.60,4.20,390.40,88.65,31.25
-2020-03-27,FR,France,CVL,Centre-Val de Loire,,6,,,,,,
-2020-03-28,FR,France,CVL,Centre-Val de Loire,,9,,,,,,
-2020-03-29,FR,France,CVL,Centre-Val de Loire,,4,,,,,,
+2020-03-27,FR,France,CVL,Centre-Val de Loire,185,6,148.00,27.75,9.25,488.80,113.85,40.00
+2020-03-28,FR,France,CVL,Centre-Val de Loire,200,9,160.00,30.00,10.00,620.80,141.00,49.85
+2020-03-29,FR,France,CVL,Centre-Val de Loire,127,4,101.60,19.05,6.35,692.80,158.10,55.15
+2020-03-30,FR,France,CVL,Centre-Val de Loire,,14,,,,,,
 2020-03-18,FR,France,GF,French Guiana,4,,3.20,0.60,0.20,7.20,1.50,0.75
 2020-03-19,FR,France,GF,French Guiana,0,0,0.00,0.00,0.00,7.20,1.50,0.75
 2020-03-20,FR,France,GF,French Guiana,3,0,2.40,0.45,0.15,9.60,1.95,0.90
@@ -6554,9 +6585,10 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,FR,France,GF,French Guiana,4,0,3.20,0.60,0.20,12.80,3.15,1.10
 2020-03-25,FR,France,GF,French Guiana,3,0,2.40,0.45,0.15,12.00,3.60,1.25
 2020-03-26,FR,France,GF,French Guiana,1,0,0.80,0.15,0.05,12.80,3.60,1.25
-2020-03-27,FR,France,GF,French Guiana,,0,,,,,,
-2020-03-28,FR,France,GF,French Guiana,,0,,,,,,
-2020-03-29,FR,France,GF,French Guiana,,0,,,,,,
+2020-03-27,FR,France,GF,French Guiana,3,0,2.40,0.45,0.15,12.80,3.45,1.40
+2020-03-28,FR,France,GF,French Guiana,3,0,2.40,0.45,0.15,14.40,3.90,1.55
+2020-03-29,FR,France,GF,French Guiana,6,0,4.80,0.90,0.30,18.40,4.80,1.80
+2020-03-30,FR,France,GF,French Guiana,,0,,,,,,
 2020-03-18,FR,France,GUA,Guadeloupe,6,,4.80,0.90,0.30,26.40,4.95,1.65
 2020-03-19,FR,France,GUA,Guadeloupe,12,0,9.60,1.80,0.60,36.00,6.75,2.25
 2020-03-20,FR,France,GUA,Guadeloupe,6,1,4.80,0.90,0.30,40.00,7.65,2.40
@@ -6568,7 +6600,8 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,FR,France,GUA,Guadeloupe,,-1,,,,,,
 2020-03-27,FR,France,GUA,Guadeloupe,,1,,,,,,
 2020-03-28,FR,France,GUA,Guadeloupe,,0,,,,,,
-2020-03-29,FR,France,GUA,Guadeloupe,,1,,,,,,
+2020-03-29,FR,France,GUA,Guadeloupe,4,3,3.20,0.60,0.20,,,
+2020-03-30,FR,France,GUA,Guadeloupe,,0,,,,,,
 2020-03-18,FR,France,LRE,La Réunion,2,,1.60,0.30,0.10,10.40,2.10,0.70
 2020-03-19,FR,France,LRE,La Réunion,5,0,4.00,0.75,0.25,12.80,2.85,0.95
 2020-03-20,FR,France,LRE,La Réunion,19,0,15.20,2.85,0.95,26.40,5.70,1.90
@@ -6581,6 +6614,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,LRE,La Réunion,,0,,,,,,
 2020-03-28,FR,France,LRE,La Réunion,,0,,,,,,
 2020-03-29,FR,France,LRE,La Réunion,,0,,,,,,
+2020-03-30,FR,France,LRE,La Réunion,,0,,,,,,
 2020-03-18,FR,France,MAY,Mayotte,0,,0.00,0.00,0.00,2.40,0.45,0.15
 2020-03-19,FR,France,MAY,Mayotte,1,0,0.80,0.15,0.05,3.20,0.60,0.20
 2020-03-20,FR,France,MAY,Mayotte,2,0,1.60,0.30,0.10,4.80,0.90,0.30
@@ -6593,6 +6627,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,MAY,Mayotte,8,0,6.40,1.20,0.40,35.20,7.35,2.50
 2020-03-28,FR,France,MAY,Mayotte,,0,,,,,,
 2020-03-29,FR,France,MAY,Mayotte,,0,,,,,,
+2020-03-30,FR,France,MAY,Mayotte,,0,,,,,,
 2020-03-18,FR,France,MQ,Martinique,4,,3.20,0.60,0.20,16.00,3.45,1.15
 2020-03-19,FR,France,MQ,Martinique,9,0,7.20,1.35,0.45,22.40,4.80,1.60
 2020-03-20,FR,France,MQ,Martinique,3,0,2.40,0.45,0.15,23.20,4.95,1.75
@@ -6604,7 +6639,8 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-26,FR,France,MQ,Martinique,14,0,11.20,2.10,0.70,38.40,10.50,3.85
 2020-03-27,FR,France,MQ,Martinique,13,0,10.40,1.95,0.65,46.40,11.70,4.45
 2020-03-28,FR,France,MQ,Martinique,,1,,,,,,
-2020-03-29,FR,France,MQ,Martinique,,2,,,,,,
+2020-03-29,FR,France,MQ,Martinique,,1,,,,,,
+2020-03-30,FR,France,MQ,Martinique,,1,,,,,,
 2020-03-16,FR,France,NOR,Normandy,13,,10.40,1.95,0.65,104.80,23.10,7.75
 2020-03-17,FR,France,NOR,Normandy,18,,14.40,2.70,0.90,108.00,25.20,8.60
 2020-03-18,FR,France,NOR,Normandy,34,,27.20,5.10,1.70,120.80,29.55,10.30
@@ -6619,6 +6655,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,NOR,Normandy,123,5,98.40,18.45,6.15,500.00,115.35,42.20
 2020-03-28,FR,France,NOR,Normandy,,1,,,,,,
 2020-03-29,FR,France,NOR,Normandy,,6,,,,,,
+2020-03-30,FR,France,NOR,Normandy,,10,,,,,,
 2020-03-17,FR,France,OCC,Occitanie,29,2,23.20,4.35,1.45,201.60,45.60,15.60
 2020-03-18,FR,France,OCC,Occitanie,76,5,60.80,11.40,3.80,216.80,56.70,19.15
 2020-03-19,FR,France,OCC,Occitanie,83,7,66.40,12.45,4.15,257.60,68.10,23.25
@@ -6632,6 +6669,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,OCC,Occitanie,,7,,,,,,
 2020-03-28,FR,France,OCC,Occitanie,,7,,,,,,
 2020-03-29,FR,France,OCC,Occitanie,,8,,,,,,
+2020-03-30,FR,France,OCC,Occitanie,,6,,,,,,
 2020-03-16,FR,France,PAC,Provence-Alpes-Côte d'Azur,75,,60.00,11.25,3.75,266.40,58.05,20.25
 2020-03-17,FR,France,PAC,Provence-Alpes-Côte d'Azur,76,,60.80,11.40,3.80,312.80,68.25,23.60
 2020-03-18,FR,France,PAC,Provence-Alpes-Côte d'Azur,85,3,68.00,12.75,4.25,363.20,80.25,27.80
@@ -6646,6 +6684,7 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-27,FR,France,PAC,Provence-Alpes-Côte d'Azur,,4,,,,,,
 2020-03-28,FR,France,PAC,Provence-Alpes-Côte d'Azur,,7,,,,,,
 2020-03-29,FR,France,PAC,Provence-Alpes-Côte d'Azur,,10,,,,,,
+2020-03-30,FR,France,PAC,Provence-Alpes-Côte d'Azur,,15,,,,,,
 2020-03-17,FR,France,PDL,Pays de la Loire,17,1,13.60,2.55,0.85,79.20,17.85,6.25
 2020-03-18,FR,France,PDL,Pays de la Loire,2,0,1.60,0.30,0.10,75.20,18.00,6.15
 2020-03-19,FR,France,PDL,Pays de la Loire,32,2,25.60,4.80,1.60,94.40,22.20,7.75
@@ -6656,9 +6695,10 @@ Date,CountryCode,CountryName,RegionCode,RegionName,NewCases,NewDeaths,NewMild,Ne
 2020-03-24,FR,France,PDL,Pays de la Loire,50,4,40.00,7.50,2.50,173.60,45.15,15.95
 2020-03-25,FR,France,PDL,Pays de la Loire,36,3,28.80,5.40,1.80,200.80,48.45,17.60
 2020-03-26,FR,France,PDL,Pays de la Loire,80,14,64.00,12.00,4.00,239.20,56.55,21.25
-2020-03-27,FR,France,PDL,Pays de la Loire,,0,,,,,,
-2020-03-28,FR,France,PDL,Pays de la Loire,,11,,,,,,
+2020-03-27,FR,France,PDL,Pays de la Loire,71,11,56.80,10.65,3.55,295.20,64.65,24.40
+2020-03-28,FR,France,PDL,Pays de la Loire,,0,,,,,,
 2020-03-29,FR,France,PDL,Pays de la Loire,,5,,,,,,
+2020-03-30,FR,France,PDL,Pays de la Loire,,11,,,,,,
 2020-03-29,AD,Andorra,,,41,1,32.80,6.15,2.05,176.00,44.10,15.35
 2020-03-30,AD,Andorra,,,26,2,20.80,3.90,1.30,176.80,48.00,16.60
 2020-03-18,ES,Spain,AN,Andalucía,176,8,140.80,26.40,8.80,615.20,125.70,42.30
