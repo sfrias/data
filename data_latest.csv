@@ -18,22 +18,6 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-30,CN_HE,321,6,CN,China,HE,Hebei,39.549000,116.130600,
 2020-03-30,CN_JX,937,1,CN,China,JX,Jiangxi,27.614000,115.722100,
 2020-03-30,CN_SC,550,3,CN,China,SC,Sichuan,30.617100,102.710300,
-2020-03-30,DE_BB,866,4,DE,Germany,BB,Brandenburg,52.361944,13.008056,2504040
-2020-03-30,DE_BE,2581,13,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
-2020-03-30,DE_BW,13477,175,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
-2020-03-30,DE_BY,15160,158,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
-2020-03-30,DE_HB,298,4,DE,Germany,HB,Bremen,53.075833,8.807500,681032
-2020-03-30,DE_HE,3091,17,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
-2020-03-30,DE_HH,2214,4,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
-2020-03-30,DE_MV,368,1,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
-2020-03-30,DE_NI,4170,32,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
-2020-03-30,DE_NW,14566,131,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
-2020-03-30,DE_RP,2851,20,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
-2020-03-30,DE_SH,1060,7,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
-2020-03-30,DE_SL,800,9,DE,Germany,SL,Saarland,49.383056,6.833056,990509
-2020-03-30,DE_SN,1976,11,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
-2020-03-30,DE_ST,689,6,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
-2020-03-30,DE_TH,783,5,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-03-30,FR_ARA,,264,FR,France,ARA,Auvergne-Rhône-Alpes,45.447100,4.385300,
 2020-03-30,FR_BFC,,187,FR,France,BFC,Bourgogne-Franche-Comté,47.280500,4.999400,
 2020-03-30,FR_BRE,,45,FR,France,BRE,Brittany,48.202000,-2.932600,
@@ -52,57 +36,6 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-30,FR_OCC,,82,FR,France,OCC,Occitanie,43.892700,3.282800,
 2020-03-30,FR_PAC,,80,FR,France,PAC,Provence-Alpes-Côte d'Azur,43.935200,6.067900,
 2020-03-30,FR_PDL,,58,FR,France,PDL,Pays de la Loire,47.763300,-0.330000,
-2020-03-30,US_AK,114,3,US,United States of America,AK,Alaska,61.370700,-152.404400,
-2020-03-30,US_AL,859,6,US,United States of America,AL,Alabama,32.318200,-86.902300,
-2020-03-30,US_AR,473,7,US,United States of America,AR,Arkansas,34.969700,-92.373100,
-2020-03-30,US_AZ,1157,20,US,United States of America,AZ,Arizona,33.729800,-111.431200,
-2020-03-30,US_CA,6447,133,US,United States of America,CA,California,36.116200,-119.681600,
-2020-03-30,US_CO,2627,51,US,United States of America,CO,Colorado,39.059800,-105.311100,
-2020-03-30,US_CT,2571,36,US,United States of America,CT,Connecticut,41.597800,-72.755400,
-2020-03-30,US_DC,401,9,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
-2020-03-30,US_DE,264,6,US,United States of America,DE,Delaware,39.318500,-75.507100,
-2020-03-30,US_FL,5473,63,US,United States of America,FL,Florida,27.766300,-81.686800,
-2020-03-30,US_GA,2809,87,US,United States of America,GA,Georgia,33.040600,-83.643100,
-2020-03-30,US_HI,175,0,US,United States of America,HI,Hawaii,21.094300,-157.498300,
-2020-03-30,US_IA,424,6,US,United States of America,IA,Iowa,42.011500,-93.210500,
-2020-03-30,US_ID,310,6,US,United States of America,ID,Idaho,44.240500,-114.478800,
-2020-03-30,US_IL,5057,73,US,United States of America,IL,Illinois,40.349500,-88.986100,
-2020-03-30,US_IN,1786,35,US,United States of America,IN,Indiana,39.849400,-86.258300,
-2020-03-30,US_KS,368,8,US,United States of America,KS,Kansas,38.526600,-96.726500,
-2020-03-30,US_KY,439,9,US,United States of America,KY,Kentucky,37.668100,-84.670100,
-2020-03-30,US_LA,4025,185,US,United States of America,LA,Louisiana,31.169500,-91.867800,
-2020-03-30,US_MA,5752,56,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
-2020-03-30,US_MD,1413,15,US,United States of America,MD,Maryland,39.063900,-76.802100,
-2020-03-30,US_ME,275,3,US,United States of America,ME,Maine,44.693900,-69.381900,
-2020-03-30,US_MI,6498,184,US,United States of America,MI,Michigan,43.326600,-84.536100,
-2020-03-30,US_MN,576,10,US,United States of America,MN,Minnesota,44.825400,-93.784200,
-2020-03-30,US_MO,1031,13,US,United States of America,MO,Missouri,38.456100,-92.288400,
-2020-03-30,US_MS,847,16,US,United States of America,MS,Mississippi,32.741600,-89.678700,
-2020-03-30,US_MT,171,4,US,United States of America,MT,Montana,46.921900,-110.454400,
-2020-03-30,US_NC,1307,6,US,United States of America,NC,North Carolina,35.630100,-79.806400,
-2020-03-30,US_ND,109,2,US,United States of America,ND,North Dakota,47.528900,-99.784000,
-2020-03-30,US_NE,145,2,US,United States of America,NE,Nebraska,41.314800,-96.195100,
-2020-03-30,US_NH,314,3,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
-2020-03-30,US_NJ,16636,198,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
-2020-03-30,US_NM,237,2,US,United States of America,NM,New Mexico,34.840500,-106.248500,
-2020-03-30,US_NV,1008,15,US,United States of America,NV,Nevada,38.313500,-117.055400,
-2020-03-30,US_NY,66497,1218,US,United States of America,NY,New York,42.165700,-74.948100,
-2020-03-30,US_OH,1933,39,US,United States of America,OH,Ohio,40.388800,-82.764900,
-2020-03-30,US_OK,481,17,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
-2020-03-30,US_OR,606,16,US,United States of America,OR,Oregon,43.126100,-123.249200,
-2020-03-30,US_PA,4087,49,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
-2020-03-30,US_RI,408,4,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
-2020-03-30,US_SC,925,18,US,United States of America,SC,South Carolina,33.856900,-80.945000,
-2020-03-30,US_SD,101,1,US,United States of America,SD,South Dakota,43.890100,-102.254800,
-2020-03-30,US_TN,1834,13,US,United States of America,TN,Tennessee,35.747800,-86.692300,
-2020-03-30,US_TX,2877,34,US,United States of America,TX,Texas,31.054500,-97.563500,
-2020-03-30,US_UT,806,4,US,United States of America,UT,Utah,40.150000,-111.862400,
-2020-03-30,US_VA,1020,25,US,United States of America,VA,Virginia,37.769300,-78.170000,
-2020-03-30,US_VT,256,12,US,United States of America,VT,Vermont,44.045900,-72.710700,
-2020-03-30,US_WA,4896,195,US,United States of America,WA,Washington,47.400900,-121.490500,
-2020-03-30,US_WI,1221,14,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
-2020-03-30,US_WV,126,1,US,United States of America,WV,West Virginia,38.491200,-80.954500,
-2020-03-30,US_WY,94,0,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-30,VI,30,0,VI,United States Virgin Islands,,,18.335765,-64.896335,
 2020-03-31,AD,370,8,AD,Andorra,,,42.546245,1.601554,77142
 2020-03-31,AE,611,5,AE,United Arab Emirates,,,23.424076,53.847818,9770529
@@ -341,6 +274,57 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-31,TZ,19,1,TZ,Tanzania,,,-6.369028,34.888822,58005463
 2020-03-31,UA,480,11,UA,Ukraine,,,48.379433,31.165580,43993638
 2020-03-31,UG,33,0,UG,Uganda,,,1.373333,32.290275,44269594
+2020-03-31,US_AK,119,3,US,United States of America,AK,Alaska,61.370700,-152.404400,
+2020-03-31,US_AL,981,13,US,United States of America,AL,Alabama,32.318200,-86.902300,
+2020-03-31,US_AR,523,8,US,United States of America,AR,Arkansas,34.969700,-92.373100,
+2020-03-31,US_AZ,1289,24,US,United States of America,AZ,Arizona,33.729800,-111.431200,
+2020-03-31,US_CA,7482,153,US,United States of America,CA,California,36.116200,-119.681600,
+2020-03-31,US_CO,2627,51,US,United States of America,CO,Colorado,39.059800,-105.311100,
+2020-03-31,US_CT,3128,69,US,United States of America,CT,Connecticut,41.597800,-72.755400,
+2020-03-31,US_DC,495,9,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
+2020-03-31,US_DE,406,10,US,United States of America,DE,Delaware,39.318500,-75.507100,
+2020-03-31,US_FL,6338,77,US,United States of America,FL,Florida,27.766300,-81.686800,
+2020-03-31,US_GA,3929,111,US,United States of America,GA,Georgia,33.040600,-83.643100,
+2020-03-31,US_HI,204,0,US,United States of America,HI,Hawaii,21.094300,-157.498300,
+2020-03-31,US_IA,497,7,US,United States of America,IA,Iowa,42.011500,-93.210500,
+2020-03-31,US_ID,415,7,US,United States of America,ID,Idaho,44.240500,-114.478800,
+2020-03-31,US_IL,5994,99,US,United States of America,IL,Illinois,40.349500,-88.986100,
+2020-03-31,US_IN,2159,49,US,United States of America,IN,Indiana,39.849400,-86.258300,
+2020-03-31,US_KS,428,9,US,United States of America,KS,Kansas,38.526600,-96.726500,
+2020-03-31,US_KY,480,11,US,United States of America,KY,Kentucky,37.668100,-84.670100,
+2020-03-31,US_LA,5237,239,US,United States of America,LA,Louisiana,31.169500,-91.867800,
+2020-03-31,US_MA,6620,89,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
+2020-03-31,US_MD,1660,18,US,United States of America,MD,Maryland,39.063900,-76.802100,
+2020-03-31,US_ME,303,5,US,United States of America,ME,Maine,44.693900,-69.381900,
+2020-03-31,US_MI,7615,259,US,United States of America,MI,Michigan,43.326600,-84.536100,
+2020-03-31,US_MN,629,12,US,United States of America,MN,Minnesota,44.825400,-93.784200,
+2020-03-31,US_MO,1327,14,US,United States of America,MO,Missouri,38.456100,-92.288400,
+2020-03-31,US_MS,937,20,US,United States of America,MS,Mississippi,32.741600,-89.678700,
+2020-03-31,US_MT,184,4,US,United States of America,MT,Montana,46.921900,-110.454400,
+2020-03-31,US_NC,1498,8,US,United States of America,NC,North Carolina,35.630100,-79.806400,
+2020-03-31,US_ND,126,3,US,United States of America,ND,North Dakota,47.528900,-99.784000,
+2020-03-31,US_NE,172,3,US,United States of America,NE,Nebraska,41.314800,-96.195100,
+2020-03-31,US_NH,314,3,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
+2020-03-31,US_NJ,18696,267,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
+2020-03-31,US_NM,281,4,US,United States of America,NM,New Mexico,34.840500,-106.248500,
+2020-03-31,US_NV,1113,17,US,United States of America,NV,Nevada,38.313500,-117.055400,
+2020-03-31,US_NY,75795,1550,US,United States of America,NY,New York,42.165700,-74.948100,
+2020-03-31,US_OH,2199,55,US,United States of America,OH,Ohio,40.388800,-82.764900,
+2020-03-31,US_OK,565,23,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
+2020-03-31,US_OR,690,18,US,United States of America,OR,Oregon,43.126100,-123.249200,
+2020-03-31,US_PA,4843,63,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
+2020-03-31,US_RI,488,8,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
+2020-03-31,US_SC,1083,22,US,United States of America,SC,South Carolina,33.856900,-80.945000,
+2020-03-31,US_SD,108,1,US,United States of America,SD,South Dakota,43.890100,-102.254800,
+2020-03-31,US_TN,2239,23,US,United States of America,TN,Tennessee,35.747800,-86.692300,
+2020-03-31,US_TX,3266,41,US,United States of America,TX,Texas,31.054500,-97.563500,
+2020-03-31,US_UT,887,5,US,United States of America,UT,Utah,40.150000,-111.862400,
+2020-03-31,US_VA,1250,27,US,United States of America,VA,Virginia,37.769300,-78.170000,
+2020-03-31,US_VT,293,13,US,United States of America,VT,Vermont,44.045900,-72.710700,
+2020-03-31,US_WA,4896,195,US,United States of America,WA,Washington,47.400900,-121.490500,
+2020-03-31,US_WI,1351,16,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
+2020-03-31,US_WV,162,1,US,United States of America,WV,West Virginia,38.491200,-80.954500,
+2020-03-31,US_WY,109,0,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-31,US,164620,3170,US,United States of America,,,37.090240,-95.712891,329064917
 2020-03-31,UY,320,1,UY,Uruguay,,,-32.522779,-55.765835,3461734
 2020-03-31,UZ,149,2,UZ,Uzbekistan,,,41.377491,64.585262,32981716
@@ -355,5 +339,21 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-31,ZW,7,1,ZW,Zimbabwe,,,-19.015438,29.154857,14645468
 2020-04-01,CN_MO,41,0,CN,China,MO,Macau,22.166700,113.550000,
 2020-04-01,CN_TJ,174,3,CN,China,TJ,Tianjin,39.305400,117.323000,
+2020-04-01,DE_BB,1000,8,DE,Germany,BB,Brandenburg,52.361944,13.008056,2504040
+2020-04-01,DE_BE,2777,15,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
+2020-04-01,DE_BW,14818,212,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
+2020-04-01,DE_BY,16838,209,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
+2020-04-01,DE_HB,315,5,DE,Germany,HB,Bremen,53.075833,8.807500,681032
+2020-04-01,DE_HE,3423,21,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
+2020-04-01,DE_HH,2290,6,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
+2020-04-01,DE_MV,417,3,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
+2020-04-01,DE_NI,4659,46,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
+2020-04-01,DE_NW,15969,150,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
+2020-04-01,DE_RP,3141,25,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
+2020-04-01,DE_SH,1175,9,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
+2020-04-01,DE_SL,961,11,DE,Germany,SL,Saarland,49.383056,6.833056,990509
+2020-04-01,DE_SN,2163,13,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
+2020-04-01,DE_ST,779,7,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
+2020-04-01,DE_TH,846,6,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-04-01,ES,94417,8189,ES,Spain,,,40.463667,-3.749220,46736776
 2020-04-01,IT,105792,12428,IT,Italy,,,41.871940,12.567380,60550075

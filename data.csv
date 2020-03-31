@@ -9921,6 +9921,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_AZ,873,15,US,United States of America,AZ,Arizona,33.729800,-111.431200,
 2020-03-29,US_AZ,919,17,US,United States of America,AZ,Arizona,33.729800,-111.431200,
 2020-03-30,US_AZ,1157,20,US,United States of America,AZ,Arizona,33.729800,-111.431200,
+2020-03-31,US_AZ,1289,24,US,United States of America,AZ,Arizona,33.729800,-111.431200,
 2020-03-04,US_CA,53,,US,United States of America,CA,California,36.116200,-119.681600,
 2020-03-05,US_CA,53,,US,United States of America,CA,California,36.116200,-119.681600,
 2020-03-06,US_CA,60,,US,United States of America,CA,California,36.116200,-119.681600,
@@ -9948,6 +9949,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_CA,4643,101,US,United States of America,CA,California,36.116200,-119.681600,
 2020-03-29,US_CA,5708,123,US,United States of America,CA,California,36.116200,-119.681600,
 2020-03-30,US_CA,6447,133,US,United States of America,CA,California,36.116200,-119.681600,
+2020-03-31,US_CA,7482,153,US,United States of America,CA,California,36.116200,-119.681600,
 2020-03-04,US_FL,2,,US,United States of America,FL,Florida,27.766300,-81.686800,
 2020-03-05,US_FL,9,,US,United States of America,FL,Florida,27.766300,-81.686800,
 2020-03-06,US_FL,9,,US,United States of America,FL,Florida,27.766300,-81.686800,
@@ -9975,6 +9977,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_FL,3763,54,US,United States of America,FL,Florida,27.766300,-81.686800,
 2020-03-29,US_FL,4246,56,US,United States of America,FL,Florida,27.766300,-81.686800,
 2020-03-30,US_FL,5473,63,US,United States of America,FL,Florida,27.766300,-81.686800,
+2020-03-31,US_FL,6338,77,US,United States of America,FL,Florida,27.766300,-81.686800,
 2020-03-04,US_GA,2,,US,United States of America,GA,Georgia,33.040600,-83.643100,
 2020-03-05,US_GA,2,,US,United States of America,GA,Georgia,33.040600,-83.643100,
 2020-03-06,US_GA,2,,US,United States of America,GA,Georgia,33.040600,-83.643100,
@@ -10002,6 +10005,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_GA,2366,69,US,United States of America,GA,Georgia,33.040600,-83.643100,
 2020-03-29,US_GA,2651,80,US,United States of America,GA,Georgia,33.040600,-83.643100,
 2020-03-30,US_GA,2809,87,US,United States of America,GA,Georgia,33.040600,-83.643100,
+2020-03-31,US_GA,3929,111,US,United States of America,GA,Georgia,33.040600,-83.643100,
 2020-03-04,US_IL,4,,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-05,US_IL,5,,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-06,US_IL,5,,US,United States of America,IL,Illinois,40.349500,-88.986100,
@@ -10015,7 +10019,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-14,US_IL,46,,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-15,US_IL,64,,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-16,US_IL,93,,US,United States of America,IL,Illinois,40.349500,-88.986100,
-2020-03-17,US_IL,160,1,US,United States of America,IL,Illinois,40.349500,-88.986100,
+2020-03-17,US_IL,28,1,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-18,US_IL,288,1,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-19,US_IL,422,4,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-20,US_IL,585,5,US,United States of America,IL,Illinois,40.349500,-88.986100,
@@ -10029,6 +10033,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_IL,3491,47,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-29,US_IL,4596,65,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-30,US_IL,5057,73,US,United States of America,IL,Illinois,40.349500,-88.986100,
+2020-03-31,US_IL,5994,99,US,United States of America,IL,Illinois,40.349500,-88.986100,
 2020-03-04,US_MA,2,,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
 2020-03-05,US_MA,2,,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
 2020-03-06,US_MA,8,,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
@@ -10056,6 +10061,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MA,4257,44,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
 2020-03-29,US_MA,4955,48,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
 2020-03-30,US_MA,5752,56,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
+2020-03-31,US_MA,6620,89,US,United States of America,MA,Massachusetts,42.230200,-71.530100,
 2020-03-04,US_NC,1,,US,United States of America,NC,North Carolina,35.630100,-79.806400,
 2020-03-05,US_NC,1,,US,United States of America,NC,North Carolina,35.630100,-79.806400,
 2020-03-06,US_NC,2,,US,United States of America,NC,North Carolina,35.630100,-79.806400,
@@ -10083,6 +10089,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NC,935,4,US,United States of America,NC,North Carolina,35.630100,-79.806400,
 2020-03-29,US_NC,1040,4,US,United States of America,NC,North Carolina,35.630100,-79.806400,
 2020-03-30,US_NC,1307,6,US,United States of America,NC,North Carolina,35.630100,-79.806400,
+2020-03-31,US_NC,1498,8,US,United States of America,NC,North Carolina,35.630100,-79.806400,
 2020-03-04,US_NH,2,,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
 2020-03-05,US_NH,2,,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
 2020-03-06,US_NH,2,,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
@@ -10110,6 +10117,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NH,187,2,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
 2020-03-29,US_NH,214,2,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
 2020-03-30,US_NH,314,3,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
+2020-03-31,US_NH,314,3,US,United States of America,NH,New Hampshire,42.993100,-71.049800,
 2020-03-04,US_NY,6,,US,United States of America,NY,New York,42.165700,-74.948100,
 2020-03-05,US_NY,22,,US,United States of America,NY,New York,42.165700,-74.948100,
 2020-03-06,US_NY,33,,US,United States of America,NY,New York,42.165700,-74.948100,
@@ -10137,6 +10145,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NY,52318,728,US,United States of America,NY,New York,42.165700,-74.948100,
 2020-03-29,US_NY,59513,965,US,United States of America,NY,New York,42.165700,-74.948100,
 2020-03-30,US_NY,66497,1218,US,United States of America,NY,New York,42.165700,-74.948100,
+2020-03-31,US_NY,75795,1550,US,United States of America,NY,New York,42.165700,-74.948100,
 2020-03-04,US_OR,3,,US,United States of America,OR,Oregon,43.126100,-123.249200,
 2020-03-05,US_OR,3,,US,United States of America,OR,Oregon,43.126100,-123.249200,
 2020-03-06,US_OR,3,,US,United States of America,OR,Oregon,43.126100,-123.249200,
@@ -10164,6 +10173,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_OR,479,13,US,United States of America,OR,Oregon,43.126100,-123.249200,
 2020-03-29,US_OR,548,13,US,United States of America,OR,Oregon,43.126100,-123.249200,
 2020-03-30,US_OR,606,16,US,United States of America,OR,Oregon,43.126100,-123.249200,
+2020-03-31,US_OR,690,18,US,United States of America,OR,Oregon,43.126100,-123.249200,
 2020-03-04,US_SC,0,,US,United States of America,SC,South Carolina,33.856900,-80.945000,
 2020-03-05,US_SC,0,,US,United States of America,SC,South Carolina,33.856900,-80.945000,
 2020-03-06,US_SC,0,,US,United States of America,SC,South Carolina,33.856900,-80.945000,
@@ -10191,6 +10201,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_SC,539,13,US,United States of America,SC,South Carolina,33.856900,-80.945000,
 2020-03-29,US_SC,774,16,US,United States of America,SC,South Carolina,33.856900,-80.945000,
 2020-03-30,US_SC,925,18,US,United States of America,SC,South Carolina,33.856900,-80.945000,
+2020-03-31,US_SC,1083,22,US,United States of America,SC,South Carolina,33.856900,-80.945000,
 2020-03-04,US_TX,1,,US,United States of America,TX,Texas,31.054500,-97.563500,
 2020-03-05,US_TX,1,,US,United States of America,TX,Texas,31.054500,-97.563500,
 2020-03-06,US_TX,5,,US,United States of America,TX,Texas,31.054500,-97.563500,
@@ -10218,6 +10229,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_TX,2052,27,US,United States of America,TX,Texas,31.054500,-97.563500,
 2020-03-29,US_TX,2552,34,US,United States of America,TX,Texas,31.054500,-97.563500,
 2020-03-30,US_TX,2877,34,US,United States of America,TX,Texas,31.054500,-97.563500,
+2020-03-31,US_TX,3266,41,US,United States of America,TX,Texas,31.054500,-97.563500,
 2020-03-04,US_WA,39,,US,United States of America,WA,Washington,47.400900,-121.490500,
 2020-03-05,US_WA,70,,US,United States of America,WA,Washington,47.400900,-121.490500,
 2020-03-06,US_WA,79,,US,United States of America,WA,Washington,47.400900,-121.490500,
@@ -10245,6 +10257,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_WA,3723,175,US,United States of America,WA,Washington,47.400900,-121.490500,
 2020-03-29,US_WA,4310,189,US,United States of America,WA,Washington,47.400900,-121.490500,
 2020-03-30,US_WA,4896,195,US,United States of America,WA,Washington,47.400900,-121.490500,
+2020-03-31,US_WA,4896,195,US,United States of America,WA,Washington,47.400900,-121.490500,
 2020-03-04,US_WI,1,,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
 2020-03-05,US_WI,1,,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
 2020-03-06,US_WI,1,,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
@@ -10272,6 +10285,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_WI,989,13,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
 2020-03-29,US_WI,1112,13,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
 2020-03-30,US_WI,1221,14,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
+2020-03-31,US_WI,1351,16,US,United States of America,WI,Wisconsin,43.018600,-89.549800,
 2020-03-05,HU,2,0,HU,Hungary,,,47.162494,19.503304,9684679
 2020-03-07,HU,4,0,HU,Hungary,,,47.162494,19.503304,9684679
 2020-03-08,HU,7,0,HU,Hungary,,,47.162494,19.503304,9684679
@@ -10371,6 +10385,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_CO,1734,31,US,United States of America,CO,Colorado,39.059800,-105.311100,
 2020-03-29,US_CO,2061,44,US,United States of America,CO,Colorado,39.059800,-105.311100,
 2020-03-30,US_CO,2627,51,US,United States of America,CO,Colorado,39.059800,-105.311100,
+2020-03-31,US_CO,2627,51,US,United States of America,CO,Colorado,39.059800,-105.311100,
 2020-03-05,US_DC,0,,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
 2020-03-06,US_DC,0,,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
 2020-03-07,US_DC,0,,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
@@ -10397,6 +10412,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_DC,304,4,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
 2020-03-29,US_DC,342,5,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
 2020-03-30,US_DC,401,9,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
+2020-03-31,US_DC,495,9,US,United States of America,DC,District of Columbia,38.897400,-77.026800,
 2020-03-05,US_MD,0,,US,United States of America,MD,Maryland,39.063900,-76.802100,
 2020-03-06,US_MD,3,,US,United States of America,MD,Maryland,39.063900,-76.802100,
 2020-03-07,US_MD,3,,US,United States of America,MD,Maryland,39.063900,-76.802100,
@@ -10423,6 +10439,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MD,992,5,US,United States of America,MD,Maryland,39.063900,-76.802100,
 2020-03-29,US_MD,1239,10,US,United States of America,MD,Maryland,39.063900,-76.802100,
 2020-03-30,US_MD,1413,15,US,United States of America,MD,Maryland,39.063900,-76.802100,
+2020-03-31,US_MD,1660,18,US,United States of America,MD,Maryland,39.063900,-76.802100,
 2020-03-05,US_MI,0,,US,United States of America,MI,Michigan,43.326600,-84.536100,
 2020-03-06,US_MI,0,,US,United States of America,MI,Michigan,43.326600,-84.536100,
 2020-03-07,US_MI,0,,US,United States of America,MI,Michigan,43.326600,-84.536100,
@@ -10449,6 +10466,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MI,3657,92,US,United States of America,MI,Michigan,43.326600,-84.536100,
 2020-03-29,US_MI,5486,132,US,United States of America,MI,Michigan,43.326600,-84.536100,
 2020-03-30,US_MI,6498,184,US,United States of America,MI,Michigan,43.326600,-84.536100,
+2020-03-31,US_MI,7615,259,US,United States of America,MI,Michigan,43.326600,-84.536100,
 2020-03-05,US_NE,0,,US,United States of America,NE,Nebraska,41.314800,-96.195100,
 2020-03-06,US_NE,0,,US,United States of America,NE,Nebraska,41.314800,-96.195100,
 2020-03-07,US_NE,1,,US,United States of America,NE,Nebraska,41.314800,-96.195100,
@@ -10475,6 +10493,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NE,96,2,US,United States of America,NE,Nebraska,41.314800,-96.195100,
 2020-03-29,US_NE,108,2,US,United States of America,NE,Nebraska,41.314800,-96.195100,
 2020-03-30,US_NE,145,2,US,United States of America,NE,Nebraska,41.314800,-96.195100,
+2020-03-31,US_NE,172,3,US,United States of America,NE,Nebraska,41.314800,-96.195100,
 2020-03-05,US_NJ,1,,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
 2020-03-06,US_NJ,1,,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
 2020-03-07,US_NJ,4,,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
@@ -10501,6 +10520,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NJ,11124,140,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
 2020-03-29,US_NJ,13386,161,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
 2020-03-30,US_NJ,16636,198,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
+2020-03-31,US_NJ,18696,267,US,United States of America,NJ,New Jersey,40.298900,-74.521000,
 2020-03-05,US_NV,1,,US,United States of America,NV,Nevada,38.313500,-117.055400,
 2020-03-06,US_NV,1,,US,United States of America,NV,Nevada,38.313500,-117.055400,
 2020-03-07,US_NV,1,,US,United States of America,NV,Nevada,38.313500,-117.055400,
@@ -10527,6 +10547,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NV,621,10,US,United States of America,NV,Nevada,38.313500,-117.055400,
 2020-03-29,US_NV,738,14,US,United States of America,NV,Nevada,38.313500,-117.055400,
 2020-03-30,US_NV,1008,15,US,United States of America,NV,Nevada,38.313500,-117.055400,
+2020-03-31,US_NV,1113,17,US,United States of America,NV,Nevada,38.313500,-117.055400,
 2020-03-05,US_OH,0,,US,United States of America,OH,Ohio,40.388800,-82.764900,
 2020-03-06,US_OH,0,,US,United States of America,OH,Ohio,40.388800,-82.764900,
 2020-03-07,US_OH,0,,US,United States of America,OH,Ohio,40.388800,-82.764900,
@@ -10553,6 +10574,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_OH,1406,25,US,United States of America,OH,Ohio,40.388800,-82.764900,
 2020-03-29,US_OH,1653,29,US,United States of America,OH,Ohio,40.388800,-82.764900,
 2020-03-30,US_OH,1933,39,US,United States of America,OH,Ohio,40.388800,-82.764900,
+2020-03-31,US_OH,2199,55,US,United States of America,OH,Ohio,40.388800,-82.764900,
 2020-03-05,US_TN,1,,US,United States of America,TN,Tennessee,35.747800,-86.692300,
 2020-03-06,US_TN,1,,US,United States of America,TN,Tennessee,35.747800,-86.692300,
 2020-03-07,US_TN,1,,US,United States of America,TN,Tennessee,35.747800,-86.692300,
@@ -10579,6 +10601,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_TN,1373,6,US,United States of America,TN,Tennessee,35.747800,-86.692300,
 2020-03-29,US_TN,1537,7,US,United States of America,TN,Tennessee,35.747800,-86.692300,
 2020-03-30,US_TN,1834,13,US,United States of America,TN,Tennessee,35.747800,-86.692300,
+2020-03-31,US_TN,2239,23,US,United States of America,TN,Tennessee,35.747800,-86.692300,
 2020-03-05,US_VA,0,,US,United States of America,VA,Virginia,37.769300,-78.170000,
 2020-03-06,US_VA,0,,US,United States of America,VA,Virginia,37.769300,-78.170000,
 2020-03-07,US_VA,0,,US,United States of America,VA,Virginia,37.769300,-78.170000,
@@ -10605,6 +10628,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_VA,739,17,US,United States of America,VA,Virginia,37.769300,-78.170000,
 2020-03-29,US_VA,890,22,US,United States of America,VA,Virginia,37.769300,-78.170000,
 2020-03-30,US_VA,1020,25,US,United States of America,VA,Virginia,37.769300,-78.170000,
+2020-03-31,US_VA,1250,27,US,United States of America,VA,Virginia,37.769300,-78.170000,
 2020-03-06,BA,2,0,BA,Bosnia and Herzegovina,,,43.915886,17.679076,3301000
 2020-03-12,BA,3,0,BA,Bosnia and Herzegovina,,,43.915886,17.679076,3301000
 2020-03-13,BA,3,0,BA,Bosnia and Herzegovina,,,43.915886,17.679076,3301000
@@ -10691,6 +10715,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_AK,85,2,US,United States of America,AK,Alaska,61.370700,-152.404400,
 2020-03-29,US_AK,102,2,US,United States of America,AK,Alaska,61.370700,-152.404400,
 2020-03-30,US_AK,114,3,US,United States of America,AK,Alaska,61.370700,-152.404400,
+2020-03-31,US_AK,119,3,US,United States of America,AK,Alaska,61.370700,-152.404400,
 2020-03-06,US_AR,0,,US,United States of America,AR,Arkansas,34.969700,-92.373100,
 2020-03-07,US_AR,0,,US,United States of America,AR,Arkansas,34.969700,-92.373100,
 2020-03-08,US_AR,0,,US,United States of America,AR,Arkansas,34.969700,-92.373100,
@@ -10716,6 +10741,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_AR,404,5,US,United States of America,AR,Arkansas,34.969700,-92.373100,
 2020-03-29,US_AR,426,6,US,United States of America,AR,Arkansas,34.969700,-92.373100,
 2020-03-30,US_AR,473,7,US,United States of America,AR,Arkansas,34.969700,-92.373100,
+2020-03-31,US_AR,523,8,US,United States of America,AR,Arkansas,34.969700,-92.373100,
 2020-03-06,US_DE,0,,US,United States of America,DE,Delaware,39.318500,-75.507100,
 2020-03-07,US_DE,0,,US,United States of America,DE,Delaware,39.318500,-75.507100,
 2020-03-08,US_DE,0,,US,United States of America,DE,Delaware,39.318500,-75.507100,
@@ -10741,6 +10767,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_DE,214,3,US,United States of America,DE,Delaware,39.318500,-75.507100,
 2020-03-29,US_DE,232,6,US,United States of America,DE,Delaware,39.318500,-75.507100,
 2020-03-30,US_DE,264,6,US,United States of America,DE,Delaware,39.318500,-75.507100,
+2020-03-31,US_DE,406,10,US,United States of America,DE,Delaware,39.318500,-75.507100,
 2020-03-06,US_IA,0,,US,United States of America,IA,Iowa,42.011500,-93.210500,
 2020-03-07,US_IA,0,,US,United States of America,IA,Iowa,42.011500,-93.210500,
 2020-03-08,US_IA,0,,US,United States of America,IA,Iowa,42.011500,-93.210500,
@@ -10766,6 +10793,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_IA,298,3,US,United States of America,IA,Iowa,42.011500,-93.210500,
 2020-03-29,US_IA,336,4,US,United States of America,IA,Iowa,42.011500,-93.210500,
 2020-03-30,US_IA,424,6,US,United States of America,IA,Iowa,42.011500,-93.210500,
+2020-03-31,US_IA,497,7,US,United States of America,IA,Iowa,42.011500,-93.210500,
 2020-03-06,US_IN,1,,US,United States of America,IN,Indiana,39.849400,-86.258300,
 2020-03-07,US_IN,1,,US,United States of America,IN,Indiana,39.849400,-86.258300,
 2020-03-08,US_IN,2,,US,United States of America,IN,Indiana,39.849400,-86.258300,
@@ -10791,6 +10819,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_IN,1232,31,US,United States of America,IN,Indiana,39.849400,-86.258300,
 2020-03-29,US_IN,1514,32,US,United States of America,IN,Indiana,39.849400,-86.258300,
 2020-03-30,US_IN,1786,35,US,United States of America,IN,Indiana,39.849400,-86.258300,
+2020-03-31,US_IN,2159,49,US,United States of America,IN,Indiana,39.849400,-86.258300,
 2020-03-06,US_KS,0,,US,United States of America,KS,Kansas,38.526600,-96.726500,
 2020-03-07,US_KS,0,,US,United States of America,KS,Kansas,38.526600,-96.726500,
 2020-03-08,US_KS,1,,US,United States of America,KS,Kansas,38.526600,-96.726500,
@@ -10816,6 +10845,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_KS,261,5,US,United States of America,KS,Kansas,38.526600,-96.726500,
 2020-03-29,US_KS,319,6,US,United States of America,KS,Kansas,38.526600,-96.726500,
 2020-03-30,US_KS,368,8,US,United States of America,KS,Kansas,38.526600,-96.726500,
+2020-03-31,US_KS,428,9,US,United States of America,KS,Kansas,38.526600,-96.726500,
 2020-03-06,US_KY,0,,US,United States of America,KY,Kentucky,37.668100,-84.670100,
 2020-03-07,US_KY,1,,US,United States of America,KY,Kentucky,37.668100,-84.670100,
 2020-03-08,US_KY,1,,US,United States of America,KY,Kentucky,37.668100,-84.670100,
@@ -10841,6 +10871,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_KY,302,8,US,United States of America,KY,Kentucky,37.668100,-84.670100,
 2020-03-29,US_KY,394,9,US,United States of America,KY,Kentucky,37.668100,-84.670100,
 2020-03-30,US_KY,439,9,US,United States of America,KY,Kentucky,37.668100,-84.670100,
+2020-03-31,US_KY,480,11,US,United States of America,KY,Kentucky,37.668100,-84.670100,
 2020-03-06,US_MN,0,,US,United States of America,MN,Minnesota,44.825400,-93.784200,
 2020-03-07,US_MN,1,,US,United States of America,MN,Minnesota,44.825400,-93.784200,
 2020-03-08,US_MN,1,,US,United States of America,MN,Minnesota,44.825400,-93.784200,
@@ -10866,6 +10897,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MN,441,5,US,United States of America,MN,Minnesota,44.825400,-93.784200,
 2020-03-29,US_MN,503,9,US,United States of America,MN,Minnesota,44.825400,-93.784200,
 2020-03-30,US_MN,576,10,US,United States of America,MN,Minnesota,44.825400,-93.784200,
+2020-03-31,US_MN,629,12,US,United States of America,MN,Minnesota,44.825400,-93.784200,
 2020-03-06,US_NM,0,,US,United States of America,NM,New Mexico,34.840500,-106.248500,
 2020-03-07,US_NM,0,,US,United States of America,NM,New Mexico,34.840500,-106.248500,
 2020-03-08,US_NM,0,,US,United States of America,NM,New Mexico,34.840500,-106.248500,
@@ -10891,6 +10923,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_NM,191,1,US,United States of America,NM,New Mexico,34.840500,-106.248500,
 2020-03-29,US_NM,237,2,US,United States of America,NM,New Mexico,34.840500,-106.248500,
 2020-03-30,US_NM,237,2,US,United States of America,NM,New Mexico,34.840500,-106.248500,
+2020-03-31,US_NM,281,4,US,United States of America,NM,New Mexico,34.840500,-106.248500,
 2020-03-06,US_PA,2,,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
 2020-03-07,US_PA,2,,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
 2020-03-08,US_PA,4,,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
@@ -10916,6 +10949,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_PA,2751,34,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
 2020-03-29,US_PA,3394,38,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
 2020-03-30,US_PA,4087,49,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
+2020-03-31,US_PA,4843,63,US,United States of America,PA,Pennsylvania,40.590800,-77.209800,
 2020-03-06,US_VT,0,,US,United States of America,VT,Vermont,44.045900,-72.710700,
 2020-03-07,US_VT,0,,US,United States of America,VT,Vermont,44.045900,-72.710700,
 2020-03-08,US_VT,1,,US,United States of America,VT,Vermont,44.045900,-72.710700,
@@ -10941,6 +10975,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_VT,211,12,US,United States of America,VT,Vermont,44.045900,-72.710700,
 2020-03-29,US_VT,235,12,US,United States of America,VT,Vermont,44.045900,-72.710700,
 2020-03-30,US_VT,256,12,US,United States of America,VT,Vermont,44.045900,-72.710700,
+2020-03-31,US_VT,293,13,US,United States of America,VT,Vermont,44.045900,-72.710700,
 2020-03-06,US_WV,0,,US,United States of America,WV,West Virginia,38.491200,-80.954500,
 2020-03-07,US_WV,0,,US,United States of America,WV,West Virginia,38.491200,-80.954500,
 2020-03-08,US_WV,0,,US,United States of America,WV,West Virginia,38.491200,-80.954500,
@@ -10966,6 +11001,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_WV,96,0,US,United States of America,WV,West Virginia,38.491200,-80.954500,
 2020-03-29,US_WV,113,0,US,United States of America,WV,West Virginia,38.491200,-80.954500,
 2020-03-30,US_WV,126,1,US,United States of America,WV,West Virginia,38.491200,-80.954500,
+2020-03-31,US_WV,162,1,US,United States of America,WV,West Virginia,38.491200,-80.954500,
 2020-03-06,ZA,1,0,ZA,South Africa,,,-30.559482,22.937506,58558270
 2020-03-08,ZA,2,0,ZA,South Africa,,,-30.559482,22.937506,58558270
 2020-03-09,ZA,3,0,ZA,South Africa,,,-30.559482,22.937506,58558270
@@ -11166,6 +11202,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_AL,696,3,US,United States of America,AL,Alabama,32.318200,-86.902300,
 2020-03-29,US_AL,806,4,US,United States of America,AL,Alabama,32.318200,-86.902300,
 2020-03-30,US_AL,859,6,US,United States of America,AL,Alabama,32.318200,-86.902300,
+2020-03-31,US_AL,981,13,US,United States of America,AL,Alabama,32.318200,-86.902300,
 2020-03-07,US_CT,0,,US,United States of America,CT,Connecticut,41.597800,-72.755400,
 2020-03-08,US_CT,1,,US,United States of America,CT,Connecticut,41.597800,-72.755400,
 2020-03-09,US_CT,1,,US,United States of America,CT,Connecticut,41.597800,-72.755400,
@@ -11190,6 +11227,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_CT,1291,27,US,United States of America,CT,Connecticut,41.597800,-72.755400,
 2020-03-29,US_CT,1993,34,US,United States of America,CT,Connecticut,41.597800,-72.755400,
 2020-03-30,US_CT,2571,36,US,United States of America,CT,Connecticut,41.597800,-72.755400,
+2020-03-31,US_CT,3128,69,US,United States of America,CT,Connecticut,41.597800,-72.755400,
 2020-03-07,US_HI,1,,US,United States of America,HI,Hawaii,21.094300,-157.498300,
 2020-03-08,US_HI,1,,US,United States of America,HI,Hawaii,21.094300,-157.498300,
 2020-03-09,US_HI,2,,US,United States of America,HI,Hawaii,21.094300,-157.498300,
@@ -11214,6 +11252,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_HI,120,0,US,United States of America,HI,Hawaii,21.094300,-157.498300,
 2020-03-29,US_HI,151,0,US,United States of America,HI,Hawaii,21.094300,-157.498300,
 2020-03-30,US_HI,175,0,US,United States of America,HI,Hawaii,21.094300,-157.498300,
+2020-03-31,US_HI,204,0,US,United States of America,HI,Hawaii,21.094300,-157.498300,
 2020-03-07,US_ID,0,,US,United States of America,ID,Idaho,44.240500,-114.478800,
 2020-03-08,US_ID,0,,US,United States of America,ID,Idaho,44.240500,-114.478800,
 2020-03-09,US_ID,0,,US,United States of America,ID,Idaho,44.240500,-114.478800,
@@ -11238,6 +11277,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_ID,230,4,US,United States of America,ID,Idaho,44.240500,-114.478800,
 2020-03-29,US_ID,261,5,US,United States of America,ID,Idaho,44.240500,-114.478800,
 2020-03-30,US_ID,310,6,US,United States of America,ID,Idaho,44.240500,-114.478800,
+2020-03-31,US_ID,415,7,US,United States of America,ID,Idaho,44.240500,-114.478800,
 2020-03-07,US_LA,0,,US,United States of America,LA,Louisiana,31.169500,-91.867800,
 2020-03-08,US_LA,0,,US,United States of America,LA,Louisiana,31.169500,-91.867800,
 2020-03-09,US_LA,1,,US,United States of America,LA,Louisiana,31.169500,-91.867800,
@@ -11262,6 +11302,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_LA,3315,137,US,United States of America,LA,Louisiana,31.169500,-91.867800,
 2020-03-29,US_LA,3540,151,US,United States of America,LA,Louisiana,31.169500,-91.867800,
 2020-03-30,US_LA,4025,185,US,United States of America,LA,Louisiana,31.169500,-91.867800,
+2020-03-31,US_LA,5237,239,US,United States of America,LA,Louisiana,31.169500,-91.867800,
 2020-03-07,US_ME,0,,US,United States of America,ME,Maine,44.693900,-69.381900,
 2020-03-08,US_ME,0,,US,United States of America,ME,Maine,44.693900,-69.381900,
 2020-03-09,US_ME,0,,US,United States of America,ME,Maine,44.693900,-69.381900,
@@ -11286,6 +11327,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_ME,211,1,US,United States of America,ME,Maine,44.693900,-69.381900,
 2020-03-29,US_ME,253,3,US,United States of America,ME,Maine,44.693900,-69.381900,
 2020-03-30,US_ME,275,3,US,United States of America,ME,Maine,44.693900,-69.381900,
+2020-03-31,US_ME,303,5,US,United States of America,ME,Maine,44.693900,-69.381900,
 2020-03-07,US_MO,0,,US,United States of America,MO,Missouri,38.456100,-92.288400,
 2020-03-08,US_MO,1,,US,United States of America,MO,Missouri,38.456100,-92.288400,
 2020-03-09,US_MO,1,,US,United States of America,MO,Missouri,38.456100,-92.288400,
@@ -11310,6 +11352,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MO,838,10,US,United States of America,MO,Missouri,38.456100,-92.288400,
 2020-03-29,US_MO,838,10,US,United States of America,MO,Missouri,38.456100,-92.288400,
 2020-03-30,US_MO,1031,13,US,United States of America,MO,Missouri,38.456100,-92.288400,
+2020-03-31,US_MO,1327,14,US,United States of America,MO,Missouri,38.456100,-92.288400,
 2020-03-07,US_MS,0,,US,United States of America,MS,Mississippi,32.741600,-89.678700,
 2020-03-08,US_MS,0,,US,United States of America,MS,Mississippi,32.741600,-89.678700,
 2020-03-09,US_MS,0,,US,United States of America,MS,Mississippi,32.741600,-89.678700,
@@ -11334,6 +11377,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MS,663,13,US,United States of America,MS,Mississippi,32.741600,-89.678700,
 2020-03-29,US_MS,758,14,US,United States of America,MS,Mississippi,32.741600,-89.678700,
 2020-03-30,US_MS,847,16,US,United States of America,MS,Mississippi,32.741600,-89.678700,
+2020-03-31,US_MS,937,20,US,United States of America,MS,Mississippi,32.741600,-89.678700,
 2020-03-07,US_MT,0,,US,United States of America,MT,Montana,46.921900,-110.454400,
 2020-03-08,US_MT,0,,US,United States of America,MT,Montana,46.921900,-110.454400,
 2020-03-09,US_MT,0,,US,United States of America,MT,Montana,46.921900,-110.454400,
@@ -11358,6 +11402,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_MT,129,1,US,United States of America,MT,Montana,46.921900,-110.454400,
 2020-03-29,US_MT,154,1,US,United States of America,MT,Montana,46.921900,-110.454400,
 2020-03-30,US_MT,171,4,US,United States of America,MT,Montana,46.921900,-110.454400,
+2020-03-31,US_MT,184,4,US,United States of America,MT,Montana,46.921900,-110.454400,
 2020-03-07,US_ND,0,,US,United States of America,ND,North Dakota,47.528900,-99.784000,
 2020-03-08,US_ND,0,,US,United States of America,ND,North Dakota,47.528900,-99.784000,
 2020-03-09,US_ND,0,,US,United States of America,ND,North Dakota,47.528900,-99.784000,
@@ -11382,6 +11427,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_ND,83,1,US,United States of America,ND,North Dakota,47.528900,-99.784000,
 2020-03-29,US_ND,98,1,US,United States of America,ND,North Dakota,47.528900,-99.784000,
 2020-03-30,US_ND,109,2,US,United States of America,ND,North Dakota,47.528900,-99.784000,
+2020-03-31,US_ND,126,3,US,United States of America,ND,North Dakota,47.528900,-99.784000,
 2020-03-07,US_OK,1,,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
 2020-03-08,US_OK,1,,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
 2020-03-09,US_OK,1,,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
@@ -11406,6 +11452,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_OK,377,15,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
 2020-03-29,US_OK,429,16,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
 2020-03-30,US_OK,481,17,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
+2020-03-31,US_OK,565,23,US,United States of America,OK,Oklahoma,35.565300,-96.928900,
 2020-03-07,US_RI,2,,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
 2020-03-08,US_RI,3,,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
 2020-03-09,US_RI,3,,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
@@ -11430,6 +11477,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_RI,203,,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
 2020-03-29,US_RI,294,3,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
 2020-03-30,US_RI,408,4,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
+2020-03-31,US_RI,488,8,US,United States of America,RI,Rhode Island,41.888200,-71.477400,
 2020-03-07,US_SD,0,,US,United States of America,SD,South Dakota,43.890100,-102.254800,
 2020-03-08,US_SD,0,,US,United States of America,SD,South Dakota,43.890100,-102.254800,
 2020-03-09,US_SD,0,,US,United States of America,SD,South Dakota,43.890100,-102.254800,
@@ -11454,6 +11502,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_SD,68,1,US,United States of America,SD,South Dakota,43.890100,-102.254800,
 2020-03-29,US_SD,90,1,US,United States of America,SD,South Dakota,43.890100,-102.254800,
 2020-03-30,US_SD,101,1,US,United States of America,SD,South Dakota,43.890100,-102.254800,
+2020-03-31,US_SD,108,1,US,United States of America,SD,South Dakota,43.890100,-102.254800,
 2020-03-07,US_UT,1,,US,United States of America,UT,Utah,40.150000,-111.862400,
 2020-03-08,US_UT,1,,US,United States of America,UT,Utah,40.150000,-111.862400,
 2020-03-09,US_UT,1,,US,United States of America,UT,Utah,40.150000,-111.862400,
@@ -11478,6 +11527,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_UT,602,2,US,United States of America,UT,Utah,40.150000,-111.862400,
 2020-03-29,US_UT,719,2,US,United States of America,UT,Utah,40.150000,-111.862400,
 2020-03-30,US_UT,806,4,US,United States of America,UT,Utah,40.150000,-111.862400,
+2020-03-31,US_UT,887,5,US,United States of America,UT,Utah,40.150000,-111.862400,
 2020-03-07,US_WY,0,,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-08,US_WY,0,,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-09,US_WY,0,,US,United States of America,WY,Wyoming,42.756000,-107.302500,
@@ -11502,6 +11552,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,US_WY,82,0,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-29,US_WY,86,0,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-30,US_WY,94,0,US,United States of America,WY,Wyoming,42.756000,-107.302500,
+2020-03-31,US_WY,109,0,US,United States of America,WY,Wyoming,42.756000,-107.302500,
 2020-03-07,VA,1,0,VA,Vatican City,,,41.902916,12.453389,799
 2020-03-16,VA,1,0,VA,Vatican City,,,41.902916,12.453389,799
 2020-03-17,VA,1,0,VA,Vatican City,,,41.902916,12.453389,799
@@ -11729,6 +11780,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_BB,766,4,DE,Germany,BB,Brandenburg,52.361944,13.008056,2504040
 2020-03-29,DE_BB,835,4,DE,Germany,BB,Brandenburg,52.361944,13.008056,2504040
 2020-03-30,DE_BB,866,4,DE,Germany,BB,Brandenburg,52.361944,13.008056,2504040
+2020-04-01,DE_BB,1000,8,DE,Germany,BB,Brandenburg,52.361944,13.008056,2504040
 2020-03-10,DE_BE,48,0,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
 2020-03-11,DE_BE,90,0,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
 2020-03-12,DE_BE,137,0,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
@@ -11750,6 +11802,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_BE,2337,9,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
 2020-03-29,DE_BE,2462,11,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
 2020-03-30,DE_BE,2581,13,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
+2020-04-01,DE_BE,2777,15,DE,Germany,BE,Berlin,52.520000,13.405000,6144600
 2020-03-10,DE_BW,237,0,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
 2020-03-11,DE_BW,277,0,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
 2020-03-12,DE_BW,454,0,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
@@ -11771,6 +11824,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_BW,11510,115,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
 2020-03-29,DE_BW,12485,138,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
 2020-03-30,DE_BW,13477,175,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
+2020-04-01,DE_BW,14818,212,DE,Germany,BW,Baden-Württemberg,48.537778,9.041111,11023424
 2020-03-10,DE_BY,314,0,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
 2020-03-11,DE_BY,366,0,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
 2020-03-12,DE_BY,500,0,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
@@ -11792,6 +11846,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_BY,12737,106,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
 2020-03-29,DE_BY,14021,125,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
 2020-03-30,DE_BY,15160,158,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
+2020-04-01,DE_BY,16838,209,DE,Germany,BY,Bavaria,48.777500,11.431111,13076721
 2020-03-10,DE_HB,4,0,DE,Germany,HB,Bremen,53.075833,8.807500,681032
 2020-03-11,DE_HB,21,0,DE,Germany,HB,Bremen,53.075833,8.807500,681032
 2020-03-12,DE_HB,38,0,DE,Germany,HB,Bremen,53.075833,8.807500,681032
@@ -11813,6 +11868,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_HB,278,2,DE,Germany,HB,Bremen,53.075833,8.807500,681032
 2020-03-29,DE_HB,290,2,DE,Germany,HB,Bremen,53.075833,8.807500,681032
 2020-03-30,DE_HB,298,4,DE,Germany,HB,Bremen,53.075833,8.807500,681032
+2020-04-01,DE_HB,315,5,DE,Germany,HB,Bremen,53.075833,8.807500,681032
 2020-03-10,DE_HE,35,0,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
 2020-03-11,DE_HE,48,0,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
 2020-03-12,DE_HE,99,0,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
@@ -11834,6 +11890,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_HE,2844,13,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
 2020-03-29,DE_HE,3037,13,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
 2020-03-30,DE_HE,3091,17,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
+2020-04-01,DE_HE,3423,21,DE,Germany,HE,Hesse,50.666111,8.591111,6243262
 2020-03-10,DE_HH,29,0,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
 2020-03-11,DE_HH,48,0,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
 2020-03-12,DE_HH,88,0,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
@@ -11855,6 +11912,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_HH,1935,4,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
 2020-03-29,DE_HH,2078,4,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
 2020-03-30,DE_HH,2214,4,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
+2020-04-01,DE_HH,2290,6,DE,Germany,HH,Hamburg,53.565278,10.001389,5107429
 2020-03-10,DE_MV,13,0,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
 2020-03-11,DE_MV,17,0,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
 2020-03-12,DE_MV,23,0,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
@@ -11876,6 +11934,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_MV,348,1,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
 2020-03-29,DE_MV,361,1,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
 2020-03-30,DE_MV,368,1,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
+2020-04-01,DE_MV,417,3,DE,Germany,MV,Mecklenburg-Vorpommern,53.616667,12.700000,1609675
 2020-03-10,DE_NI,49,0,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
 2020-03-11,DE_NI,75,0,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
 2020-03-12,DE_NI,129,0,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
@@ -11897,6 +11956,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_NI,3630,23,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
 2020-03-29,DE_NI,3911,27,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
 2020-03-30,DE_NI,4170,32,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
+2020-04-01,DE_NI,4659,46,DE,Germany,NI,Lower Saxony,52.756111,9.393056,7962775
 2020-03-10,DE_NW,484,0,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
 2020-03-11,DE_NW,484,0,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
 2020-03-12,DE_NW,688,0,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
@@ -11918,6 +11978,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_NW,13013,107,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
 2020-03-29,DE_NW,13997,116,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
 2020-03-30,DE_NW,14566,131,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
+2020-04-01,DE_NW,15969,150,DE,Germany,NW,North Rhine-Westphalia,51.466667,7.550000,17912134
 2020-03-10,DE_RP,25,0,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
 2020-03-11,DE_RP,25,0,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
 2020-03-12,DE_RP,52,0,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
@@ -11939,6 +12000,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_RP,2499,13,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
 2020-03-29,DE_RP,2712,18,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
 2020-03-30,DE_RP,2851,20,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
+2020-04-01,DE_RP,3141,25,DE,Germany,RP,Rhineland-Palatinate,49.913056,7.450000,4084844
 2020-03-10,DE_SH,9,0,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
 2020-03-11,DE_SH,27,0,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
 2020-03-12,DE_SH,31,0,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
@@ -11960,6 +12022,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_SH,925,4,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
 2020-03-29,DE_SH,1008,6,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
 2020-03-30,DE_SH,1060,7,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
+2020-04-01,DE_SH,1175,9,DE,Germany,SH,Schleswig-Holstein,54.470000,9.513889,2889821
 2020-03-10,DE_SL,7,0,DE,Germany,SL,Saarland,49.383056,6.833056,990509
 2020-03-11,DE_SL,14,0,DE,Germany,SL,Saarland,49.383056,6.833056,990509
 2020-03-12,DE_SL,14,0,DE,Germany,SL,Saarland,49.383056,6.833056,990509
@@ -11981,6 +12044,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_SL,669,6,DE,Germany,SL,Saarland,49.383056,6.833056,990509
 2020-03-29,DE_SL,714,9,DE,Germany,SL,Saarland,49.383056,6.833056,990509
 2020-03-30,DE_SL,800,9,DE,Germany,SL,Saarland,49.383056,6.833056,990509
+2020-04-01,DE_SL,961,11,DE,Germany,SL,Saarland,49.383056,6.833056,990509
 2020-03-10,DE_SN,22,0,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
 2020-03-11,DE_SN,26,0,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
 2020-03-12,DE_SN,45,0,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
@@ -12002,6 +12066,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_SN,1719,9,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
 2020-03-29,DE_SN,1856,9,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
 2020-03-30,DE_SN,1976,11,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
+2020-04-01,DE_SN,2163,13,DE,Germany,SN,Saxony,51.026944,13.358889,4077937
 2020-03-10,DE_ST,7,0,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
 2020-03-11,DE_ST,15,0,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
 2020-03-12,DE_ST,27,0,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
@@ -12023,6 +12088,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_ST,604,2,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
 2020-03-29,DE_ST,645,2,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
 2020-03-30,DE_ST,689,6,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
+2020-04-01,DE_ST,779,7,DE,Germany,ST,Saxony-Anhalt,51.971111,11.470000,2208321
 2020-03-10,DE_TH,4,0,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-03-11,DE_TH,10,0,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-03-12,DE_TH,14,0,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
@@ -12044,6 +12110,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-28,DE_TH,703,5,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-03-29,DE_TH,752,5,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-03-30,DE_TH,783,5,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
+2020-04-01,DE_TH,846,6,DE,Germany,TH,Thuringia,50.861111,11.051944,2136752
 2020-03-10,MN,1,0,MN,Mongolia,,,46.862496,103.846656,3225167
 2020-03-15,MN,1,0,MN,Mongolia,,,46.862496,103.846656,3225167
 2020-03-18,MN,4,0,MN,Mongolia,,,46.862496,103.846656,3225167
