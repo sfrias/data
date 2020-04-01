@@ -15,7 +15,6 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-30,CN_GS,138,2,CN,China,GS,Gansu,37.809900,101.058300,,Gansu
 2020-03-30,CN_JX,937,1,CN,China,JX,Jiangxi,27.614000,115.722100,,Jiangxi
 2020-03-30,CN_SC,550,3,CN,China,SC,Sichuan,30.617100,102.710300,,Sichuan
-2020-03-31,CN_BJ,580,8,CN,China,BJ,Beijing,40.182400,116.414200,,Beijing
 2020-03-31,CN_FJ,343,1,CN,China,FJ,Fujian,26.078900,117.987400,,Fujian
 2020-03-31,CN_GD,1494,8,CN,China,GD,Guangdong,23.341700,113.424400,,Guangdong
 2020-03-31,CN_HB,67801,3187,CN,China,HB,Hubei,30.975600,112.270700,,Hubei
@@ -23,6 +22,7 @@ Date,Key,Confirmed,Deaths,CountryCode,CountryName,RegionCode,RegionName,Latitude
 2020-03-31,CN_JS,646,0,CN,China,JS,Jiangsu,32.971100,119.455000,,Jiangsu
 2020-03-31,CN_SD,774,7,CN,China,SD,Shandong,36.342700,118.149800,,Shandong
 2020-03-31,CN_ZJ,1257,1,CN,China,ZJ,Zhejiang,29.183200,120.093400,,Zhejiang
+2020-04-01,CN_BJ,580,8,CN,China,BJ,Beijing,40.182400,116.414200,,Beijing
 2020-04-01,CN_HE,323,6,CN,China,HE,Hebei,39.549000,116.130600,,Hebei
 2020-04-01,CN_LN,140,2,CN,China,LN,Liaoning,41.295600,122.608500,,Liaoning
 2020-04-01,CN_MO,41,0,CN,China,MO,Macau,22.166700,113.550000,,Macau
