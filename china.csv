@@ -1679,8 +1679,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,CN_GD,CN,China,GD,Guangdong,1507,8,23.341700,113.424400,,Guangdong
 2020-04-02,CN_GS,CN,China,GS,Gansu,138,2,37.809900,101.058300,,Gansu
 2020-04-02,CN_GX,CN,China,GX,Guangxi,254,2,23.829800,108.788100,,Guangxi
+2020-04-02,CN_HB,CN,China,HB,Hubei,67802,3199,30.975600,112.270700,,Hubei
 2020-04-02,CN_HE,CN,China,HE,Hebei,325,6,39.549000,116.130600,,Hebei
-2020-04-02,CN_HK,CN,China,HK,Hong Kong,765,4,22.300000,114.200000,,Hong Kong
+2020-04-02,CN_HK,CN,China,HK,Hong Kong,802,4,22.300000,114.200000,,Hong Kong
 2020-04-02,CN_HL,CN,China,HL,Heilongjiang,488,13,47.862000,127.761500,,Heilongjiang
 2020-04-02,CN_HN,CN,China,HN,Hunan,1019,4,27.610400,111.708800,,Hunan
 2020-04-02,CN_JS,CN,China,JS,Jiangsu,647,0,32.971100,119.455000,,Jiangsu
@@ -1690,3 +1691,4 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,CN_TJ,CN,China,TJ,Tianjin,176,3,39.305400,117.323000,,Tianjin
 2020-04-02,CN_YN,CN,China,YN,Yunnan,183,2,24.974000,101.487000,,Yunnan
 2020-04-02,CN_ZJ,CN,China,ZJ,Zhejiang,1258,1,29.183200,120.093400,,Zhejiang
+2020-04-03,CN_LN,CN,China,LN,Liaoning,141,2,41.295600,122.608500,,Liaoning
