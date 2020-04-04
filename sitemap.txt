@@ -33,6 +33,7 @@ us.csv
 sitemap.txt
 charts/2020-04-03_US_IN_confirmed.svg
 charts/2020-04-04_IT_42_confirmed.svg
+charts/2020-04-04_IN_AR_deaths.svg
 charts/2020-04-04_ET_confirmed.svg
 charts/2020-04-03_BR_MT_confirmed.svg
 charts/2020-04-04_DE_deaths.svg
@@ -46,6 +47,7 @@ charts/2020-04-04_MD_confirmed.svg
 charts/2020-04-04_GB_NIR_forecast.svg
 charts/2020-04-04_ES_IB_confirmed.svg
 charts/2020-04-04_QA_forecast.svg
+charts/2020-04-04_IN_HP_deaths.svg
 charts/2020-04-04_RU_deaths.svg
 charts/2020-04-04_ES_CN_deaths.svg
 charts/2020-04-04_LA_confirmed.svg
@@ -54,6 +56,7 @@ charts/2020-04-03_DE_TH_deaths.svg
 charts/2020-04-04_AE_deaths.svg
 charts/2020-04-04_TR_forecast.svg
 charts/2020-03-26_FR_COR_confirmed.svg
+charts/2020-04-04_IN_CT_confirmed.svg
 charts/2020-04-04_SM_forecast.svg
 charts/2020-04-03_US_LA_confirmed.svg
 charts/2020-04-04_NP_confirmed.svg
@@ -63,6 +66,7 @@ charts/2020-04-04_AZ_forecast.svg
 charts/2020-04-04_FI_forecast.svg
 charts/2020-04-04_AW_confirmed.svg
 charts/2020-04-04_MV_confirmed.svg
+charts/2020-04-04_IN_KA_deaths.svg
 charts/2020-04-04_ES_AS_forecast.svg
 charts/2020-04-04_TT_deaths.svg
 charts/2020-04-03_US_NJ_forecast.svg
@@ -104,6 +108,7 @@ charts/2020-04-03_US_DC_confirmed.svg
 charts/2020-04-04_IT_42_forecast.svg
 charts/2020-04-04_NG_deaths.svg
 charts/2020-04-04_EE_deaths.svg
+charts/2020-04-04_IN_JK_confirmed.svg
 charts/2020-04-04_RU_NIZ_confirmed.svg
 charts/2020-04-04_CN_MO_confirmed.svg
 charts/2020-04-04_IM_deaths.svg
@@ -128,6 +133,7 @@ charts/2020-04-04_KN_deaths.svg
 charts/2020-04-04_RU_ALT_confirmed.svg
 charts/2020-04-04_IT_57_deaths.svg
 charts/2020-03-26_FR_BRE_confirmed.svg
+charts/2020-04-04_IN_BR_deaths.svg
 charts/2020-04-04_DO_deaths.svg
 charts/2020-04-04_CG_deaths.svg
 charts/2020-04-04_ZA_forecast.svg
@@ -151,6 +157,7 @@ charts/2020-04-03_BR_TO_confirmed.svg
 charts/2020-04-04_SA_forecast.svg
 charts/2020-04-03_BR_CE_forecast.svg
 charts/2020-04-04_AU_QLD_confirmed.svg
+charts/2020-04-04_IN_CT_deaths.svg
 charts/2020-04-04_RU_ORE_confirmed.svg
 charts/2020-04-03_US_MD_deaths.svg
 charts/2020-04-04_PS_forecast.svg
@@ -189,6 +196,7 @@ charts/2020-04-04_AU_QLD_deaths.svg
 charts/2020-04-04_ES_RI_deaths.svg
 charts/2020-04-04_BD_forecast.svg
 charts/2020-04-03_BR_AM_forecast.svg
+charts/2020-04-04_IN_TN_deaths.svg
 charts/2020-04-04_RU_LIP_confirmed.svg
 charts/2020-04-04_CA_NU_confirmed.svg
 charts/2020-04-03_US_DC_forecast.svg
@@ -212,12 +220,15 @@ charts/2020-04-05_IT_confirmed.svg
 charts/2020-04-03_DE_BW_deaths.svg
 charts/2020-04-03_US_MI_forecast.svg
 charts/2020-04-04_CZ_confirmed.svg
+charts/2020-04-04_IN_JH_deaths.svg
+charts/2020-04-04_IN_UT_deaths.svg
 charts/2020-04-04_KG_confirmed.svg
 charts/2020-04-04_TD_deaths.svg
 charts/2020-04-04_RU_SVE_confirmed.svg
 charts/2020-04-04_IT_21_confirmed.svg
 charts/2020-04-04_RU_KOS_confirmed.svg
 charts/2020-04-04_RU_MOW_forecast.svg
+charts/2020-04-04_IN_AP_deaths.svg
 charts/2020-04-04_BM_confirmed.svg
 charts/2020-04-04_MP_deaths.svg
 charts/2020-04-02_CN_HN_deaths.svg
@@ -240,6 +251,7 @@ charts/2020-04-04_EC_forecast.svg
 charts/2020-04-04_PT_forecast.svg
 charts/2020-03-26_FR_NAQ_deaths.svg
 charts/2020-04-04_AU_NSW_forecast.svg
+charts/2020-04-04_IN_HR_confirmed.svg
 charts/2020-04-04_MA_confirmed.svg
 charts/2020-04-03_DE_SH_forecast.svg
 charts/2020-04-02_CN_GX_confirmed.svg
@@ -272,6 +284,7 @@ charts/2020-04-04_CN_GD_deaths.svg
 charts/2020-03-26_FR_OCC_confirmed.svg
 charts/2020-04-03_BR_PE_deaths.svg
 charts/2020-04-03_US_PA_forecast.svg
+charts/2020-04-04_IN_PY_deaths.svg
 charts/2020-04-04_RU_BU_confirmed.svg
 charts/2020-04-03_US_MT_forecast.svg
 charts/2020-04-03_US_KY_deaths.svg
@@ -296,10 +309,12 @@ charts/2020-04-03_DE_HE_forecast.svg
 charts/2020-04-04_ES_CL_forecast.svg
 charts/2020-04-04_IT_TN_forecast.svg
 charts/2020-04-04_CN_SH_confirmed.svg
+charts/2020-04-04_IN_AP_confirmed.svg
 charts/2020-04-04_GI_confirmed.svg
 charts/2020-03-27_FR_MAY_confirmed.svg
 charts/2020-04-04_VC_confirmed.svg
 charts/2020-04-03_DE_SN_confirmed.svg
+charts/2020-04-04_IN_GJ_forecast.svg
 charts/2020-04-04_ER_deaths.svg
 charts/2020-04-04_EC_deaths.svg
 charts/2020-04-04_CY_forecast.svg
@@ -325,6 +340,7 @@ charts/2020-04-04_ES_PV_deaths.svg
 charts/2020-04-04_CM_confirmed.svg
 charts/2020-04-04_GY_deaths.svg
 charts/2020-04-03_US_CA_forecast.svg
+charts/2020-04-04_IN_RJ_forecast.svg
 charts/2020-04-04_ES_IB_deaths.svg
 charts/2020-04-04_BD_deaths.svg
 charts/2020-04-04_TD_confirmed.svg
@@ -333,6 +349,7 @@ charts/2020-04-04_IT_72_forecast.svg
 charts/2020-04-04_CR_deaths.svg
 charts/2020-04-04_MT_confirmed.svg
 charts/2020-04-03_BR_DF_confirmed.svg
+charts/2020-04-04_IN_KL_confirmed.svg
 charts/2020-04-04_RU_SAR_confirmed.svg
 charts/2020-04-04_GD_deaths.svg
 charts/2020-04-04_RU_KHA_confirmed.svg
@@ -340,6 +357,7 @@ charts/2020-04-04_TH_deaths.svg
 charts/2020-04-04_GT_deaths.svg
 charts/2020-04-04_ES_NC_forecast.svg
 charts/2020-04-04_NZ_deaths.svg
+charts/2020-04-04_IN_KL_deaths.svg
 charts/2020-04-04_ES_CT_deaths.svg
 charts/2020-03-29_CN_HA_deaths.svg
 charts/2020-04-04_BY_confirmed.svg
@@ -352,6 +370,7 @@ charts/2020-04-04_CN_BJ_deaths.svg
 charts/2020-04-03_BR_GO_deaths.svg
 charts/2020-04-03_BR_AC_confirmed.svg
 charts/2020-04-03_BR_RO_confirmed.svg
+charts/2020-04-04_IN_HR_deaths.svg
 charts/2020-04-03_US_MS_forecast.svg
 charts/2020-04-04_CA_ON_deaths.svg
 charts/2020-03-25_FR_IDF_confirmed.svg
@@ -393,16 +412,20 @@ charts/2020-04-03_US_IL_confirmed.svg
 charts/2020-04-04_CN_ZJ_confirmed.svg
 charts/2020-04-04_UZ_confirmed.svg
 charts/2020-04-03_US_CO_confirmed.svg
+charts/2020-04-04_IN_DL_confirmed.svg
 charts/2020-04-03_DE_NI_forecast.svg
 charts/2020-04-04_MW_confirmed.svg
 charts/2020-04-04_IT_23_forecast.svg
 charts/2020-04-04_GQ_confirmed.svg
 charts/2020-04-04_MR_deaths.svg
+charts/2020-04-04_IN_UP_forecast.svg
 charts/2020-04-04_TN_forecast.svg
 charts/2020-04-04_CN_SC_confirmed.svg
 charts/2020-04-04_RU_forecast.svg
 charts/2020-04-04_PT_17_confirmed.svg
+charts/2020-04-04_IN_AN_deaths.svg
 charts/2020-03-25_FR_BFC_deaths.svg
+charts/2020-04-04_IN_WB_deaths.svg
 charts/2020-04-04_AI_deaths.svg
 charts/2020-04-04_SN_deaths.svg
 charts/2020-04-03_BR_PB_deaths.svg
@@ -432,6 +455,7 @@ charts/2020-04-04_MK_forecast.svg
 charts/2020-04-04_RU_confirmed.svg
 charts/2020-04-04_LU_deaths.svg
 charts/2020-03-25_FR_PAC_deaths.svg
+charts/2020-04-04_IN_TG_forecast.svg
 charts/2020-04-03_US_AR_forecast.svg
 charts/2020-04-04_DK_forecast.svg
 charts/2020-04-04_CH_confirmed.svg
@@ -448,6 +472,7 @@ charts/2020-04-04_AR_confirmed.svg
 charts/2020-04-04_RU_VLA_confirmed.svg
 charts/2020-04-04_TN_confirmed.svg
 charts/2020-04-04_RU_CHE_confirmed.svg
+charts/2020-04-04_IN_AR_confirmed.svg
 charts/2020-04-03_US_NV_forecast.svg
 charts/2020-04-04_PT_18_confirmed.svg
 charts/2020-04-04_BF_forecast.svg
@@ -481,6 +506,7 @@ charts/2020-04-04_CH_forecast.svg
 charts/2020-04-04_ME_forecast.svg
 charts/2020-04-03_US_ME_deaths.svg
 charts/2020-04-03_US_ID_deaths.svg
+charts/2020-04-04_IN_PY_confirmed.svg
 charts/2020-04-03_BR_AM_deaths.svg
 charts/2020-04-03_BR_SP_confirmed.svg
 charts/2020-04-04_PL_confirmed.svg
@@ -504,6 +530,7 @@ charts/2020-04-04_DJ_confirmed.svg
 charts/2020-04-03_US_NE_forecast.svg
 charts/2020-04-03_US_NM_forecast.svg
 charts/2020-04-04_LR_deaths.svg
+charts/2020-04-04_IN_UT_confirmed.svg
 charts/2020-04-04_TL_confirmed.svg
 charts/2020-04-04_SZ_confirmed.svg
 charts/2020-04-04_SA_deaths.svg
@@ -531,6 +558,9 @@ charts/2020-04-03_BR_AC_forecast.svg
 charts/2020-04-03_DE_TH_forecast.svg
 charts/2020-04-04_KH_confirmed.svg
 charts/2020-04-04_VG_confirmed.svg
+charts/2020-04-04_IN_RJ_deaths.svg
+charts/2020-04-04_IN_KA_forecast.svg
+charts/2020-04-04_IN_LA_forecast.svg
 charts/2020-04-04_UY_confirmed.svg
 charts/2020-04-04_PH_deaths.svg
 charts/2020-04-04_KR_deaths.svg
@@ -539,6 +569,7 @@ charts/2020-04-04_CN_BJ_confirmed.svg
 charts/2020-04-04_NL_forecast.svg
 charts/2020-04-04_VN_confirmed.svg
 charts/2020-04-04_AU_TAS_deaths.svg
+charts/2020-04-04_IN_RJ_confirmed.svg
 charts/2020-04-04_GA_deaths.svg
 charts/2020-04-04_AT_forecast.svg
 charts/2020-04-04_CN_SH_deaths.svg
@@ -585,6 +616,7 @@ charts/2020-04-04_IT_77_deaths.svg
 charts/2020-04-04_RU_MOS_forecast.svg
 charts/2020-04-04_NO_confirmed.svg
 charts/2020-04-03_US_ME_forecast.svg
+charts/2020-04-04_IN_GJ_confirmed.svg
 charts/2020-04-04_KE_confirmed.svg
 charts/2020-04-04_PF_forecast.svg
 charts/2020-04-03_US_WY_deaths.svg
@@ -612,10 +644,14 @@ charts/2020-04-04_AW_deaths.svg
 charts/2020-04-05_CN_TJ_deaths.svg
 charts/2020-04-04_CN_SD_forecast.svg
 charts/2020-04-03_DE_BY_confirmed.svg
+charts/2020-04-04_IN_MZ_deaths.svg
+charts/2020-04-04_IN_PB_forecast.svg
 charts/2020-04-04_LK_forecast.svg
 charts/2020-04-03_DE_BB_confirmed.svg
 charts/2020-03-08_CN_AH_confirmed.svg
+charts/2020-04-04_IN_KL_forecast.svg
 charts/2020-04-04_DJ_deaths.svg
+charts/2020-04-04_IN_DL_deaths.svg
 charts/2020-04-04_IQ_confirmed.svg
 charts/2020-04-04_BB_confirmed.svg
 charts/2020-03-26_FR_HDF_forecast.svg
@@ -628,6 +664,7 @@ charts/2020-04-04_PT_confirmed.svg
 charts/2020-03-26_FR_PDL_forecast.svg
 charts/2020-04-04_RU_MOW_confirmed.svg
 charts/2020-04-04_IT_45_forecast.svg
+charts/2020-04-04_IN_GA_confirmed.svg
 charts/2020-04-04_LB_deaths.svg
 charts/2020-04-04_GE_confirmed.svg
 charts/2020-04-04_GW_confirmed.svg
@@ -641,10 +678,12 @@ charts/2020-04-03_BR_DF_forecast.svg
 charts/2020-04-04_PL_deaths.svg
 charts/2020-04-04_AO_confirmed.svg
 charts/2020-04-04_ES_GA_deaths.svg
+charts/2020-04-04_IN_JK_deaths.svg
 charts/2020-04-03_BR_ES_confirmed.svg
 charts/2020-04-04_BR_forecast.svg
 charts/2020-04-04_DE_forecast.svg
 charts/2020-04-03_US_ND_confirmed.svg
+charts/2020-04-04_IN_KA_confirmed.svg
 charts/2020-04-03_DE_BW_confirmed.svg
 charts/2020-04-04_CN_FJ_deaths.svg
 charts/2020-04-04_AU_deaths.svg
@@ -662,6 +701,7 @@ charts/2020-04-04_KZ_forecast.svg
 charts/2020-04-04_PT_18_forecast.svg
 charts/2020-04-04_UZ_forecast.svg
 charts/2020-04-04_PS_confirmed.svg
+charts/2020-04-04_IN_MH_deaths.svg
 charts/2020-04-03_BR_SE_forecast.svg
 charts/2020-04-04_AT_deaths.svg
 charts/2020-04-04_MZ_deaths.svg
@@ -677,8 +717,10 @@ charts/2020-04-04_ES_NC_deaths.svg
 charts/map.json
 charts/2020-04-04_KW_confirmed.svg
 charts/2020-04-04_PG_confirmed.svg
+charts/2020-04-04_IN_UP_deaths.svg
 charts/2020-04-04_ES_CE_confirmed.svg
 charts/2020-04-04_RU_KIR_confirmed.svg
+charts/2020-04-04_IN_CH_confirmed.svg
 charts/2020-04-04_TG_forecast.svg
 charts/2020-04-04_FJ_confirmed.svg
 charts/2020-04-03_DE_HB_confirmed.svg
@@ -697,6 +739,7 @@ charts/2020-04-04_RO_forecast.svg
 charts/2020-04-04_AU_ACT_confirmed.svg
 charts/2020-04-04_BA_deaths.svg
 charts/2020-04-04_CN_SC_forecast.svg
+charts/2020-04-04_IN_WB_confirmed.svg
 charts/2020-03-29_CN_HA_confirmed.svg
 charts/2020-04-04_CN_GS_forecast.svg
 charts/2020-04-03_DE_TH_confirmed.svg
@@ -711,12 +754,14 @@ charts/2020-04-04_RU_IRK_confirmed.svg
 charts/2020-04-04_CN_SH_forecast.svg
 charts/2020-03-28_FR_LRE_deaths.svg
 charts/2020-04-04_AU_VIC_forecast.svg
+charts/2020-04-04_IN_MP_deaths.svg
 charts/2020-04-04_LY_deaths.svg
 charts/2020-04-04_ES_CL_confirmed.svg
 charts/2020-04-03_CN_YN_forecast.svg
 charts/2020-04-03_US_OR_forecast.svg
 charts/2020-04-04_BE_deaths.svg
 charts/2020-03-28_FR_LRE_forecast.svg
+charts/2020-04-04_IN_MP_confirmed.svg
 charts/2020-04-04_PT_15_confirmed.svg
 charts/2020-04-04_GD_confirmed.svg
 charts/2020-04-04_ES_MD_forecast.svg
@@ -756,6 +801,7 @@ charts/2020-04-04_RU_RYA_confirmed.svg
 charts/2020-04-03_US_HI_confirmed.svg
 charts/2020-04-04_GB_WLS_forecast.svg
 charts/2020-04-05_CN_TJ_forecast.svg
+charts/2020-04-04_IN_TG_confirmed.svg
 charts/2020-04-04_RU_PSK_confirmed.svg
 charts/2020-04-04_BE_forecast.svg
 charts/2020-03-26_FR_BRE_forecast.svg
@@ -782,6 +828,7 @@ charts/2020-04-04_MM_deaths.svg
 charts/2020-04-04_AD_confirmed.svg
 charts/2020-04-03_US_TN_confirmed.svg
 charts/2020-04-04_SV_deaths.svg
+charts/2020-04-04_IN_AS_confirmed.svg
 charts/2020-04-04_TW_deaths.svg
 charts/2020-04-04_CA_ON_forecast.svg
 charts/2020-04-04_BF_confirmed.svg
@@ -796,6 +843,8 @@ charts/2020-04-04_JE_forecast.svg
 charts/2020-04-04_CN_GD_confirmed.svg
 charts/2020-04-04_IL_deaths.svg
 charts/2020-04-04_MT_forecast.svg
+charts/2020-04-04_IN_HR_forecast.svg
+charts/2020-04-04_IN_TN_forecast.svg
 charts/2020-04-04_AM_confirmed.svg
 charts/2020-04-04_PT_deaths.svg
 charts/2020-04-04_RU_CU_confirmed.svg
@@ -823,6 +872,7 @@ charts/2020-04-04_NO_deaths.svg
 charts/2020-04-04_LK_confirmed.svg
 charts/2020-04-04_AW_forecast.svg
 charts/2020-04-04_HT_confirmed.svg
+charts/2020-04-04_IN_BR_confirmed.svg
 charts/2020-04-03_US_TX_deaths.svg
 charts/2020-04-04_SR_deaths.svg
 charts/2020-04-03_US_WY_confirmed.svg
@@ -836,6 +886,7 @@ charts/2020-03-25_FR_IDF_forecast.svg
 charts/2020-04-04_SI_confirmed.svg
 charts/2020-04-04_GU_forecast.svg
 charts/2020-03-25_FR_IDF_deaths.svg
+charts/2020-04-04_IN_PB_confirmed.svg
 charts/2020-04-04_BO_forecast.svg
 charts/2020-03-28_FR_GF_forecast.svg
 charts/2020-04-03_BR_MS_forecast.svg
@@ -845,6 +896,7 @@ charts/2020-04-04_RW_confirmed.svg
 charts/2020-04-03_US_UT_confirmed.svg
 charts/2020-04-04_DO_confirmed.svg
 charts/2020-04-04_CN_HK_deaths.svg
+charts/2020-04-04_IN_GJ_deaths.svg
 charts/2020-04-04_MK_deaths.svg
 charts/2020-04-04_NE_deaths.svg
 charts/2020-04-04_KH_forecast.svg
@@ -852,6 +904,7 @@ charts/2020-04-04_ES_CM_confirmed.svg
 charts/2020-03-26_FR_HDF_confirmed.svg
 charts/2020-04-03_DE_HE_deaths.svg
 charts/2020-04-04_BT_confirmed.svg
+charts/2020-04-04_IN_DL_forecast.svg
 charts/2020-04-04_BR_deaths.svg
 charts/2020-04-04_CA_NS_forecast.svg
 charts/2020-04-04_AU_WA_forecast.svg
@@ -869,8 +922,10 @@ charts/2020-04-03_BR_PR_confirmed.svg
 charts/2020-04-03_US_MO_forecast.svg
 charts/2020-04-03_BR_RS_forecast.svg
 charts/2020-04-04_BI_confirmed.svg
+charts/2020-04-04_IN_GA_deaths.svg
 charts/2020-04-04_PT_15_forecast.svg
 charts/2020-04-04_NI_confirmed.svg
+charts/2020-04-04_IN_TG_deaths.svg
 charts/2020-03-25_FR_GES_forecast.svg
 charts/2020-03-25_FR_GES_deaths.svg
 charts/2020-04-03_DE_ST_confirmed.svg
@@ -880,6 +935,7 @@ charts/2020-03-26_FR_PDL_deaths.svg
 charts/2020-04-03_US_AK_confirmed.svg
 charts/2020-04-04_SK_forecast.svg
 charts/2020-04-04_AU_WA_confirmed.svg
+charts/2020-04-04_IN_MN_confirmed.svg
 charts/2020-04-04_PT_18_deaths.svg
 charts/2020-04-04_RU_AST_confirmed.svg
 charts/2020-04-04_ZA_confirmed.svg
@@ -930,6 +986,7 @@ charts/2020-04-04_DZ_deaths.svg
 charts/2020-04-04_BE_confirmed.svg
 charts/2020-04-03_US_CA_confirmed.svg
 charts/2020-04-04_AU_VIC_confirmed.svg
+charts/2020-04-04_IN_MZ_confirmed.svg
 charts/2020-04-04_CN_HB_confirmed.svg
 charts/2020-04-03_US_NM_deaths.svg
 charts/2020-04-04_CN_HB_forecast.svg
@@ -974,10 +1031,12 @@ charts/2020-04-04_CN_forecast.svg
 charts/2020-03-18_CN_GZ_confirmed.svg
 charts/2020-04-03_BR_AC_deaths.svg
 charts/2020-04-04_KE_deaths.svg
+charts/2020-04-04_IN_PB_deaths.svg
 charts/2020-04-03_US_GA_confirmed.svg
 charts/2020-04-04_RS_forecast.svg
 charts/2020-04-03_US_WV_confirmed.svg
 charts/2020-04-04_RU_ARK_confirmed.svg
+charts/2020-04-04_IN_MH_forecast.svg
 charts/2020-03-27_FR_MQ_forecast.svg
 charts/2020-04-04_IT_36_deaths.svg
 charts/2020-04-04_ES_MC_confirmed.svg
@@ -1003,6 +1062,7 @@ charts/2020-04-04_FK_deaths.svg
 charts/2020-04-04_ZM_confirmed.svg
 charts/2020-04-04_RU_SAK_confirmed.svg
 charts/2020-04-04_SM_confirmed.svg
+charts/2020-04-04_IN_MN_deaths.svg
 charts/2020-04-03_US_OH_deaths.svg
 charts/2020-04-03_DE_BE_confirmed.svg
 charts/2020-04-04_VI_confirmed.svg
@@ -1020,11 +1080,13 @@ charts/2020-03-26_FR_OCC_forecast.svg
 charts/2020-04-03_US_CT_deaths.svg
 charts/2020-04-04_IT_36_forecast.svg
 charts/2020-04-04_RU_ORL_confirmed.svg
+charts/2020-04-04_IN_OR_confirmed.svg
 charts/2020-04-04_MA_deaths.svg
 charts/2020-04-04_CN_SC_deaths.svg
 charts/2020-04-04_AU_forecast.svg
 charts/2020-04-04_FO_confirmed.svg
 charts/2020-04-03_US_AL_confirmed.svg
+charts/2020-04-04_IN_AN_confirmed.svg
 charts/2020-03-29_FR_GUA_deaths.svg
 charts/2020-04-04_MX_deaths.svg
 charts/2020-04-03_US_SC_forecast.svg
@@ -1072,6 +1134,7 @@ charts/2020-03-29_FR_GUA_forecast.svg
 charts/2020-04-04_AU_NSW_deaths.svg
 charts/2020-04-03_US_WA_deaths.svg
 charts/2020-04-04_RU_VOR_confirmed.svg
+charts/2020-04-04_IN_AS_deaths.svg
 charts/2020-04-04_LC_confirmed.svg
 charts/2020-04-04_HR_confirmed.svg
 charts/2020-04-03_US_MA_confirmed.svg
@@ -1080,6 +1143,7 @@ charts/2020-04-03_BR_PA_confirmed.svg
 charts/2020-04-04_IT_BZ_deaths.svg
 charts/2020-04-04_AL_forecast.svg
 charts/2020-04-04_PE_forecast.svg
+charts/2020-04-04_IN_MH_confirmed.svg
 charts/2020-04-04_BY_deaths.svg
 charts/2020-04-03_US_IA_deaths.svg
 charts/2020-04-04_PE_deaths.svg
@@ -1094,6 +1158,7 @@ charts/2020-04-04_RU_SPE_forecast.svg
 charts/2020-04-04_PT_16_deaths.svg
 charts/2020-04-04_AU_SA_forecast.svg
 charts/2020-04-04_CA_PE_deaths.svg
+charts/2020-04-04_IN_LA_deaths.svg
 charts/2020-04-04_BA_confirmed.svg
 charts/2020-04-04_CA_forecast.svg
 charts/2020-04-03_BR_RO_deaths.svg
@@ -1111,6 +1176,7 @@ charts/2020-04-04_JO_forecast.svg
 charts/2020-04-04_MY_confirmed.svg
 charts/2020-04-03_US_FL_confirmed.svg
 charts/2020-03-26_FR_PDL_confirmed.svg
+charts/2020-04-04_IN_JH_confirmed.svg
 charts/2020-04-04_SO_confirmed.svg
 charts/2020-02-24_CN_QH_confirmed.svg
 charts/2020-04-04_MK_confirmed.svg
@@ -1125,6 +1191,7 @@ charts/2020-03-26_FR_NAQ_confirmed.svg
 charts/2020-04-04_CO_confirmed.svg
 charts/2020-04-04_CN_MO_deaths.svg
 charts/2020-04-03_DE_HB_deaths.svg
+charts/2020-04-04_IN_LA_confirmed.svg
 charts/2020-04-04_CU_confirmed.svg
 charts/2020-04-04_RU_KO_confirmed.svg
 charts/2020-04-04_LB_forecast.svg
@@ -1134,6 +1201,7 @@ charts/2020-04-04_BH_confirmed.svg
 charts/2020-04-03_BR_RN_confirmed.svg
 charts/2020-04-04_AU_TAS_confirmed.svg
 charts/2020-04-04_GN_confirmed.svg
+charts/2020-04-04_IN_HP_confirmed.svg
 charts/2020-04-04_ES_CE_deaths.svg
 charts/2020-03-27_FR_MQ_deaths.svg
 charts/2020-04-03_BR_RN_deaths.svg
@@ -1173,6 +1241,7 @@ charts/2020-04-04_LK_deaths.svg
 charts/2020-04-04_VI_deaths.svg
 charts/2020-04-04_ES_AR_forecast.svg
 charts/2020-03-25_FR_PAC_confirmed.svg
+charts/2020-04-04_IN_UP_confirmed.svg
 charts/2020-04-03_US_FL_deaths.svg
 charts/2020-04-04_HR_deaths.svg
 charts/2020-04-04_MR_confirmed.svg
@@ -1204,6 +1273,7 @@ charts/2020-04-04_TG_confirmed.svg
 charts/2020-04-04_GG_confirmed.svg
 charts/2020-04-04_DK_confirmed.svg
 charts/2020-04-03_DE_HH_forecast.svg
+charts/2020-04-04_IN_MP_forecast.svg
 charts/2020-04-04_JM_forecast.svg
 charts/2020-04-04_IQ_forecast.svg
 charts/2020-04-04_GH_forecast.svg
@@ -1227,6 +1297,7 @@ charts/2020-04-03_DE_MV_forecast.svg
 charts/2020-04-04_TG_deaths.svg
 charts/2020-04-04_CA_MB_confirmed.svg
 charts/2020-04-02_CN_HN_forecast.svg
+charts/2020-04-04_IN_TN_confirmed.svg
 charts/2020-04-04_UY_deaths.svg
 charts/2020-04-04_LB_confirmed.svg
 charts/2020-04-03_US_MT_confirmed.svg
@@ -1236,6 +1307,7 @@ charts/2020-04-04_PT_30_forecast.svg
 charts/2020-04-04_MD_deaths.svg
 charts/2020-04-04_GG_deaths.svg
 charts/2020-04-04_IT_21_deaths.svg
+charts/2020-04-04_IN_OR_deaths.svg
 charts/2020-04-04_IT_23_deaths.svg
 charts/2020-04-04_GB_deaths.svg
 charts/2020-04-04_ZW_confirmed.svg
@@ -1265,6 +1337,7 @@ charts/2020-04-04_GB_NIR_deaths.svg
 charts/2020-04-03_US_VT_confirmed.svg
 charts/2020-04-04_ES_AR_confirmed.svg
 charts/2020-04-04_SC_deaths.svg
+charts/2020-04-04_IN_CH_deaths.svg
 charts/2020-04-03_BR_ES_deaths.svg
 charts/2020-04-04_CN_FJ_forecast.svg
 charts/2020-04-04_NL_deaths.svg
