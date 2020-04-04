@@ -2637,7 +2637,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-01-31,RU_SPE,RU,Russia,SPE,Saint Petersburg,0,,59.93750,30.30861,5351935
 2020-01-31,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-01-31,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-01-31,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-01-31,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-01-31,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-01-31,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-01-31,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -4169,7 +4169,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-11,RU_SPE,RU,Russia,SPE,Saint Petersburg,0,,59.93750,30.30861,5351935
 2020-02-11,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-02-11,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-02-11,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-02-11,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-02-11,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-02-11,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-02-11,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -4372,7 +4372,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-12,RU_SPE,RU,Russia,SPE,Saint Petersburg,0,,59.93750,30.30861,5351935
 2020-02-12,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-02-12,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-02-12,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-02-12,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-02-12,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-02-12,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-02-12,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -6262,7 +6262,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-26,PK,PK,Pakistan,,,0,0,30.375321,69.345116,216565318
 2020-02-26,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-02-26,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,,,35.35,75.9,1249000
-2020-02-26,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-02-26,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-02-26,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-02-26,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-02-26,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -6453,7 +6453,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-27,PK,PK,Pakistan,,,2,0,30.375321,69.345116,216565318
 2020-02-27,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-02-27,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,,,35.35,75.9,1249000
-2020-02-27,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-02-27,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-02-27,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-02-27,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-02-27,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -6644,7 +6644,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-28,PK,PK,Pakistan,,,2,0,30.375321,69.345116,216565318
 2020-02-28,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-02-28,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,,,35.35,75.9,1249000
-2020-02-28,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-02-28,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-02-28,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-02-28,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-02-28,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -6833,7 +6833,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-29,PK,PK,Pakistan,,,2,0,30.375321,69.345116,216565318
 2020-02-29,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-02-29,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,,,35.35,75.9,1249000
-2020-02-29,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-02-29,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-02-29,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-02-29,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-02-29,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -7022,7 +7022,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-01,PK,PK,Pakistan,,,4,0,30.375321,69.345116,216565318
 2020-03-01,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-01,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,,,35.35,75.9,1249000
-2020-03-01,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-01,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-01,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-01,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-01,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -7244,7 +7244,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-02,PK,PK,Pakistan,,,4,0,30.375321,69.345116,216565318
 2020-03-02,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-02,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,,,35.35,75.9,1249000
-2020-03-02,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-02,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-02,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-02,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-02,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -7318,7 +7318,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-02,RU_SPE,RU,Russia,SPE,Saint Petersburg,0,,59.93750,30.30861,5351935
 2020-03-02,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-02,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-02,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-02,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-02,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-02,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-02,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -7342,6 +7342,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-02,US,US,United States of America,,,89,2,37.090240,-95.712891,329064917
 2020-03-02,VN,VN,Vietnam,,,16,0,14.058324,108.277199,96462106
 2020-03-03,AD,AD,Andorra,,,1,0,42.546245,1.601554,77142
+2020-03-03,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-03,AR_B,AR,Argentina,B,Buenos Aires Province,,,-33.700,-61.000,15625084
+2020-03-03,AR_C,AR,Argentina,C,City of Buenos Aires,1,,-34.60333,-58.38167,2891082
+2020-03-03,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
+2020-03-03,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-03,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-03,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-03,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
+2020-03-03,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-03,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-03,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-03,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-03,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-03,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
+2020-03-03,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-03,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-03,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-03,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-03,AR_X,AR,Argentina,X,Córdoba,,,-31.417,-64.183,3308876
+2020-03-03,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-03,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-03,AT,AT,Austria,,,18,0,47.516231,14.550072,8955102
 2020-03-03,AU,AU,Australia,,,33,1,-25.274398,133.775136,25203198
 2020-03-03,BE,BE,Belgium,,,8,0,50.503887,4.469936,11539328
@@ -7530,7 +7551,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-03,OM,OM,Oman,,,7,0,21.512583,55.923255,4974986
 2020-03-03,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-03,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-03,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-03,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-03,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-03,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-03,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -7553,6 +7574,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-03,US,US,United States of America,,,103,6,37.090240,-95.712891,329064917
 2020-03-04,AE,AE,United Arab Emirates,,,27,0,23.424076,53.847818,9770529
 2020-03-04,AR,AR,Argentina,,,1,0,-38.416097,-63.616672,44780677
+2020-03-04,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-04,AR_B,AR,Argentina,B,Buenos Aires Province,,,-33.700,-61.000,15625084
+2020-03-04,AR_C,AR,Argentina,C,City of Buenos Aires,1,,-34.60333,-58.38167,2891082
+2020-03-04,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
+2020-03-04,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-04,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-04,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-04,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
+2020-03-04,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-04,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-04,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-04,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-04,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-04,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
+2020-03-04,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-04,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-04,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-04,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-04,AR_X,AR,Argentina,X,Córdoba,,,-31.417,-64.183,3308876
+2020-03-04,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-04,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-04,AT,AT,Austria,,,24,0,47.516231,14.550072,8955102
 2020-03-04,AU,AU,Australia,,,41,1,-25.274398,133.775136,25203198
 2020-03-04,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -7752,7 +7794,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-04,PK,PK,Pakistan,,,5,0,30.375321,69.345116,216565318
 2020-03-04,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-04,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-04,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-04,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-04,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-04,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-04,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -7789,6 +7831,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-04,US_TX,US,United States of America,TX,Texas,1,,31.054500,-97.563500,28995881
 2020-03-04,US_WA,US,United States of America,WA,Washington,39,10,47.400900,-121.490500,7614893
 2020-03-04,US_WI,US,United States of America,WI,Wisconsin,1,,43.018600,-89.549800,5822434
+2020-03-05,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-05,AR_B,AR,Argentina,B,Buenos Aires Province,,,-33.700,-61.000,15625084
+2020-03-05,AR_C,AR,Argentina,C,City of Buenos Aires,2,,-34.60333,-58.38167,2891082
+2020-03-05,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
+2020-03-05,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-05,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-05,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-05,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
+2020-03-05,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-05,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-05,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-05,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-05,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-05,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
+2020-03-05,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-05,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-05,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-05,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-05,AR_X,AR,Argentina,X,Córdoba,,,-31.417,-64.183,3308876
+2020-03-05,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-05,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-05,AT,AT,Austria,,,29,0,47.516231,14.550072,8955102
 2020-03-05,AU,AU,Australia,,,52,2,-25.274398,133.775136,25203198
 2020-03-05,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -7991,7 +8054,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,OM,OM,Oman,,,15,0,21.512583,55.923255,4974986
 2020-03-05,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-05,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-05,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-05,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-05,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-05,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-05,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -8063,7 +8126,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,RU_SPE,RU,Russia,SPE,Saint Petersburg,1,,59.93750,30.30861,5351935
 2020-03-05,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-05,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-05,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-05,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-05,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-05,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-05,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -8112,6 +8175,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,US_WI,US,United States of America,WI,Wisconsin,1,,43.018600,-89.549800,5822434
 2020-03-06,AE,AE,United Arab Emirates,,,29,0,23.424076,53.847818,9770529
 2020-03-06,AR,AR,Argentina,,,2,0,-38.416097,-63.616672,44780677
+2020-03-06,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-06,AR_B,AR,Argentina,B,Buenos Aires Province,1,,-33.700,-61.000,15625084
+2020-03-06,AR_C,AR,Argentina,C,City of Buenos Aires,6,,-34.60333,-58.38167,2891082
+2020-03-06,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
+2020-03-06,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-06,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-06,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-06,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
+2020-03-06,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-06,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-06,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-06,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-06,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-06,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
+2020-03-06,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-06,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-06,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-06,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-06,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
+2020-03-06,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-06,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-06,AT,AT,Austria,,,41,0,47.516231,14.550072,8955102
 2020-03-06,AU,AU,Australia,,,59,2,-25.274398,133.775136,25203198
 2020-03-06,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -8321,7 +8405,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,OM,OM,Oman,,,16,0,21.512583,55.923255,4974986
 2020-03-06,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-06,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-06,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-06,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-06,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-06,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-06,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -8395,7 +8479,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,RU_SPE,RU,Russia,SPE,Saint Petersburg,1,,59.93750,30.30861,5351935
 2020-03-06,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-06,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-06,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-06,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-06,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-06,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-06,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -8457,6 +8541,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,US_WV,US,United States of America,WV,West Virginia,0,,38.491200,-80.954500,1792147
 2020-03-06,ZA,ZA,South Africa,,,1,0,-30.559482,22.937506,58558270
 2020-03-07,AR,AR,Argentina,,,8,0,-38.416097,-63.616672,44780677
+2020-03-07,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-07,AR_B,AR,Argentina,B,Buenos Aires Province,1,,-33.700,-61.000,15625084
+2020-03-07,AR_C,AR,Argentina,C,City of Buenos Aires,7,1,-34.60333,-58.38167,2891082
+2020-03-07,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
+2020-03-07,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-07,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-07,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-07,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
+2020-03-07,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-07,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-07,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-07,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-07,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-07,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
+2020-03-07,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-07,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-07,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-07,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-07,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
+2020-03-07,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-07,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-07,AT,AT,Austria,,,74,0,47.516231,14.550072,8955102
 2020-03-07,AU,AU,Australia,,,63,2,-25.274398,133.775136,25203198
 2020-03-07,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -8668,7 +8773,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-07,PK,PK,Pakistan,,,6,0,30.375321,69.345116,216565318
 2020-03-07,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-07,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-07,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-07,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-07,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-07,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-07,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -8746,7 +8851,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-07,RU_SPE,RU,Russia,SPE,Saint Petersburg,2,,59.93750,30.30861,5351935
 2020-03-07,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-07,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-07,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-07,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-07,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-07,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-07,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -8827,6 +8932,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,AE,AE,United Arab Emirates,,,45,0,23.424076,53.847818,9770529
 2020-03-08,AF,AF,Afghanistan,,,4,0,33.939110,67.709953,38041754
 2020-03-08,AR,AR,Argentina,,,9,1,-38.416097,-63.616672,44780677
+2020-03-08,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-08,AR_B,AR,Argentina,B,Buenos Aires Province,2,,-33.700,-61.000,15625084
+2020-03-08,AR_C,AR,Argentina,C,City of Buenos Aires,9,1,-34.60333,-58.38167,2891082
+2020-03-08,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
+2020-03-08,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-08,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-08,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-08,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
+2020-03-08,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-08,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-08,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-08,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-08,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-08,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
+2020-03-08,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-08,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-08,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-08,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-08,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
+2020-03-08,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-08,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-08,AT,AT,Austria,,,99,0,47.516231,14.550072,8955102
 2020-03-08,AU,AU,Australia,,,74,3,-25.274398,133.775136,25203198
 2020-03-08,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -9032,7 +9158,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,PH,PH,Philippines,,,6,1,12.879721,121.774017,108116615
 2020-03-08,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-08,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-08,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-08,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-08,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-08,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-08,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -9109,7 +9235,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,RU_SPE,RU,Russia,SPE,Saint Petersburg,2,,59.93750,30.30861,5351935
 2020-03-08,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-08,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-08,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-08,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-08,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-08,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-08,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -9188,6 +9314,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,ZA,ZA,South Africa,,,2,0,-30.559482,22.937506,58558270
 2020-03-09,AL,AL,Albania,,,2,0,41.153332,20.168331,2880917
 2020-03-09,AR,AR,Argentina,,,12,1,-38.416097,-63.616672,44780677
+2020-03-09,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-09,AR_B,AR,Argentina,B,Buenos Aires Province,2,,-33.700,-61.000,15625084
+2020-03-09,AR_C,AR,Argentina,C,City of Buenos Aires,10,1,-34.60333,-58.38167,2891082
+2020-03-09,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-09,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-09,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-09,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-09,AR_H,AR,Argentina,H,Chaco,2,,-27.45139,-58.98667,1055259
+2020-03-09,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-09,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-09,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-09,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-09,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-09,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-09,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-09,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-09,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-09,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-09,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
+2020-03-09,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-09,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-09,AT,AT,Austria,,,102,0,47.516231,14.550072,8955102
 2020-03-09,AU,AU,Australia,,,80,3,-25.274398,133.775136,25203198
 2020-03-09,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -9395,7 +9542,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,PH,PH,Philippines,,,10,1,12.879721,121.774017,108116615
 2020-03-09,PK_BA,PK,Pakistan,BA,Balochistan,,,27.7,65.7,12344408
 2020-03-09,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,1,,35.35,75.9,1249000
-2020-03-09,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,,,33.7375,73.1475,2006572
+2020-03-09,PK_IS,PK,Pakistan,IS,Islamabad,,,33.7375,73.1475,2006572
 2020-03-09,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-09,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-09,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -9470,7 +9617,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,RU_SPE,RU,Russia,SPE,Saint Petersburg,2,,59.93750,30.30861,5351935
 2020-03-09,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-09,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-09,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-09,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-09,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-09,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-09,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -9549,6 +9696,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,ZA,ZA,South Africa,,,3,0,-30.559482,22.937506,58558270
 2020-03-10,AE,AE,United Arab Emirates,,,59,0,23.424076,53.847818,9770529
 2020-03-10,AL,AL,Albania,,,6,0,41.153332,20.168331,2880917
+2020-03-10,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-10,AR_B,AR,Argentina,B,Buenos Aires Province,3,,-33.700,-61.000,15625084
+2020-03-10,AR_C,AR,Argentina,C,City of Buenos Aires,11,1,-34.60333,-58.38167,2891082
+2020-03-10,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-10,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-10,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-10,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-10,AR_H,AR,Argentina,H,Chaco,2,,-27.45139,-58.98667,1055259
+2020-03-10,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-10,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-10,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-10,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-10,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-10,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-10,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-10,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-10,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-10,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-10,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
+2020-03-10,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-10,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-10,AT,AT,Austria,,,131,0,47.516231,14.550072,8955102
 2020-03-10,AU,AU,Australia,,,100,3,-25.274398,133.775136,25203198
 2020-03-10,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -9774,7 +9942,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-10,PK,PK,Pakistan,,,16,0,30.375321,69.345116,216565318
 2020-03-10,PK_BA,PK,Pakistan,BA,Balochistan,1,,27.7,65.7,12344408
 2020-03-10,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,2,,35.35,75.9,1249000
-2020-03-10,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,2,,33.7375,73.1475,2006572
+2020-03-10,PK_IS,PK,Pakistan,IS,Islamabad,2,,33.7375,73.1475,2006572
 2020-03-10,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-10,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-10,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -9855,6 +10023,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,AF,AF,Afghanistan,,,7,0,33.939110,67.709953,38041754
 2020-03-11,AL,AL,Albania,,,10,0,41.153332,20.168331,2880917
 2020-03-11,AR,AR,Argentina,,,19,1,-38.416097,-63.616672,44780677
+2020-03-11,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-11,AR_B,AR,Argentina,B,Buenos Aires Province,4,,-33.700,-61.000,15625084
+2020-03-11,AR_C,AR,Argentina,C,City of Buenos Aires,12,1,-34.60333,-58.38167,2891082
+2020-03-11,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-11,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-11,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-11,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-11,AR_H,AR,Argentina,H,Chaco,2,,-27.45139,-58.98667,1055259
+2020-03-11,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-11,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-11,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-11,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-11,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-11,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-11,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-11,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-11,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-11,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-11,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
+2020-03-11,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-11,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-11,AT,AT,Austria,,,182,0,47.516231,14.550072,8955102
 2020-03-11,AU,AU,Australia,,,112,3,-25.274398,133.775136,25203198
 2020-03-11,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -10087,7 +10276,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,PK,PK,Pakistan,,,16,0,30.375321,69.345116,216565318
 2020-03-11,PK_BA,PK,Pakistan,BA,Balochistan,1,,27.7,65.7,12344408
 2020-03-11,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-11,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,2,,33.7375,73.1475,2006572
+2020-03-11,PK_IS,PK,Pakistan,IS,Islamabad,2,,33.7375,73.1475,2006572
 2020-03-11,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-11,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-11,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -10165,7 +10354,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,RU_SPE,RU,Russia,SPE,Saint Petersburg,2,,59.93750,30.30861,5351935
 2020-03-11,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-11,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-11,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-11,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-11,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-11,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-11,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -10245,6 +10434,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,VN,VN,Vietnam,,,35,0,14.058324,108.277199,96462106
 2020-03-12,AL,AL,Albania,,,11,1,41.153332,20.168331,2880917
 2020-03-12,AM,AM,Armenia,,,4,0,40.069099,45.038189,2957731
+2020-03-12,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-12,AR_B,AR,Argentina,B,Buenos Aires Province,8,,-33.700,-61.000,15625084
+2020-03-12,AR_C,AR,Argentina,C,City of Buenos Aires,15,1,-34.60333,-58.38167,2891082
+2020-03-12,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-12,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-12,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-12,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-12,AR_H,AR,Argentina,H,Chaco,4,,-27.45139,-58.98667,1055259
+2020-03-12,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-12,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-12,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-12,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-12,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-12,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-12,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-12,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-12,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-12,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-12,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
+2020-03-12,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-12,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-12,AT,AT,Austria,,,246,0,47.516231,14.550072,8955102
 2020-03-12,AU,AU,Australia,,,126,3,-25.274398,133.775136,25203198
 2020-03-12,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -10494,7 +10704,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-12,PK,PK,Pakistan,,,20,0,30.375321,69.345116,216565318
 2020-03-12,PK_BA,PK,Pakistan,BA,Balochistan,1,,27.7,65.7,12344408
 2020-03-12,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-12,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,2,,33.7375,73.1475,2006572
+2020-03-12,PK_IS,PK,Pakistan,IS,Islamabad,2,,33.7375,73.1475,2006572
 2020-03-12,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-12,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-12,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -10572,7 +10782,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-12,RU_SPE,RU,Russia,SPE,Saint Petersburg,2,,59.93750,30.30861,5351935
 2020-03-12,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-12,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-12,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-12,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-12,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-12,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-12,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -10656,6 +10866,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,AL,AL,Albania,,,23,1,41.153332,20.168331,2880917
 2020-03-13,AM,AM,Armenia,,,6,0,40.069099,45.038189,2957731
 2020-03-13,AR,AR,Argentina,,,31,1,-38.416097,-63.616672,44780677
+2020-03-13,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-13,AR_B,AR,Argentina,B,Buenos Aires Province,9,,-33.700,-61.000,15625084
+2020-03-13,AR_C,AR,Argentina,C,City of Buenos Aires,17,1,-34.60333,-58.38167,2891082
+2020-03-13,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-13,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-13,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-13,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-13,AR_H,AR,Argentina,H,Chaco,4,1,-27.45139,-58.98667,1055259
+2020-03-13,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-13,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-13,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-13,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-13,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-13,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-13,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
+2020-03-13,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-13,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-13,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-13,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
+2020-03-13,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-13,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-13,AT,AT,Austria,,,361,1,47.516231,14.550072,8955102
 2020-03-13,AU,AU,Australia,,,156,3,-25.274398,133.775136,25203198
 2020-03-13,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -10895,7 +11126,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,PK,PK,Pakistan,,,21,0,30.375321,69.345116,216565318
 2020-03-13,PK_BA,PK,Pakistan,BA,Balochistan,6,,27.7,65.7,12344408
 2020-03-13,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-13,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,2,,33.7375,73.1475,2006572
+2020-03-13,PK_IS,PK,Pakistan,IS,Islamabad,2,,33.7375,73.1475,2006572
 2020-03-13,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-13,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-13,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -10972,7 +11203,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,RU_SPE,RU,Russia,SPE,Saint Petersburg,5,,59.93750,30.30861,5351935
 2020-03-13,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-13,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-13,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-13,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-13,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-13,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-13,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -11059,6 +11290,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,AL,AL,Albania,,,33,1,41.153332,20.168331,2880917
 2020-03-14,AM,AM,Armenia,,,13,0,40.069099,45.038189,2957731
 2020-03-14,AR,AR,Argentina,,,34,2,-38.416097,-63.616672,44780677
+2020-03-14,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-14,AR_B,AR,Argentina,B,Buenos Aires Province,11,,-33.700,-61.000,15625084
+2020-03-14,AR_C,AR,Argentina,C,City of Buenos Aires,26,1,-34.60333,-58.38167,2891082
+2020-03-14,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-14,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-14,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-14,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-14,AR_H,AR,Argentina,H,Chaco,5,1,-27.45139,-58.98667,1055259
+2020-03-14,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-14,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-14,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-14,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-14,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-14,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-14,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
+2020-03-14,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-14,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
+2020-03-14,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-14,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
+2020-03-14,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-14,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-14,AT,AT,Austria,,,504,1,47.516231,14.550072,8955102
 2020-03-14,AU,AU,Australia,,,197,3,-25.274398,133.775136,25203198
 2020-03-14,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -11302,7 +11554,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,PK,PK,Pakistan,,,21,0,30.375321,69.345116,216565318
 2020-03-14,PK_BA,PK,Pakistan,BA,Balochistan,6,,27.7,65.7,12344408
 2020-03-14,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-14,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,4,,33.7375,73.1475,2006572
+2020-03-14,PK_IS,PK,Pakistan,IS,Islamabad,4,,33.7375,73.1475,2006572
 2020-03-14,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-14,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-14,PK_PB,PK,Pakistan,PB,Punjab,,,31.0,72.0,110012442
@@ -11381,7 +11633,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,RU_SPE,RU,Russia,SPE,Saint Petersburg,6,,59.93750,30.30861,5351935
 2020-03-14,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-14,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-14,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-14,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-14,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-14,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-14,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -11469,6 +11721,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,AL,AL,Albania,,,38,1,41.153332,20.168331,2880917
 2020-03-15,AM,AM,Armenia,,,20,0,40.069099,45.038189,2957731
 2020-03-15,AR,AR,Argentina,,,45,2,-38.416097,-63.616672,44780677
+2020-03-15,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-15,AR_B,AR,Argentina,B,Buenos Aires Province,12,,-33.700,-61.000,15625084
+2020-03-15,AR_C,AR,Argentina,C,City of Buenos Aires,32,1,-34.60333,-58.38167,2891082
+2020-03-15,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-15,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-15,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-15,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-15,AR_H,AR,Argentina,H,Chaco,7,1,-27.45139,-58.98667,1055259
+2020-03-15,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-15,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-15,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-15,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-15,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-15,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-15,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
+2020-03-15,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-15,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
+2020-03-15,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-15,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
+2020-03-15,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-15,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-15,AT,AT,Austria,,,655,1,47.516231,14.550072,8955102
 2020-03-15,AU,AU,Australia,,,249,3,-25.274398,133.775136,25203198
 2020-03-15,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -11727,7 +12000,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,PK,PK,Pakistan,,,30,0,30.375321,69.345116,216565318
 2020-03-15,PK_BA,PK,Pakistan,BA,Balochistan,11,,27.7,65.7,12344408
 2020-03-15,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-15,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,4,,33.7375,73.1475,2006572
+2020-03-15,PK_IS,PK,Pakistan,IS,Islamabad,4,,33.7375,73.1475,2006572
 2020-03-15,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-15,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,,,34.0,71.32,35525047
 2020-03-15,PK_PB,PK,Pakistan,PB,Punjab,1,,31.0,72.0,110012442
@@ -11805,7 +12078,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,RU_SPE,RU,Russia,SPE,Saint Petersburg,6,,59.93750,30.30861,5351935
 2020-03-15,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-15,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-15,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-15,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-15,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-15,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-15,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -11900,6 +12173,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,AL,AL,Albania,,,42,1,41.153332,20.168331,2880917
 2020-03-16,AM,AM,Armenia,,,30,0,40.069099,45.038189,2957731
 2020-03-16,AR,AR,Argentina,,,56,2,-38.416097,-63.616672,44780677
+2020-03-16,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
+2020-03-16,AR_B,AR,Argentina,B,Buenos Aires Province,16,,-33.700,-61.000,15625084
+2020-03-16,AR_C,AR,Argentina,C,City of Buenos Aires,37,1,-34.60333,-58.38167,2891082
+2020-03-16,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-16,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
+2020-03-16,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-16,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-16,AR_H,AR,Argentina,H,Chaco,11,1,-27.45139,-58.98667,1055259
+2020-03-16,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-16,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-16,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-16,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-16,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-16,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
+2020-03-16,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
+2020-03-16,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-16,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
+2020-03-16,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-16,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
+2020-03-16,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
+2020-03-16,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
 2020-03-16,AT,AT,Austria,,,860,1,47.516231,14.550072,8955102
 2020-03-16,AU,AU,Australia,,,298,5,-25.274398,133.775136,25203198
 2020-03-16,AU_ACT,AU,Australia,ACT,Australian Capital Territory,2,,-35.282001,149.128998,428060
@@ -12160,7 +12454,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,PK,PK,Pakistan,,,31,0,30.375321,69.345116,216565318
 2020-03-16,PK_BA,PK,Pakistan,BA,Balochistan,14,,27.7,65.7,12344408
 2020-03-16,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-16,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,4,,33.7375,73.1475,2006572
+2020-03-16,PK_IS,PK,Pakistan,IS,Islamabad,4,,33.7375,73.1475,2006572
 2020-03-16,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-16,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,15,,34.0,71.32,35525047
 2020-03-16,PK_PB,PK,Pakistan,PB,Punjab,1,,31.0,72.0,110012442
@@ -12239,7 +12533,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,RU_SPE,RU,Russia,SPE,Saint Petersburg,9,,59.93750,30.30861,5351935
 2020-03-16,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-16,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,0,,58.700,61.333,4325256
-2020-03-16,RU_TA,RU,Russia,TA,Tatarstan[a],0,,55.550,50.933,3894284
+2020-03-16,RU_TA,RU,Russia,TA,Tatarstan,0,,55.550,50.933,3894284
 2020-03-16,RU_TAM,RU,Russia,TAM,Tambov Oblast,0,,52.717,41.567,1033552
 2020-03-16,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-16,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -12338,6 +12632,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,AL,AL,Albania,,,51,1,41.153332,20.168331,2880917
 2020-03-17,AM,AM,Armenia,,,52,0,40.069099,45.038189,2957731
 2020-03-17,AR,AR,Argentina,,,65,2,-38.416097,-63.616672,44780677
+2020-03-17,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-17,AR_B,AR,Argentina,B,Buenos Aires Province,17,,-33.700,-61.000,15625084
+2020-03-17,AR_C,AR,Argentina,C,City of Buenos Aires,40,1,-34.60333,-58.38167,2891082
+2020-03-17,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-17,AR_E,AR,Argentina,E,Entre Ríos,1,,-32.0477,-60.281,1235994
+2020-03-17,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-17,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-17,AR_H,AR,Argentina,H,Chaco,12,1,-27.45139,-58.98667,1055259
+2020-03-17,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-17,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-17,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-17,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-17,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-17,AR_R,AR,Argentina,R,Río Negro,2,,-40.800,-63.000,638645
+2020-03-17,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
+2020-03-17,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-17,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
+2020-03-17,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-17,AR_X,AR,Argentina,X,Córdoba,4,,-31.417,-64.183,3308876
+2020-03-17,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-17,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-17,AT,AT,Austria,,,1016,3,47.516231,14.550072,8955102
 2020-03-17,AU,AU,Australia,,,375,5,-25.274398,133.775136,25203198
 2020-03-17,AU_ACT,AU,Australia,ACT,Australian Capital Territory,2,,-35.282001,149.128998,428060
@@ -12608,7 +12923,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,PK,PK,Pakistan,,,187,0,30.375321,69.345116,216565318
 2020-03-17,PK_BA,PK,Pakistan,BA,Balochistan,15,,27.7,65.7,12344408
 2020-03-17,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,3,,35.35,75.9,1249000
-2020-03-17,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,8,,33.7375,73.1475,2006572
+2020-03-17,PK_IS,PK,Pakistan,IS,Islamabad,8,,33.7375,73.1475,2006572
 2020-03-17,PK_JK,PK,Pakistan,JK,Azad Kashmir,,,33.84333,73.85139,4045000
 2020-03-17,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,17,,34.0,71.32,35525047
 2020-03-17,PK_PB,PK,Pakistan,PB,Punjab,26,,31.0,72.0,110012442
@@ -12687,7 +13002,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,RU_SPE,RU,Russia,SPE,Saint Petersburg,9,,59.93750,30.30861,5351935
 2020-03-17,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-17,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,1,,58.700,61.333,4325256
-2020-03-17,RU_TA,RU,Russia,TA,Tatarstan[a],1,,55.550,50.933,3894284
+2020-03-17,RU_TA,RU,Russia,TA,Tatarstan,1,,55.550,50.933,3894284
 2020-03-17,RU_TAM,RU,Russia,TAM,Tambov Oblast,1,,52.717,41.567,1033552
 2020-03-17,RU_TOM,RU,Russia,TOM,Tomsk Oblast,0,,58.750,82.133,1078280
 2020-03-17,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -12788,6 +13103,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,AL,AL,Albania,,,55,1,41.153332,20.168331,2880917
 2020-03-18,AM,AM,Armenia,,,78,0,40.069099,45.038189,2957731
 2020-03-18,AR,AR,Argentina,,,79,2,-38.416097,-63.616672,44780677
+2020-03-18,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-18,AR_B,AR,Argentina,B,Buenos Aires Province,23,,-33.700,-61.000,15625084
+2020-03-18,AR_C,AR,Argentina,C,City of Buenos Aires,53,2,-34.60333,-58.38167,2891082
+2020-03-18,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-18,AR_E,AR,Argentina,E,Entre Ríos,3,,-32.0477,-60.281,1235994
+2020-03-18,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-18,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-18,AR_H,AR,Argentina,H,Chaco,13,1,-27.45139,-58.98667,1055259
+2020-03-18,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-18,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-18,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-18,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-18,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-18,AR_R,AR,Argentina,R,Río Negro,2,,-40.800,-63.000,638645
+2020-03-18,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
+2020-03-18,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
+2020-03-18,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
+2020-03-18,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-18,AR_X,AR,Argentina,X,Córdoba,5,,-31.417,-64.183,3308876
+2020-03-18,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-18,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-18,AT,AT,Austria,,,1332,3,47.516231,14.550072,8955102
 2020-03-18,AU,AU,Australia,,,454,5,-25.274398,133.775136,25203198
 2020-03-18,AU_ACT,AU,Australia,ACT,Australian Capital Territory,3,,-35.282001,149.128998,428060
@@ -13058,7 +13394,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,PK,PK,Pakistan,,,187,0,30.375321,69.345116,216565318
 2020-03-18,PK_BA,PK,Pakistan,BA,Balochistan,23,,27.7,65.7,12344408
 2020-03-18,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,13,,35.35,75.9,1249000
-2020-03-18,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,5,,33.7375,73.1475,2006572
+2020-03-18,PK_IS,PK,Pakistan,IS,Islamabad,5,,33.7375,73.1475,2006572
 2020-03-18,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-18,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,19,,34.0,71.32,35525047
 2020-03-18,PK_PB,PK,Pakistan,PB,Punjab,33,,31.0,72.0,110012442
@@ -13137,7 +13473,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,RU_SPE,RU,Russia,SPE,Saint Petersburg,9,,59.93750,30.30861,5351935
 2020-03-18,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-18,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,1,,58.700,61.333,4325256
-2020-03-18,RU_TA,RU,Russia,TA,Tatarstan[a],1,,55.550,50.933,3894284
+2020-03-18,RU_TA,RU,Russia,TA,Tatarstan,1,,55.550,50.933,3894284
 2020-03-18,RU_TAM,RU,Russia,TAM,Tambov Oblast,1,,52.717,41.567,1033552
 2020-03-18,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-18,RU_TUL,RU,Russia,TUL,Tula Oblast,0,,53.917,37.583,1491855
@@ -13238,6 +13574,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,AL,AL,Albania,,,59,2,41.153332,20.168331,2880917
 2020-03-19,AM,AM,Armenia,,,115,0,40.069099,45.038189,2957731
 2020-03-19,AR,AR,Argentina,,,97,2,-38.416097,-63.616672,44780677
+2020-03-19,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-19,AR_B,AR,Argentina,B,Buenos Aires Province,38,,-33.700,-61.000,15625084
+2020-03-19,AR_C,AR,Argentina,C,City of Buenos Aires,67,2,-34.60333,-58.38167,2891082
+2020-03-19,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-19,AR_E,AR,Argentina,E,Entre Ríos,3,,-32.0477,-60.281,1235994
+2020-03-19,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-19,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-19,AR_H,AR,Argentina,H,Chaco,15,1,-27.45139,-58.98667,1055259
+2020-03-19,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-19,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-19,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-19,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-19,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
+2020-03-19,AR_R,AR,Argentina,R,Río Negro,3,,-40.800,-63.000,638645
+2020-03-19,AR_S,AR,Argentina,S,Santa Fe,2,,-33.7227,-62.246,3194537
+2020-03-19,AR_T,AR,Argentina,T,Tucumán,1,,-26.94,-65.34,1448188
+2020-03-19,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
+2020-03-19,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
+2020-03-19,AR_X,AR,Argentina,X,Córdoba,8,,-31.417,-64.183,3308876
+2020-03-19,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-19,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-19,AT,AT,Austria,,,1646,4,47.516231,14.550072,8955102
 2020-03-19,AU,AU,Australia,,,565,6,-25.274398,133.775136,25203198
 2020-03-19,AU_ACT,AU,Australia,ACT,Australian Capital Territory,4,,-35.282001,149.128998,428060
@@ -13511,7 +13868,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,PK,PK,Pakistan,,,302,0,30.375321,69.345116,216565318
 2020-03-19,PK_BA,PK,Pakistan,BA,Balochistan,81,,27.7,65.7,12344408
 2020-03-19,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,21,,35.35,75.9,1249000
-2020-03-19,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,10,,33.7375,73.1475,2006572
+2020-03-19,PK_IS,PK,Pakistan,IS,Islamabad,10,,33.7375,73.1475,2006572
 2020-03-19,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-19,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,23,,34.0,71.32,35525047
 2020-03-19,PK_PB,PK,Pakistan,PB,Punjab,80,,31.0,72.0,110012442
@@ -13590,7 +13947,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,RU_SPE,RU,Russia,SPE,Saint Petersburg,10,,59.93750,30.30861,5351935
 2020-03-19,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-19,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,6,,58.700,61.333,4325256
-2020-03-19,RU_TA,RU,Russia,TA,Tatarstan[a],1,,55.550,50.933,3894284
+2020-03-19,RU_TA,RU,Russia,TA,Tatarstan,1,,55.550,50.933,3894284
 2020-03-19,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-19,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-19,RU_TUL,RU,Russia,TUL,Tula Oblast,3,,53.917,37.583,1491855
@@ -13693,6 +14050,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,AL,AL,Albania,,,70,2,41.153332,20.168331,2880917
 2020-03-20,AM,AM,Armenia,,,122,0,40.069099,45.038189,2957731
 2020-03-20,AR,AR,Argentina,,,128,3,-38.416097,-63.616672,44780677
+2020-03-20,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-20,AR_B,AR,Argentina,B,Buenos Aires Province,49,,-33.700,-61.000,15625084
+2020-03-20,AR_C,AR,Argentina,C,City of Buenos Aires,80,2,-34.60333,-58.38167,2891082
+2020-03-20,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-20,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
+2020-03-20,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-20,AR_G,AR,Argentina,G,Santiago del Estero,1,,-27.783,-64.267,874006
+2020-03-20,AR_H,AR,Argentina,H,Chaco,16,1,-27.45139,-58.98667,1055259
+2020-03-20,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-20,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-20,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
+2020-03-20,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-20,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
+2020-03-20,AR_R,AR,Argentina,R,Río Negro,4,,-40.800,-63.000,638645
+2020-03-20,AR_S,AR,Argentina,S,Santa Fe,2,,-33.7227,-62.246,3194537
+2020-03-20,AR_T,AR,Argentina,T,Tucumán,1,,-26.94,-65.34,1448188
+2020-03-20,AR_V,AR,Argentina,V,Tierra del Fuego,3,,-54.362,-67.638,127205
+2020-03-20,AR_W,AR,Argentina,W,Corrientes,1,,-28.66,-57.63,992595
+2020-03-20,AR_X,AR,Argentina,X,Córdoba,13,,-31.417,-64.183,3308876
+2020-03-20,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-20,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-20,AT,AT,Austria,,,2196,6,47.516231,14.550072,8955102
 2020-03-20,AU,AU,Australia,,,709,6,-25.274398,133.775136,25203198
 2020-03-20,AU_ACT,AU,Australia,ACT,Australian Capital Territory,6,,-35.282001,149.128998,428060
@@ -13983,7 +14361,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,PK,PK,Pakistan,,,478,2,30.375321,69.345116,216565318
 2020-03-20,PK_BA,PK,Pakistan,BA,Balochistan,81,,27.7,65.7,12344408
 2020-03-20,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,30,,35.35,75.9,1249000
-2020-03-20,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,11,,33.7375,73.1475,2006572
+2020-03-20,PK_IS,PK,Pakistan,IS,Islamabad,11,,33.7375,73.1475,2006572
 2020-03-20,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-20,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,23,,34.0,71.32,35525047
 2020-03-20,PK_PB,PK,Pakistan,PB,Punjab,96,,31.0,72.0,110012442
@@ -14062,7 +14440,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,RU_SPE,RU,Russia,SPE,Saint Petersburg,14,,59.93750,30.30861,5351935
 2020-03-20,RU_STA,RU,Russia,STA,Stavropol Krai,0,,45.050,43.267,2800674
 2020-03-20,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,6,,58.700,61.333,4325256
-2020-03-20,RU_TA,RU,Russia,TA,Tatarstan[a],1,,55.550,50.933,3894284
+2020-03-20,RU_TA,RU,Russia,TA,Tatarstan,1,,55.550,50.933,3894284
 2020-03-20,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-20,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-20,RU_TUL,RU,Russia,TUL,Tula Oblast,3,,53.917,37.583,1491855
@@ -14167,6 +14545,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,AL,AL,Albania,,,70,2,41.153332,20.168331,2880917
 2020-03-21,AM,AM,Armenia,,,136,0,40.069099,45.038189,2957731
 2020-03-21,AR,AR,Argentina,,,158,3,-38.416097,-63.616672,44780677
+2020-03-21,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-21,AR_B,AR,Argentina,B,Buenos Aires Province,64,1,-33.700,-61.000,15625084
+2020-03-21,AR_C,AR,Argentina,C,City of Buenos Aires,113,2,-34.60333,-58.38167,2891082
+2020-03-21,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-21,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
+2020-03-21,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-21,AR_G,AR,Argentina,G,Santiago del Estero,1,,-27.783,-64.267,874006
+2020-03-21,AR_H,AR,Argentina,H,Chaco,21,1,-27.45139,-58.98667,1055259
+2020-03-21,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-21,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-21,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
+2020-03-21,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-21,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
+2020-03-21,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
+2020-03-21,AR_S,AR,Argentina,S,Santa Fe,4,,-33.7227,-62.246,3194537
+2020-03-21,AR_T,AR,Argentina,T,Tucumán,2,,-26.94,-65.34,1448188
+2020-03-21,AR_V,AR,Argentina,V,Tierra del Fuego,6,,-54.362,-67.638,127205
+2020-03-21,AR_W,AR,Argentina,W,Corrientes,3,,-28.66,-57.63,992595
+2020-03-21,AR_X,AR,Argentina,X,Córdoba,17,,-31.417,-64.183,3308876
+2020-03-21,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-21,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-21,AT,AT,Austria,,,2649,6,47.516231,14.550072,8955102
 2020-03-21,AU,AU,Australia,,,874,7,-25.274398,133.775136,25203198
 2020-03-21,AU_ACT,AU,Australia,ACT,Australian Capital Territory,9,,-35.282001,149.128998,428060
@@ -14458,7 +14857,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,PK,PK,Pakistan,,,495,3,30.375321,69.345116,216565318
 2020-03-21,PK_BA,PK,Pakistan,BA,Balochistan,104,,27.7,65.7,12344408
 2020-03-21,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,55,,35.35,75.9,1249000
-2020-03-21,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,11,,33.7375,73.1475,2006572
+2020-03-21,PK_IS,PK,Pakistan,IS,Islamabad,11,,33.7375,73.1475,2006572
 2020-03-21,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-21,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,31,,34.0,71.32,35525047
 2020-03-21,PK_PB,PK,Pakistan,PB,Punjab,152,,31.0,72.0,110012442
@@ -14537,7 +14936,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,RU_SPE,RU,Russia,SPE,Saint Petersburg,16,,59.93750,30.30861,5351935
 2020-03-21,RU_STA,RU,Russia,STA,Stavropol Krai,1,,45.050,43.267,2800674
 2020-03-21,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,9,,58.700,61.333,4325256
-2020-03-21,RU_TA,RU,Russia,TA,Tatarstan[a],6,,55.550,50.933,3894284
+2020-03-21,RU_TA,RU,Russia,TA,Tatarstan,6,,55.550,50.933,3894284
 2020-03-21,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-21,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-21,RU_TUL,RU,Russia,TUL,Tula Oblast,5,,53.917,37.583,1491855
@@ -14645,6 +15044,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,AM,AM,Armenia,,,160,0,40.069099,45.038189,2957731
 2020-03-22,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-22,AR,AR,Argentina,,,225,4,-38.416097,-63.616672,44780677
+2020-03-22,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-22,AR_B,AR,Argentina,B,Buenos Aires Province,72,1,-33.700,-61.000,15625084
+2020-03-22,AR_C,AR,Argentina,C,City of Buenos Aires,127,2,-34.60333,-58.38167,2891082
+2020-03-22,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-22,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
+2020-03-22,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-22,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-22,AR_H,AR,Argentina,H,Chaco,28,1,-27.45139,-58.98667,1055259
+2020-03-22,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-22,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-22,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
+2020-03-22,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-22,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
+2020-03-22,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
+2020-03-22,AR_S,AR,Argentina,S,Santa Fe,4,,-33.7227,-62.246,3194537
+2020-03-22,AR_T,AR,Argentina,T,Tucumán,7,,-26.94,-65.34,1448188
+2020-03-22,AR_V,AR,Argentina,V,Tierra del Fuego,6,,-54.362,-67.638,127205
+2020-03-22,AR_W,AR,Argentina,W,Corrientes,3,,-28.66,-57.63,992595
+2020-03-22,AR_X,AR,Argentina,X,Córdoba,25,,-31.417,-64.183,3308876
+2020-03-22,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-22,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-22,AT,AT,Austria,,,3024,8,47.516231,14.550072,8955102
 2020-03-22,AU,AU,Australia,,,1098,7,-25.274398,133.775136,25203198
 2020-03-22,AU_ACT,AU,Australia,ACT,Australian Capital Territory,19,0,-35.282001,149.128998,428060
@@ -14942,7 +15362,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,PK,PK,Pakistan,,,646,3,30.375321,69.345116,216565318
 2020-03-22,PK_BA,PK,Pakistan,BA,Balochistan,108,,27.7,65.7,12344408
 2020-03-22,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,71,,35.35,75.9,1249000
-2020-03-22,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,15,,33.7375,73.1475,2006572
+2020-03-22,PK_IS,PK,Pakistan,IS,Islamabad,15,,33.7375,73.1475,2006572
 2020-03-22,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-22,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,31,,34.0,71.32,35525047
 2020-03-22,PK_PB,PK,Pakistan,PB,Punjab,225,,31.0,72.0,110012442
@@ -15021,7 +15441,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,RU_SPE,RU,Russia,SPE,Saint Petersburg,16,,59.93750,30.30861,5351935
 2020-03-22,RU_STA,RU,Russia,STA,Stavropol Krai,1,,45.050,43.267,2800674
 2020-03-22,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,9,,58.700,61.333,4325256
-2020-03-22,RU_TA,RU,Russia,TA,Tatarstan[a],6,,55.550,50.933,3894284
+2020-03-22,RU_TA,RU,Russia,TA,Tatarstan,6,,55.550,50.933,3894284
 2020-03-22,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-22,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-22,RU_TUL,RU,Russia,TUL,Tula Oblast,5,,53.917,37.583,1491855
@@ -15131,6 +15551,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,AM,AM,Armenia,,,190,0,40.069099,45.038189,2957731
 2020-03-23,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-23,AR,AR,Argentina,,,266,4,-38.416097,-63.616672,44780677
+2020-03-23,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-23,AR_B,AR,Argentina,B,Buenos Aires Province,77,1,-33.700,-61.000,15625084
+2020-03-23,AR_C,AR,Argentina,C,City of Buenos Aires,141,2,-34.60333,-58.38167,2891082
+2020-03-23,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-23,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
+2020-03-23,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-23,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-23,AR_H,AR,Argentina,H,Chaco,33,1,-27.45139,-58.98667,1055259
+2020-03-23,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-23,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
+2020-03-23,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
+2020-03-23,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-23,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
+2020-03-23,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
+2020-03-23,AR_S,AR,Argentina,S,Santa Fe,17,,-33.7227,-62.246,3194537
+2020-03-23,AR_T,AR,Argentina,T,Tucumán,7,,-26.94,-65.34,1448188
+2020-03-23,AR_V,AR,Argentina,V,Tierra del Fuego,6,,-54.362,-67.638,127205
+2020-03-23,AR_W,AR,Argentina,W,Corrientes,3,,-28.66,-57.63,992595
+2020-03-23,AR_X,AR,Argentina,X,Córdoba,28,,-31.417,-64.183,3308876
+2020-03-23,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-23,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
 2020-03-23,AT,AT,Austria,,,3631,16,47.516231,14.550072,8955102
 2020-03-23,AU,AU,Australia,,,1709,7,-25.274398,133.775136,25203198
 2020-03-23,AU_ACT,AU,Australia,ACT,Australian Capital Territory,32,0,-35.282001,149.128998,428060
@@ -15433,7 +15874,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,PK,PK,Pakistan,,,784,5,30.375321,69.345116,216565318
 2020-03-23,PK_BA,PK,Pakistan,BA,Balochistan,110,,27.7,65.7,12344408
 2020-03-23,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,80,,35.35,75.9,1249000
-2020-03-23,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,15,,33.7375,73.1475,2006572
+2020-03-23,PK_IS,PK,Pakistan,IS,Islamabad,15,,33.7375,73.1475,2006572
 2020-03-23,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-23,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,38,,34.0,71.32,35525047
 2020-03-23,PK_PB,PK,Pakistan,PB,Punjab,249,,31.0,72.0,110012442
@@ -15512,7 +15953,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,RU_SPE,RU,Russia,SPE,Saint Petersburg,16,,59.93750,30.30861,5351935
 2020-03-23,RU_STA,RU,Russia,STA,Stavropol Krai,1,,45.050,43.267,2800674
 2020-03-23,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,9,,58.700,61.333,4325256
-2020-03-23,RU_TA,RU,Russia,TA,Tatarstan[a],6,,55.550,50.933,3894284
+2020-03-23,RU_TA,RU,Russia,TA,Tatarstan,6,,55.550,50.933,3894284
 2020-03-23,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-23,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-23,RU_TUL,RU,Russia,TUL,Tula Oblast,5,,53.917,37.583,1491855
@@ -15623,6 +16064,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,AM,AM,Armenia,,,194,0,40.069099,45.038189,2957731
 2020-03-24,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-24,AR,AR,Argentina,,,301,4,-38.416097,-63.616672,44780677
+2020-03-24,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-24,AR_B,AR,Argentina,B,Buenos Aires Province,107,2,-33.700,-61.000,15625084
+2020-03-24,AR_C,AR,Argentina,C,City of Buenos Aires,174,2,-34.60333,-58.38167,2891082
+2020-03-24,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
+2020-03-24,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
+2020-03-24,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-24,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-24,AR_H,AR,Argentina,H,Chaco,46,2,-27.45139,-58.98667,1055259
+2020-03-24,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-24,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-24,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
+2020-03-24,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-24,AR_Q,AR,Argentina,Q,Neuquén,3,,-38.95167,-68.07444,551266
+2020-03-24,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
+2020-03-24,AR_S,AR,Argentina,S,Santa Fe,19,,-33.7227,-62.246,3194537
+2020-03-24,AR_T,AR,Argentina,T,Tucumán,7,,-26.94,-65.34,1448188
+2020-03-24,AR_V,AR,Argentina,V,Tierra del Fuego,9,,-54.362,-67.638,127205
+2020-03-24,AR_W,AR,Argentina,W,Corrientes,4,,-28.66,-57.63,992595
+2020-03-24,AR_X,AR,Argentina,X,Córdoba,35,,-31.417,-64.183,3308876
+2020-03-24,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-24,AR_Z,AR,Argentina,Z,Santa Cruz,2,,-48.62,-70.01,273964
 2020-03-24,AT,AT,Austria,,,4486,25,47.516231,14.550072,8955102
 2020-03-24,AU,AU,Australia,,,1823,7,-25.274398,133.775136,25203198
 2020-03-24,AU_ACT,AU,Australia,ACT,Australian Capital Territory,39,0,-35.282001,149.128998,428060
@@ -15929,7 +16391,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,PK,PK,Pakistan,,,887,6,30.375321,69.345116,216565318
 2020-03-24,PK_BA,PK,Pakistan,BA,Balochistan,110,,27.7,65.7,12344408
 2020-03-24,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,81,,35.35,75.9,1249000
-2020-03-24,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,18,,33.7375,73.1475,2006572
+2020-03-24,PK_IS,PK,Pakistan,IS,Islamabad,18,,33.7375,73.1475,2006572
 2020-03-24,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-24,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,78,,34.0,71.32,35525047
 2020-03-24,PK_PB,PK,Pakistan,PB,Punjab,296,,31.0,72.0,110012442
@@ -16008,7 +16470,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,RU_SPE,RU,Russia,SPE,Saint Petersburg,21,,59.93750,30.30861,5351935
 2020-03-24,RU_STA,RU,Russia,STA,Stavropol Krai,1,,45.050,43.267,2800674
 2020-03-24,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,13,,58.700,61.333,4325256
-2020-03-24,RU_TA,RU,Russia,TA,Tatarstan[a],7,,55.550,50.933,3894284
+2020-03-24,RU_TA,RU,Russia,TA,Tatarstan,7,,55.550,50.933,3894284
 2020-03-24,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-24,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-24,RU_TUL,RU,Russia,TUL,Tula Oblast,5,,53.917,37.583,1491855
@@ -16120,6 +16582,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,AM,AM,Armenia,,,265,0,40.069099,45.038189,2957731
 2020-03-25,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-25,AR,AR,Argentina,,,387,6,-38.416097,-63.616672,44780677
+2020-03-25,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-25,AR_B,AR,Argentina,B,Buenos Aires Province,137,2,-33.700,-61.000,15625084
+2020-03-25,AR_C,AR,Argentina,C,City of Buenos Aires,211,3,-34.60333,-58.38167,2891082
+2020-03-25,AR_D,AR,Argentina,D,San Luis,5,,-33.300,-66.350,432310
+2020-03-25,AR_E,AR,Argentina,E,Entre Ríos,7,,-32.0477,-60.281,1235994
+2020-03-25,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-25,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-25,AR_H,AR,Argentina,H,Chaco,54,3,-27.45139,-58.98667,1055259
+2020-03-25,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-25,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-25,AR_M,AR,Argentina,M,Mendoza,6,,-32.89028,-68.84722,1738929
+2020-03-25,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-25,AR_Q,AR,Argentina,Q,Neuquén,4,,-38.95167,-68.07444,551266
+2020-03-25,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
+2020-03-25,AR_S,AR,Argentina,S,Santa Fe,43,,-33.7227,-62.246,3194537
+2020-03-25,AR_T,AR,Argentina,T,Tucumán,9,,-26.94,-65.34,1448188
+2020-03-25,AR_V,AR,Argentina,V,Tierra del Fuego,11,,-54.362,-67.638,127205
+2020-03-25,AR_W,AR,Argentina,W,Corrientes,4,,-28.66,-57.63,992595
+2020-03-25,AR_X,AR,Argentina,X,Córdoba,50,,-31.417,-64.183,3308876
+2020-03-25,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
+2020-03-25,AR_Z,AR,Argentina,Z,Santa Cruz,8,,-48.62,-70.01,273964
 2020-03-25,AT,AT,Austria,,,5282,30,47.516231,14.550072,8955102
 2020-03-25,AU,AU,Australia,,,2423,8,-25.274398,133.775136,25203198
 2020-03-25,AU_ACT,AU,Australia,ACT,Australian Capital Territory,44,0,-35.282001,149.128998,428060
@@ -16425,7 +16908,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,PK,PK,Pakistan,,,991,7,30.375321,69.345116,216565318
 2020-03-25,PK_BA,PK,Pakistan,BA,Balochistan,131,,27.7,65.7,12344408
 2020-03-25,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,83,,35.35,75.9,1249000
-2020-03-25,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,25,,33.7375,73.1475,2006572
+2020-03-25,PK_IS,PK,Pakistan,IS,Islamabad,25,,33.7375,73.1475,2006572
 2020-03-25,PK_JK,PK,Pakistan,JK,Azad Kashmir,1,,33.84333,73.85139,4045000
 2020-03-25,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,80,,34.0,71.32,35525047
 2020-03-25,PK_PB,PK,Pakistan,PB,Punjab,323,,31.0,72.0,110012442
@@ -16504,7 +16987,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,RU_SPE,RU,Russia,SPE,Saint Petersburg,21,,59.93750,30.30861,5351935
 2020-03-25,RU_STA,RU,Russia,STA,Stavropol Krai,2,,45.050,43.267,2800674
 2020-03-25,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,13,,58.700,61.333,4325256
-2020-03-25,RU_TA,RU,Russia,TA,Tatarstan[a],7,,55.550,50.933,3894284
+2020-03-25,RU_TA,RU,Russia,TA,Tatarstan,7,,55.550,50.933,3894284
 2020-03-25,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-25,RU_TOM,RU,Russia,TOM,Tomsk Oblast,1,,58.750,82.133,1078280
 2020-03-25,RU_TUL,RU,Russia,TUL,Tula Oblast,7,,53.917,37.583,1491855
@@ -16618,6 +17101,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,AM,AM,Armenia,,,290,0,40.069099,45.038189,2957731
 2020-03-26,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-26,AR,AR,Argentina,,,502,8,-38.416097,-63.616672,44780677
+2020-03-26,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-26,AR_B,AR,Argentina,B,Buenos Aires Province,164,4,-33.700,-61.000,15625084
+2020-03-26,AR_C,AR,Argentina,C,City of Buenos Aires,262,4,-34.60333,-58.38167,2891082
+2020-03-26,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
+2020-03-26,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
+2020-03-26,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-26,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-26,AR_H,AR,Argentina,H,Chaco,58,4,-27.45139,-58.98667,1055259
+2020-03-26,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-26,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-26,AR_M,AR,Argentina,M,Mendoza,8,,-32.89028,-68.84722,1738929
+2020-03-26,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
+2020-03-26,AR_Q,AR,Argentina,Q,Neuquén,7,,-38.95167,-68.07444,551266
+2020-03-26,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
+2020-03-26,AR_S,AR,Argentina,S,Santa Fe,55,,-33.7227,-62.246,3194537
+2020-03-26,AR_T,AR,Argentina,T,Tucumán,13,,-26.94,-65.34,1448188
+2020-03-26,AR_V,AR,Argentina,V,Tierra del Fuego,14,,-54.362,-67.638,127205
+2020-03-26,AR_W,AR,Argentina,W,Corrientes,5,,-28.66,-57.63,992595
+2020-03-26,AR_X,AR,Argentina,X,Córdoba,53,,-31.417,-64.183,3308876
+2020-03-26,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-03-26,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
 2020-03-26,AT,AT,Austria,,,5888,34,47.516231,14.550072,8955102
 2020-03-26,AU,AU,Australia,,,2799,11,-25.274398,133.775136,25203198
 2020-03-26,AU_ACT,AU,Australia,ACT,Australian Capital Territory,53,0,-35.282001,149.128998,428060
@@ -16929,7 +17433,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,PK,PK,Pakistan,,,1057,8,30.375321,69.345116,216565318
 2020-03-26,PK_BA,PK,Pakistan,BA,Balochistan,131,,27.7,65.7,12344408
 2020-03-26,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,91,,35.35,75.9,1249000
-2020-03-26,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,25,,33.7375,73.1475,2006572
+2020-03-26,PK_IS,PK,Pakistan,IS,Islamabad,25,,33.7375,73.1475,2006572
 2020-03-26,PK_JK,PK,Pakistan,JK,Azad Kashmir,2,,33.84333,73.85139,4045000
 2020-03-26,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,123,,34.0,71.32,35525047
 2020-03-26,PK_PB,PK,Pakistan,PB,Punjab,408,,31.0,72.0,110012442
@@ -17008,7 +17512,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,RU_SPE,RU,Russia,SPE,Saint Petersburg,26,,59.93750,30.30861,5351935
 2020-03-26,RU_STA,RU,Russia,STA,Stavropol Krai,5,,45.050,43.267,2800674
 2020-03-26,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,20,,58.700,61.333,4325256
-2020-03-26,RU_TA,RU,Russia,TA,Tatarstan[a],10,,55.550,50.933,3894284
+2020-03-26,RU_TA,RU,Russia,TA,Tatarstan,10,,55.550,50.933,3894284
 2020-03-26,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-26,RU_TOM,RU,Russia,TOM,Tomsk Oblast,2,,58.750,82.133,1078280
 2020-03-26,RU_TUL,RU,Russia,TUL,Tula Oblast,7,,53.917,37.583,1491855
@@ -17123,6 +17627,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,AM,AM,Armenia,,,329,1,40.069099,45.038189,2957731
 2020-03-27,AO,AO,Angola,,,3,0,-11.202692,17.873887,31825295
 2020-03-27,AR,AR,Argentina,,,589,12,-38.416097,-63.616672,44780677
+2020-03-27,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-27,AR_B,AR,Argentina,B,Buenos Aires Province,193,4,-33.700,-61.000,15625084
+2020-03-27,AR_C,AR,Argentina,C,City of Buenos Aires,285,5,-34.60333,-58.38167,2891082
+2020-03-27,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
+2020-03-27,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
+2020-03-27,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-27,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-27,AR_H,AR,Argentina,H,Chaco,63,4,-27.45139,-58.98667,1055259
+2020-03-27,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
+2020-03-27,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-27,AR_M,AR,Argentina,M,Mendoza,9,1,-32.89028,-68.84722,1738929
+2020-03-27,AR_N,AR,Argentina,N,Misiones,1,,-26.92,-54.52,1101593
+2020-03-27,AR_Q,AR,Argentina,Q,Neuquén,10,,-38.95167,-68.07444,551266
+2020-03-27,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
+2020-03-27,AR_S,AR,Argentina,S,Santa Fe,64,,-33.7227,-62.246,3194537
+2020-03-27,AR_T,AR,Argentina,T,Tucumán,14,,-26.94,-65.34,1448188
+2020-03-27,AR_V,AR,Argentina,V,Tierra del Fuego,14,,-54.362,-67.638,127205
+2020-03-27,AR_W,AR,Argentina,W,Corrientes,11,,-28.66,-57.63,992595
+2020-03-27,AR_X,AR,Argentina,X,Córdoba,58,,-31.417,-64.183,3308876
+2020-03-27,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-03-27,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
 2020-03-27,AT,AT,Austria,,,7029,52,47.516231,14.550072,8955102
 2020-03-27,AU,AU,Australia,,,3166,13,-25.274398,133.775136,25203198
 2020-03-27,AU_ACT,AU,Australia,ACT,Australian Capital Territory,62,0,-35.282001,149.128998,428060
@@ -17431,7 +17956,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,PK,PK,Pakistan,,,1197,9,30.375321,69.345116,216565318
 2020-03-27,PK_BA,PK,Pakistan,BA,Balochistan,133,,27.7,65.7,12344408
 2020-03-27,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,107,,35.35,75.9,1249000
-2020-03-27,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,39,,33.7375,73.1475,2006572
+2020-03-27,PK_IS,PK,Pakistan,IS,Islamabad,39,,33.7375,73.1475,2006572
 2020-03-27,PK_JK,PK,Pakistan,JK,Azad Kashmir,2,,33.84333,73.85139,4045000
 2020-03-27,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,180,,34.0,71.32,35525047
 2020-03-27,PK_PB,PK,Pakistan,PB,Punjab,490,,31.0,72.0,110012442
@@ -17510,7 +18035,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,RU_SPE,RU,Russia,SPE,Saint Petersburg,26,,59.93750,30.30861,5351935
 2020-03-27,RU_STA,RU,Russia,STA,Stavropol Krai,5,,45.050,43.267,2800674
 2020-03-27,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,20,,58.700,61.333,4325256
-2020-03-27,RU_TA,RU,Russia,TA,Tatarstan[a],11,,55.550,50.933,3894284
+2020-03-27,RU_TA,RU,Russia,TA,Tatarstan,11,,55.550,50.933,3894284
 2020-03-27,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-27,RU_TOM,RU,Russia,TOM,Tomsk Oblast,2,,58.750,82.133,1078280
 2020-03-27,RU_TUL,RU,Russia,TUL,Tula Oblast,8,,53.917,37.583,1491855
@@ -17626,6 +18151,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,AM,AM,Armenia,,,372,1,40.069099,45.038189,2957731
 2020-03-28,AO,AO,Angola,,,4,0,-11.202692,17.873887,31825295
 2020-03-28,AR,AR,Argentina,,,690,17,-38.416097,-63.616672,44780677
+2020-03-28,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-28,AR_B,AR,Argentina,B,Buenos Aires Province,201,7,-33.700,-61.000,15625084
+2020-03-28,AR_C,AR,Argentina,C,City of Buenos Aires,304,6,-34.60333,-58.38167,2891082
+2020-03-28,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
+2020-03-28,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
+2020-03-28,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
+2020-03-28,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-28,AR_H,AR,Argentina,H,Chaco,67,4,-27.45139,-58.98667,1055259
+2020-03-28,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-03-28,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-28,AR_M,AR,Argentina,M,Mendoza,9,1,-32.89028,-68.84722,1738929
+2020-03-28,AR_N,AR,Argentina,N,Misiones,2,,-26.92,-54.52,1101593
+2020-03-28,AR_Q,AR,Argentina,Q,Neuquén,12,,-38.95167,-68.07444,551266
+2020-03-28,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
+2020-03-28,AR_S,AR,Argentina,S,Santa Fe,77,,-33.7227,-62.246,3194537
+2020-03-28,AR_T,AR,Argentina,T,Tucumán,14,,-26.94,-65.34,1448188
+2020-03-28,AR_V,AR,Argentina,V,Tierra del Fuego,19,,-54.362,-67.638,127205
+2020-03-28,AR_W,AR,Argentina,W,Corrientes,13,,-28.66,-57.63,992595
+2020-03-28,AR_X,AR,Argentina,X,Córdoba,57,,-31.417,-64.183,3308876
+2020-03-28,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-03-28,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
 2020-03-28,AT,AT,Austria,,,7697,68,47.516231,14.550072,8955102
 2020-03-28,AU,AU,Australia,,,3378,13,-25.274398,133.775136,25203198
 2020-03-28,AU_ACT,AU,Australia,ACT,Australian Capital Territory,71,0,-35.282001,149.128998,428060
@@ -17932,7 +18478,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,PK,PK,Pakistan,,,1197,9,30.375321,69.345116,216565318
 2020-03-28,PK_BA,PK,Pakistan,BA,Balochistan,138,,27.7,65.7,12344408
 2020-03-28,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,116,,35.35,75.9,1249000
-2020-03-28,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,43,,33.7375,73.1475,2006572
+2020-03-28,PK_IS,PK,Pakistan,IS,Islamabad,43,,33.7375,73.1475,2006572
 2020-03-28,PK_JK,PK,Pakistan,JK,Azad Kashmir,2,,33.84333,73.85139,4045000
 2020-03-28,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,188,,34.0,71.32,35525047
 2020-03-28,PK_PB,PK,Pakistan,PB,Punjab,558,,31.0,72.0,110012442
@@ -18012,7 +18558,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,RU_SPE,RU,Russia,SPE,Saint Petersburg,37,,59.93750,30.30861,5351935
 2020-03-28,RU_STA,RU,Russia,STA,Stavropol Krai,5,,45.050,43.267,2800674
 2020-03-28,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,24,,58.700,61.333,4325256
-2020-03-28,RU_TA,RU,Russia,TA,Tatarstan[a],14,,55.550,50.933,3894284
+2020-03-28,RU_TA,RU,Russia,TA,Tatarstan,14,,55.550,50.933,3894284
 2020-03-28,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-28,RU_TOM,RU,Russia,TOM,Tomsk Oblast,2,,58.750,82.133,1078280
 2020-03-28,RU_TUL,RU,Russia,TUL,Tula Oblast,11,,53.917,37.583,1491855
@@ -18128,6 +18674,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,AM,AM,Armenia,,,424,3,40.069099,45.038189,2957731
 2020-03-29,AO,AO,Angola,,,4,0,-11.202692,17.873887,31825295
 2020-03-29,AR,AR,Argentina,,,745,19,-38.416097,-63.616672,44780677
+2020-03-29,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-29,AR_B,AR,Argentina,B,Buenos Aires Province,217,8,-33.700,-61.000,15625084
+2020-03-29,AR_C,AR,Argentina,C,City of Buenos Aires,338,6,-34.60333,-58.38167,2891082
+2020-03-29,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
+2020-03-29,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
+2020-03-29,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
+2020-03-29,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-29,AR_H,AR,Argentina,H,Chaco,73,4,-27.45139,-58.98667,1055259
+2020-03-29,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-03-29,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-03-29,AR_M,AR,Argentina,M,Mendoza,10,1,-32.89028,-68.84722,1738929
+2020-03-29,AR_N,AR,Argentina,N,Misiones,2,,-26.92,-54.52,1101593
+2020-03-29,AR_Q,AR,Argentina,Q,Neuquén,15,,-38.95167,-68.07444,551266
+2020-03-29,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
+2020-03-29,AR_S,AR,Argentina,S,Santa Fe,90,,-33.7227,-62.246,3194537
+2020-03-29,AR_T,AR,Argentina,T,Tucumán,14,1,-26.94,-65.34,1448188
+2020-03-29,AR_V,AR,Argentina,V,Tierra del Fuego,22,,-54.362,-67.638,127205
+2020-03-29,AR_W,AR,Argentina,W,Corrientes,16,,-28.66,-57.63,992595
+2020-03-29,AR_X,AR,Argentina,X,Córdoba,73,,-31.417,-64.183,3308876
+2020-03-29,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-03-29,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
 2020-03-29,AT,AT,Austria,,,8291,68,47.516231,14.550072,8955102
 2020-03-29,AU,AU,Australia,,,3809,14,-25.274398,133.775136,25203198
 2020-03-29,AU_ACT,AU,Australia,ACT,Australian Capital Territory,77,0,-35.282001,149.128998,428060
@@ -18438,7 +19005,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,PK,PK,Pakistan,,,1408,11,30.375321,69.345116,216565318
 2020-03-29,PK_BA,PK,Pakistan,BA,Balochistan,144,,27.7,65.7,12344408
 2020-03-29,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,128,,35.35,75.9,1249000
-2020-03-29,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,51,,33.7375,73.1475,2006572
+2020-03-29,PK_IS,PK,Pakistan,IS,Islamabad,51,,33.7375,73.1475,2006572
 2020-03-29,PK_JK,PK,Pakistan,JK,Azad Kashmir,6,,33.84333,73.85139,4045000
 2020-03-29,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,195,,34.0,71.32,35525047
 2020-03-29,PK_PB,PK,Pakistan,PB,Punjab,593,,31.0,72.0,110012442
@@ -18518,7 +19085,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,RU_SPE,RU,Russia,SPE,Saint Petersburg,42,,59.93750,30.30861,5351935
 2020-03-29,RU_STA,RU,Russia,STA,Stavropol Krai,5,,45.050,43.267,2800674
 2020-03-29,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,24,,58.700,61.333,4325256
-2020-03-29,RU_TA,RU,Russia,TA,Tatarstan[a],14,,55.550,50.933,3894284
+2020-03-29,RU_TA,RU,Russia,TA,Tatarstan,14,,55.550,50.933,3894284
 2020-03-29,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-29,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-03-29,RU_TUL,RU,Russia,TUL,Tula Oblast,11,,53.917,37.583,1491855
@@ -18634,6 +19201,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,AM,AM,Armenia,,,424,3,40.069099,45.038189,2957731
 2020-03-30,AO,AO,Angola,,,7,2,-11.202692,17.873887,31825295
 2020-03-30,AR,AR,Argentina,,,820,20,-38.416097,-63.616672,44780677
+2020-03-30,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-30,AR_B,AR,Argentina,B,Buenos Aires Province,253,8,-33.700,-61.000,15625084
+2020-03-30,AR_C,AR,Argentina,C,City of Buenos Aires,366,6,-34.60333,-58.38167,2891082
+2020-03-30,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
+2020-03-30,AR_E,AR,Argentina,E,Entre Ríos,13,,-32.0477,-60.281,1235994
+2020-03-30,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
+2020-03-30,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-30,AR_H,AR,Argentina,H,Chaco,86,4,-27.45139,-58.98667,1055259
+2020-03-30,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-03-30,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-03-30,AR_M,AR,Argentina,M,Mendoza,12,1,-32.89028,-68.84722,1738929
+2020-03-30,AR_N,AR,Argentina,N,Misiones,2,,-26.92,-54.52,1101593
+2020-03-30,AR_Q,AR,Argentina,Q,Neuquén,20,1,-38.95167,-68.07444,551266
+2020-03-30,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
+2020-03-30,AR_S,AR,Argentina,S,Santa Fe,111,,-33.7227,-62.246,3194537
+2020-03-30,AR_T,AR,Argentina,T,Tucumán,15,2,-26.94,-65.34,1448188
+2020-03-30,AR_V,AR,Argentina,V,Tierra del Fuego,32,,-54.362,-67.638,127205
+2020-03-30,AR_W,AR,Argentina,W,Corrientes,20,,-28.66,-57.63,992595
+2020-03-30,AR_X,AR,Argentina,X,Córdoba,80,,-31.417,-64.183,3308876
+2020-03-30,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-03-30,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
 2020-03-30,AT,AT,Austria,,,8813,86,47.516231,14.550072,8955102
 2020-03-30,AU,AU,Australia,,,4093,16,-25.274398,133.775136,25203198
 2020-03-30,AU_ACT,AU,Australia,ACT,Australian Capital Territory,78,1,-35.282001,149.128998,428060
@@ -18943,7 +19531,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,PK,PK,Pakistan,,,1526,13,30.375321,69.345116,216565318
 2020-03-30,PK_BA,PK,Pakistan,BA,Balochistan,153,,27.7,65.7,12344408
 2020-03-30,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,148,,35.35,75.9,1249000
-2020-03-30,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,58,,33.7375,73.1475,2006572
+2020-03-30,PK_IS,PK,Pakistan,IS,Islamabad,58,,33.7375,73.1475,2006572
 2020-03-30,PK_JK,PK,Pakistan,JK,Azad Kashmir,6,,33.84333,73.85139,4045000
 2020-03-30,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,221,,34.0,71.32,35525047
 2020-03-30,PK_PB,PK,Pakistan,PB,Punjab,652,,31.0,72.0,110012442
@@ -19023,7 +19611,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,RU_SPE,RU,Russia,SPE,Saint Petersburg,50,,59.93750,30.30861,5351935
 2020-03-30,RU_STA,RU,Russia,STA,Stavropol Krai,6,,45.050,43.267,2800674
 2020-03-30,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,24,,58.700,61.333,4325256
-2020-03-30,RU_TA,RU,Russia,TA,Tatarstan[a],14,,55.550,50.933,3894284
+2020-03-30,RU_TA,RU,Russia,TA,Tatarstan,14,,55.550,50.933,3894284
 2020-03-30,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-30,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-03-30,RU_TUL,RU,Russia,TUL,Tula Oblast,12,,53.917,37.583,1491855
@@ -19139,6 +19727,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,AM,AM,Armenia,,,482,3,40.069099,45.038189,2957731
 2020-03-31,AO,AO,Angola,,,7,2,-11.202692,17.873887,31825295
 2020-03-31,AR,AR,Argentina,,,966,24,-38.416097,-63.616672,44780677
+2020-03-31,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-31,AR_B,AR,Argentina,B,Buenos Aires Province,270,9,-33.700,-61.000,15625084
+2020-03-31,AR_C,AR,Argentina,C,City of Buenos Aires,387,7,-34.60333,-58.38167,2891082
+2020-03-31,AR_D,AR,Argentina,D,San Luis,8,,-33.300,-66.350,432310
+2020-03-31,AR_E,AR,Argentina,E,Entre Ríos,13,,-32.0477,-60.281,1235994
+2020-03-31,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
+2020-03-31,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-31,AR_H,AR,Argentina,H,Chaco,91,5,-27.45139,-58.98667,1055259
+2020-03-31,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-03-31,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-03-31,AR_M,AR,Argentina,M,Mendoza,14,1,-32.89028,-68.84722,1738929
+2020-03-31,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-03-31,AR_Q,AR,Argentina,Q,Neuquén,24,1,-38.95167,-68.07444,551266
+2020-03-31,AR_R,AR,Argentina,R,Río Negro,8,1,-40.800,-63.000,638645
+2020-03-31,AR_S,AR,Argentina,S,Santa Fe,133,,-33.7227,-62.246,3194537
+2020-03-31,AR_T,AR,Argentina,T,Tucumán,16,2,-26.94,-65.34,1448188
+2020-03-31,AR_V,AR,Argentina,V,Tierra del Fuego,39,,-54.362,-67.638,127205
+2020-03-31,AR_W,AR,Argentina,W,Corrientes,21,,-28.66,-57.63,992595
+2020-03-31,AR_X,AR,Argentina,X,Córdoba,96,1,-31.417,-64.183,3308876
+2020-03-31,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-03-31,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
 2020-03-31,AT,AT,Austria,,,9618,108,47.516231,14.550072,8955102
 2020-03-31,AU,AU,Australia,,,4557,19,-25.274398,133.775136,25203198
 2020-03-31,AU_ACT,AU,Australia,ACT,Australian Capital Territory,80,1,-35.282001,149.128998,428060
@@ -19428,7 +20037,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,PK,PK,Pakistan,,,1625,18,30.375321,69.345116,216565318
 2020-03-31,PK_BA,PK,Pakistan,BA,Balochistan,158,,27.7,65.7,12344408
 2020-03-31,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,184,,35.35,75.9,1249000
-2020-03-31,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,54,,33.7375,73.1475,2006572
+2020-03-31,PK_IS,PK,Pakistan,IS,Islamabad,54,,33.7375,73.1475,2006572
 2020-03-31,PK_JK,PK,Pakistan,JK,Azad Kashmir,6,,33.84333,73.85139,4045000
 2020-03-31,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,253,,34.0,71.32,35525047
 2020-03-31,PK_PB,PK,Pakistan,PB,Punjab,708,,31.0,72.0,110012442
@@ -19508,7 +20117,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,RU_SPE,RU,Russia,SPE,Saint Petersburg,98,,59.93750,30.30861,5351935
 2020-03-31,RU_STA,RU,Russia,STA,Stavropol Krai,6,,45.050,43.267,2800674
 2020-03-31,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,33,,58.700,61.333,4325256
-2020-03-31,RU_TA,RU,Russia,TA,Tatarstan[a],19,,55.550,50.933,3894284
+2020-03-31,RU_TA,RU,Russia,TA,Tatarstan,19,,55.550,50.933,3894284
 2020-03-31,RU_TAM,RU,Russia,TAM,Tambov Oblast,3,,52.717,41.567,1033552
 2020-03-31,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-03-31,RU_TUL,RU,Russia,TUL,Tula Oblast,12,,53.917,37.583,1491855
@@ -19623,6 +20232,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,AM,AM,Armenia,,,532,3,40.069099,45.038189,2957731
 2020-04-01,AO,AO,Angola,,,7,2,-11.202692,17.873887,31825295
 2020-04-01,AR,AR,Argentina,,,966,24,-38.416097,-63.616672,44780677
+2020-04-01,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-01,AR_B,AR,Argentina,B,Buenos Aires Province,280,11,-33.700,-61.000,15625084
+2020-04-01,AR_C,AR,Argentina,C,City of Buenos Aires,399,8,-34.60333,-58.38167,2891082
+2020-04-01,AR_D,AR,Argentina,D,San Luis,8,,-33.300,-66.350,432310
+2020-04-01,AR_E,AR,Argentina,E,Entre Ríos,14,,-32.0477,-60.281,1235994
+2020-04-01,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
+2020-04-01,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-04-01,AR_H,AR,Argentina,H,Chaco,96,5,-27.45139,-58.98667,1055259
+2020-04-01,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-04-01,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-01,AR_M,AR,Argentina,M,Mendoza,25,2,-32.89028,-68.84722,1738929
+2020-04-01,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-01,AR_Q,AR,Argentina,Q,Neuquén,26,2,-38.95167,-68.07444,551266
+2020-04-01,AR_R,AR,Argentina,R,Río Negro,8,1,-40.800,-63.000,638645
+2020-04-01,AR_S,AR,Argentina,S,Santa Fe,144,1,-33.7227,-62.246,3194537
+2020-04-01,AR_T,AR,Argentina,T,Tucumán,17,2,-26.94,-65.34,1448188
+2020-04-01,AR_V,AR,Argentina,V,Tierra del Fuego,39,,-54.362,-67.638,127205
+2020-04-01,AR_W,AR,Argentina,W,Corrientes,22,,-28.66,-57.63,992595
+2020-04-01,AR_X,AR,Argentina,X,Córdoba,102,1,-31.417,-64.183,3308876
+2020-04-01,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
+2020-04-01,AR_Z,AR,Argentina,Z,Santa Cruz,21,,-48.62,-70.01,273964
 2020-04-01,AT,AT,Austria,,,10182,128,47.516231,14.550072,8955102
 2020-04-01,AU,AU,Australia,,,4707,20,-25.274398,133.775136,25203198
 2020-04-01,AU_ACT,AU,Australia,ACT,Australian Capital Territory,84,1,-35.282001,149.128998,428060
@@ -19930,7 +20560,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,PK,PK,Pakistan,,,2039,26,30.375321,69.345116,216565318
 2020-04-01,PK_BA,PK,Pakistan,BA,Balochistan,169,,27.7,65.7,12344408
 2020-04-01,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,187,,35.35,75.9,1249000
-2020-04-01,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,62,,33.7375,73.1475,2006572
+2020-04-01,PK_IS,PK,Pakistan,IS,Islamabad,62,,33.7375,73.1475,2006572
 2020-04-01,PK_JK,PK,Pakistan,JK,Azad Kashmir,9,,33.84333,73.85139,4045000
 2020-04-01,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,276,,34.0,71.32,35525047
 2020-04-01,PK_PB,PK,Pakistan,PB,Punjab,845,,31.0,72.0,110012442
@@ -20010,7 +20640,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,RU_SPE,RU,Russia,SPE,Saint Petersburg,125,,59.93750,30.30861,5351935
 2020-04-01,RU_STA,RU,Russia,STA,Stavropol Krai,6,,45.050,43.267,2800674
 2020-04-01,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,33,,58.700,61.333,4325256
-2020-04-01,RU_TA,RU,Russia,TA,Tatarstan[a],19,,55.550,50.933,3894284
+2020-04-01,RU_TA,RU,Russia,TA,Tatarstan,19,,55.550,50.933,3894284
 2020-04-01,RU_TAM,RU,Russia,TAM,Tambov Oblast,6,,52.717,41.567,1033552
 2020-04-01,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-04-01,RU_TUL,RU,Russia,TUL,Tula Oblast,17,,53.917,37.583,1491855
@@ -20092,7 +20722,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,US_NY,US,United States of America,NY,New York,83712,1941,42.165700,-74.948100,19453561
 2020-04-01,US_OH,US,United States of America,OH,Ohio,2547,65,40.388800,-82.764900,11689100
 2020-04-01,US_OK,US,United States of America,OK,Oklahoma,719,30,35.565300,-96.928900,3956971
-2020-04-01,US_OR,US,United States of America,OR,Oregon,690,18,43.126100,-123.249200,4190713
+2020-04-01,US_OR,US,United States of America,OR,Oregon,736,18,43.126100,-123.249200,4190713
 2020-04-01,US_PA,US,United States of America,PA,Pennsylvania,5805,74,40.590800,-77.209800,12801989
 2020-04-01,US_RI,US,United States of America,RI,Rhode Island,566,10,41.888200,-71.477400,1057315
 2020-04-01,US_SC,US,United States of America,SC,South Carolina,1293,26,33.856900,-80.945000,5148714
@@ -20127,6 +20757,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,AM,AM,Armenia,,,571,3,40.069099,45.038189,2957731
 2020-04-02,AO,AO,Angola,,,8,2,-11.202692,17.873887,31825295
 2020-04-02,AR,AR,Argentina,,,1133,31,-38.416097,-63.616672,44780677
+2020-04-02,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-02,AR_B,AR,Argentina,B,Buenos Aires Province,316,13,-33.700,-61.000,15625084
+2020-04-02,AR_C,AR,Argentina,C,City of Buenos Aires,440,8,-34.60333,-58.38167,2891082
+2020-04-02,AR_D,AR,Argentina,D,San Luis,9,,-33.300,-66.350,432310
+2020-04-02,AR_E,AR,Argentina,E,Entre Ríos,16,,-32.0477,-60.281,1235994
+2020-04-02,AR_F,AR,Argentina,F,La Rioja,4,,-29.433,-66.850,333642
+2020-04-02,AR_G,AR,Argentina,G,Santiago del Estero,4,,-27.783,-64.267,874006
+2020-04-02,AR_H,AR,Argentina,H,Chaco,106,6,-27.45139,-58.98667,1055259
+2020-04-02,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-04-02,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-02,AR_M,AR,Argentina,M,Mendoza,25,3,-32.89028,-68.84722,1738929
+2020-04-02,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-02,AR_Q,AR,Argentina,Q,Neuquén,29,2,-38.95167,-68.07444,551266
+2020-04-02,AR_R,AR,Argentina,R,Río Negro,8,1,-40.800,-63.000,638645
+2020-04-02,AR_S,AR,Argentina,S,Santa Fe,152,1,-33.7227,-62.246,3194537
+2020-04-02,AR_T,AR,Argentina,T,Tucumán,21,2,-26.94,-65.34,1448188
+2020-04-02,AR_V,AR,Argentina,V,Tierra del Fuego,63,,-54.362,-67.638,127205
+2020-04-02,AR_W,AR,Argentina,W,Corrientes,23,,-28.66,-57.63,992595
+2020-04-02,AR_X,AR,Argentina,X,Córdoba,120,1,-31.417,-64.183,3308876
+2020-04-02,AR_Y,AR,Argentina,Y,Jujuy,5,,-23.750,-65.500,673307
+2020-04-02,AR_Z,AR,Argentina,Z,Santa Cruz,21,,-48.62,-70.01,273964
 2020-04-02,AT,AT,Austria,,,10711,146,47.516231,14.550072,8955102
 2020-04-02,AU,AU,Australia,,,4976,21,-25.274398,133.775136,25203198
 2020-04-02,AU_ACT,AU,Australia,ACT,Australian Capital Territory,87,1,-35.282001,149.128998,428060
@@ -20440,7 +21091,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,PK,PK,Pakistan,,,2291,31,30.375321,69.345116,216565318
 2020-04-02,PK_BA,PK,Pakistan,BA,Balochistan,169,,27.7,65.7,12344408
 2020-04-02,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,190,,35.35,75.9,1249000
-2020-04-02,PK_IS,PK,Pakistan,IS,Islamabad Capital Territory,68,,33.7375,73.1475,2006572
+2020-04-02,PK_IS,PK,Pakistan,IS,Islamabad,68,,33.7375,73.1475,2006572
 2020-04-02,PK_JK,PK,Pakistan,JK,Azad Kashmir,9,,33.84333,73.85139,4045000
 2020-04-02,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,311,,34.0,71.32,35525047
 2020-04-02,PK_PB,PK,Pakistan,PB,Punjab,920,,31.0,72.0,110012442
@@ -20520,7 +21171,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,RU_SPE,RU,Russia,SPE,Saint Petersburg,147,,59.93750,30.30861,5351935
 2020-04-02,RU_STA,RU,Russia,STA,Stavropol Krai,11,,45.050,43.267,2800674
 2020-04-02,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,38,,58.700,61.333,4325256
-2020-04-02,RU_TA,RU,Russia,TA,Tatarstan[a],19,,55.550,50.933,3894284
+2020-04-02,RU_TA,RU,Russia,TA,Tatarstan,19,,55.550,50.933,3894284
 2020-04-02,RU_TAM,RU,Russia,TAM,Tambov Oblast,6,,52.717,41.567,1033552
 2020-04-02,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-04-02,RU_TUL,RU,Russia,TUL,Tula Oblast,17,,53.917,37.583,1491855
@@ -20602,7 +21253,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,US_NY,US,United States of America,NY,New York,92381,2373,42.165700,-74.948100,19453561
 2020-04-02,US_OH,US,United States of America,OH,Ohio,2902,81,40.388800,-82.764900,11689100
 2020-04-02,US_OK,US,United States of America,OK,Oklahoma,879,34,35.565300,-96.928900,3956971
-2020-04-02,US_OR,US,United States of America,OR,Oregon,736,19,43.126100,-123.249200,4190713
+2020-04-02,US_OR,US,United States of America,OR,Oregon,826,19,43.126100,-123.249200,4190713
 2020-04-02,US_PA,US,United States of America,PA,Pennsylvania,7016,90,40.590800,-77.209800,12801989
 2020-04-02,US_RI,US,United States of America,RI,Rhode Island,657,12,41.888200,-71.477400,1057315
 2020-04-02,US_SC,US,United States of America,SC,South Carolina,1554,31,33.856900,-80.945000,5148714
@@ -20637,6 +21288,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,AM,AM,Armenia,,,663,4,40.069099,45.038189,2957731
 2020-04-03,AO,AO,Angola,,,8,2,-11.202692,17.873887,31825295
 2020-04-03,AR,AR,Argentina,,,1133,34,-38.416097,-63.616672,44780677
+2020-04-03,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-03,AR_B,AR,Argentina,B,Buenos Aires Province,338,16,-33.700,-61.000,15625084
+2020-04-03,AR_C,AR,Argentina,C,City of Buenos Aires,472,8,-34.60333,-58.38167,2891082
+2020-04-03,AR_D,AR,Argentina,D,San Luis,9,,-33.300,-66.350,432310
+2020-04-03,AR_E,AR,Argentina,E,Entre Ríos,18,,-32.0477,-60.281,1235994
+2020-04-03,AR_F,AR,Argentina,F,La Rioja,4,,-29.433,-66.850,333642
+2020-04-03,AR_G,AR,Argentina,G,Santiago del Estero,4,,-27.783,-64.267,874006
+2020-04-03,AR_H,AR,Argentina,H,Chaco,115,7,-27.45139,-58.98667,1055259
+2020-04-03,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
+2020-04-03,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-03,AR_M,AR,Argentina,M,Mendoza,27,4,-32.89028,-68.84722,1738929
+2020-04-03,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-03,AR_Q,AR,Argentina,Q,Neuquén,30,2,-38.95167,-68.07444,551266
+2020-04-03,AR_R,AR,Argentina,R,Río Negro,10,1,-40.800,-63.000,638645
+2020-04-03,AR_S,AR,Argentina,S,Santa Fe,160,1,-33.7227,-62.246,3194537
+2020-04-03,AR_T,AR,Argentina,T,Tucumán,21,2,-26.94,-65.34,1448188
+2020-04-03,AR_V,AR,Argentina,V,Tierra del Fuego,64,,-54.362,-67.638,127205
+2020-04-03,AR_W,AR,Argentina,W,Corrientes,23,,-28.66,-57.63,992595
+2020-04-03,AR_X,AR,Argentina,X,Córdoba,134,1,-31.417,-64.183,3308876
+2020-04-03,AR_Y,AR,Argentina,Y,Jujuy,5,,-23.750,-65.500,673307
+2020-04-03,AR_Z,AR,Argentina,Z,Santa Cruz,22,,-48.62,-70.01,273964
 2020-04-03,AT,AT,Austria,,,11129,158,47.516231,14.550072,8955102
 2020-04-03,AU,AU,Australia,,,5224,23,-25.274398,133.775136,25203198
 2020-04-03,AU_ACT,AU,Australia,ACT,Australian Capital Territory,91,1,-35.282001,149.128998,428060
@@ -20948,6 +21620,13 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,PG,PG,Papua New Guinea,,,1,0,-6.314993,143.955550,8776109
 2020-04-03,PH,PH,Philippines,,,2633,107,12.879721,121.774017,108116615
 2020-04-03,PK,PK,Pakistan,,,2291,31,30.375321,69.345116,216565318
+2020-04-03,PK_BA,PK,Pakistan,BA,Balochistan,175,,27.7,65.7,12344408
+2020-04-03,PK_GB,PK,Pakistan,GB,Gilgit-Baltistan,193,,35.35,75.9,1249000
+2020-04-03,PK_IS,PK,Pakistan,IS,Islamabad,68,,33.7375,73.1475,2006572
+2020-04-03,PK_JK,PK,Pakistan,JK,Azad Kashmir,9,,33.84333,73.85139,4045000
+2020-04-03,PK_KP,PK,Pakistan,KP,Khyber Pakhtunkhwa,343,,34.0,71.32,35525047
+2020-04-03,PK_PB,PK,Pakistan,PB,Punjab,1069,,31.0,72.0,110012442
+2020-04-03,PK_SD,PK,Pakistan,SD,Sindh,783,,26.350,68.850,47886051
 2020-04-03,PL,PL,Poland,,,2946,57,51.919438,19.145136,37887768
 2020-04-03,PR,PR,Puerto Rico,,,316,12,18.220833,-66.590149,2933408
 2020-04-03,PS,PS,Palestine,,,155,1,31.952162,35.233154,4981420
@@ -21023,7 +21702,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,RU_SPE,RU,Russia,SPE,Saint Petersburg,156,,59.93750,30.30861,5351935
 2020-04-03,RU_STA,RU,Russia,STA,Stavropol Krai,11,,45.050,43.267,2800674
 2020-04-03,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,39,,58.700,61.333,4325256
-2020-04-03,RU_TA,RU,Russia,TA,Tatarstan[a],25,,55.550,50.933,3894284
+2020-04-03,RU_TA,RU,Russia,TA,Tatarstan,25,,55.550,50.933,3894284
 2020-04-03,RU_TAM,RU,Russia,TAM,Tambov Oblast,6,,52.717,41.567,1033552
 2020-04-03,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-04-03,RU_TUL,RU,Russia,TUL,Tula Oblast,17,,53.917,37.583,1491855
@@ -21105,7 +21784,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,US_NY,US,United States of America,NY,New York,102863,2935,42.165700,-74.948100,19453561
 2020-04-03,US_OH,US,United States of America,OH,Ohio,3312,91,40.388800,-82.764900,11689100
 2020-04-03,US_OK,US,United States of America,OK,Oklahoma,988,38,35.565300,-96.928900,3956971
-2020-04-03,US_OR,US,United States of America,OR,Oregon,826,21,43.126100,-123.249200,4190713
+2020-04-03,US_OR,US,United States of America,OR,Oregon,899,21,43.126100,-123.249200,4190713
 2020-04-03,US_PA,US,United States of America,PA,Pennsylvania,8420,102,40.590800,-77.209800,12801989
 2020-04-03,US_RI,US,United States of America,RI,Rhode Island,711,14,41.888200,-71.477400,1057315
 2020-04-03,US_SC,US,United States of America,SC,South Carolina,1554,31,33.856900,-80.945000,5148714
@@ -21524,7 +22203,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-04,RU_SPE,RU,Russia,SPE,Saint Petersburg,171,,59.93750,30.30861,5351935
 2020-04-04,RU_STA,RU,Russia,STA,Stavropol Krai,11,,45.050,43.267,2800674
 2020-04-04,RU_SVE,RU,Russia,SVE,Sverdlovsk Oblast,40,,58.700,61.333,4325256
-2020-04-04,RU_TA,RU,Russia,TA,Tatarstan[a],25,,55.550,50.933,3894284
+2020-04-04,RU_TA,RU,Russia,TA,Tatarstan,25,,55.550,50.933,3894284
 2020-04-04,RU_TAM,RU,Russia,TAM,Tambov Oblast,7,,52.717,41.567,1033552
 2020-04-04,RU_TOM,RU,Russia,TOM,Tomsk Oblast,3,,58.750,82.133,1078280
 2020-04-04,RU_TUL,RU,Russia,TUL,Tula Oblast,19,,53.917,37.583,1491855
@@ -21569,6 +22248,57 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-04,UA_43,RU,Russia,43,Republic of Crimea,18,,45.400,35.300,1913731
 2020-04-04,UG,UG,Uganda,,,48,0,1.373333,32.290275,44269594
 2020-04-04,US,US,United States of America,,,277965,7157,37.090240,-95.712891,329064917
+2020-04-04,US_AK,US,United States of America,AK,Alaska,171,5,61.370700,-152.404400,710249
+2020-04-04,US_AL,US,United States of America,AL,Alabama,1580,43,32.318200,-86.902300,4903185
+2020-04-04,US_AR,US,United States of America,AR,Arkansas,743,14,34.969700,-92.373100,3017804
+2020-04-04,US_AZ,US,United States of America,AZ,Arizona,2019,52,33.729800,-111.431200,7278717
+2020-04-04,US_CA,US,United States of America,CA,California,12026,276,36.116200,-119.681600,39512223
+2020-04-04,US_CO,US,United States of America,CO,Colorado,4173,111,39.059800,-105.311100,5758736
+2020-04-04,US_CT,US,United States of America,CT,Connecticut,5276,165,41.597800,-72.755400,3565287
+2020-04-04,US_DC,US,United States of America,DC,District of Columbia,902,21,38.897400,-77.026800,705749
+2020-04-04,US_DE,US,United States of America,DE,Delaware,593,14,39.318500,-75.507100,973764
+2020-04-04,US_FL,US,United States of America,FL,Florida,11111,191,27.766300,-81.686800,21477737
+2020-04-04,US_GA,US,United States of America,GA,Georgia,6160,201,33.040600,-83.643100,10617423
+2020-04-04,US_HI,US,United States of America,HI,Hawaii,319,3,21.094300,-157.498300,1415872
+2020-04-04,US_IA,US,United States of America,IA,Iowa,786,14,42.011500,-93.210500,3155070
+2020-04-04,US_ID,US,United States of America,ID,Idaho,1013,10,44.240500,-114.478800,1787065
+2020-04-04,US_IL,US,United States of America,IL,Illinois,10357,243,40.349500,-88.986100,12671821
+2020-04-04,US_IN,US,United States of America,IN,Indiana,3953,116,39.849400,-86.258300,6732219
+2020-04-04,US_KS,US,United States of America,KS,Kansas,698,21,38.526600,-96.726500,2911505
+2020-04-04,US_KY,US,United States of America,KY,Kentucky,831,37,37.668100,-84.670100,4468402
+2020-04-04,US_LA,US,United States of America,LA,Louisiana,12496,409,31.169500,-91.867800,4648794
+2020-04-04,US_MA,US,United States of America,MA,Massachusetts,11736,216,42.230200,-71.530100,6939373
+2020-04-04,US_MD,US,United States of America,MD,Maryland,3125,53,39.063900,-76.802100,6045680
+2020-04-04,US_ME,US,United States of America,ME,Maine,456,10,44.693900,-69.381900,1338404
+2020-04-04,US_MI,US,United States of America,MI,Michigan,14225,540,43.326600,-84.536100,9883635
+2020-04-04,US_MN,US,United States of America,MN,Minnesota,865,24,44.825400,-93.784200,5639632
+2020-04-04,US_MO,US,United States of America,MO,Missouri,2291,24,38.456100,-92.288400,6126452
+2020-04-04,US_MS,US,United States of America,MS,Mississippi,1455,35,32.741600,-89.678700,2976149
+2020-04-04,US_MT,US,United States of America,MT,Montana,265,5,46.921900,-110.454400,1068778
+2020-04-04,US_NC,US,United States of America,NC,North Carolina,2402,24,35.630100,-79.806400,10488084
+2020-04-04,US_ND,US,United States of America,ND,North Dakota,186,3,47.528900,-99.784000,762062
+2020-04-04,US_NE,US,United States of America,NE,Nebraska,321,6,41.314800,-96.195100,1934408
+2020-04-04,US_NH,US,United States of America,NH,New Hampshire,540,7,42.993100,-71.049800,1359711
+2020-04-04,US_NJ,US,United States of America,NJ,New Jersey,34124,846,40.298900,-74.521000,8882190
+2020-04-04,US_NM,US,United States of America,NM,New Mexico,495,10,34.840500,-106.248500,2096829
+2020-04-04,US_NV,US,United States of America,NV,Nevada,1742,46,38.313500,-117.055400,3080156
+2020-04-04,US_NY,US,United States of America,NY,New York,113704,3565,42.165700,-74.948100,19453561
+2020-04-04,US_OH,US,United States of America,OH,Ohio,3739,102,40.388800,-82.764900,11689100
+2020-04-04,US_OK,US,United States of America,OK,Oklahoma,1159,42,35.565300,-96.928900,3956971
+2020-04-04,US_OR,US,United States of America,OR,Oregon,899,22,43.126100,-123.249200,4190713
+2020-04-04,US_PA,US,United States of America,PA,Pennsylvania,10017,136,40.590800,-77.209800,12801989
+2020-04-04,US_RI,US,United States of America,RI,Rhode Island,806,17,41.888200,-71.477400,1057315
+2020-04-04,US_SC,US,United States of America,SC,South Carolina,1917,40,33.856900,-80.945000,5148714
+2020-04-04,US_SD,US,United States of America,SD,South Dakota,212,2,43.890100,-102.254800,884659
+2020-04-04,US_TN,US,United States of America,TN,Tennessee,3321,43,35.747800,-86.692300,6833793
+2020-04-04,US_TX,US,United States of America,TX,Texas,6110,105,31.054500,-97.563500,28995881
+2020-04-04,US_UT,US,United States of America,UT,Utah,1428,8,40.150000,-111.862400,3205958
+2020-04-04,US_VA,US,United States of America,VA,Virginia,2407,52,37.769300,-78.170000,8535519
+2020-04-04,US_VT,US,United States of America,VT,Vermont,461,20,44.045900,-72.710700,623989
+2020-04-04,US_WA,US,United States of America,WA,Washington,6966,284,47.400900,-121.490500,7614893
+2020-04-04,US_WI,US,United States of America,WI,Wisconsin,2112,56,43.018600,-89.549800,5822434
+2020-04-04,US_WV,US,United States of America,WV,West Virginia,282,2,38.491200,-80.954500,1792147
+2020-04-04,US_WY,US,United States of America,WY,Wyoming,187,0,42.756000,-107.302500,578759
 2020-04-04,UY,UY,Uruguay,,,386,4,-32.522779,-55.765835,3461734
 2020-04-04,UZ,UZ,Uzbekistan,,,227,2,41.377491,64.585262,32981716
 2020-04-04,VA,VA,Vatican City,,,7,0,41.902916,12.453389,799
