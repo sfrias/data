@@ -6499,6 +6499,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_ARA,,55,,,,,,
 2020-04-03,FR_ARA,,44,,,,,,
 2020-04-04,FR_ARA,,30,,,,,,
+2020-04-05,FR_ARA,,30,,,,,,
 2020-02-08,FR_BFC,0,0,0,0,0,0,0,0
 2020-02-09,FR_BFC,0,0,0,0,0,0,0,0
 2020-02-10,FR_BFC,0,0,0,0,0,0,0,0
@@ -6556,6 +6557,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_BFC,,41,,,,,,
 2020-04-03,FR_BFC,,32,,,,,,
 2020-04-04,FR_BFC,,20,,,,,,
+2020-04-05,FR_BFC,,18,,,,,,
 2020-02-08,FR_BRE,0,0,0,0,0,0,0,0
 2020-02-09,FR_BRE,0,0,0,0,0,0,0,0
 2020-02-10,FR_BRE,0,0,0,0,0,0,0,0
@@ -6613,6 +6615,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_BRE,,8,,,,,,
 2020-04-03,FR_BRE,,6,,,,,,
 2020-04-04,FR_BRE,,6,,,,,,
+2020-04-05,FR_BRE,,6,,,,,,
 2020-02-08,FR_COR,0,0,0,0,0,0,0,0
 2020-02-09,FR_COR,0,0,0,0,0,0,0,0
 2020-02-10,FR_COR,0,0,0,0,0,0,0,0
@@ -6670,6 +6673,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_COR,,2,,,,,,
 2020-04-03,FR_COR,,3,,,,,,
 2020-04-04,FR_COR,,0,,,,,,
+2020-04-05,FR_COR,,0,,,,,,
 2020-02-08,FR_CVL,0,0,0,0,0,0,0,0
 2020-02-09,FR_CVL,0,0,0,0,0,0,0,0
 2020-02-10,FR_CVL,0,0,0,0,0,0,0,0
@@ -6727,6 +6731,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_CVL,,7,,,,,,
 2020-04-03,FR_CVL,,14,,,,,,
 2020-04-04,FR_CVL,,8,,,,,,
+2020-04-05,FR_CVL,,9,,,,,,
 2020-02-08,FR_GES,0,0,0,0,0,0,0,0
 2020-02-09,FR_GES,0,0,0,0,0,0,0,0
 2020-02-10,FR_GES,0,0,0,0,0,0,0,0
@@ -6784,6 +6789,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_GES,,52,,,,,,
 2020-04-03,FR_GES,,133,,,,,,
 2020-04-04,FR_GES,,91,,,,,,
+2020-04-05,FR_GES,,69,,,,,,
 2020-02-08,FR_GF,0,0,0,0,0,0,0,0
 2020-02-09,FR_GF,0,0,0,0,0,0,0,0
 2020-02-10,FR_GF,0,0,0,0,0,0,0,0
@@ -6841,6 +6847,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_GF,,0,,,,,,
 2020-04-03,FR_GF,,0,,,,,,
 2020-04-04,FR_GF,,0,,,,,,
+2020-04-05,FR_GF,,0,,,,,,
 2020-02-08,FR_GUA,0,0,0,0,0,0,0,0
 2020-02-09,FR_GUA,0,0,0,0,0,0,0,0
 2020-02-10,FR_GUA,0,0,0,0,0,0,0,0
@@ -6898,6 +6905,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_GUA,,0,,,,,,
 2020-04-03,FR_GUA,,1,,,,,,
 2020-04-04,FR_GUA,,0,,,,,,
+2020-04-05,FR_GUA,,0,,,,,,
 2020-02-08,FR_HDF,0,0,0,0,0,0,0,0
 2020-02-09,FR_HDF,0,0,0,0,0,0,0,0
 2020-02-10,FR_HDF,0,0,0,0,0,0,0,0
@@ -6955,6 +6963,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_HDF,,40,,,,,,
 2020-04-03,FR_HDF,,68,,,,,,
 2020-04-04,FR_HDF,,50,,,,,,
+2020-04-05,FR_HDF,,32,,,,,,
 2020-02-08,FR_IDF,0,0,0,0,0,0,0,0
 2020-02-09,FR_IDF,0,0,0,0,0,0,0,0
 2020-02-10,FR_IDF,0,0,0,0,0,0,0,0
@@ -7012,6 +7021,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_IDF,,202,,,,,,
 2020-04-03,FR_IDF,,220,,,,,,
 2020-04-04,FR_IDF,,176,,,,,,
+2020-04-05,FR_IDF,,140,,,,,,
 2020-02-08,FR_LRE,0,0,0,0,0,0,0,0
 2020-02-09,FR_LRE,0,0,0,0,0,0,0,0
 2020-02-10,FR_LRE,0,0,0,0,0,0,0,0
@@ -7069,6 +7079,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_LRE,,0,,,,,,
 2020-04-03,FR_LRE,,0,,,,,,
 2020-04-04,FR_LRE,,0,,,,,,
+2020-04-05,FR_LRE,,0,,,,,,
 2020-02-08,FR_MAY,0,0,0,0,0,0,0,0
 2020-02-09,FR_MAY,0,0,0,0,0,0,0,0
 2020-02-10,FR_MAY,0,0,0,0,0,0,0,0
@@ -7126,6 +7137,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_MAY,,2,,,,,,
 2020-04-03,FR_MAY,,0,,,,,,
 2020-04-04,FR_MAY,,0,,,,,,
+2020-04-05,FR_MAY,,0,,,,,,
 2020-02-08,FR_MQ,0,0,0,0,0,0,0,0
 2020-02-09,FR_MQ,0,0,0,0,0,0,0,0
 2020-02-10,FR_MQ,0,0,0,0,0,0,0,0
@@ -7183,6 +7195,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_MQ,,0,,,,,,
 2020-04-03,FR_MQ,,0,,,,,,
 2020-04-04,FR_MQ,,0,,,,,,
+2020-04-05,FR_MQ,,0,,,,,,
 2020-02-08,FR_NAQ,0,0,0,0,0,0,0,0
 2020-02-09,FR_NAQ,0,0,0,0,0,0,0,0
 2020-02-10,FR_NAQ,0,0,0,0,0,0,0,0
@@ -7240,6 +7253,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_NAQ,,12,,,,,,
 2020-04-03,FR_NAQ,,6,,,,,,
 2020-04-04,FR_NAQ,,11,,,,,,
+2020-04-05,FR_NAQ,,9,,,,,,
 2020-02-08,FR_NOR,0,0,0,0,0,0,0,0
 2020-02-09,FR_NOR,0,0,0,0,0,0,0,0
 2020-02-10,FR_NOR,0,0,0,0,0,0,0,0
@@ -7297,6 +7311,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_NOR,,12,,,,,,
 2020-04-03,FR_NOR,,12,,,,,,
 2020-04-04,FR_NOR,,6,,,,,,
+2020-04-05,FR_NOR,,12,,,,,,
 2020-02-08,FR_OCC,0,0,0,0,0,0,0,0
 2020-02-09,FR_OCC,0,0,0,0,0,0,0,0
 2020-02-10,FR_OCC,0,0,0,0,0,0,0,0
@@ -7354,6 +7369,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_OCC,,11,,,,,,
 2020-04-03,FR_OCC,,12,,,,,,
 2020-04-04,FR_OCC,,17,,,,,,
+2020-04-05,FR_OCC,,10,,,,,,
 2020-02-08,FR_PAC,0,0,0,0,0,0,0,0
 2020-02-09,FR_PAC,0,0,0,0,0,0,0,0
 2020-02-10,FR_PAC,0,0,0,0,0,0,0,0
@@ -7411,6 +7427,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_PAC,,17,,,,,,
 2020-04-03,FR_PAC,,20,,,,,,
 2020-04-04,FR_PAC,,17,,,,,,
+2020-04-05,FR_PAC,,17,,,,,,
 2020-02-08,FR_PDL,0,0,0,0,0,0,0,0
 2020-02-09,FR_PDL,0,0,0,0,0,0,0,0
 2020-02-10,FR_PDL,0,0,0,0,0,0,0,0
@@ -7468,6 +7485,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,FR_PDL,,10,,,,,,
 2020-04-03,FR_PDL,,17,,,,,,
 2020-04-04,FR_PDL,,9,,,,,,
+2020-04-05,FR_PDL,,5,,,,,,
 2020-02-08,GB_SCT,0,0,0,0,0,0,0,0
 2020-02-09,GB_SCT,0,0,0,0,0,0,0,0
 2020-02-10,GB_SCT,0,0,0,0,0,0,0,0
