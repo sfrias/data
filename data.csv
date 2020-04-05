@@ -7350,27 +7350,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-02,US,US,United States of America,,,89,2,37.090240,-95.712891,329064917
 2020-03-02,VN,VN,Vietnam,,,16,0,14.058324,108.277199,96462106
 2020-03-03,AD,AD,Andorra,,,1,0,42.546245,1.601554,77142
-2020-03-03,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-03,AR_B,AR,Argentina,B,Buenos Aires Province,,,-33.700,-61.000,15625084
-2020-03-03,AR_C,AR,Argentina,C,City of Buenos Aires,1,,-34.60333,-58.38167,2891082
-2020-03-03,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
-2020-03-03,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-03,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-03,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-03,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
-2020-03-03,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-03,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-03,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-03,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-03,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-03,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
-2020-03-03,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-03,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-03,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-03,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-03,AR_X,AR,Argentina,X,Córdoba,,,-31.417,-64.183,3308876
-2020-03-03,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-03,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-03,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-03,AR_B,AR,Argentina,B,Buenos Aires Province,0,0,-33.700,-61.000,15625084
+2020-03-03,AR_C,AR,Argentina,C,City of Buenos Aires,1,0,-34.60333,-58.38167,2891082
+2020-03-03,AR_D,AR,Argentina,D,San Luis,0,0,-33.300,-66.350,432310
+2020-03-03,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-03,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-03,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-03,AR_H,AR,Argentina,H,Chaco,0,0,-27.45139,-58.98667,1055259
+2020-03-03,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-03,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-03,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-03,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-03,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-03,AR_R,AR,Argentina,R,Río Negro,0,0,-40.800,-63.000,638645
+2020-03-03,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-03,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-03,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-03,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-03,AR_X,AR,Argentina,X,Córdoba,0,0,-31.417,-64.183,3308876
+2020-03-03,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-03,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-03,AT,AT,Austria,,,18,0,47.516231,14.550072,8955102
 2020-03-03,AU,AU,Australia,,,33,1,-25.274398,133.775136,25203198
 2020-03-03,BE,BE,Belgium,,,8,0,50.503887,4.469936,11539328
@@ -7598,27 +7598,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-03,US,US,United States of America,,,103,6,37.090240,-95.712891,329064917
 2020-03-04,AE,AE,United Arab Emirates,,,27,0,23.424076,53.847818,9770529
 2020-03-04,AR,AR,Argentina,,,1,0,-38.416097,-63.616672,44780677
-2020-03-04,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-04,AR_B,AR,Argentina,B,Buenos Aires Province,,,-33.700,-61.000,15625084
-2020-03-04,AR_C,AR,Argentina,C,City of Buenos Aires,1,,-34.60333,-58.38167,2891082
-2020-03-04,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
-2020-03-04,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-04,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-04,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-04,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
-2020-03-04,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-04,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-04,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-04,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-04,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-04,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
-2020-03-04,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-04,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-04,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-04,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-04,AR_X,AR,Argentina,X,Córdoba,,,-31.417,-64.183,3308876
-2020-03-04,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-04,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-04,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-04,AR_B,AR,Argentina,B,Buenos Aires Province,0,0,-33.700,-61.000,15625084
+2020-03-04,AR_C,AR,Argentina,C,City of Buenos Aires,1,0,-34.60333,-58.38167,2891082
+2020-03-04,AR_D,AR,Argentina,D,San Luis,0,0,-33.300,-66.350,432310
+2020-03-04,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-04,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-04,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-04,AR_H,AR,Argentina,H,Chaco,0,0,-27.45139,-58.98667,1055259
+2020-03-04,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-04,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-04,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-04,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-04,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-04,AR_R,AR,Argentina,R,Río Negro,0,0,-40.800,-63.000,638645
+2020-03-04,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-04,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-04,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-04,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-04,AR_X,AR,Argentina,X,Córdoba,0,0,-31.417,-64.183,3308876
+2020-03-04,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-04,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-04,AT,AT,Austria,,,24,0,47.516231,14.550072,8955102
 2020-03-04,AU,AU,Australia,,,41,1,-25.274398,133.775136,25203198
 2020-03-04,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -7871,27 +7871,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-04,US_TX,US,United States of America,TX,Texas,1,,31.054500,-97.563500,28995881
 2020-03-04,US_WA,US,United States of America,WA,Washington,39,10,47.400900,-121.490500,7614893
 2020-03-04,US_WI,US,United States of America,WI,Wisconsin,1,,43.018600,-89.549800,5822434
-2020-03-05,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-05,AR_B,AR,Argentina,B,Buenos Aires Province,,,-33.700,-61.000,15625084
-2020-03-05,AR_C,AR,Argentina,C,City of Buenos Aires,2,,-34.60333,-58.38167,2891082
-2020-03-05,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
-2020-03-05,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-05,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-05,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-05,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
-2020-03-05,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-05,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-05,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-05,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-05,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-05,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
-2020-03-05,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-05,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-05,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-05,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-05,AR_X,AR,Argentina,X,Córdoba,,,-31.417,-64.183,3308876
-2020-03-05,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-05,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-05,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-05,AR_B,AR,Argentina,B,Buenos Aires Province,0,0,-33.700,-61.000,15625084
+2020-03-05,AR_C,AR,Argentina,C,City of Buenos Aires,2,0,-34.60333,-58.38167,2891082
+2020-03-05,AR_D,AR,Argentina,D,San Luis,0,0,-33.300,-66.350,432310
+2020-03-05,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-05,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-05,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-05,AR_H,AR,Argentina,H,Chaco,0,0,-27.45139,-58.98667,1055259
+2020-03-05,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-05,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-05,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-05,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-05,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-05,AR_R,AR,Argentina,R,Río Negro,0,0,-40.800,-63.000,638645
+2020-03-05,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-05,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-05,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-05,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-05,AR_X,AR,Argentina,X,Córdoba,0,0,-31.417,-64.183,3308876
+2020-03-05,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-05,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-05,AT,AT,Austria,,,29,0,47.516231,14.550072,8955102
 2020-03-05,AU,AU,Australia,,,52,2,-25.274398,133.775136,25203198
 2020-03-05,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -8233,27 +8233,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,US_WI,US,United States of America,WI,Wisconsin,1,,43.018600,-89.549800,5822434
 2020-03-06,AE,AE,United Arab Emirates,,,29,0,23.424076,53.847818,9770529
 2020-03-06,AR,AR,Argentina,,,2,0,-38.416097,-63.616672,44780677
-2020-03-06,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-06,AR_B,AR,Argentina,B,Buenos Aires Province,1,,-33.700,-61.000,15625084
-2020-03-06,AR_C,AR,Argentina,C,City of Buenos Aires,6,,-34.60333,-58.38167,2891082
-2020-03-06,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
-2020-03-06,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-06,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-06,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-06,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
-2020-03-06,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-06,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-06,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-06,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-06,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-06,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
-2020-03-06,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-06,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-06,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-06,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-06,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
-2020-03-06,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-06,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-06,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-06,AR_B,AR,Argentina,B,Buenos Aires Province,1,0,-33.700,-61.000,15625084
+2020-03-06,AR_C,AR,Argentina,C,City of Buenos Aires,6,0,-34.60333,-58.38167,2891082
+2020-03-06,AR_D,AR,Argentina,D,San Luis,0,0,-33.300,-66.350,432310
+2020-03-06,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-06,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-06,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-06,AR_H,AR,Argentina,H,Chaco,0,0,-27.45139,-58.98667,1055259
+2020-03-06,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-06,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-06,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-06,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-06,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-06,AR_R,AR,Argentina,R,Río Negro,0,0,-40.800,-63.000,638645
+2020-03-06,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-06,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-06,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-06,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-06,AR_X,AR,Argentina,X,Córdoba,1,0,-31.417,-64.183,3308876
+2020-03-06,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-06,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-06,AT,AT,Austria,,,41,0,47.516231,14.550072,8955102
 2020-03-06,AU,AU,Australia,,,59,2,-25.274398,133.775136,25203198
 2020-03-06,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -8617,27 +8617,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,US_WV,US,United States of America,WV,West Virginia,0,,38.491200,-80.954500,1792147
 2020-03-06,ZA,ZA,South Africa,,,1,0,-30.559482,22.937506,58558270
 2020-03-07,AR,AR,Argentina,,,8,0,-38.416097,-63.616672,44780677
-2020-03-07,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-07,AR_B,AR,Argentina,B,Buenos Aires Province,1,,-33.700,-61.000,15625084
+2020-03-07,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-07,AR_B,AR,Argentina,B,Buenos Aires Province,1,0,-33.700,-61.000,15625084
 2020-03-07,AR_C,AR,Argentina,C,City of Buenos Aires,7,1,-34.60333,-58.38167,2891082
-2020-03-07,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
-2020-03-07,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-07,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-07,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-07,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
-2020-03-07,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-07,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-07,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-07,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-07,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-07,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
-2020-03-07,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-07,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-07,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-07,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-07,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
-2020-03-07,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-07,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-07,AR_D,AR,Argentina,D,San Luis,0,0,-33.300,-66.350,432310
+2020-03-07,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-07,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-07,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-07,AR_H,AR,Argentina,H,Chaco,0,0,-27.45139,-58.98667,1055259
+2020-03-07,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-07,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-07,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-07,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-07,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-07,AR_R,AR,Argentina,R,Río Negro,0,0,-40.800,-63.000,638645
+2020-03-07,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-07,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-07,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-07,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-07,AR_X,AR,Argentina,X,Córdoba,1,0,-31.417,-64.183,3308876
+2020-03-07,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-07,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-07,AT,AT,Austria,,,74,0,47.516231,14.550072,8955102
 2020-03-07,AU,AU,Australia,,,63,2,-25.274398,133.775136,25203198
 2020-03-07,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -9026,27 +9026,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,AE,AE,United Arab Emirates,,,45,0,23.424076,53.847818,9770529
 2020-03-08,AF,AF,Afghanistan,,,4,0,33.939110,67.709953,38041754
 2020-03-08,AR,AR,Argentina,,,9,1,-38.416097,-63.616672,44780677
-2020-03-08,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-08,AR_B,AR,Argentina,B,Buenos Aires Province,2,,-33.700,-61.000,15625084
+2020-03-08,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-08,AR_B,AR,Argentina,B,Buenos Aires Province,2,0,-33.700,-61.000,15625084
 2020-03-08,AR_C,AR,Argentina,C,City of Buenos Aires,9,1,-34.60333,-58.38167,2891082
-2020-03-08,AR_D,AR,Argentina,D,San Luis,,,-33.300,-66.350,432310
-2020-03-08,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-08,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-08,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-08,AR_H,AR,Argentina,H,Chaco,,,-27.45139,-58.98667,1055259
-2020-03-08,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-08,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-08,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-08,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-08,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-08,AR_R,AR,Argentina,R,Río Negro,,,-40.800,-63.000,638645
-2020-03-08,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-08,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-08,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-08,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-08,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
-2020-03-08,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-08,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-08,AR_D,AR,Argentina,D,San Luis,0,0,-33.300,-66.350,432310
+2020-03-08,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-08,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-08,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-08,AR_H,AR,Argentina,H,Chaco,0,0,-27.45139,-58.98667,1055259
+2020-03-08,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-08,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-08,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-08,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-08,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-08,AR_R,AR,Argentina,R,Río Negro,0,0,-40.800,-63.000,638645
+2020-03-08,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-08,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-08,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-08,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-08,AR_X,AR,Argentina,X,Córdoba,1,0,-31.417,-64.183,3308876
+2020-03-08,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-08,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-08,AT,AT,Austria,,,99,0,47.516231,14.550072,8955102
 2020-03-08,AU,AU,Australia,,,74,3,-25.274398,133.775136,25203198
 2020-03-08,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -9426,27 +9426,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,ZA,ZA,South Africa,,,2,0,-30.559482,22.937506,58558270
 2020-03-09,AL,AL,Albania,,,2,0,41.153332,20.168331,2880917
 2020-03-09,AR,AR,Argentina,,,12,1,-38.416097,-63.616672,44780677
-2020-03-09,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-09,AR_B,AR,Argentina,B,Buenos Aires Province,2,,-33.700,-61.000,15625084
+2020-03-09,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-09,AR_B,AR,Argentina,B,Buenos Aires Province,2,0,-33.700,-61.000,15625084
 2020-03-09,AR_C,AR,Argentina,C,City of Buenos Aires,10,1,-34.60333,-58.38167,2891082
-2020-03-09,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-09,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-09,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-09,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-09,AR_H,AR,Argentina,H,Chaco,2,,-27.45139,-58.98667,1055259
-2020-03-09,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-09,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-09,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-09,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-09,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-09,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-09,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-09,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-09,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-09,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-09,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
-2020-03-09,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-09,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-09,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-09,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-09,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-09,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-09,AR_H,AR,Argentina,H,Chaco,2,0,-27.45139,-58.98667,1055259
+2020-03-09,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-09,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-09,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-09,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-09,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-09,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-09,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-09,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-09,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-09,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-09,AR_X,AR,Argentina,X,Córdoba,1,0,-31.417,-64.183,3308876
+2020-03-09,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-09,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-09,AT,AT,Austria,,,102,0,47.516231,14.550072,8955102
 2020-03-09,AU,AU,Australia,,,80,3,-25.274398,133.775136,25203198
 2020-03-09,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -9826,27 +9826,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,ZA,ZA,South Africa,,,3,0,-30.559482,22.937506,58558270
 2020-03-10,AE,AE,United Arab Emirates,,,59,0,23.424076,53.847818,9770529
 2020-03-10,AL,AL,Albania,,,6,0,41.153332,20.168331,2880917
-2020-03-10,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-10,AR_B,AR,Argentina,B,Buenos Aires Province,3,,-33.700,-61.000,15625084
+2020-03-10,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-10,AR_B,AR,Argentina,B,Buenos Aires Province,3,0,-33.700,-61.000,15625084
 2020-03-10,AR_C,AR,Argentina,C,City of Buenos Aires,11,1,-34.60333,-58.38167,2891082
-2020-03-10,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-10,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-10,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-10,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-10,AR_H,AR,Argentina,H,Chaco,2,,-27.45139,-58.98667,1055259
-2020-03-10,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-10,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-10,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-10,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-10,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-10,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-10,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-10,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-10,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-10,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-10,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
-2020-03-10,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-10,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-10,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-10,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-10,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-10,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-10,AR_H,AR,Argentina,H,Chaco,2,0,-27.45139,-58.98667,1055259
+2020-03-10,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-10,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-10,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-10,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-10,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-10,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-10,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-10,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-10,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-10,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-10,AR_X,AR,Argentina,X,Córdoba,1,0,-31.417,-64.183,3308876
+2020-03-10,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-10,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-10,AT,AT,Austria,,,131,0,47.516231,14.550072,8955102
 2020-03-10,AU,AU,Australia,,,100,3,-25.274398,133.775136,25203198
 2020-03-10,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -10177,27 +10177,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,AF,AF,Afghanistan,,,7,0,33.939110,67.709953,38041754
 2020-03-11,AL,AL,Albania,,,10,0,41.153332,20.168331,2880917
 2020-03-11,AR,AR,Argentina,,,19,1,-38.416097,-63.616672,44780677
-2020-03-11,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-11,AR_B,AR,Argentina,B,Buenos Aires Province,4,,-33.700,-61.000,15625084
+2020-03-11,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-11,AR_B,AR,Argentina,B,Buenos Aires Province,4,0,-33.700,-61.000,15625084
 2020-03-11,AR_C,AR,Argentina,C,City of Buenos Aires,12,1,-34.60333,-58.38167,2891082
-2020-03-11,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-11,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-11,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-11,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-11,AR_H,AR,Argentina,H,Chaco,2,,-27.45139,-58.98667,1055259
-2020-03-11,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-11,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-11,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-11,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-11,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-11,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-11,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-11,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-11,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-11,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-11,AR_X,AR,Argentina,X,Córdoba,1,,-31.417,-64.183,3308876
-2020-03-11,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-11,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-11,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-11,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-11,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-11,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-11,AR_H,AR,Argentina,H,Chaco,2,0,-27.45139,-58.98667,1055259
+2020-03-11,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-11,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-11,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-11,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-11,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-11,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-11,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-11,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-11,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-11,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-11,AR_X,AR,Argentina,X,Córdoba,1,0,-31.417,-64.183,3308876
+2020-03-11,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-11,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-11,AT,AT,Austria,,,182,0,47.516231,14.550072,8955102
 2020-03-11,AU,AU,Australia,,,112,3,-25.274398,133.775136,25203198
 2020-03-11,AU_ACT,AU,Australia,ACT,Australian Capital Territory,0,,-35.282001,149.128998,428060
@@ -10614,27 +10614,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,VN,VN,Vietnam,,,35,0,14.058324,108.277199,96462106
 2020-03-12,AL,AL,Albania,,,11,1,41.153332,20.168331,2880917
 2020-03-12,AM,AM,Armenia,,,4,0,40.069099,45.038189,2957731
-2020-03-12,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-12,AR_B,AR,Argentina,B,Buenos Aires Province,8,,-33.700,-61.000,15625084
+2020-03-12,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-12,AR_B,AR,Argentina,B,Buenos Aires Province,8,0,-33.700,-61.000,15625084
 2020-03-12,AR_C,AR,Argentina,C,City of Buenos Aires,15,1,-34.60333,-58.38167,2891082
-2020-03-12,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-12,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-12,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-12,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
-2020-03-12,AR_H,AR,Argentina,H,Chaco,4,,-27.45139,-58.98667,1055259
-2020-03-12,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-12,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-12,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-12,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-12,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-12,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-12,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-12,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-12,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-12,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-12,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
-2020-03-12,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-12,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-12,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-12,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-12,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-12,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
+2020-03-12,AR_H,AR,Argentina,H,Chaco,4,0,-27.45139,-58.98667,1055259
+2020-03-12,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-12,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-12,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-12,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-12,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-12,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-12,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-12,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-12,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-12,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-12,AR_X,AR,Argentina,X,Córdoba,3,0,-31.417,-64.183,3308876
+2020-03-12,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-12,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-12,AT,AT,Austria,,,246,0,47.516231,14.550072,8955102
 2020-03-12,AU,AU,Australia,,,126,3,-25.274398,133.775136,25203198
 2020-03-12,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -11064,27 +11064,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,AL,AL,Albania,,,23,1,41.153332,20.168331,2880917
 2020-03-13,AM,AM,Armenia,,,6,0,40.069099,45.038189,2957731
 2020-03-13,AR,AR,Argentina,,,31,1,-38.416097,-63.616672,44780677
-2020-03-13,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-13,AR_B,AR,Argentina,B,Buenos Aires Province,9,,-33.700,-61.000,15625084
+2020-03-13,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-13,AR_B,AR,Argentina,B,Buenos Aires Province,9,0,-33.700,-61.000,15625084
 2020-03-13,AR_C,AR,Argentina,C,City of Buenos Aires,17,1,-34.60333,-58.38167,2891082
-2020-03-13,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-13,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-13,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-13,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-13,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-13,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-13,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-13,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-13,AR_H,AR,Argentina,H,Chaco,4,1,-27.45139,-58.98667,1055259
-2020-03-13,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-13,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-13,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-13,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-13,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-13,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-13,AR_S,AR,Argentina,S,Santa Fe,,,-33.7227,-62.246,3194537
-2020-03-13,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-13,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-13,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-13,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
-2020-03-13,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-13,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-13,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-13,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-13,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-13,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-13,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-13,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-13,AR_S,AR,Argentina,S,Santa Fe,0,0,-33.7227,-62.246,3194537
+2020-03-13,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-13,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-13,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-13,AR_X,AR,Argentina,X,Córdoba,3,0,-31.417,-64.183,3308876
+2020-03-13,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-13,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-13,AT,AT,Austria,,,361,1,47.516231,14.550072,8955102
 2020-03-13,AU,AU,Australia,,,156,3,-25.274398,133.775136,25203198
 2020-03-13,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -11514,27 +11514,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,AL,AL,Albania,,,33,1,41.153332,20.168331,2880917
 2020-03-14,AM,AM,Armenia,,,13,0,40.069099,45.038189,2957731
 2020-03-14,AR,AR,Argentina,,,34,2,-38.416097,-63.616672,44780677
-2020-03-14,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-14,AR_B,AR,Argentina,B,Buenos Aires Province,11,,-33.700,-61.000,15625084
+2020-03-14,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-14,AR_B,AR,Argentina,B,Buenos Aires Province,11,0,-33.700,-61.000,15625084
 2020-03-14,AR_C,AR,Argentina,C,City of Buenos Aires,26,1,-34.60333,-58.38167,2891082
-2020-03-14,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-14,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-14,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-14,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-14,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-14,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-14,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-14,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-14,AR_H,AR,Argentina,H,Chaco,5,1,-27.45139,-58.98667,1055259
-2020-03-14,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-14,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-14,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-14,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-14,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-14,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-14,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
-2020-03-14,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-14,AR_V,AR,Argentina,V,Tierra del Fuego,,,-54.362,-67.638,127205
-2020-03-14,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-14,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
-2020-03-14,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-14,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-14,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-14,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-14,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-14,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-14,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-14,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-14,AR_S,AR,Argentina,S,Santa Fe,1,0,-33.7227,-62.246,3194537
+2020-03-14,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-14,AR_V,AR,Argentina,V,Tierra del Fuego,0,0,-54.362,-67.638,127205
+2020-03-14,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-14,AR_X,AR,Argentina,X,Córdoba,3,0,-31.417,-64.183,3308876
+2020-03-14,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-14,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-14,AT,AT,Austria,,,504,1,47.516231,14.550072,8955102
 2020-03-14,AU,AU,Australia,,,197,3,-25.274398,133.775136,25203198
 2020-03-14,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -11963,27 +11963,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,AL,AL,Albania,,,38,1,41.153332,20.168331,2880917
 2020-03-15,AM,AM,Armenia,,,20,0,40.069099,45.038189,2957731
 2020-03-15,AR,AR,Argentina,,,45,2,-38.416097,-63.616672,44780677
-2020-03-15,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-15,AR_B,AR,Argentina,B,Buenos Aires Province,12,,-33.700,-61.000,15625084
+2020-03-15,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-15,AR_B,AR,Argentina,B,Buenos Aires Province,12,0,-33.700,-61.000,15625084
 2020-03-15,AR_C,AR,Argentina,C,City of Buenos Aires,32,1,-34.60333,-58.38167,2891082
-2020-03-15,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-15,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-15,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-15,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-15,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-15,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-15,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-15,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-15,AR_H,AR,Argentina,H,Chaco,7,1,-27.45139,-58.98667,1055259
-2020-03-15,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-15,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-15,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-15,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-15,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-15,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-15,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
-2020-03-15,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-15,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
-2020-03-15,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-15,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
-2020-03-15,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-15,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-15,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-15,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-15,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-15,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-15,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-15,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-15,AR_S,AR,Argentina,S,Santa Fe,1,0,-33.7227,-62.246,3194537
+2020-03-15,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-15,AR_V,AR,Argentina,V,Tierra del Fuego,2,0,-54.362,-67.638,127205
+2020-03-15,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-15,AR_X,AR,Argentina,X,Córdoba,3,0,-31.417,-64.183,3308876
+2020-03-15,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-15,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-15,AT,AT,Austria,,,655,1,47.516231,14.550072,8955102
 2020-03-15,AU,AU,Australia,,,249,3,-25.274398,133.775136,25203198
 2020-03-15,AU_ACT,AU,Australia,ACT,Australian Capital Territory,1,,-35.282001,149.128998,428060
@@ -12441,27 +12441,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,AL,AL,Albania,,,42,1,41.153332,20.168331,2880917
 2020-03-16,AM,AM,Armenia,,,30,0,40.069099,45.038189,2957731
 2020-03-16,AR,AR,Argentina,,,56,2,-38.416097,-63.616672,44780677
-2020-03-16,AR_A,AR,Argentina,A,Salta,,,-24.783,-65.417,1214441
-2020-03-16,AR_B,AR,Argentina,B,Buenos Aires Province,16,,-33.700,-61.000,15625084
+2020-03-16,AR_A,AR,Argentina,A,Salta,0,0,-24.783,-65.417,1214441
+2020-03-16,AR_B,AR,Argentina,B,Buenos Aires Province,16,0,-33.700,-61.000,15625084
 2020-03-16,AR_C,AR,Argentina,C,City of Buenos Aires,37,1,-34.60333,-58.38167,2891082
-2020-03-16,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-16,AR_E,AR,Argentina,E,Entre Ríos,,,-32.0477,-60.281,1235994
-2020-03-16,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-16,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-16,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-16,AR_E,AR,Argentina,E,Entre Ríos,0,0,-32.0477,-60.281,1235994
+2020-03-16,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-16,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-16,AR_H,AR,Argentina,H,Chaco,11,1,-27.45139,-58.98667,1055259
-2020-03-16,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-16,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-16,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-16,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-16,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-16,AR_R,AR,Argentina,R,Río Negro,1,,-40.800,-63.000,638645
-2020-03-16,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
-2020-03-16,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-16,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
-2020-03-16,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-16,AR_X,AR,Argentina,X,Córdoba,3,,-31.417,-64.183,3308876
-2020-03-16,AR_Y,AR,Argentina,Y,Jujuy,,,-23.750,-65.500,673307
-2020-03-16,AR_Z,AR,Argentina,Z,Santa Cruz,,,-48.62,-70.01,273964
+2020-03-16,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-16,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-16,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-16,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-16,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-16,AR_R,AR,Argentina,R,Río Negro,1,0,-40.800,-63.000,638645
+2020-03-16,AR_S,AR,Argentina,S,Santa Fe,1,0,-33.7227,-62.246,3194537
+2020-03-16,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-16,AR_V,AR,Argentina,V,Tierra del Fuego,2,0,-54.362,-67.638,127205
+2020-03-16,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-16,AR_X,AR,Argentina,X,Córdoba,3,0,-31.417,-64.183,3308876
+2020-03-16,AR_Y,AR,Argentina,Y,Jujuy,0,0,-23.750,-65.500,673307
+2020-03-16,AR_Z,AR,Argentina,Z,Santa Cruz,0,0,-48.62,-70.01,273964
 2020-03-16,AT,AT,Austria,,,860,1,47.516231,14.550072,8955102
 2020-03-16,AU,AU,Australia,,,298,5,-25.274398,133.775136,25203198
 2020-03-16,AU_ACT,AU,Australia,ACT,Australian Capital Territory,2,,-35.282001,149.128998,428060
@@ -12918,27 +12918,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,AL,AL,Albania,,,51,1,41.153332,20.168331,2880917
 2020-03-17,AM,AM,Armenia,,,52,0,40.069099,45.038189,2957731
 2020-03-17,AR,AR,Argentina,,,65,2,-38.416097,-63.616672,44780677
-2020-03-17,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
-2020-03-17,AR_B,AR,Argentina,B,Buenos Aires Province,17,,-33.700,-61.000,15625084
+2020-03-17,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
+2020-03-17,AR_B,AR,Argentina,B,Buenos Aires Province,17,0,-33.700,-61.000,15625084
 2020-03-17,AR_C,AR,Argentina,C,City of Buenos Aires,40,1,-34.60333,-58.38167,2891082
-2020-03-17,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-17,AR_E,AR,Argentina,E,Entre Ríos,1,,-32.0477,-60.281,1235994
-2020-03-17,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-17,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-17,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-17,AR_E,AR,Argentina,E,Entre Ríos,1,0,-32.0477,-60.281,1235994
+2020-03-17,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-17,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-17,AR_H,AR,Argentina,H,Chaco,12,1,-27.45139,-58.98667,1055259
-2020-03-17,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-17,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-17,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-17,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-17,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-17,AR_R,AR,Argentina,R,Río Negro,2,,-40.800,-63.000,638645
-2020-03-17,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
-2020-03-17,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-17,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
-2020-03-17,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-17,AR_X,AR,Argentina,X,Córdoba,4,,-31.417,-64.183,3308876
-2020-03-17,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-17,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-17,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-17,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-17,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-17,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-17,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-17,AR_R,AR,Argentina,R,Río Negro,2,0,-40.800,-63.000,638645
+2020-03-17,AR_S,AR,Argentina,S,Santa Fe,1,0,-33.7227,-62.246,3194537
+2020-03-17,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-17,AR_V,AR,Argentina,V,Tierra del Fuego,2,0,-54.362,-67.638,127205
+2020-03-17,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-17,AR_X,AR,Argentina,X,Córdoba,4,0,-31.417,-64.183,3308876
+2020-03-17,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-17,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-17,AT,AT,Austria,,,1016,3,47.516231,14.550072,8955102
 2020-03-17,AU,AU,Australia,,,375,5,-25.274398,133.775136,25203198
 2020-03-17,AU_ACT,AU,Australia,ACT,Australian Capital Territory,2,,-35.282001,149.128998,428060
@@ -13415,27 +13415,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,AL,AL,Albania,,,55,1,41.153332,20.168331,2880917
 2020-03-18,AM,AM,Armenia,,,78,0,40.069099,45.038189,2957731
 2020-03-18,AR,AR,Argentina,,,79,2,-38.416097,-63.616672,44780677
-2020-03-18,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
-2020-03-18,AR_B,AR,Argentina,B,Buenos Aires Province,23,,-33.700,-61.000,15625084
+2020-03-18,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
+2020-03-18,AR_B,AR,Argentina,B,Buenos Aires Province,23,0,-33.700,-61.000,15625084
 2020-03-18,AR_C,AR,Argentina,C,City of Buenos Aires,53,2,-34.60333,-58.38167,2891082
-2020-03-18,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-18,AR_E,AR,Argentina,E,Entre Ríos,3,,-32.0477,-60.281,1235994
-2020-03-18,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-18,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-18,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-18,AR_E,AR,Argentina,E,Entre Ríos,3,0,-32.0477,-60.281,1235994
+2020-03-18,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-18,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-18,AR_H,AR,Argentina,H,Chaco,13,1,-27.45139,-58.98667,1055259
-2020-03-18,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-18,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-18,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-18,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-18,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-18,AR_R,AR,Argentina,R,Río Negro,2,,-40.800,-63.000,638645
-2020-03-18,AR_S,AR,Argentina,S,Santa Fe,1,,-33.7227,-62.246,3194537
-2020-03-18,AR_T,AR,Argentina,T,Tucumán,,,-26.94,-65.34,1448188
-2020-03-18,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
-2020-03-18,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-18,AR_X,AR,Argentina,X,Córdoba,5,,-31.417,-64.183,3308876
-2020-03-18,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-18,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-18,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-18,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-18,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-18,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-18,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-18,AR_R,AR,Argentina,R,Río Negro,2,0,-40.800,-63.000,638645
+2020-03-18,AR_S,AR,Argentina,S,Santa Fe,1,0,-33.7227,-62.246,3194537
+2020-03-18,AR_T,AR,Argentina,T,Tucumán,0,0,-26.94,-65.34,1448188
+2020-03-18,AR_V,AR,Argentina,V,Tierra del Fuego,2,0,-54.362,-67.638,127205
+2020-03-18,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-18,AR_X,AR,Argentina,X,Córdoba,5,0,-31.417,-64.183,3308876
+2020-03-18,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-18,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-18,AT,AT,Austria,,,1332,3,47.516231,14.550072,8955102
 2020-03-18,AU,AU,Australia,,,454,5,-25.274398,133.775136,25203198
 2020-03-18,AU_ACT,AU,Australia,ACT,Australian Capital Territory,3,,-35.282001,149.128998,428060
@@ -13904,27 +13904,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,AL,AL,Albania,,,59,2,41.153332,20.168331,2880917
 2020-03-19,AM,AM,Armenia,,,115,0,40.069099,45.038189,2957731
 2020-03-19,AR,AR,Argentina,,,97,2,-38.416097,-63.616672,44780677
-2020-03-19,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
-2020-03-19,AR_B,AR,Argentina,B,Buenos Aires Province,38,,-33.700,-61.000,15625084
+2020-03-19,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
+2020-03-19,AR_B,AR,Argentina,B,Buenos Aires Province,38,0,-33.700,-61.000,15625084
 2020-03-19,AR_C,AR,Argentina,C,City of Buenos Aires,67,2,-34.60333,-58.38167,2891082
-2020-03-19,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-19,AR_E,AR,Argentina,E,Entre Ríos,3,,-32.0477,-60.281,1235994
-2020-03-19,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-19,AR_G,AR,Argentina,G,Santiago del Estero,,,-27.783,-64.267,874006
+2020-03-19,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-19,AR_E,AR,Argentina,E,Entre Ríos,3,0,-32.0477,-60.281,1235994
+2020-03-19,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-19,AR_G,AR,Argentina,G,Santiago del Estero,0,0,-27.783,-64.267,874006
 2020-03-19,AR_H,AR,Argentina,H,Chaco,15,1,-27.45139,-58.98667,1055259
-2020-03-19,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-19,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-19,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-19,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-19,AR_Q,AR,Argentina,Q,Neuquén,,,-38.95167,-68.07444,551266
-2020-03-19,AR_R,AR,Argentina,R,Río Negro,3,,-40.800,-63.000,638645
-2020-03-19,AR_S,AR,Argentina,S,Santa Fe,2,,-33.7227,-62.246,3194537
-2020-03-19,AR_T,AR,Argentina,T,Tucumán,1,,-26.94,-65.34,1448188
-2020-03-19,AR_V,AR,Argentina,V,Tierra del Fuego,2,,-54.362,-67.638,127205
-2020-03-19,AR_W,AR,Argentina,W,Corrientes,,,-28.66,-57.63,992595
-2020-03-19,AR_X,AR,Argentina,X,Córdoba,8,,-31.417,-64.183,3308876
-2020-03-19,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-19,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-19,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-19,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-19,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-19,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-19,AR_Q,AR,Argentina,Q,Neuquén,0,0,-38.95167,-68.07444,551266
+2020-03-19,AR_R,AR,Argentina,R,Río Negro,3,0,-40.800,-63.000,638645
+2020-03-19,AR_S,AR,Argentina,S,Santa Fe,2,0,-33.7227,-62.246,3194537
+2020-03-19,AR_T,AR,Argentina,T,Tucumán,1,0,-26.94,-65.34,1448188
+2020-03-19,AR_V,AR,Argentina,V,Tierra del Fuego,2,0,-54.362,-67.638,127205
+2020-03-19,AR_W,AR,Argentina,W,Corrientes,0,0,-28.66,-57.63,992595
+2020-03-19,AR_X,AR,Argentina,X,Córdoba,8,0,-31.417,-64.183,3308876
+2020-03-19,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-19,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-19,AT,AT,Austria,,,1646,4,47.516231,14.550072,8955102
 2020-03-19,AU,AU,Australia,,,565,6,-25.274398,133.775136,25203198
 2020-03-19,AU_ACT,AU,Australia,ACT,Australian Capital Territory,4,,-35.282001,149.128998,428060
@@ -14406,27 +14406,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,AL,AL,Albania,,,70,2,41.153332,20.168331,2880917
 2020-03-20,AM,AM,Armenia,,,122,0,40.069099,45.038189,2957731
 2020-03-20,AR,AR,Argentina,,,128,3,-38.416097,-63.616672,44780677
-2020-03-20,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
-2020-03-20,AR_B,AR,Argentina,B,Buenos Aires Province,49,,-33.700,-61.000,15625084
+2020-03-20,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
+2020-03-20,AR_B,AR,Argentina,B,Buenos Aires Province,49,0,-33.700,-61.000,15625084
 2020-03-20,AR_C,AR,Argentina,C,City of Buenos Aires,80,2,-34.60333,-58.38167,2891082
-2020-03-20,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-20,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
-2020-03-20,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-20,AR_G,AR,Argentina,G,Santiago del Estero,1,,-27.783,-64.267,874006
+2020-03-20,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-20,AR_E,AR,Argentina,E,Entre Ríos,4,0,-32.0477,-60.281,1235994
+2020-03-20,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-20,AR_G,AR,Argentina,G,Santiago del Estero,1,0,-27.783,-64.267,874006
 2020-03-20,AR_H,AR,Argentina,H,Chaco,16,1,-27.45139,-58.98667,1055259
-2020-03-20,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-20,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-20,AR_M,AR,Argentina,M,Mendoza,,,-32.89028,-68.84722,1738929
-2020-03-20,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-20,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
-2020-03-20,AR_R,AR,Argentina,R,Río Negro,4,,-40.800,-63.000,638645
-2020-03-20,AR_S,AR,Argentina,S,Santa Fe,2,,-33.7227,-62.246,3194537
-2020-03-20,AR_T,AR,Argentina,T,Tucumán,1,,-26.94,-65.34,1448188
-2020-03-20,AR_V,AR,Argentina,V,Tierra del Fuego,3,,-54.362,-67.638,127205
-2020-03-20,AR_W,AR,Argentina,W,Corrientes,1,,-28.66,-57.63,992595
-2020-03-20,AR_X,AR,Argentina,X,Córdoba,13,,-31.417,-64.183,3308876
-2020-03-20,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-20,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-20,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-20,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-20,AR_M,AR,Argentina,M,Mendoza,0,0,-32.89028,-68.84722,1738929
+2020-03-20,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-20,AR_Q,AR,Argentina,Q,Neuquén,2,0,-38.95167,-68.07444,551266
+2020-03-20,AR_R,AR,Argentina,R,Río Negro,4,0,-40.800,-63.000,638645
+2020-03-20,AR_S,AR,Argentina,S,Santa Fe,2,0,-33.7227,-62.246,3194537
+2020-03-20,AR_T,AR,Argentina,T,Tucumán,1,0,-26.94,-65.34,1448188
+2020-03-20,AR_V,AR,Argentina,V,Tierra del Fuego,3,0,-54.362,-67.638,127205
+2020-03-20,AR_W,AR,Argentina,W,Corrientes,1,0,-28.66,-57.63,992595
+2020-03-20,AR_X,AR,Argentina,X,Córdoba,13,0,-31.417,-64.183,3308876
+2020-03-20,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-20,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-20,AT,AT,Austria,,,2196,6,47.516231,14.550072,8955102
 2020-03-20,AU,AU,Australia,,,709,6,-25.274398,133.775136,25203198
 2020-03-20,AU_ACT,AU,Australia,ACT,Australian Capital Territory,6,,-35.282001,149.128998,428060
@@ -14927,27 +14927,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,AL,AL,Albania,,,70,2,41.153332,20.168331,2880917
 2020-03-21,AM,AM,Armenia,,,136,0,40.069099,45.038189,2957731
 2020-03-21,AR,AR,Argentina,,,158,3,-38.416097,-63.616672,44780677
-2020-03-21,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-21,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-21,AR_B,AR,Argentina,B,Buenos Aires Province,64,1,-33.700,-61.000,15625084
 2020-03-21,AR_C,AR,Argentina,C,City of Buenos Aires,113,2,-34.60333,-58.38167,2891082
-2020-03-21,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-21,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
-2020-03-21,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-21,AR_G,AR,Argentina,G,Santiago del Estero,1,,-27.783,-64.267,874006
+2020-03-21,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-21,AR_E,AR,Argentina,E,Entre Ríos,4,0,-32.0477,-60.281,1235994
+2020-03-21,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-21,AR_G,AR,Argentina,G,Santiago del Estero,1,0,-27.783,-64.267,874006
 2020-03-21,AR_H,AR,Argentina,H,Chaco,21,1,-27.45139,-58.98667,1055259
-2020-03-21,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-21,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-21,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
-2020-03-21,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-21,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
-2020-03-21,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
-2020-03-21,AR_S,AR,Argentina,S,Santa Fe,4,,-33.7227,-62.246,3194537
-2020-03-21,AR_T,AR,Argentina,T,Tucumán,2,,-26.94,-65.34,1448188
-2020-03-21,AR_V,AR,Argentina,V,Tierra del Fuego,6,,-54.362,-67.638,127205
-2020-03-21,AR_W,AR,Argentina,W,Corrientes,3,,-28.66,-57.63,992595
-2020-03-21,AR_X,AR,Argentina,X,Córdoba,17,,-31.417,-64.183,3308876
-2020-03-21,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-21,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-21,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-21,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-21,AR_M,AR,Argentina,M,Mendoza,5,0,-32.89028,-68.84722,1738929
+2020-03-21,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-21,AR_Q,AR,Argentina,Q,Neuquén,2,0,-38.95167,-68.07444,551266
+2020-03-21,AR_R,AR,Argentina,R,Río Negro,5,0,-40.800,-63.000,638645
+2020-03-21,AR_S,AR,Argentina,S,Santa Fe,4,0,-33.7227,-62.246,3194537
+2020-03-21,AR_T,AR,Argentina,T,Tucumán,2,0,-26.94,-65.34,1448188
+2020-03-21,AR_V,AR,Argentina,V,Tierra del Fuego,6,0,-54.362,-67.638,127205
+2020-03-21,AR_W,AR,Argentina,W,Corrientes,3,0,-28.66,-57.63,992595
+2020-03-21,AR_X,AR,Argentina,X,Córdoba,17,0,-31.417,-64.183,3308876
+2020-03-21,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-21,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-21,AT,AT,Austria,,,2649,6,47.516231,14.550072,8955102
 2020-03-21,AU,AU,Australia,,,874,7,-25.274398,133.775136,25203198
 2020-03-21,AU_ACT,AU,Australia,ACT,Australian Capital Territory,9,,-35.282001,149.128998,428060
@@ -15452,27 +15452,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,AM,AM,Armenia,,,160,0,40.069099,45.038189,2957731
 2020-03-22,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-22,AR,AR,Argentina,,,225,4,-38.416097,-63.616672,44780677
-2020-03-22,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-22,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-22,AR_B,AR,Argentina,B,Buenos Aires Province,72,1,-33.700,-61.000,15625084
 2020-03-22,AR_C,AR,Argentina,C,City of Buenos Aires,127,2,-34.60333,-58.38167,2891082
-2020-03-22,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-22,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
-2020-03-22,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-22,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-22,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-22,AR_E,AR,Argentina,E,Entre Ríos,4,0,-32.0477,-60.281,1235994
+2020-03-22,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-22,AR_G,AR,Argentina,G,Santiago del Estero,2,0,-27.783,-64.267,874006
 2020-03-22,AR_H,AR,Argentina,H,Chaco,28,1,-27.45139,-58.98667,1055259
-2020-03-22,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-22,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-22,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
-2020-03-22,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-22,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
-2020-03-22,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
-2020-03-22,AR_S,AR,Argentina,S,Santa Fe,4,,-33.7227,-62.246,3194537
-2020-03-22,AR_T,AR,Argentina,T,Tucumán,7,,-26.94,-65.34,1448188
-2020-03-22,AR_V,AR,Argentina,V,Tierra del Fuego,6,,-54.362,-67.638,127205
-2020-03-22,AR_W,AR,Argentina,W,Corrientes,3,,-28.66,-57.63,992595
-2020-03-22,AR_X,AR,Argentina,X,Córdoba,25,,-31.417,-64.183,3308876
-2020-03-22,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-22,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-22,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-22,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-22,AR_M,AR,Argentina,M,Mendoza,5,0,-32.89028,-68.84722,1738929
+2020-03-22,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-22,AR_Q,AR,Argentina,Q,Neuquén,2,0,-38.95167,-68.07444,551266
+2020-03-22,AR_R,AR,Argentina,R,Río Negro,5,0,-40.800,-63.000,638645
+2020-03-22,AR_S,AR,Argentina,S,Santa Fe,4,0,-33.7227,-62.246,3194537
+2020-03-22,AR_T,AR,Argentina,T,Tucumán,7,0,-26.94,-65.34,1448188
+2020-03-22,AR_V,AR,Argentina,V,Tierra del Fuego,6,0,-54.362,-67.638,127205
+2020-03-22,AR_W,AR,Argentina,W,Corrientes,3,0,-28.66,-57.63,992595
+2020-03-22,AR_X,AR,Argentina,X,Córdoba,25,0,-31.417,-64.183,3308876
+2020-03-22,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-22,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-22,AT,AT,Austria,,,3024,8,47.516231,14.550072,8955102
 2020-03-22,AU,AU,Australia,,,1098,7,-25.274398,133.775136,25203198
 2020-03-22,AU_ACT,AU,Australia,ACT,Australian Capital Territory,19,0,-35.282001,149.128998,428060
@@ -15985,27 +15985,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,AM,AM,Armenia,,,190,0,40.069099,45.038189,2957731
 2020-03-23,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-23,AR,AR,Argentina,,,266,4,-38.416097,-63.616672,44780677
-2020-03-23,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-23,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-23,AR_B,AR,Argentina,B,Buenos Aires Province,77,1,-33.700,-61.000,15625084
 2020-03-23,AR_C,AR,Argentina,C,City of Buenos Aires,141,2,-34.60333,-58.38167,2891082
-2020-03-23,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-23,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
-2020-03-23,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-23,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-23,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-23,AR_E,AR,Argentina,E,Entre Ríos,4,0,-32.0477,-60.281,1235994
+2020-03-23,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-23,AR_G,AR,Argentina,G,Santiago del Estero,2,0,-27.783,-64.267,874006
 2020-03-23,AR_H,AR,Argentina,H,Chaco,33,1,-27.45139,-58.98667,1055259
-2020-03-23,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-23,AR_L,AR,Argentina,L,La Pampa,,,-36.617,-64.283,543184
-2020-03-23,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
-2020-03-23,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-23,AR_Q,AR,Argentina,Q,Neuquén,2,,-38.95167,-68.07444,551266
-2020-03-23,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
-2020-03-23,AR_S,AR,Argentina,S,Santa Fe,17,,-33.7227,-62.246,3194537
-2020-03-23,AR_T,AR,Argentina,T,Tucumán,7,,-26.94,-65.34,1448188
-2020-03-23,AR_V,AR,Argentina,V,Tierra del Fuego,6,,-54.362,-67.638,127205
-2020-03-23,AR_W,AR,Argentina,W,Corrientes,3,,-28.66,-57.63,992595
-2020-03-23,AR_X,AR,Argentina,X,Córdoba,28,,-31.417,-64.183,3308876
-2020-03-23,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-23,AR_Z,AR,Argentina,Z,Santa Cruz,1,,-48.62,-70.01,273964
+2020-03-23,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-23,AR_L,AR,Argentina,L,La Pampa,0,0,-36.617,-64.283,543184
+2020-03-23,AR_M,AR,Argentina,M,Mendoza,5,0,-32.89028,-68.84722,1738929
+2020-03-23,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-23,AR_Q,AR,Argentina,Q,Neuquén,2,0,-38.95167,-68.07444,551266
+2020-03-23,AR_R,AR,Argentina,R,Río Negro,5,0,-40.800,-63.000,638645
+2020-03-23,AR_S,AR,Argentina,S,Santa Fe,17,0,-33.7227,-62.246,3194537
+2020-03-23,AR_T,AR,Argentina,T,Tucumán,7,0,-26.94,-65.34,1448188
+2020-03-23,AR_V,AR,Argentina,V,Tierra del Fuego,6,0,-54.362,-67.638,127205
+2020-03-23,AR_W,AR,Argentina,W,Corrientes,3,0,-28.66,-57.63,992595
+2020-03-23,AR_X,AR,Argentina,X,Córdoba,28,0,-31.417,-64.183,3308876
+2020-03-23,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-23,AR_Z,AR,Argentina,Z,Santa Cruz,1,0,-48.62,-70.01,273964
 2020-03-23,AT,AT,Austria,,,3631,16,47.516231,14.550072,8955102
 2020-03-23,AU,AU,Australia,,,1709,7,-25.274398,133.775136,25203198
 2020-03-23,AU_ACT,AU,Australia,ACT,Australian Capital Territory,32,0,-35.282001,149.128998,428060
@@ -16524,27 +16524,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,AM,AM,Armenia,,,194,0,40.069099,45.038189,2957731
 2020-03-24,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-24,AR,AR,Argentina,,,301,4,-38.416097,-63.616672,44780677
-2020-03-24,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-24,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-24,AR_B,AR,Argentina,B,Buenos Aires Province,107,2,-33.700,-61.000,15625084
 2020-03-24,AR_C,AR,Argentina,C,City of Buenos Aires,174,2,-34.60333,-58.38167,2891082
-2020-03-24,AR_D,AR,Argentina,D,San Luis,1,,-33.300,-66.350,432310
-2020-03-24,AR_E,AR,Argentina,E,Entre Ríos,4,,-32.0477,-60.281,1235994
-2020-03-24,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-24,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-24,AR_D,AR,Argentina,D,San Luis,1,0,-33.300,-66.350,432310
+2020-03-24,AR_E,AR,Argentina,E,Entre Ríos,4,0,-32.0477,-60.281,1235994
+2020-03-24,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-24,AR_G,AR,Argentina,G,Santiago del Estero,2,0,-27.783,-64.267,874006
 2020-03-24,AR_H,AR,Argentina,H,Chaco,46,2,-27.45139,-58.98667,1055259
-2020-03-24,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-24,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
-2020-03-24,AR_M,AR,Argentina,M,Mendoza,5,,-32.89028,-68.84722,1738929
-2020-03-24,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-24,AR_Q,AR,Argentina,Q,Neuquén,3,,-38.95167,-68.07444,551266
-2020-03-24,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
-2020-03-24,AR_S,AR,Argentina,S,Santa Fe,19,,-33.7227,-62.246,3194537
-2020-03-24,AR_T,AR,Argentina,T,Tucumán,7,,-26.94,-65.34,1448188
-2020-03-24,AR_V,AR,Argentina,V,Tierra del Fuego,9,,-54.362,-67.638,127205
-2020-03-24,AR_W,AR,Argentina,W,Corrientes,4,,-28.66,-57.63,992595
-2020-03-24,AR_X,AR,Argentina,X,Córdoba,35,,-31.417,-64.183,3308876
-2020-03-24,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-24,AR_Z,AR,Argentina,Z,Santa Cruz,2,,-48.62,-70.01,273964
+2020-03-24,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-24,AR_L,AR,Argentina,L,La Pampa,1,0,-36.617,-64.283,543184
+2020-03-24,AR_M,AR,Argentina,M,Mendoza,5,0,-32.89028,-68.84722,1738929
+2020-03-24,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-24,AR_Q,AR,Argentina,Q,Neuquén,3,0,-38.95167,-68.07444,551266
+2020-03-24,AR_R,AR,Argentina,R,Río Negro,5,0,-40.800,-63.000,638645
+2020-03-24,AR_S,AR,Argentina,S,Santa Fe,19,0,-33.7227,-62.246,3194537
+2020-03-24,AR_T,AR,Argentina,T,Tucumán,7,0,-26.94,-65.34,1448188
+2020-03-24,AR_V,AR,Argentina,V,Tierra del Fuego,9,0,-54.362,-67.638,127205
+2020-03-24,AR_W,AR,Argentina,W,Corrientes,4,0,-28.66,-57.63,992595
+2020-03-24,AR_X,AR,Argentina,X,Córdoba,35,0,-31.417,-64.183,3308876
+2020-03-24,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-24,AR_Z,AR,Argentina,Z,Santa Cruz,2,0,-48.62,-70.01,273964
 2020-03-24,AT,AT,Austria,,,4486,25,47.516231,14.550072,8955102
 2020-03-24,AU,AU,Australia,,,1823,7,-25.274398,133.775136,25203198
 2020-03-24,AU_ACT,AU,Australia,ACT,Australian Capital Territory,39,0,-35.282001,149.128998,428060
@@ -17068,27 +17068,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,AM,AM,Armenia,,,265,0,40.069099,45.038189,2957731
 2020-03-25,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-25,AR,AR,Argentina,,,387,6,-38.416097,-63.616672,44780677
-2020-03-25,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-25,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-25,AR_B,AR,Argentina,B,Buenos Aires Province,137,2,-33.700,-61.000,15625084
 2020-03-25,AR_C,AR,Argentina,C,City of Buenos Aires,211,3,-34.60333,-58.38167,2891082
-2020-03-25,AR_D,AR,Argentina,D,San Luis,5,,-33.300,-66.350,432310
-2020-03-25,AR_E,AR,Argentina,E,Entre Ríos,7,,-32.0477,-60.281,1235994
-2020-03-25,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-25,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-25,AR_D,AR,Argentina,D,San Luis,5,0,-33.300,-66.350,432310
+2020-03-25,AR_E,AR,Argentina,E,Entre Ríos,7,0,-32.0477,-60.281,1235994
+2020-03-25,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-25,AR_G,AR,Argentina,G,Santiago del Estero,2,0,-27.783,-64.267,874006
 2020-03-25,AR_H,AR,Argentina,H,Chaco,54,3,-27.45139,-58.98667,1055259
-2020-03-25,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-25,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
-2020-03-25,AR_M,AR,Argentina,M,Mendoza,6,,-32.89028,-68.84722,1738929
-2020-03-25,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-25,AR_Q,AR,Argentina,Q,Neuquén,4,,-38.95167,-68.07444,551266
-2020-03-25,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
-2020-03-25,AR_S,AR,Argentina,S,Santa Fe,43,,-33.7227,-62.246,3194537
-2020-03-25,AR_T,AR,Argentina,T,Tucumán,9,,-26.94,-65.34,1448188
-2020-03-25,AR_V,AR,Argentina,V,Tierra del Fuego,11,,-54.362,-67.638,127205
-2020-03-25,AR_W,AR,Argentina,W,Corrientes,4,,-28.66,-57.63,992595
-2020-03-25,AR_X,AR,Argentina,X,Córdoba,50,,-31.417,-64.183,3308876
-2020-03-25,AR_Y,AR,Argentina,Y,Jujuy,1,,-23.750,-65.500,673307
-2020-03-25,AR_Z,AR,Argentina,Z,Santa Cruz,8,,-48.62,-70.01,273964
+2020-03-25,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-25,AR_L,AR,Argentina,L,La Pampa,1,0,-36.617,-64.283,543184
+2020-03-25,AR_M,AR,Argentina,M,Mendoza,6,0,-32.89028,-68.84722,1738929
+2020-03-25,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-25,AR_Q,AR,Argentina,Q,Neuquén,4,0,-38.95167,-68.07444,551266
+2020-03-25,AR_R,AR,Argentina,R,Río Negro,5,0,-40.800,-63.000,638645
+2020-03-25,AR_S,AR,Argentina,S,Santa Fe,43,0,-33.7227,-62.246,3194537
+2020-03-25,AR_T,AR,Argentina,T,Tucumán,9,0,-26.94,-65.34,1448188
+2020-03-25,AR_V,AR,Argentina,V,Tierra del Fuego,11,0,-54.362,-67.638,127205
+2020-03-25,AR_W,AR,Argentina,W,Corrientes,4,0,-28.66,-57.63,992595
+2020-03-25,AR_X,AR,Argentina,X,Córdoba,50,0,-31.417,-64.183,3308876
+2020-03-25,AR_Y,AR,Argentina,Y,Jujuy,1,0,-23.750,-65.500,673307
+2020-03-25,AR_Z,AR,Argentina,Z,Santa Cruz,8,0,-48.62,-70.01,273964
 2020-03-25,AT,AT,Austria,,,5282,30,47.516231,14.550072,8955102
 2020-03-25,AU,AU,Australia,,,2423,8,-25.274398,133.775136,25203198
 2020-03-25,AU_ACT,AU,Australia,ACT,Australian Capital Territory,44,0,-35.282001,149.128998,428060
@@ -17613,27 +17613,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,AM,AM,Armenia,,,290,0,40.069099,45.038189,2957731
 2020-03-26,AO,AO,Angola,,,2,0,-11.202692,17.873887,31825295
 2020-03-26,AR,AR,Argentina,,,502,8,-38.416097,-63.616672,44780677
-2020-03-26,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-26,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-26,AR_B,AR,Argentina,B,Buenos Aires Province,164,4,-33.700,-61.000,15625084
 2020-03-26,AR_C,AR,Argentina,C,City of Buenos Aires,262,4,-34.60333,-58.38167,2891082
-2020-03-26,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
-2020-03-26,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
-2020-03-26,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-26,AR_G,AR,Argentina,G,Santiago del Estero,2,,-27.783,-64.267,874006
+2020-03-26,AR_D,AR,Argentina,D,San Luis,6,0,-33.300,-66.350,432310
+2020-03-26,AR_E,AR,Argentina,E,Entre Ríos,10,0,-32.0477,-60.281,1235994
+2020-03-26,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-26,AR_G,AR,Argentina,G,Santiago del Estero,2,0,-27.783,-64.267,874006
 2020-03-26,AR_H,AR,Argentina,H,Chaco,58,4,-27.45139,-58.98667,1055259
-2020-03-26,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-26,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
-2020-03-26,AR_M,AR,Argentina,M,Mendoza,8,,-32.89028,-68.84722,1738929
-2020-03-26,AR_N,AR,Argentina,N,Misiones,,,-26.92,-54.52,1101593
-2020-03-26,AR_Q,AR,Argentina,Q,Neuquén,7,,-38.95167,-68.07444,551266
-2020-03-26,AR_R,AR,Argentina,R,Río Negro,5,,-40.800,-63.000,638645
-2020-03-26,AR_S,AR,Argentina,S,Santa Fe,55,,-33.7227,-62.246,3194537
-2020-03-26,AR_T,AR,Argentina,T,Tucumán,13,,-26.94,-65.34,1448188
-2020-03-26,AR_V,AR,Argentina,V,Tierra del Fuego,14,,-54.362,-67.638,127205
-2020-03-26,AR_W,AR,Argentina,W,Corrientes,5,,-28.66,-57.63,992595
-2020-03-26,AR_X,AR,Argentina,X,Córdoba,53,,-31.417,-64.183,3308876
-2020-03-26,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-03-26,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
+2020-03-26,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-26,AR_L,AR,Argentina,L,La Pampa,1,0,-36.617,-64.283,543184
+2020-03-26,AR_M,AR,Argentina,M,Mendoza,8,0,-32.89028,-68.84722,1738929
+2020-03-26,AR_N,AR,Argentina,N,Misiones,0,0,-26.92,-54.52,1101593
+2020-03-26,AR_Q,AR,Argentina,Q,Neuquén,7,0,-38.95167,-68.07444,551266
+2020-03-26,AR_R,AR,Argentina,R,Río Negro,5,0,-40.800,-63.000,638645
+2020-03-26,AR_S,AR,Argentina,S,Santa Fe,55,0,-33.7227,-62.246,3194537
+2020-03-26,AR_T,AR,Argentina,T,Tucumán,13,0,-26.94,-65.34,1448188
+2020-03-26,AR_V,AR,Argentina,V,Tierra del Fuego,14,0,-54.362,-67.638,127205
+2020-03-26,AR_W,AR,Argentina,W,Corrientes,5,0,-28.66,-57.63,992595
+2020-03-26,AR_X,AR,Argentina,X,Córdoba,53,0,-31.417,-64.183,3308876
+2020-03-26,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-03-26,AR_Z,AR,Argentina,Z,Santa Cruz,9,0,-48.62,-70.01,273964
 2020-03-26,AT,AT,Austria,,,5888,34,47.516231,14.550072,8955102
 2020-03-26,AU,AU,Australia,,,2799,11,-25.274398,133.775136,25203198
 2020-03-26,AU_ACT,AU,Australia,ACT,Australian Capital Territory,53,0,-35.282001,149.128998,428060
@@ -18165,27 +18165,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,AM,AM,Armenia,,,329,1,40.069099,45.038189,2957731
 2020-03-27,AO,AO,Angola,,,3,0,-11.202692,17.873887,31825295
 2020-03-27,AR,AR,Argentina,,,589,12,-38.416097,-63.616672,44780677
-2020-03-27,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-27,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-27,AR_B,AR,Argentina,B,Buenos Aires Province,193,4,-33.700,-61.000,15625084
 2020-03-27,AR_C,AR,Argentina,C,City of Buenos Aires,285,5,-34.60333,-58.38167,2891082
-2020-03-27,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
-2020-03-27,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
-2020-03-27,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-27,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-27,AR_D,AR,Argentina,D,San Luis,6,0,-33.300,-66.350,432310
+2020-03-27,AR_E,AR,Argentina,E,Entre Ríos,10,0,-32.0477,-60.281,1235994
+2020-03-27,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-27,AR_G,AR,Argentina,G,Santiago del Estero,3,0,-27.783,-64.267,874006
 2020-03-27,AR_H,AR,Argentina,H,Chaco,63,4,-27.45139,-58.98667,1055259
-2020-03-27,AR_J,AR,Argentina,J,San Juan,,,-30.87,-68.98,681055
-2020-03-27,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-27,AR_J,AR,Argentina,J,San Juan,0,0,-30.87,-68.98,681055
+2020-03-27,AR_L,AR,Argentina,L,La Pampa,1,0,-36.617,-64.283,543184
 2020-03-27,AR_M,AR,Argentina,M,Mendoza,9,1,-32.89028,-68.84722,1738929
-2020-03-27,AR_N,AR,Argentina,N,Misiones,1,,-26.92,-54.52,1101593
-2020-03-27,AR_Q,AR,Argentina,Q,Neuquén,10,,-38.95167,-68.07444,551266
+2020-03-27,AR_N,AR,Argentina,N,Misiones,1,0,-26.92,-54.52,1101593
+2020-03-27,AR_Q,AR,Argentina,Q,Neuquén,10,0,-38.95167,-68.07444,551266
 2020-03-27,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
-2020-03-27,AR_S,AR,Argentina,S,Santa Fe,64,,-33.7227,-62.246,3194537
-2020-03-27,AR_T,AR,Argentina,T,Tucumán,14,,-26.94,-65.34,1448188
-2020-03-27,AR_V,AR,Argentina,V,Tierra del Fuego,14,,-54.362,-67.638,127205
-2020-03-27,AR_W,AR,Argentina,W,Corrientes,11,,-28.66,-57.63,992595
-2020-03-27,AR_X,AR,Argentina,X,Córdoba,58,,-31.417,-64.183,3308876
-2020-03-27,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-03-27,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
+2020-03-27,AR_S,AR,Argentina,S,Santa Fe,64,0,-33.7227,-62.246,3194537
+2020-03-27,AR_T,AR,Argentina,T,Tucumán,14,0,-26.94,-65.34,1448188
+2020-03-27,AR_V,AR,Argentina,V,Tierra del Fuego,14,0,-54.362,-67.638,127205
+2020-03-27,AR_W,AR,Argentina,W,Corrientes,11,0,-28.66,-57.63,992595
+2020-03-27,AR_X,AR,Argentina,X,Córdoba,58,0,-31.417,-64.183,3308876
+2020-03-27,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-03-27,AR_Z,AR,Argentina,Z,Santa Cruz,9,0,-48.62,-70.01,273964
 2020-03-27,AT,AT,Austria,,,7029,52,47.516231,14.550072,8955102
 2020-03-27,AU,AU,Australia,,,3166,13,-25.274398,133.775136,25203198
 2020-03-27,AU_ACT,AU,Australia,ACT,Australian Capital Territory,62,0,-35.282001,149.128998,428060
@@ -18715,27 +18715,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,AM,AM,Armenia,,,372,1,40.069099,45.038189,2957731
 2020-03-28,AO,AO,Angola,,,4,0,-11.202692,17.873887,31825295
 2020-03-28,AR,AR,Argentina,,,690,17,-38.416097,-63.616672,44780677
-2020-03-28,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-28,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-28,AR_B,AR,Argentina,B,Buenos Aires Province,201,7,-33.700,-61.000,15625084
 2020-03-28,AR_C,AR,Argentina,C,City of Buenos Aires,304,6,-34.60333,-58.38167,2891082
-2020-03-28,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
-2020-03-28,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
-2020-03-28,AR_F,AR,Argentina,F,La Rioja,,,-29.433,-66.850,333642
-2020-03-28,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-28,AR_D,AR,Argentina,D,San Luis,6,0,-33.300,-66.350,432310
+2020-03-28,AR_E,AR,Argentina,E,Entre Ríos,10,0,-32.0477,-60.281,1235994
+2020-03-28,AR_F,AR,Argentina,F,La Rioja,0,0,-29.433,-66.850,333642
+2020-03-28,AR_G,AR,Argentina,G,Santiago del Estero,3,0,-27.783,-64.267,874006
 2020-03-28,AR_H,AR,Argentina,H,Chaco,67,4,-27.45139,-58.98667,1055259
-2020-03-28,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-03-28,AR_L,AR,Argentina,L,La Pampa,1,,-36.617,-64.283,543184
+2020-03-28,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-03-28,AR_L,AR,Argentina,L,La Pampa,1,0,-36.617,-64.283,543184
 2020-03-28,AR_M,AR,Argentina,M,Mendoza,9,1,-32.89028,-68.84722,1738929
-2020-03-28,AR_N,AR,Argentina,N,Misiones,2,,-26.92,-54.52,1101593
-2020-03-28,AR_Q,AR,Argentina,Q,Neuquén,12,,-38.95167,-68.07444,551266
+2020-03-28,AR_N,AR,Argentina,N,Misiones,2,0,-26.92,-54.52,1101593
+2020-03-28,AR_Q,AR,Argentina,Q,Neuquén,12,0,-38.95167,-68.07444,551266
 2020-03-28,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
-2020-03-28,AR_S,AR,Argentina,S,Santa Fe,77,,-33.7227,-62.246,3194537
-2020-03-28,AR_T,AR,Argentina,T,Tucumán,14,,-26.94,-65.34,1448188
-2020-03-28,AR_V,AR,Argentina,V,Tierra del Fuego,19,,-54.362,-67.638,127205
-2020-03-28,AR_W,AR,Argentina,W,Corrientes,13,,-28.66,-57.63,992595
-2020-03-28,AR_X,AR,Argentina,X,Córdoba,57,,-31.417,-64.183,3308876
-2020-03-28,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-03-28,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
+2020-03-28,AR_S,AR,Argentina,S,Santa Fe,77,0,-33.7227,-62.246,3194537
+2020-03-28,AR_T,AR,Argentina,T,Tucumán,14,0,-26.94,-65.34,1448188
+2020-03-28,AR_V,AR,Argentina,V,Tierra del Fuego,19,0,-54.362,-67.638,127205
+2020-03-28,AR_W,AR,Argentina,W,Corrientes,13,0,-28.66,-57.63,992595
+2020-03-28,AR_X,AR,Argentina,X,Córdoba,57,0,-31.417,-64.183,3308876
+2020-03-28,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-03-28,AR_Z,AR,Argentina,Z,Santa Cruz,9,0,-48.62,-70.01,273964
 2020-03-28,AT,AT,Austria,,,7697,68,47.516231,14.550072,8955102
 2020-03-28,AU,AU,Australia,,,3378,13,-25.274398,133.775136,25203198
 2020-03-28,AU_ACT,AU,Australia,ACT,Australian Capital Territory,71,0,-35.282001,149.128998,428060
@@ -19264,27 +19264,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,AM,AM,Armenia,,,424,3,40.069099,45.038189,2957731
 2020-03-29,AO,AO,Angola,,,4,0,-11.202692,17.873887,31825295
 2020-03-29,AR,AR,Argentina,,,745,19,-38.416097,-63.616672,44780677
-2020-03-29,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-29,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-29,AR_B,AR,Argentina,B,Buenos Aires Province,217,8,-33.700,-61.000,15625084
 2020-03-29,AR_C,AR,Argentina,C,City of Buenos Aires,338,6,-34.60333,-58.38167,2891082
-2020-03-29,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
-2020-03-29,AR_E,AR,Argentina,E,Entre Ríos,10,,-32.0477,-60.281,1235994
-2020-03-29,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
-2020-03-29,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-29,AR_D,AR,Argentina,D,San Luis,6,0,-33.300,-66.350,432310
+2020-03-29,AR_E,AR,Argentina,E,Entre Ríos,10,0,-32.0477,-60.281,1235994
+2020-03-29,AR_F,AR,Argentina,F,La Rioja,1,0,-29.433,-66.850,333642
+2020-03-29,AR_G,AR,Argentina,G,Santiago del Estero,3,0,-27.783,-64.267,874006
 2020-03-29,AR_H,AR,Argentina,H,Chaco,73,4,-27.45139,-58.98667,1055259
-2020-03-29,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-03-29,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-03-29,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-03-29,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-03-29,AR_M,AR,Argentina,M,Mendoza,10,1,-32.89028,-68.84722,1738929
-2020-03-29,AR_N,AR,Argentina,N,Misiones,2,,-26.92,-54.52,1101593
-2020-03-29,AR_Q,AR,Argentina,Q,Neuquén,15,,-38.95167,-68.07444,551266
+2020-03-29,AR_N,AR,Argentina,N,Misiones,2,0,-26.92,-54.52,1101593
+2020-03-29,AR_Q,AR,Argentina,Q,Neuquén,15,0,-38.95167,-68.07444,551266
 2020-03-29,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
-2020-03-29,AR_S,AR,Argentina,S,Santa Fe,90,,-33.7227,-62.246,3194537
+2020-03-29,AR_S,AR,Argentina,S,Santa Fe,90,0,-33.7227,-62.246,3194537
 2020-03-29,AR_T,AR,Argentina,T,Tucumán,14,1,-26.94,-65.34,1448188
-2020-03-29,AR_V,AR,Argentina,V,Tierra del Fuego,22,,-54.362,-67.638,127205
-2020-03-29,AR_W,AR,Argentina,W,Corrientes,16,,-28.66,-57.63,992595
-2020-03-29,AR_X,AR,Argentina,X,Córdoba,73,,-31.417,-64.183,3308876
-2020-03-29,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-03-29,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
+2020-03-29,AR_V,AR,Argentina,V,Tierra del Fuego,22,0,-54.362,-67.638,127205
+2020-03-29,AR_W,AR,Argentina,W,Corrientes,16,0,-28.66,-57.63,992595
+2020-03-29,AR_X,AR,Argentina,X,Córdoba,73,0,-31.417,-64.183,3308876
+2020-03-29,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-03-29,AR_Z,AR,Argentina,Z,Santa Cruz,9,0,-48.62,-70.01,273964
 2020-03-29,AT,AT,Austria,,,8291,68,47.516231,14.550072,8955102
 2020-03-29,AU,AU,Australia,,,3809,14,-25.274398,133.775136,25203198
 2020-03-29,AU_ACT,AU,Australia,ACT,Australian Capital Territory,77,0,-35.282001,149.128998,428060
@@ -19817,27 +19817,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,AM,AM,Armenia,,,424,3,40.069099,45.038189,2957731
 2020-03-30,AO,AO,Angola,,,7,2,-11.202692,17.873887,31825295
 2020-03-30,AR,AR,Argentina,,,820,20,-38.416097,-63.616672,44780677
-2020-03-30,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-30,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-30,AR_B,AR,Argentina,B,Buenos Aires Province,253,8,-33.700,-61.000,15625084
 2020-03-30,AR_C,AR,Argentina,C,City of Buenos Aires,366,6,-34.60333,-58.38167,2891082
-2020-03-30,AR_D,AR,Argentina,D,San Luis,6,,-33.300,-66.350,432310
-2020-03-30,AR_E,AR,Argentina,E,Entre Ríos,13,,-32.0477,-60.281,1235994
-2020-03-30,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
-2020-03-30,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-30,AR_D,AR,Argentina,D,San Luis,6,0,-33.300,-66.350,432310
+2020-03-30,AR_E,AR,Argentina,E,Entre Ríos,13,0,-32.0477,-60.281,1235994
+2020-03-30,AR_F,AR,Argentina,F,La Rioja,1,0,-29.433,-66.850,333642
+2020-03-30,AR_G,AR,Argentina,G,Santiago del Estero,3,0,-27.783,-64.267,874006
 2020-03-30,AR_H,AR,Argentina,H,Chaco,86,4,-27.45139,-58.98667,1055259
-2020-03-30,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-03-30,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-03-30,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-03-30,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-03-30,AR_M,AR,Argentina,M,Mendoza,12,1,-32.89028,-68.84722,1738929
-2020-03-30,AR_N,AR,Argentina,N,Misiones,2,,-26.92,-54.52,1101593
+2020-03-30,AR_N,AR,Argentina,N,Misiones,2,0,-26.92,-54.52,1101593
 2020-03-30,AR_Q,AR,Argentina,Q,Neuquén,20,1,-38.95167,-68.07444,551266
 2020-03-30,AR_R,AR,Argentina,R,Río Negro,7,1,-40.800,-63.000,638645
-2020-03-30,AR_S,AR,Argentina,S,Santa Fe,111,,-33.7227,-62.246,3194537
+2020-03-30,AR_S,AR,Argentina,S,Santa Fe,111,0,-33.7227,-62.246,3194537
 2020-03-30,AR_T,AR,Argentina,T,Tucumán,15,2,-26.94,-65.34,1448188
-2020-03-30,AR_V,AR,Argentina,V,Tierra del Fuego,32,,-54.362,-67.638,127205
-2020-03-30,AR_W,AR,Argentina,W,Corrientes,20,,-28.66,-57.63,992595
-2020-03-30,AR_X,AR,Argentina,X,Córdoba,80,,-31.417,-64.183,3308876
-2020-03-30,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-03-30,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
+2020-03-30,AR_V,AR,Argentina,V,Tierra del Fuego,32,0,-54.362,-67.638,127205
+2020-03-30,AR_W,AR,Argentina,W,Corrientes,20,0,-28.66,-57.63,992595
+2020-03-30,AR_X,AR,Argentina,X,Córdoba,80,0,-31.417,-64.183,3308876
+2020-03-30,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-03-30,AR_Z,AR,Argentina,Z,Santa Cruz,9,0,-48.62,-70.01,273964
 2020-03-30,AT,AT,Austria,,,8813,86,47.516231,14.550072,8955102
 2020-03-30,AU,AU,Australia,,,4093,16,-25.274398,133.775136,25203198
 2020-03-30,AU_ACT,AU,Australia,ACT,Australian Capital Territory,78,1,-35.282001,149.128998,428060
@@ -20369,27 +20369,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,AM,AM,Armenia,,,482,3,40.069099,45.038189,2957731
 2020-03-31,AO,AO,Angola,,,7,2,-11.202692,17.873887,31825295
 2020-03-31,AR,AR,Argentina,,,966,24,-38.416097,-63.616672,44780677
-2020-03-31,AR_A,AR,Argentina,A,Salta,1,,-24.783,-65.417,1214441
+2020-03-31,AR_A,AR,Argentina,A,Salta,1,0,-24.783,-65.417,1214441
 2020-03-31,AR_B,AR,Argentina,B,Buenos Aires Province,270,9,-33.700,-61.000,15625084
 2020-03-31,AR_C,AR,Argentina,C,City of Buenos Aires,387,7,-34.60333,-58.38167,2891082
-2020-03-31,AR_D,AR,Argentina,D,San Luis,8,,-33.300,-66.350,432310
-2020-03-31,AR_E,AR,Argentina,E,Entre Ríos,13,,-32.0477,-60.281,1235994
-2020-03-31,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
-2020-03-31,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-03-31,AR_D,AR,Argentina,D,San Luis,8,0,-33.300,-66.350,432310
+2020-03-31,AR_E,AR,Argentina,E,Entre Ríos,13,0,-32.0477,-60.281,1235994
+2020-03-31,AR_F,AR,Argentina,F,La Rioja,1,0,-29.433,-66.850,333642
+2020-03-31,AR_G,AR,Argentina,G,Santiago del Estero,3,0,-27.783,-64.267,874006
 2020-03-31,AR_H,AR,Argentina,H,Chaco,91,5,-27.45139,-58.98667,1055259
-2020-03-31,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-03-31,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-03-31,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-03-31,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-03-31,AR_M,AR,Argentina,M,Mendoza,14,1,-32.89028,-68.84722,1738929
-2020-03-31,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-03-31,AR_N,AR,Argentina,N,Misiones,3,0,-26.92,-54.52,1101593
 2020-03-31,AR_Q,AR,Argentina,Q,Neuquén,24,1,-38.95167,-68.07444,551266
 2020-03-31,AR_R,AR,Argentina,R,Río Negro,8,1,-40.800,-63.000,638645
-2020-03-31,AR_S,AR,Argentina,S,Santa Fe,133,,-33.7227,-62.246,3194537
+2020-03-31,AR_S,AR,Argentina,S,Santa Fe,133,0,-33.7227,-62.246,3194537
 2020-03-31,AR_T,AR,Argentina,T,Tucumán,16,2,-26.94,-65.34,1448188
-2020-03-31,AR_V,AR,Argentina,V,Tierra del Fuego,39,,-54.362,-67.638,127205
-2020-03-31,AR_W,AR,Argentina,W,Corrientes,21,,-28.66,-57.63,992595
+2020-03-31,AR_V,AR,Argentina,V,Tierra del Fuego,39,0,-54.362,-67.638,127205
+2020-03-31,AR_W,AR,Argentina,W,Corrientes,21,0,-28.66,-57.63,992595
 2020-03-31,AR_X,AR,Argentina,X,Córdoba,96,1,-31.417,-64.183,3308876
-2020-03-31,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-03-31,AR_Z,AR,Argentina,Z,Santa Cruz,9,,-48.62,-70.01,273964
+2020-03-31,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-03-31,AR_Z,AR,Argentina,Z,Santa Cruz,9,0,-48.62,-70.01,273964
 2020-03-31,AT,AT,Austria,,,9618,108,47.516231,14.550072,8955102
 2020-03-31,AU,AU,Australia,,,4557,19,-25.274398,133.775136,25203198
 2020-03-31,AU_ACT,AU,Australia,ACT,Australian Capital Territory,80,1,-35.282001,149.128998,428060
@@ -20900,27 +20900,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,AM,AM,Armenia,,,532,3,40.069099,45.038189,2957731
 2020-04-01,AO,AO,Angola,,,7,2,-11.202692,17.873887,31825295
 2020-04-01,AR,AR,Argentina,,,966,24,-38.416097,-63.616672,44780677
-2020-04-01,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-01,AR_A,AR,Argentina,A,Salta,3,0,-24.783,-65.417,1214441
 2020-04-01,AR_B,AR,Argentina,B,Buenos Aires Province,280,11,-33.700,-61.000,15625084
 2020-04-01,AR_C,AR,Argentina,C,City of Buenos Aires,399,8,-34.60333,-58.38167,2891082
-2020-04-01,AR_D,AR,Argentina,D,San Luis,8,,-33.300,-66.350,432310
-2020-04-01,AR_E,AR,Argentina,E,Entre Ríos,14,,-32.0477,-60.281,1235994
-2020-04-01,AR_F,AR,Argentina,F,La Rioja,1,,-29.433,-66.850,333642
-2020-04-01,AR_G,AR,Argentina,G,Santiago del Estero,3,,-27.783,-64.267,874006
+2020-04-01,AR_D,AR,Argentina,D,San Luis,8,0,-33.300,-66.350,432310
+2020-04-01,AR_E,AR,Argentina,E,Entre Ríos,14,0,-32.0477,-60.281,1235994
+2020-04-01,AR_F,AR,Argentina,F,La Rioja,1,0,-29.433,-66.850,333642
+2020-04-01,AR_G,AR,Argentina,G,Santiago del Estero,3,0,-27.783,-64.267,874006
 2020-04-01,AR_H,AR,Argentina,H,Chaco,96,5,-27.45139,-58.98667,1055259
-2020-04-01,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-04-01,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-01,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-04-01,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-04-01,AR_M,AR,Argentina,M,Mendoza,25,2,-32.89028,-68.84722,1738929
-2020-04-01,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-01,AR_N,AR,Argentina,N,Misiones,3,0,-26.92,-54.52,1101593
 2020-04-01,AR_Q,AR,Argentina,Q,Neuquén,26,2,-38.95167,-68.07444,551266
 2020-04-01,AR_R,AR,Argentina,R,Río Negro,8,1,-40.800,-63.000,638645
 2020-04-01,AR_S,AR,Argentina,S,Santa Fe,144,1,-33.7227,-62.246,3194537
 2020-04-01,AR_T,AR,Argentina,T,Tucumán,17,2,-26.94,-65.34,1448188
-2020-04-01,AR_V,AR,Argentina,V,Tierra del Fuego,39,,-54.362,-67.638,127205
-2020-04-01,AR_W,AR,Argentina,W,Corrientes,22,,-28.66,-57.63,992595
+2020-04-01,AR_V,AR,Argentina,V,Tierra del Fuego,39,0,-54.362,-67.638,127205
+2020-04-01,AR_W,AR,Argentina,W,Corrientes,22,0,-28.66,-57.63,992595
 2020-04-01,AR_X,AR,Argentina,X,Córdoba,102,1,-31.417,-64.183,3308876
-2020-04-01,AR_Y,AR,Argentina,Y,Jujuy,3,,-23.750,-65.500,673307
-2020-04-01,AR_Z,AR,Argentina,Z,Santa Cruz,21,,-48.62,-70.01,273964
+2020-04-01,AR_Y,AR,Argentina,Y,Jujuy,3,0,-23.750,-65.500,673307
+2020-04-01,AR_Z,AR,Argentina,Z,Santa Cruz,21,0,-48.62,-70.01,273964
 2020-04-01,AT,AT,Austria,,,10182,128,47.516231,14.550072,8955102
 2020-04-01,AU,AU,Australia,,,4707,20,-25.274398,133.775136,25203198
 2020-04-01,AU_ACT,AU,Australia,ACT,Australian Capital Territory,84,1,-35.282001,149.128998,428060
@@ -21451,27 +21451,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,AM,AM,Armenia,,,571,3,40.069099,45.038189,2957731
 2020-04-02,AO,AO,Angola,,,8,2,-11.202692,17.873887,31825295
 2020-04-02,AR,AR,Argentina,,,1133,31,-38.416097,-63.616672,44780677
-2020-04-02,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-02,AR_A,AR,Argentina,A,Salta,3,0,-24.783,-65.417,1214441
 2020-04-02,AR_B,AR,Argentina,B,Buenos Aires Province,316,13,-33.700,-61.000,15625084
 2020-04-02,AR_C,AR,Argentina,C,City of Buenos Aires,440,8,-34.60333,-58.38167,2891082
-2020-04-02,AR_D,AR,Argentina,D,San Luis,9,,-33.300,-66.350,432310
-2020-04-02,AR_E,AR,Argentina,E,Entre Ríos,16,,-32.0477,-60.281,1235994
-2020-04-02,AR_F,AR,Argentina,F,La Rioja,4,,-29.433,-66.850,333642
-2020-04-02,AR_G,AR,Argentina,G,Santiago del Estero,4,,-27.783,-64.267,874006
+2020-04-02,AR_D,AR,Argentina,D,San Luis,9,0,-33.300,-66.350,432310
+2020-04-02,AR_E,AR,Argentina,E,Entre Ríos,16,0,-32.0477,-60.281,1235994
+2020-04-02,AR_F,AR,Argentina,F,La Rioja,4,0,-29.433,-66.850,333642
+2020-04-02,AR_G,AR,Argentina,G,Santiago del Estero,4,0,-27.783,-64.267,874006
 2020-04-02,AR_H,AR,Argentina,H,Chaco,106,6,-27.45139,-58.98667,1055259
-2020-04-02,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-04-02,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-02,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-04-02,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-04-02,AR_M,AR,Argentina,M,Mendoza,25,3,-32.89028,-68.84722,1738929
-2020-04-02,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-02,AR_N,AR,Argentina,N,Misiones,3,0,-26.92,-54.52,1101593
 2020-04-02,AR_Q,AR,Argentina,Q,Neuquén,29,2,-38.95167,-68.07444,551266
 2020-04-02,AR_R,AR,Argentina,R,Río Negro,8,1,-40.800,-63.000,638645
 2020-04-02,AR_S,AR,Argentina,S,Santa Fe,152,1,-33.7227,-62.246,3194537
 2020-04-02,AR_T,AR,Argentina,T,Tucumán,21,2,-26.94,-65.34,1448188
-2020-04-02,AR_V,AR,Argentina,V,Tierra del Fuego,63,,-54.362,-67.638,127205
-2020-04-02,AR_W,AR,Argentina,W,Corrientes,23,,-28.66,-57.63,992595
+2020-04-02,AR_V,AR,Argentina,V,Tierra del Fuego,63,0,-54.362,-67.638,127205
+2020-04-02,AR_W,AR,Argentina,W,Corrientes,23,0,-28.66,-57.63,992595
 2020-04-02,AR_X,AR,Argentina,X,Córdoba,120,1,-31.417,-64.183,3308876
-2020-04-02,AR_Y,AR,Argentina,Y,Jujuy,5,,-23.750,-65.500,673307
-2020-04-02,AR_Z,AR,Argentina,Z,Santa Cruz,21,,-48.62,-70.01,273964
+2020-04-02,AR_Y,AR,Argentina,Y,Jujuy,5,0,-23.750,-65.500,673307
+2020-04-02,AR_Z,AR,Argentina,Z,Santa Cruz,21,0,-48.62,-70.01,273964
 2020-04-02,AT,AT,Austria,,,10711,146,47.516231,14.550072,8955102
 2020-04-02,AU,AU,Australia,,,4976,21,-25.274398,133.775136,25203198
 2020-04-02,AU_ACT,AU,Australia,ACT,Australian Capital Territory,87,1,-35.282001,149.128998,428060
@@ -22008,27 +22008,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,AM,AM,Armenia,,,663,4,40.069099,45.038189,2957731
 2020-04-03,AO,AO,Angola,,,8,2,-11.202692,17.873887,31825295
 2020-04-03,AR,AR,Argentina,,,1133,34,-38.416097,-63.616672,44780677
-2020-04-03,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-03,AR_A,AR,Argentina,A,Salta,3,0,-24.783,-65.417,1214441
 2020-04-03,AR_B,AR,Argentina,B,Buenos Aires Province,338,16,-33.700,-61.000,15625084
 2020-04-03,AR_C,AR,Argentina,C,City of Buenos Aires,472,8,-34.60333,-58.38167,2891082
-2020-04-03,AR_D,AR,Argentina,D,San Luis,9,,-33.300,-66.350,432310
-2020-04-03,AR_E,AR,Argentina,E,Entre Ríos,18,,-32.0477,-60.281,1235994
-2020-04-03,AR_F,AR,Argentina,F,La Rioja,4,,-29.433,-66.850,333642
-2020-04-03,AR_G,AR,Argentina,G,Santiago del Estero,4,,-27.783,-64.267,874006
+2020-04-03,AR_D,AR,Argentina,D,San Luis,9,0,-33.300,-66.350,432310
+2020-04-03,AR_E,AR,Argentina,E,Entre Ríos,18,0,-32.0477,-60.281,1235994
+2020-04-03,AR_F,AR,Argentina,F,La Rioja,4,0,-29.433,-66.850,333642
+2020-04-03,AR_G,AR,Argentina,G,Santiago del Estero,4,0,-27.783,-64.267,874006
 2020-04-03,AR_H,AR,Argentina,H,Chaco,115,7,-27.45139,-58.98667,1055259
-2020-04-03,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-04-03,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-03,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-04-03,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-04-03,AR_M,AR,Argentina,M,Mendoza,27,4,-32.89028,-68.84722,1738929
-2020-04-03,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-03,AR_N,AR,Argentina,N,Misiones,3,0,-26.92,-54.52,1101593
 2020-04-03,AR_Q,AR,Argentina,Q,Neuquén,30,2,-38.95167,-68.07444,551266
 2020-04-03,AR_R,AR,Argentina,R,Río Negro,10,1,-40.800,-63.000,638645
 2020-04-03,AR_S,AR,Argentina,S,Santa Fe,160,1,-33.7227,-62.246,3194537
 2020-04-03,AR_T,AR,Argentina,T,Tucumán,21,2,-26.94,-65.34,1448188
-2020-04-03,AR_V,AR,Argentina,V,Tierra del Fuego,64,,-54.362,-67.638,127205
-2020-04-03,AR_W,AR,Argentina,W,Corrientes,23,,-28.66,-57.63,992595
+2020-04-03,AR_V,AR,Argentina,V,Tierra del Fuego,64,0,-54.362,-67.638,127205
+2020-04-03,AR_W,AR,Argentina,W,Corrientes,23,0,-28.66,-57.63,992595
 2020-04-03,AR_X,AR,Argentina,X,Córdoba,134,1,-31.417,-64.183,3308876
-2020-04-03,AR_Y,AR,Argentina,Y,Jujuy,5,,-23.750,-65.500,673307
-2020-04-03,AR_Z,AR,Argentina,Z,Santa Cruz,22,,-48.62,-70.01,273964
+2020-04-03,AR_Y,AR,Argentina,Y,Jujuy,5,0,-23.750,-65.500,673307
+2020-04-03,AR_Z,AR,Argentina,Z,Santa Cruz,22,0,-48.62,-70.01,273964
 2020-04-03,AT,AT,Austria,,,11129,158,47.516231,14.550072,8955102
 2020-04-03,AU,AU,Australia,,,5224,23,-25.274398,133.775136,25203198
 2020-04-03,AU_ACT,AU,Australia,ACT,Australian Capital Territory,91,1,-35.282001,149.128998,428060
@@ -22571,27 +22571,27 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-04,AM,AM,Armenia,,,736,7,40.069099,45.038189,2957731
 2020-04-04,AO,AO,Angola,,,8,2,-11.202692,17.873887,31825295
 2020-04-04,AR,AR,Argentina,,,1265,37,-38.416097,-63.616672,44780677
-2020-04-04,AR_A,AR,Argentina,A,Salta,3,,-24.783,-65.417,1214441
+2020-04-04,AR_A,AR,Argentina,A,Salta,3,0,-24.783,-65.417,1214441
 2020-04-04,AR_B,AR,Argentina,B,Buenos Aires Province,364,17,-33.700,-61.000,15625084
 2020-04-04,AR_C,AR,Argentina,C,City of Buenos Aires,472,8,-34.60333,-58.38167,2891082
-2020-04-04,AR_D,AR,Argentina,D,San Luis,9,,-33.300,-66.350,432310
-2020-04-04,AR_E,AR,Argentina,E,Entre Ríos,18,,-32.0477,-60.281,1235994
-2020-04-04,AR_F,AR,Argentina,F,La Rioja,6,,-29.433,-66.850,333642
-2020-04-04,AR_G,AR,Argentina,G,Santiago del Estero,4,,-27.783,-64.267,874006
+2020-04-04,AR_D,AR,Argentina,D,San Luis,9,0,-33.300,-66.350,432310
+2020-04-04,AR_E,AR,Argentina,E,Entre Ríos,18,0,-32.0477,-60.281,1235994
+2020-04-04,AR_F,AR,Argentina,F,La Rioja,6,0,-29.433,-66.850,333642
+2020-04-04,AR_G,AR,Argentina,G,Santiago del Estero,4,0,-27.783,-64.267,874006
 2020-04-04,AR_H,AR,Argentina,H,Chaco,121,7,-27.45139,-58.98667,1055259
-2020-04-04,AR_J,AR,Argentina,J,San Juan,1,,-30.87,-68.98,681055
-2020-04-04,AR_L,AR,Argentina,L,La Pampa,3,,-36.617,-64.283,543184
+2020-04-04,AR_J,AR,Argentina,J,San Juan,1,0,-30.87,-68.98,681055
+2020-04-04,AR_L,AR,Argentina,L,La Pampa,3,0,-36.617,-64.283,543184
 2020-04-04,AR_M,AR,Argentina,M,Mendoza,29,4,-32.89028,-68.84722,1738929
-2020-04-04,AR_N,AR,Argentina,N,Misiones,3,,-26.92,-54.52,1101593
+2020-04-04,AR_N,AR,Argentina,N,Misiones,3,0,-26.92,-54.52,1101593
 2020-04-04,AR_Q,AR,Argentina,Q,Neuquén,41,2,-38.95167,-68.07444,551266
 2020-04-04,AR_R,AR,Argentina,R,Río Negro,14,1,-40.800,-63.000,638645
 2020-04-04,AR_S,AR,Argentina,S,Santa Fe,165,1,-33.7227,-62.246,3194537
 2020-04-04,AR_T,AR,Argentina,T,Tucumán,22,2,-26.94,-65.34,1448188
-2020-04-04,AR_V,AR,Argentina,V,Tierra del Fuego,72,,-54.362,-67.638,127205
-2020-04-04,AR_W,AR,Argentina,W,Corrientes,23,,-28.66,-57.63,992595
+2020-04-04,AR_V,AR,Argentina,V,Tierra del Fuego,72,0,-54.362,-67.638,127205
+2020-04-04,AR_W,AR,Argentina,W,Corrientes,23,0,-28.66,-57.63,992595
 2020-04-04,AR_X,AR,Argentina,X,Córdoba,138,1,-31.417,-64.183,3308876
-2020-04-04,AR_Y,AR,Argentina,Y,Jujuy,5,,-23.750,-65.500,673307
-2020-04-04,AR_Z,AR,Argentina,Z,Santa Cruz,23,,-48.62,-70.01,273964
+2020-04-04,AR_Y,AR,Argentina,Y,Jujuy,5,0,-23.750,-65.500,673307
+2020-04-04,AR_Z,AR,Argentina,Z,Santa Cruz,23,0,-48.62,-70.01,273964
 2020-04-04,AT,AT,Austria,,,11525,168,47.516231,14.550072,8955102
 2020-04-04,AU,AU,Australia,,,5548,30,-25.274398,133.775136,25203198
 2020-04-04,AU_ACT,AU,Australia,ACT,Australian Capital Territory,93,2,-35.282001,149.128998,428060
