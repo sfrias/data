@@ -5547,6 +5547,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-02,CN_HL,4,0,3,1,0,5,1,0
 2020-04-03,CN_HL,1,0,1,0,0,5,1,0
 2020-04-04,CN_HL,2,0,2,0,0,6,1,0
+2020-04-05,CN_HL,13,0,10,2,1,16,3,1
 2020-02-06,CN_HN,50,0,40,8,2,347,100,36
 2020-02-07,CN_HN,61,0,49,9,3,352,105,38
 2020-02-08,CN_HN,31,1,25,5,2,331,105,39
@@ -5937,6 +5938,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-03-26,CN_SX,1,0,1,0,0,2,0,0
 2020-03-29,CN_SX,1,0,1,0,0,2,0,0
 2020-04-01,CN_SX,1,0,1,0,0,3,1,0
+2020-04-05,CN_SX,1,0,1,0,0,4,1,0
 2020-02-07,CN_TJ,3,0,2,0,0,39,10,4
 2020-02-08,CN_TJ,7,0,6,1,0,41,10,4
 2020-02-09,CN_TJ,2,0,2,0,0,34,10,4
@@ -6246,6 +6248,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,CN_HE,2,0,2,0,0,4,1,1
 2020-04-02,CN_HE,2,0,2,0,0,6,1,0
 2020-04-03,CN_HE,1,0,1,0,0,6,1,0
+2020-04-05,CN_HE,1,0,1,0,0,7,1,0
 2020-02-07,CN_JS,35,0,28,5,2,192,56,20
 2020-02-08,CN_JS,31,0,25,5,2,190,59,22
 2020-02-09,CN_JS,29,0,23,4,1,186,60,23
@@ -8106,7 +8109,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,IN_WB,11,1,9,2,1,22,5,2
 2020-04-02,IN_WB,16,0,13,2,1,34,8,3
 2020-04-03,IN_WB,10,0,8,2,0,38,9,3
-2020-04-04,IN_WB,0,0,0,0,0,38,8,3
+2020-04-04,IN_WB,6,0,5,1,0,43,9,3
 2020-02-15,CA_AB,0,0,0,0,0,0,0,0
 2020-02-16,CA_AB,0,0,0,0,0,0,0,0
 2020-02-17,CA_AB,0,0,0,0,0,0,0,0
@@ -11814,6 +11817,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_A,2,,2,0,0,2,0,0
 2020-04-02,AR_A,0,,0,0,0,2,0,0
 2020-04-03,AR_A,0,,0,0,0,2,0,0
+2020-04-04,AR_A,0,,0,0,0,2,0,0
 2020-03-18,AR_B,6,,5,1,0,15,3,
 2020-03-19,AR_B,15,,12,2,1,24,6,
 2020-03-20,AR_B,11,,9,2,1,32,7,
@@ -11831,6 +11835,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_B,10,2,8,2,0,114,35,13
 2020-04-02,AR_B,36,2,29,5,2,122,38,15
 2020-04-03,AR_B,22,3,18,3,1,116,40,15
+2020-04-04,AR_B,0,0,0,0,0,110,39,14
 2020-03-18,AR_C,13,1,10,2,1,33,7,3
 2020-03-19,AR_C,14,0,11,2,1,42,9,3
 2020-03-20,AR_C,13,0,10,2,1,50,11,4
@@ -11848,6 +11853,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_C,12,1,10,2,1,150,48,18
 2020-04-02,AR_C,41,0,33,6,2,142,49,19
 2020-04-03,AR_C,32,0,26,5,2,150,52,20
+2020-04-04,AR_C,0,0,0,0,0,134,50,20
 2020-03-18,AR_D,0,,0,0,0,0,,
 2020-03-19,AR_D,0,,0,0,0,0,,
 2020-03-20,AR_D,0,,0,0,0,0,,
@@ -11865,6 +11871,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_D,0,,0,0,0,2,1,0
 2020-04-02,AR_D,1,,1,0,0,2,1,0
 2020-04-03,AR_D,0,,0,0,0,2,1,0
+2020-04-04,AR_D,0,,0,0,0,2,1,0
 2020-03-18,AR_E,2,,2,0,0,,,
 2020-03-19,AR_E,0,,0,0,0,,,
 2020-03-20,AR_E,1,,1,0,0,,,
@@ -11882,6 +11889,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_E,1,,1,0,0,6,1,1
 2020-04-02,AR_E,2,,2,0,0,5,2,1
 2020-04-03,AR_E,2,,2,0,0,6,2,1
+2020-04-04,AR_E,0,,0,0,0,6,2,1
 2020-03-18,AR_F,,,,,,,,
 2020-03-19,AR_F,,,,,,,,
 2020-03-20,AR_F,,,,,,,,
@@ -11899,6 +11907,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_F,0,,0,0,0,,,
 2020-04-02,AR_F,3,,2,0,0,,,
 2020-04-03,AR_F,0,,0,0,0,,,
+2020-04-04,AR_F,0,,0,0,0,,,
 2020-03-18,AR_G,,,,,,,,
 2020-03-19,AR_G,,,,,,,,
 2020-03-20,AR_G,,,,,,,,
@@ -11916,6 +11925,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_G,0,,0,0,0,1,0,
 2020-04-02,AR_G,1,,1,0,0,2,0,
 2020-04-03,AR_G,0,,0,0,0,1,0,
+2020-04-04,AR_G,0,,0,0,0,1,0,0
 2020-03-18,AR_H,1,0,1,0,0,9,,
 2020-03-19,AR_H,2,0,2,0,0,9,,
 2020-03-20,AR_H,1,0,1,0,0,10,,
@@ -11933,6 +11943,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_H,5,0,4,1,0,34,12,4
 2020-04-02,AR_H,10,1,8,2,0,38,13,5
 2020-04-03,AR_H,9,1,7,1,0,42,13,5
+2020-04-04,AR_H,0,0,0,0,0,38,12,5
 2020-03-18,AR_J,,,,,,,,
 2020-03-19,AR_J,,,,,,,,
 2020-03-20,AR_J,,,,,,,,
@@ -11950,6 +11961,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_J,0,,0,0,0,,,
 2020-04-02,AR_J,0,,0,0,0,,,
 2020-04-03,AR_J,0,,0,0,0,,,
+2020-04-04,AR_J,0,,0,0,0,0,,
 2020-03-18,AR_L,,,,,,,,
 2020-03-19,AR_L,,,,,,,,
 2020-03-20,AR_L,,,,,,,,
@@ -11967,6 +11979,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_L,0,,0,0,0,2,,
 2020-04-02,AR_L,0,,0,0,0,2,,
 2020-04-03,AR_L,0,,0,0,0,2,,
+2020-04-04,AR_L,0,,0,0,0,2,,
 2020-03-18,AR_M,,,,,,,,
 2020-03-19,AR_M,,,,,,,,
 2020-03-20,AR_M,,,,,,,,
@@ -11984,6 +11997,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_M,11,1,9,2,1,15,,
 2020-04-02,AR_M,0,1,0,0,0,14,3,
 2020-04-03,AR_M,2,1,2,0,0,14,3,
+2020-04-04,AR_M,0,0,0,0,0,14,3,
 2020-03-18,AR_N,,,,,,,,
 2020-03-19,AR_N,,,,,,,,
 2020-03-20,AR_N,,,,,,,,
@@ -12001,6 +12015,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_N,0,,0,0,0,,,
 2020-04-02,AR_N,0,,0,0,0,,,
 2020-04-03,AR_N,0,,0,0,0,2,,
+2020-04-04,AR_N,0,,0,0,0,1,,
 2020-03-18,AR_Q,,,,,,,,
 2020-03-19,AR_Q,,,,,,,,
 2020-03-20,AR_Q,,,,,,,,
@@ -12018,6 +12033,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_Q,2,1,2,0,0,18,4,
 2020-04-02,AR_Q,3,0,2,0,0,18,4,
 2020-04-03,AR_Q,1,0,1,0,0,16,4,
+2020-04-04,AR_Q,0,0,0,0,0,14,4,1
 2020-03-18,AR_R,0,,0,0,0,1,,
 2020-03-19,AR_R,1,,1,0,0,2,,
 2020-03-20,AR_R,1,,1,0,0,2,,
@@ -12035,6 +12051,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_R,0,0,0,0,0,2,1,0
 2020-04-02,AR_R,0,0,0,0,0,2,0,0
 2020-04-03,AR_R,2,0,2,0,0,2,1,0
+2020-04-04,AR_R,0,0,0,0,0,2,1,0
 2020-03-18,AR_S,0,,0,0,0,,,
 2020-03-19,AR_S,1,,1,0,0,,,
 2020-03-20,AR_S,0,,0,0,0,,,
@@ -12052,6 +12069,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_S,11,,9,2,1,81,21,7
 2020-04-02,AR_S,8,0,6,1,0,78,22,8
 2020-04-03,AR_S,8,0,6,1,0,77,23,8
+2020-04-04,AR_S,0,0,0,0,0,66,21,8
 2020-03-18,AR_T,,,,,,,,
 2020-03-19,AR_T,,,,,,,,
 2020-03-20,AR_T,0,,0,0,0,,,
@@ -12069,6 +12087,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_T,1,0,1,0,0,6,2,
 2020-04-02,AR_T,4,0,3,1,0,6,3,
 2020-04-03,AR_T,0,0,0,0,0,6,2,1
+2020-04-04,AR_T,0,0,0,0,0,6,2,1
 2020-03-18,AR_V,0,,0,0,0,,,
 2020-03-19,AR_V,0,,0,0,0,,,
 2020-03-20,AR_V,1,,1,0,0,,,
@@ -12086,6 +12105,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_V,0,,0,0,0,22,5,2
 2020-04-02,AR_V,24,,19,4,1,39,9,3
 2020-04-03,AR_V,1,,1,0,0,40,9,3
+2020-04-04,AR_V,0,,0,0,0,36,9,3
 2020-03-18,AR_W,,,,,,,,
 2020-03-19,AR_W,,,,,,,,
 2020-03-20,AR_W,,,,,,,,
@@ -12103,6 +12123,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_W,1,,1,0,0,14,3,
 2020-04-02,AR_W,1,,1,0,0,14,3,
 2020-04-03,AR_W,0,,0,0,0,10,3,
+2020-04-04,AR_W,0,,0,0,0,8,3,1
 2020-03-18,AR_X,1,,1,0,0,3,1,
 2020-03-19,AR_X,3,,2,0,0,4,1,
 2020-03-20,AR_X,5,,4,1,0,8,2,
@@ -12120,6 +12141,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_X,6,0,5,1,0,42,13,5
 2020-04-02,AR_X,18,0,14,3,1,54,15,6
 2020-04-03,AR_X,14,0,11,2,1,61,16,6
+2020-04-04,AR_X,0,0,0,0,0,62,16,6
 2020-03-18,AR_Y,0,,0,0,0,,,
 2020-03-19,AR_Y,0,,0,0,0,,,
 2020-03-20,AR_Y,0,,0,0,0,,,
@@ -12137,6 +12159,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_Y,0,,0,0,0,2,0,0
 2020-04-02,AR_Y,2,,2,0,0,2,1,0
 2020-04-03,AR_Y,0,,0,0,0,2,1,0
+2020-04-04,AR_Y,0,,0,0,0,2,1,0
 2020-03-18,AR_Z,0,,0,0,0,,,
 2020-03-19,AR_Z,0,,0,0,0,,,
 2020-03-20,AR_Z,0,,0,0,0,,,
@@ -12154,6 +12177,7 @@ Date,Key,NewCases,NewDeaths,NewMild,NewSevere,NewCritical,CurrentlyMild,Currentl
 2020-04-01,AR_Z,12,,10,2,1,10,3,1
 2020-04-02,AR_Z,0,,0,0,0,10,3,1
 2020-04-03,AR_Z,1,,1,0,0,10,3,1
+2020-04-04,AR_Z,0,,0,0,0,10,3,1
 2020-03-18,ES_AN,176,8,141,26,9,615,126,42
 2020-03-19,ES_AN,149,4,119,22,7,714,147,50
 2020-03-20,ES_AN,279,7,223,42,14,854,188,64
