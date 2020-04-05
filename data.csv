@@ -2649,9 +2649,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-01-31,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-01-31,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-01-31,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-01-31,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-01-31,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-01-31,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-01-31,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-01-31,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-01-31,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-01-31,SE,SE,Sweden,,,0,0,60.128161,18.643501,10036379
 2020-01-31,SG,SG,Singapore,,,13,0,1.352083,103.819836,5804337
@@ -4183,9 +4183,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-11,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-02-11,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-02-11,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-02-11,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-02-11,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-02-11,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-02-11,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-02-11,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-02-11,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-02-11,SE,SE,Sweden,,,1,0,60.128161,18.643501,10036379
 2020-02-11,SG,SG,Singapore,,,45,0,1.352083,103.819836,5804337
@@ -4388,9 +4388,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-12,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-02-12,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-02-12,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-02-12,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-02-12,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-02-12,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-02-12,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-02-12,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-02-12,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-02-12,SE,SE,Sweden,,,1,0,60.128161,18.643501,10036379
 2020-02-12,SG,SG,Singapore,,,47,0,1.352083,103.819836,5804337
@@ -6133,7 +6133,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-26,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-02-26,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-02-26,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-02-26,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-02-26,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-02-26,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-02-26,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-02-26,BR_SP,BR,Brazil,SP,São Paulo,1,0,-23.533,-46.633,45919049
@@ -6321,7 +6321,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-27,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-02-27,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-02-27,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-02-27,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-02-27,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-02-27,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-02-27,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-02-27,BR_SP,BR,Brazil,SP,São Paulo,1,0,-23.533,-46.633,45919049
@@ -6512,7 +6512,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-28,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-02-28,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-02-28,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-02-28,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-02-28,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-02-28,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-02-28,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-02-28,BR_SP,BR,Brazil,SP,São Paulo,1,0,-23.533,-46.633,45919049
@@ -6703,7 +6703,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-02-29,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-02-29,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-02-29,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-02-29,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-02-29,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-02-29,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-02-29,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-02-29,BR_SP,BR,Brazil,SP,São Paulo,2,0,-23.533,-46.633,45919049
@@ -6892,7 +6892,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-01,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-01,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-01,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-01,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-01,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-01,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-01,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-01,BR_SP,BR,Brazil,SP,São Paulo,2,0,-23.533,-46.633,45919049
@@ -7081,7 +7081,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-02,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-02,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-02,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-02,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-02,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-02,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-02,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-02,BR_SP,BR,Brazil,SP,São Paulo,2,0,-23.533,-46.633,45919049
@@ -7336,9 +7336,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-02,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-02,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-02,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-02,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-02,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-02,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-02,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-02,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-02,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-02,SE,SE,Sweden,,,14,0,60.128161,18.643501,10036379
 2020-03-02,SG,SG,Singapore,,,106,0,1.352083,103.819836,5804337
@@ -7396,7 +7396,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-03,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-03,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-03,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-03,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-03,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-03,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-03,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-03,BR_SP,BR,Brazil,SP,São Paulo,2,0,-23.533,-46.633,45919049
@@ -7470,7 +7470,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-03,ES_CB,ES,Spain,CB,Cantabria,10,0,43.464700,-3.804400,580229
 2020-03-03,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-03,ES_CL,ES,Spain,CL,Castilla y León,8,0,41.652300,-4.724500,2447519
-2020-03-03,ES_CM,ES,Spain,CM,Castilla La Mancha,7,0,39.862800,-4.027300,2041631
+2020-03-03,ES_CM,ES,Spain,CM,Castilla-La Mancha,7,0,39.862800,-4.027300,2041631
 2020-03-03,ES_CN,ES,Spain,CN,Islas Canarias,7,0,28.468200,-16.254600,2153389
 2020-03-03,ES_CT,ES,Spain,CT,Cataluña,15,0,41.388700,2.159000,7522596
 2020-03-03,ES_EX,ES,Spain,EX,Extremadura,6,0,38.916100,-6.343600,1087778
@@ -7653,7 +7653,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-04,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-04,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-04,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-04,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-04,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-04,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-04,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-04,BR_SP,BR,Brazil,SP,São Paulo,3,0,-23.533,-46.633,45919049
@@ -7730,7 +7730,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-04,ES_CB,ES,Spain,CB,Cantabria,10,0,43.464700,-3.804400,580229
 2020-03-04,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-04,ES_CL,ES,Spain,CL,Castilla y León,11,0,41.652300,-4.724500,2447519
-2020-03-04,ES_CM,ES,Spain,CM,Castilla La Mancha,12,0,39.862800,-4.027300,2041631
+2020-03-04,ES_CM,ES,Spain,CM,Castilla-La Mancha,12,0,39.862800,-4.027300,2041631
 2020-03-04,ES_CN,ES,Spain,CN,Islas Canarias,7,0,28.468200,-16.254600,2153389
 2020-03-04,ES_CT,ES,Spain,CT,Cataluña,15,0,41.388700,2.159000,7522596
 2020-03-04,ES_EX,ES,Spain,EX,Extremadura,6,0,38.916100,-6.343600,1087778
@@ -7927,7 +7927,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-05,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-05,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-05,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-05,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-05,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-05,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-05,BR_SP,BR,Brazil,SP,São Paulo,6,0,-23.533,-46.633,45919049
@@ -8002,7 +8002,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,ES_CB,ES,Spain,CB,Cantabria,10,0,43.464700,-3.804400,580229
 2020-03-05,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-05,ES_CL,ES,Spain,CL,Castilla y León,11,0,41.652300,-4.724500,2447519
-2020-03-05,ES_CM,ES,Spain,CM,Castilla La Mancha,13,0,39.862800,-4.027300,2041631
+2020-03-05,ES_CM,ES,Spain,CM,Castilla-La Mancha,13,0,39.862800,-4.027300,2041631
 2020-03-05,ES_CN,ES,Spain,CN,Islas Canarias,8,0,28.468200,-16.254600,2153389
 2020-03-05,ES_CT,ES,Spain,CT,Cataluña,24,0,41.388700,2.159000,7522596
 2020-03-05,ES_EX,ES,Spain,EX,Extremadura,6,0,38.916100,-6.343600,1087778
@@ -8194,9 +8194,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-05,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-05,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-05,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-05,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-05,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-05,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-05,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-05,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-05,SE,SE,Sweden,,,35,0,60.128161,18.643501,10036379
 2020-03-05,SG,SG,Singapore,,,112,0,1.352083,103.819836,5804337
@@ -8291,7 +8291,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-06,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-06,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-06,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-06,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-06,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-06,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-06,BR_SP,BR,Brazil,SP,São Paulo,10,0,-23.533,-46.633,45919049
@@ -8368,7 +8368,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,ES_CB,ES,Spain,CB,Cantabria,10,0,43.464700,-3.804400,580229
 2020-03-06,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-06,ES_CL,ES,Spain,CL,Castilla y León,14,0,41.652300,-4.724500,2447519
-2020-03-06,ES_CM,ES,Spain,CM,Castilla La Mancha,15,0,39.862800,-4.027300,2041631
+2020-03-06,ES_CM,ES,Spain,CM,Castilla-La Mancha,15,0,39.862800,-4.027300,2041631
 2020-03-06,ES_CN,ES,Spain,CN,Islas Canarias,11,0,28.468200,-16.254600,2153389
 2020-03-06,ES_CT,ES,Spain,CT,Cataluña,24,0,41.388700,2.159000,7522596
 2020-03-06,ES_EX,ES,Spain,EX,Extremadura,6,0,38.916100,-6.343600,1087778
@@ -8565,9 +8565,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-06,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-06,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-06,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-06,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-06,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-06,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-06,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-06,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-06,SA,SA,Saudi Arabia,,,5,0,23.885942,45.079162,34268528
 2020-03-06,SE,SE,Sweden,,,61,0,60.128161,18.643501,10036379
@@ -8674,7 +8674,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-07,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-07,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-07,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-07,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-07,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-07,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-07,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-07,BR_SP,BR,Brazil,SP,São Paulo,13,0,-23.533,-46.633,45919049
@@ -8752,7 +8752,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-07,ES_CB,ES,Spain,CB,Cantabria,10,0,43.464700,-3.804400,580229
 2020-03-07,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-07,ES_CL,ES,Spain,CL,Castilla y León,14,0,41.652300,-4.724500,2447519
-2020-03-07,ES_CM,ES,Spain,CM,Castilla La Mancha,15,0,39.862800,-4.027300,2041631
+2020-03-07,ES_CM,ES,Spain,CM,Castilla-La Mancha,15,0,39.862800,-4.027300,2041631
 2020-03-07,ES_CN,ES,Spain,CN,Islas Canarias,18,0,28.468200,-16.254600,2153389
 2020-03-07,ES_CT,ES,Spain,CT,Cataluña,24,1,41.388700,2.159000,7522596
 2020-03-07,ES_EX,ES,Spain,EX,Extremadura,6,0,38.916100,-6.343600,1087778
@@ -8955,9 +8955,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-07,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-07,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-07,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-07,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-07,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-07,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-07,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-07,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-07,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-07,SE,SE,Sweden,,,137,0,60.128161,18.643501,10036379
 2020-03-07,SG,SG,Singapore,,,130,0,1.352083,103.819836,5804337
@@ -9083,7 +9083,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-08,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-08,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-08,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-08,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-08,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-08,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-08,BR_SP,BR,Brazil,SP,São Paulo,16,0,-23.533,-46.633,45919049
@@ -9154,7 +9154,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,ES_CB,ES,Spain,CB,Cantabria,12,0,43.464700,-3.804400,580229
 2020-03-08,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-08,ES_CL,ES,Spain,CL,Castilla y León,22,0,41.652300,-4.724500,2447519
-2020-03-08,ES_CM,ES,Spain,CM,Castilla La Mancha,15,0,39.862800,-4.027300,2041631
+2020-03-08,ES_CM,ES,Spain,CM,Castilla-La Mancha,15,0,39.862800,-4.027300,2041631
 2020-03-08,ES_CN,ES,Spain,CN,Islas Canarias,17,0,28.468200,-16.254600,2153389
 2020-03-08,ES_CT,ES,Spain,CT,Cataluña,49,1,41.388700,2.159000,7522596
 2020-03-08,ES_EX,ES,Spain,EX,Extremadura,6,0,38.916100,-6.343600,1087778
@@ -9357,9 +9357,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-08,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-08,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-08,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-08,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-08,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-08,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-08,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-08,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-08,SA,SA,Saudi Arabia,,,7,0,23.885942,45.079162,34268528
 2020-03-08,SE,SE,Sweden,,,161,0,60.128161,18.643501,10036379
@@ -9484,7 +9484,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-09,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-09,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-09,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-30.0,-53.0,11286500
+2020-03-09,BR_RS,BR,Brazil,RS,Rio Grande do Sul,0,0,-53.0,11286500,
 2020-03-09,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-09,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-09,BR_SP,BR,Brazil,SP,São Paulo,16,0,-23.533,-46.633,45919049
@@ -9556,7 +9556,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,ES_CB,ES,Spain,CB,Cantabria,12,0,43.464700,-3.804400,580229
 2020-03-09,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-09,ES_CL,ES,Spain,CL,Castilla y León,23,0,41.652300,-4.724500,2447519
-2020-03-09,ES_CM,ES,Spain,CM,Castilla La Mancha,26,0,39.862800,-4.027300,2041631
+2020-03-09,ES_CM,ES,Spain,CM,Castilla-La Mancha,26,0,39.862800,-4.027300,2041631
 2020-03-09,ES_CN,ES,Spain,CN,Islas Canarias,22,0,28.468200,-16.254600,2153389
 2020-03-09,ES_CT,ES,Spain,CT,Cataluña,75,1,41.388700,2.159000,7522596
 2020-03-09,ES_EX,ES,Spain,EX,Extremadura,7,0,38.916100,-6.343600,1087778
@@ -9757,9 +9757,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-09,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-09,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-09,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-09,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-09,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-09,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-09,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-09,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-09,SA,SA,Saudi Arabia,,,11,0,23.885942,45.079162,34268528
 2020-03-09,SE,SE,Sweden,,,203,0,60.128161,18.643501,10036379
@@ -9890,7 +9890,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-10,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-10,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-10,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-10,BR_RS,BR,Brazil,RS,Rio Grande do Sul,1,0,-30.0,-53.0,11286500
+2020-03-10,BR_RS,BR,Brazil,RS,Rio Grande do Sul,1,0,-53.0,11286500,
 2020-03-10,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-10,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-10,BR_SP,BR,Brazil,SP,São Paulo,19,0,-23.533,-46.633,45919049
@@ -9982,7 +9982,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-10,ES_CB,ES,Spain,CB,Cantabria,12,0,43.464700,-3.804400,580229
 2020-03-10,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-10,ES_CL,ES,Spain,CL,Castilla y León,56,0,41.652300,-4.724500,2447519
-2020-03-10,ES_CM,ES,Spain,CM,Castilla La Mancha,39,0,39.862800,-4.027300,2041631
+2020-03-10,ES_CM,ES,Spain,CM,Castilla-La Mancha,39,0,39.862800,-4.027300,2041631
 2020-03-10,ES_CN,ES,Spain,CN,Islas Canarias,25,0,28.468200,-16.254600,2153389
 2020-03-10,ES_CT,ES,Spain,CT,Cataluña,124,3,41.388700,2.159000,7522596
 2020-03-10,ES_EX,ES,Spain,EX,Extremadura,8,0,38.916100,-6.343600,1087778
@@ -10243,7 +10243,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-11,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-11,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-11,BR_RS,BR,Brazil,RS,Rio Grande do Sul,2,0,-30.0,-53.0,11286500
+2020-03-11,BR_RS,BR,Brazil,RS,Rio Grande do Sul,2,0,-53.0,11286500,
 2020-03-11,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-11,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-11,BR_SP,BR,Brazil,SP,São Paulo,30,0,-23.533,-46.633,45919049
@@ -10334,7 +10334,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,ES_CB,ES,Spain,CB,Cantabria,12,0,43.464700,-3.804400,580229
 2020-03-11,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-11,ES_CL,ES,Spain,CL,Castilla y León,71,0,41.652300,-4.724500,2447519
-2020-03-11,ES_CM,ES,Spain,CM,Castilla La Mancha,71,0,39.862800,-4.027300,2041631
+2020-03-11,ES_CM,ES,Spain,CM,Castilla-La Mancha,71,0,39.862800,-4.027300,2041631
 2020-03-11,ES_CN,ES,Spain,CN,Islas Canarias,37,0,28.468200,-16.254600,2153389
 2020-03-11,ES_CT,ES,Spain,CT,Cataluña,156,3,41.388700,2.159000,7522596
 2020-03-11,ES_EX,ES,Spain,EX,Extremadura,9,0,38.916100,-6.343600,1087778
@@ -10544,9 +10544,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-11,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-11,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-11,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-11,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-11,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-11,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-11,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-11,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-11,SA,SA,Saudi Arabia,,,20,0,23.885942,45.079162,34268528
 2020-03-11,SE,SE,Sweden,,,326,0,60.128161,18.643501,10036379
@@ -10676,7 +10676,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-12,BR_RN,BR,Brazil,RN,Rio Grande do Norte,0,0,-5.74,-36.55,3506853
 2020-03-12,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-12,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-12,BR_RS,BR,Brazil,RS,Rio Grande do Sul,4,0,-30.0,-53.0,11286500
+2020-03-12,BR_RS,BR,Brazil,RS,Rio Grande do Sul,4,0,-53.0,11286500,
 2020-03-12,BR_SC,BR,Brazil,SC,Santa Catarina,0,0,-27.250,-50.333,6727000
 2020-03-12,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-12,BR_SP,BR,Brazil,SP,São Paulo,42,0,-23.533,-46.633,45919049
@@ -10773,7 +10773,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-12,ES_CB,ES,Spain,CB,Cantabria,16,0,43.464700,-3.804400,580229
 2020-03-12,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-12,ES_CL,ES,Spain,CL,Castilla y León,92,0,41.652300,-4.724500,2447519
-2020-03-12,ES_CM,ES,Spain,CM,Castilla La Mancha,115,1,39.862800,-4.027300,2041631
+2020-03-12,ES_CM,ES,Spain,CM,Castilla-La Mancha,115,1,39.862800,-4.027300,2041631
 2020-03-12,ES_CN,ES,Spain,CN,Islas Canarias,51,0,28.468200,-16.254600,2153389
 2020-03-12,ES_CT,ES,Spain,CT,Cataluña,260,4,41.388700,2.159000,7522596
 2020-03-12,ES_EX,ES,Spain,EX,Extremadura,19,1,38.916100,-6.343600,1087778
@@ -10990,9 +10990,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-12,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-12,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-12,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-12,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-12,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-12,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-12,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-12,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-12,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-12,SA,SA,Saudi Arabia,,,45,0,23.885942,45.079162,34268528
 2020-03-12,SE,SE,Sweden,,,462,1,60.128161,18.643501,10036379
@@ -11134,7 +11134,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-13,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-13,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-13,BR_RS,BR,Brazil,RS,Rio Grande do Sul,4,0,-30.0,-53.0,11286500
+2020-03-13,BR_RS,BR,Brazil,RS,Rio Grande do Sul,4,0,-53.0,11286500,
 2020-03-13,BR_SC,BR,Brazil,SC,Santa Catarina,2,0,-27.250,-50.333,6727000
 2020-03-13,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-13,BR_SP,BR,Brazil,SP,São Paulo,56,0,-23.533,-46.633,45919049
@@ -11221,7 +11221,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,ES_CB,ES,Spain,CB,Cantabria,29,0,43.464700,-3.804400,580229
 2020-03-13,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-13,ES_CL,ES,Spain,CL,Castilla y León,169,1,41.652300,-4.724500,2447519
-2020-03-13,ES_CM,ES,Spain,CM,Castilla La Mancha,194,5,39.862800,-4.027300,2041631
+2020-03-13,ES_CM,ES,Spain,CM,Castilla-La Mancha,194,5,39.862800,-4.027300,2041631
 2020-03-13,ES_CN,ES,Spain,CN,Islas Canarias,70,0,28.468200,-16.254600,2153389
 2020-03-13,ES_CT,ES,Spain,CT,Cataluña,316,4,41.388700,2.159000,7522596
 2020-03-13,ES_EX,ES,Spain,EX,Extremadura,39,1,38.916100,-6.343600,1087778
@@ -11437,9 +11437,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-13,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-13,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-13,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-13,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-13,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-13,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-13,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-13,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-13,SA,SA,Saudi Arabia,,,62,0,23.885942,45.079162,34268528
 2020-03-13,SE,SE,Sweden,,,620,1,60.128161,18.643501,10036379
@@ -11573,7 +11573,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-14,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-14,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-14,BR_RS,BR,Brazil,RS,Rio Grande do Sul,6,0,-30.0,-53.0,11286500
+2020-03-14,BR_RS,BR,Brazil,RS,Rio Grande do Sul,6,0,-53.0,11286500,
 2020-03-14,BR_SC,BR,Brazil,SC,Santa Catarina,4,0,-27.250,-50.333,6727000
 2020-03-14,BR_SE,BR,Brazil,SE,Sergipe,0,0,-10.56,-37.36,2298696
 2020-03-14,BR_SP,BR,Brazil,SP,São Paulo,65,0,-23.533,-46.633,45919049
@@ -11664,7 +11664,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,ES_CB,ES,Spain,CB,Cantabria,31,0,43.464700,-3.804400,580229
 2020-03-14,ES_CE,ES,Spain,CE,Ceuta,0,0,35.889300,-5.319800,85144
 2020-03-14,ES_CL,ES,Spain,CL,Castilla y León,223,3,41.652300,-4.724500,2447519
-2020-03-14,ES_CM,ES,Spain,CM,Castilla La Mancha,289,6,39.862800,-4.027300,2041631
+2020-03-14,ES_CM,ES,Spain,CM,Castilla-La Mancha,289,6,39.862800,-4.027300,2041631
 2020-03-14,ES_CN,ES,Spain,CN,Islas Canarias,90,1,28.468200,-16.254600,2153389
 2020-03-14,ES_CT,ES,Spain,CT,Cataluña,509,6,41.388700,2.159000,7522596
 2020-03-14,ES_EX,ES,Spain,EX,Extremadura,66,2,38.916100,-6.343600,1087778
@@ -11885,9 +11885,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-14,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-14,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-14,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-14,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-14,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-14,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-14,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-14,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-14,SA,SA,Saudi Arabia,,,86,0,23.885942,45.079162,34268528
 2020-03-14,SD,SD,Sudan,,,1,0,12.862807,30.217636,42813238
@@ -12033,7 +12033,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-15,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-15,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-15,BR_RS,BR,Brazil,RS,Rio Grande do Sul,6,0,-30.0,-53.0,11286500
+2020-03-15,BR_RS,BR,Brazil,RS,Rio Grande do Sul,6,0,-53.0,11286500,
 2020-03-15,BR_SC,BR,Brazil,SC,Santa Catarina,6,0,-27.250,-50.333,6727000
 2020-03-15,BR_SE,BR,Brazil,SE,Sergipe,1,0,-10.56,-37.36,2298696
 2020-03-15,BR_SP,BR,Brazil,SP,São Paulo,136,0,-23.533,-46.633,45919049
@@ -12125,7 +12125,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,ES_CB,ES,Spain,CB,Cantabria,51,0,43.464700,-3.804400,580229
 2020-03-15,ES_CE,ES,Spain,CE,Ceuta,1,0,35.889300,-5.319800,85144
 2020-03-15,ES_CL,ES,Spain,CL,Castilla y León,292,6,41.652300,-4.724500,2447519
-2020-03-15,ES_CM,ES,Spain,CM,Castilla La Mancha,401,10,39.862800,-4.027300,2041631
+2020-03-15,ES_CM,ES,Spain,CM,Castilla-La Mancha,401,10,39.862800,-4.027300,2041631
 2020-03-15,ES_CN,ES,Spain,CN,Islas Canarias,109,1,28.468200,-16.254600,2153389
 2020-03-15,ES_CT,ES,Spain,CT,Cataluña,715,8,41.388700,2.159000,7522596
 2020-03-15,ES_EX,ES,Spain,EX,Extremadura,95,2,38.916100,-6.343600,1087778
@@ -12356,9 +12356,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-15,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-15,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-15,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-15,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-15,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-15,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-15,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-15,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-15,RW,RW,Rwanda,,,1,0,-1.940278,29.873888,12626950
 2020-03-15,SA,SA,Saudi Arabia,,,86,0,23.885942,45.079162,34268528
@@ -12502,7 +12502,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-16,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-16,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-16,BR_RS,BR,Brazil,RS,Rio Grande do Sul,6,0,-30.0,-53.0,11286500
+2020-03-16,BR_RS,BR,Brazil,RS,Rio Grande do Sul,6,0,-53.0,11286500,
 2020-03-16,BR_SC,BR,Brazil,SC,Santa Catarina,7,0,-27.250,-50.333,6727000
 2020-03-16,BR_SE,BR,Brazil,SE,Sergipe,1,0,-10.56,-37.36,2298696
 2020-03-16,BR_SP,BR,Brazil,SP,São Paulo,152,0,-23.533,-46.633,45919049
@@ -12596,7 +12596,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,ES_CB,ES,Spain,CB,Cantabria,58,0,43.464700,-3.804400,580229
 2020-03-16,ES_CE,ES,Spain,CE,Ceuta,1,0,35.889300,-5.319800,85144
 2020-03-16,ES_CL,ES,Spain,CL,Castilla y León,334,9,41.652300,-4.724500,2447519
-2020-03-16,ES_CM,ES,Spain,CM,Castilla La Mancha,567,17,39.862800,-4.027300,2041631
+2020-03-16,ES_CM,ES,Spain,CM,Castilla-La Mancha,567,17,39.862800,-4.027300,2041631
 2020-03-16,ES_CN,ES,Spain,CN,Islas Canarias,119,1,28.468200,-16.254600,2153389
 2020-03-16,ES_CT,ES,Spain,CT,Cataluña,903,12,41.388700,2.159000,7522596
 2020-03-16,ES_EX,ES,Spain,EX,Extremadura,111,2,38.916100,-6.343600,1087778
@@ -12829,9 +12829,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-16,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-16,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-16,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-16,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-16,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,0,,57.867,39.200,1265684
-2020-03-16,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-16,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-16,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-16,RW,RW,Rwanda,,,5,0,-1.940278,29.873888,12626950
 2020-03-16,SA,SA,Saudi Arabia,,,118,0,23.885942,45.079162,34268528
@@ -12990,7 +12990,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-17,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-17,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-17,BR_RS,BR,Brazil,RS,Rio Grande do Sul,10,0,-30.0,-53.0,11286500
+2020-03-17,BR_RS,BR,Brazil,RS,Rio Grande do Sul,10,0,-53.0,11286500,
 2020-03-17,BR_SC,BR,Brazil,SC,Santa Catarina,7,0,-27.250,-50.333,6727000
 2020-03-17,BR_SE,BR,Brazil,SE,Sergipe,4,0,-10.56,-37.36,2298696
 2020-03-17,BR_SP,BR,Brazil,SP,São Paulo,164,1,-23.533,-46.633,45919049
@@ -13087,7 +13087,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,ES_CB,ES,Spain,CB,Cantabria,58,0,43.464700,-3.804400,580229
 2020-03-17,ES_CE,ES,Spain,CE,Ceuta,1,0,35.889300,-5.319800,85144
 2020-03-17,ES_CL,ES,Spain,CL,Castilla y León,431,12,41.652300,-4.724500,2447519
-2020-03-17,ES_CM,ES,Spain,CM,Castilla La Mancha,567,17,39.862800,-4.027300,2041631
+2020-03-17,ES_CM,ES,Spain,CM,Castilla-La Mancha,567,17,39.862800,-4.027300,2041631
 2020-03-17,ES_CN,ES,Spain,CN,Islas Canarias,148,2,28.468200,-16.254600,2153389
 2020-03-17,ES_CT,ES,Spain,CT,Cataluña,1394,18,41.388700,2.159000,7522596
 2020-03-17,ES_EX,ES,Spain,EX,Extremadura,153,3,38.916100,-6.343600,1087778
@@ -13324,9 +13324,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-17,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-17,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-17,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-17,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-17,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-17,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-17,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-17,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-17,RW,RW,Rwanda,,,5,0,-1.940278,29.873888,12626950
 2020-03-17,SA,SA,Saudi Arabia,,,133,0,23.885942,45.079162,34268528
@@ -13480,7 +13480,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-18,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-18,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-18,BR_RS,BR,Brazil,RS,Rio Grande do Sul,19,0,-30.0,-53.0,11286500
+2020-03-18,BR_RS,BR,Brazil,RS,Rio Grande do Sul,19,0,-53.0,11286500,
 2020-03-18,BR_SC,BR,Brazil,SC,Santa Catarina,10,0,-27.250,-50.333,6727000
 2020-03-18,BR_SE,BR,Brazil,SE,Sergipe,5,0,-10.56,-37.36,2298696
 2020-03-18,BR_SP,BR,Brazil,SP,São Paulo,240,4,-23.533,-46.633,45919049
@@ -13573,7 +13573,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,ES_CB,ES,Spain,CB,Cantabria,68,1,43.464700,-3.804400,580229
 2020-03-18,ES_CE,ES,Spain,CE,Ceuta,1,0,35.889300,-5.319800,85144
 2020-03-18,ES_CL,ES,Spain,CL,Castilla y León,668,22,41.652300,-4.724500,2447519
-2020-03-18,ES_CM,ES,Spain,CM,Castilla La Mancha,675,28,39.862800,-4.027300,2041631
+2020-03-18,ES_CM,ES,Spain,CM,Castilla-La Mancha,675,28,39.862800,-4.027300,2041631
 2020-03-18,ES_CN,ES,Spain,CN,Islas Canarias,181,3,28.468200,-16.254600,2153389
 2020-03-18,ES_CT,ES,Spain,CT,Cataluña,1866,41,41.388700,2.159000,7522596
 2020-03-18,ES_EX,ES,Spain,EX,Extremadura,194,6,38.916100,-6.343600,1087778
@@ -13813,9 +13813,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-18,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-18,RU_VOR,RU,Russia,VOR,Voronezh Oblast,0,,51.050,40.150,2333768
-2020-03-18,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-18,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-18,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-18,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-18,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-18,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-18,RW,RW,Rwanda,,,7,0,-1.940278,29.873888,12626950
 2020-03-18,SA,SA,Saudi Arabia,,,133,0,23.885942,45.079162,34268528
@@ -13977,7 +13977,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-19,BR_RO,BR,Brazil,RO,Rondônia,0,0,-10.90,-62.76,1777225
 2020-03-19,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-19,BR_RS,BR,Brazil,RS,Rio Grande do Sul,28,0,-30.0,-53.0,11286500
+2020-03-19,BR_RS,BR,Brazil,RS,Rio Grande do Sul,28,0,-53.0,11286500,
 2020-03-19,BR_SC,BR,Brazil,SC,Santa Catarina,20,0,-27.250,-50.333,6727000
 2020-03-19,BR_SE,BR,Brazil,SE,Sergipe,6,0,-10.56,-37.36,2298696
 2020-03-19,BR_SP,BR,Brazil,SP,São Paulo,286,4,-23.533,-46.633,45919049
@@ -14069,7 +14069,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,ES_CB,ES,Spain,CB,Cantabria,83,1,43.464700,-3.804400,580229
 2020-03-19,ES_CE,ES,Spain,CE,Ceuta,1,0,35.889300,-5.319800,85144
 2020-03-19,ES_CL,ES,Spain,CL,Castilla y León,868,29,41.652300,-4.724500,2447519
-2020-03-19,ES_CM,ES,Spain,CM,Castilla La Mancha,801,42,39.862800,-4.027300,2041631
+2020-03-19,ES_CM,ES,Spain,CM,Castilla-La Mancha,801,42,39.862800,-4.027300,2041631
 2020-03-19,ES_CN,ES,Spain,CN,Islas Canarias,220,3,28.468200,-16.254600,2153389
 2020-03-19,ES_CT,ES,Spain,CT,Cataluña,2702,55,41.388700,2.159000,7522596
 2020-03-19,ES_EX,ES,Spain,EX,Extremadura,241,8,38.916100,-6.343600,1087778
@@ -14313,9 +14313,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-19,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-19,RU_VOR,RU,Russia,VOR,Voronezh Oblast,2,,51.050,40.150,2333768
-2020-03-19,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-19,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-19,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-19,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-19,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-19,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-19,RW,RW,Rwanda,,,11,0,-1.940278,29.873888,12626950
 2020-03-19,SA,SA,Saudi Arabia,,,171,0,23.885942,45.079162,34268528
@@ -14481,7 +14481,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,BR_RN,BR,Brazil,RN,Rio Grande do Norte,1,0,-5.74,-36.55,3506853
 2020-03-20,BR_RO,BR,Brazil,RO,Rondônia,1,0,-10.90,-62.76,1777225
 2020-03-20,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-20,BR_RS,BR,Brazil,RS,Rio Grande do Sul,37,0,-30.0,-53.0,11286500
+2020-03-20,BR_RS,BR,Brazil,RS,Rio Grande do Sul,37,0,-53.0,11286500,
 2020-03-20,BR_SC,BR,Brazil,SC,Santa Catarina,21,0,-27.250,-50.333,6727000
 2020-03-20,BR_SE,BR,Brazil,SE,Sergipe,6,0,-10.56,-37.36,2298696
 2020-03-20,BR_SP,BR,Brazil,SP,São Paulo,396,9,-23.533,-46.633,45919049
@@ -14579,7 +14579,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,ES_CB,ES,Spain,CB,Cantabria,144,1,43.464700,-3.804400,580229
 2020-03-20,ES_CE,ES,Spain,CE,Ceuta,5,0,35.889300,-5.319800,85144
 2020-03-20,ES_CL,ES,Spain,CL,Castilla y León,1147,43,41.652300,-4.724500,2447519
-2020-03-20,ES_CM,ES,Spain,CM,Castilla La Mancha,1044,42,39.862800,-4.027300,2041631
+2020-03-20,ES_CM,ES,Spain,CM,Castilla-La Mancha,1044,42,39.862800,-4.027300,2041631
 2020-03-20,ES_CN,ES,Spain,CN,Islas Canarias,287,4,28.468200,-16.254600,2153389
 2020-03-20,ES_CT,ES,Spain,CT,Cataluña,3270,82,41.388700,2.159000,7522596
 2020-03-20,ES_EX,ES,Spain,EX,Extremadura,297,10,38.916100,-6.343600,1087778
@@ -14832,9 +14832,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-20,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-20,RU_VOR,RU,Russia,VOR,Voronezh Oblast,2,,51.050,40.150,2333768
-2020-03-20,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-20,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-20,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-20,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-20,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-20,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-20,RW,RW,Rwanda,,,11,0,-1.940278,29.873888,12626950
 2020-03-20,SA,SA,Saudi Arabia,,,238,0,23.885942,45.079162,34268528
@@ -15001,7 +15001,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,BR_RN,BR,Brazil,RN,Rio Grande do Norte,6,0,-5.74,-36.55,3506853
 2020-03-21,BR_RO,BR,Brazil,RO,Rondônia,1,0,-10.90,-62.76,1777225
 2020-03-21,BR_RR,BR,Brazil,RR,Roraima,0,0,-2.050,-61.400,605761
-2020-03-21,BR_RS,BR,Brazil,RS,Rio Grande do Sul,60,0,-30.0,-53.0,11286500
+2020-03-21,BR_RS,BR,Brazil,RS,Rio Grande do Sul,60,0,-53.0,11286500,
 2020-03-21,BR_SC,BR,Brazil,SC,Santa Catarina,51,0,-27.250,-50.333,6727000
 2020-03-21,BR_SE,BR,Brazil,SE,Sergipe,10,0,-10.56,-37.36,2298696
 2020-03-21,BR_SP,BR,Brazil,SP,São Paulo,459,15,-23.533,-46.633,45919049
@@ -15095,7 +15095,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,ES_CB,ES,Spain,CB,Cantabria,215,2,43.464700,-3.804400,580229
 2020-03-21,ES_CE,ES,Spain,CE,Ceuta,5,0,35.889300,-5.319800,85144
 2020-03-21,ES_CL,ES,Spain,CL,Castilla y León,1466,55,41.652300,-4.724500,2447519
-2020-03-21,ES_CM,ES,Spain,CM,Castilla La Mancha,1423,84,39.862800,-4.027300,2041631
+2020-03-21,ES_CM,ES,Spain,CM,Castilla-La Mancha,1423,84,39.862800,-4.027300,2041631
 2020-03-21,ES_CN,ES,Spain,CN,Islas Canarias,348,7,28.468200,-16.254600,2153389
 2020-03-21,ES_CT,ES,Spain,CT,Cataluña,4203,122,41.388700,2.159000,7522596
 2020-03-21,ES_EX,ES,Spain,EX,Extremadura,354,12,38.916100,-6.343600,1087778
@@ -15354,9 +15354,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-21,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-21,RU_VOR,RU,Russia,VOR,Voronezh Oblast,2,,51.050,40.150,2333768
-2020-03-21,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-21,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-21,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-21,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-21,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-21,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-21,RW,RW,Rwanda,,,17,0,-1.940278,29.873888,12626950
 2020-03-21,SA,SA,Saudi Arabia,,,274,0,23.885942,45.079162,34268528
@@ -15526,7 +15526,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,BR_RN,BR,Brazil,RN,Rio Grande do Norte,9,0,-5.74,-36.55,3506853
 2020-03-22,BR_RO,BR,Brazil,RO,Rondônia,3,0,-10.90,-62.76,1777225
 2020-03-22,BR_RR,BR,Brazil,RR,Roraima,2,0,-2.050,-61.400,605761
-2020-03-22,BR_RS,BR,Brazil,RS,Rio Grande do Sul,72,0,-30.0,-53.0,11286500
+2020-03-22,BR_RS,BR,Brazil,RS,Rio Grande do Sul,72,0,-53.0,11286500,
 2020-03-22,BR_SC,BR,Brazil,SC,Santa Catarina,57,0,-27.250,-50.333,6727000
 2020-03-22,BR_SE,BR,Brazil,SE,Sergipe,10,0,-10.56,-37.36,2298696
 2020-03-22,BR_SP,BR,Brazil,SP,São Paulo,631,22,-23.533,-46.633,45919049
@@ -15626,7 +15626,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,ES_CB,ES,Spain,CB,Cantabria,282,5,43.464700,-3.804400,580229
 2020-03-22,ES_CE,ES,Spain,CE,Ceuta,5,0,35.889300,-5.319800,85144
 2020-03-22,ES_CL,ES,Spain,CL,Castilla y León,1744,74,41.652300,-4.724500,2447519
-2020-03-22,ES_CM,ES,Spain,CM,Castilla La Mancha,1819,112,39.862800,-4.027300,2041631
+2020-03-22,ES_CM,ES,Spain,CM,Castilla-La Mancha,1819,112,39.862800,-4.027300,2041631
 2020-03-22,ES_CN,ES,Spain,CN,Islas Canarias,414,9,28.468200,-16.254600,2153389
 2020-03-22,ES_CT,ES,Spain,CT,Cataluña,4704,191,41.388700,2.159000,7522596
 2020-03-22,ES_EX,ES,Spain,EX,Extremadura,384,14,38.916100,-6.343600,1087778
@@ -15885,9 +15885,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-22,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-22,RU_VOR,RU,Russia,VOR,Voronezh Oblast,2,,51.050,40.150,2333768
-2020-03-22,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-22,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-22,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-22,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-22,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-22,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-22,RW,RW,Rwanda,,,17,0,-1.940278,29.873888,12626950
 2020-03-22,SA,SA,Saudi Arabia,,,392,0,23.885942,45.079162,34268528
@@ -16059,7 +16059,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,BR_RN,BR,Brazil,RN,Rio Grande do Norte,13,0,-5.74,-36.55,3506853
 2020-03-23,BR_RO,BR,Brazil,RO,Rondônia,3,0,-10.90,-62.76,1777225
 2020-03-23,BR_RR,BR,Brazil,RR,Roraima,2,0,-2.050,-61.400,605761
-2020-03-23,BR_RS,BR,Brazil,RS,Rio Grande do Sul,86,0,-30.0,-53.0,11286500
+2020-03-23,BR_RS,BR,Brazil,RS,Rio Grande do Sul,86,0,-53.0,11286500,
 2020-03-23,BR_SC,BR,Brazil,SC,Santa Catarina,68,0,-27.250,-50.333,6727000
 2020-03-23,BR_SE,BR,Brazil,SE,Sergipe,10,0,-10.56,-37.36,2298696
 2020-03-23,BR_SP,BR,Brazil,SP,São Paulo,745,30,-23.533,-46.633,45919049
@@ -16162,7 +16162,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,ES_CB,ES,Spain,CB,Cantabria,347,6,43.464700,-3.804400,580229
 2020-03-23,ES_CE,ES,Spain,CE,Ceuta,6,0,35.889300,-5.319800,85144
 2020-03-23,ES_CL,ES,Spain,CL,Castilla y León,2055,102,41.652300,-4.724500,2447519
-2020-03-23,ES_CM,ES,Spain,CM,Castilla La Mancha,2078,145,39.862800,-4.027300,2041631
+2020-03-23,ES_CM,ES,Spain,CM,Castilla-La Mancha,2078,145,39.862800,-4.027300,2041631
 2020-03-23,ES_CN,ES,Spain,CN,Islas Canarias,481,11,28.468200,-16.254600,2153389
 2020-03-23,ES_CT,ES,Spain,CT,Cataluña,5925,245,41.388700,2.159000,7522596
 2020-03-23,ES_EX,ES,Spain,EX,Extremadura,493,18,38.916100,-6.343600,1087778
@@ -16423,9 +16423,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-23,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-23,RU_VOR,RU,Russia,VOR,Voronezh Oblast,2,,51.050,40.150,2333768
-2020-03-23,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-23,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-23,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-23,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-23,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-23,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-23,RW,RW,Rwanda,,,19,0,-1.940278,29.873888,12626950
 2020-03-23,SA,SA,Saudi Arabia,,,511,0,23.885942,45.079162,34268528
@@ -16599,7 +16599,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,BR_RN,BR,Brazil,RN,Rio Grande do Norte,13,0,-5.74,-36.55,3506853
 2020-03-24,BR_RO,BR,Brazil,RO,Rondônia,3,0,-10.90,-62.76,1777225
 2020-03-24,BR_RR,BR,Brazil,RR,Roraima,2,0,-2.050,-61.400,605761
-2020-03-24,BR_RS,BR,Brazil,RS,Rio Grande do Sul,98,0,-30.0,-53.0,11286500
+2020-03-24,BR_RS,BR,Brazil,RS,Rio Grande do Sul,98,0,-53.0,11286500,
 2020-03-24,BR_SC,BR,Brazil,SC,Santa Catarina,107,0,-27.250,-50.333,6727000
 2020-03-24,BR_SE,BR,Brazil,SE,Sergipe,15,0,-10.56,-37.36,2298696
 2020-03-24,BR_SP,BR,Brazil,SP,São Paulo,810,40,-23.533,-46.633,45919049
@@ -16704,7 +16704,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,ES_CB,ES,Spain,CB,Cantabria,425,9,43.464700,-3.804400,580229
 2020-03-24,ES_CE,ES,Spain,CE,Ceuta,6,0,35.889300,-5.319800,85144
 2020-03-24,ES_CL,ES,Spain,CL,Castilla y León,2460,124,41.652300,-4.724500,2447519
-2020-03-24,ES_CM,ES,Spain,CM,Castilla La Mancha,2465,216,39.862800,-4.027300,2041631
+2020-03-24,ES_CM,ES,Spain,CM,Castilla-La Mancha,2465,216,39.862800,-4.027300,2041631
 2020-03-24,ES_CN,ES,Spain,CN,Islas Canarias,557,16,28.468200,-16.254600,2153389
 2020-03-24,ES_CT,ES,Spain,CT,Cataluña,7864,282,41.388700,2.159000,7522596
 2020-03-24,ES_EX,ES,Spain,EX,Extremadura,636,26,38.916100,-6.343600,1087778
@@ -16966,9 +16966,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-24,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-24,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-24,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-24,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-24,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-24,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-24,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-24,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-24,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-24,RW,RW,Rwanda,,,36,0,-1.940278,29.873888,12626950
 2020-03-24,SA,SA,Saudi Arabia,,,562,0,23.885942,45.079162,34268528
@@ -17143,7 +17143,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,BR_RN,BR,Brazil,RN,Rio Grande do Norte,14,0,-5.74,-36.55,3506853
 2020-03-25,BR_RO,BR,Brazil,RO,Rondônia,5,0,-10.90,-62.76,1777225
 2020-03-25,BR_RR,BR,Brazil,RR,Roraima,8,0,-2.050,-61.400,605761
-2020-03-25,BR_RS,BR,Brazil,RS,Rio Grande do Sul,123,1,-30.0,-53.0,11286500
+2020-03-25,BR_RS,BR,Brazil,RS,Rio Grande do Sul,123,1,-53.0,11286500,
 2020-03-25,BR_SC,BR,Brazil,SC,Santa Catarina,109,0,-27.250,-50.333,6727000
 2020-03-25,BR_SE,BR,Brazil,SE,Sergipe,16,0,-10.56,-37.36,2298696
 2020-03-25,BR_SP,BR,Brazil,SP,São Paulo,862,48,-23.533,-46.633,45919049
@@ -17245,7 +17245,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,ES_CB,ES,Spain,CB,Cantabria,510,14,43.464700,-3.804400,580229
 2020-03-25,ES_CE,ES,Spain,CE,Ceuta,9,0,35.889300,-5.319800,85144
 2020-03-25,ES_CL,ES,Spain,CL,Castilla y León,2940,165,41.652300,-4.724500,2447519
-2020-03-25,ES_CM,ES,Spain,CM,Castilla La Mancha,2780,263,39.862800,-4.027300,2041631
+2020-03-25,ES_CM,ES,Spain,CM,Castilla-La Mancha,2780,263,39.862800,-4.027300,2041631
 2020-03-25,ES_CN,ES,Spain,CN,Islas Canarias,657,21,28.468200,-16.254600,2153389
 2020-03-25,ES_CT,ES,Spain,CT,Cataluña,9937,516,41.388700,2.159000,7522596
 2020-03-25,ES_EX,ES,Spain,EX,Extremadura,742,39,38.916100,-6.343600,1087778
@@ -17509,9 +17509,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-25,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-25,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-25,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-25,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-25,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-25,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-25,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-25,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-25,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-25,RW,RW,Rwanda,,,40,0,-1.940278,29.873888,12626950
 2020-03-25,SA,SA,Saudi Arabia,,,767,1,23.885942,45.079162,34268528
@@ -17688,7 +17688,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,BR_RN,BR,Brazil,RN,Rio Grande do Norte,19,0,-5.74,-36.55,3506853
 2020-03-26,BR_RO,BR,Brazil,RO,Rondônia,5,0,-10.90,-62.76,1777225
 2020-03-26,BR_RR,BR,Brazil,RR,Roraima,8,0,-2.050,-61.400,605761
-2020-03-26,BR_RS,BR,Brazil,RS,Rio Grande do Sul,168,1,-30.0,-53.0,11286500
+2020-03-26,BR_RS,BR,Brazil,RS,Rio Grande do Sul,168,1,-53.0,11286500,
 2020-03-26,BR_SC,BR,Brazil,SC,Santa Catarina,122,1,-27.250,-50.333,6727000
 2020-03-26,BR_SE,BR,Brazil,SE,Sergipe,16,0,-10.56,-37.36,2298696
 2020-03-26,BR_SP,BR,Brazil,SP,São Paulo,1052,58,-23.533,-46.633,45919049
@@ -17794,7 +17794,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,ES_CB,ES,Spain,CB,Cantabria,671,17,43.464700,-3.804400,580229
 2020-03-26,ES_CE,ES,Spain,CE,Ceuta,10,0,35.889300,-5.319800,85144
 2020-03-26,ES_CL,ES,Spain,CL,Castilla y León,3488,206,41.652300,-4.724500,2447519
-2020-03-26,ES_CM,ES,Spain,CM,Castilla La Mancha,3383,316,39.862800,-4.027300,2041631
+2020-03-26,ES_CM,ES,Spain,CM,Castilla-La Mancha,3383,316,39.862800,-4.027300,2041631
 2020-03-26,ES_CN,ES,Spain,CN,Islas Canarias,784,24,28.468200,-16.254600,2153389
 2020-03-26,ES_CT,ES,Spain,CT,Cataluña,11592,672,41.388700,2.159000,7522596
 2020-03-26,ES_EX,ES,Spain,EX,Extremadura,969,58,38.916100,-6.343600,1087778
@@ -18060,9 +18060,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-26,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-26,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-26,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-26,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-26,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-26,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,1,,57.867,39.200,1265684
-2020-03-26,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-26,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-26,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-26,RW,RW,Rwanda,,,41,0,-1.940278,29.873888,12626950
 2020-03-26,SA,SA,Saudi Arabia,,,900,2,23.885942,45.079162,34268528
@@ -18240,7 +18240,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,BR_RN,BR,Brazil,RN,Rio Grande do Norte,28,0,-5.74,-36.55,3506853
 2020-03-27,BR_RO,BR,Brazil,RO,Rondônia,6,0,-10.90,-62.76,1777225
 2020-03-27,BR_RR,BR,Brazil,RR,Roraima,10,0,-2.050,-61.400,605761
-2020-03-27,BR_RS,BR,Brazil,RS,Rio Grande do Sul,195,1,-30.0,-53.0,11286500
+2020-03-27,BR_RS,BR,Brazil,RS,Rio Grande do Sul,195,1,-53.0,11286500,
 2020-03-27,BR_SC,BR,Brazil,SC,Santa Catarina,149,2,-27.250,-50.333,6727000
 2020-03-27,BR_SE,BR,Brazil,SE,Sergipe,16,0,-10.56,-37.36,2298696
 2020-03-27,BR_SP,BR,Brazil,SP,São Paulo,1223,68,-23.533,-46.633,45919049
@@ -18342,7 +18342,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,ES_CB,ES,Spain,CB,Cantabria,810,21,43.464700,-3.804400,580229
 2020-03-27,ES_CE,ES,Spain,CE,Ceuta,17,0,35.889300,-5.319800,85144
 2020-03-27,ES_CL,ES,Spain,CL,Castilla y León,4132,252,41.652300,-4.724500,2447519
-2020-03-27,ES_CM,ES,Spain,CM,Castilla La Mancha,3934,367,39.862800,-4.027300,2041631
+2020-03-27,ES_CM,ES,Spain,CM,Castilla-La Mancha,3934,367,39.862800,-4.027300,2041631
 2020-03-27,ES_CN,ES,Spain,CN,Islas Canarias,878,27,28.468200,-16.254600,2153389
 2020-03-27,ES_CT,ES,Spain,CT,Cataluña,12940,880,41.388700,2.159000,7522596
 2020-03-27,ES_EX,ES,Spain,EX,Extremadura,1231,69,38.916100,-6.343600,1087778
@@ -18609,9 +18609,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-27,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-27,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-27,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-27,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-27,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-27,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,2,,57.867,39.200,1265684
-2020-03-27,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-27,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-27,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-27,RW,RW,Rwanda,,,50,0,-1.940278,29.873888,12626950
 2020-03-27,SA,SA,Saudi Arabia,,,1012,3,23.885942,45.079162,34268528
@@ -18790,7 +18790,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,BR_RN,BR,Brazil,RN,Rio Grande do Norte,45,0,-5.74,-36.55,3506853
 2020-03-28,BR_RO,BR,Brazil,RO,Rondônia,6,0,-10.90,-62.76,1777225
 2020-03-28,BR_RR,BR,Brazil,RR,Roraima,12,0,-2.050,-61.400,605761
-2020-03-28,BR_RS,BR,Brazil,RS,Rio Grande do Sul,197,1,-30.0,-53.0,11286500
+2020-03-28,BR_RS,BR,Brazil,RS,Rio Grande do Sul,197,1,-53.0,11286500,
 2020-03-28,BR_SC,BR,Brazil,SC,Santa Catarina,184,2,-27.250,-50.333,6727000
 2020-03-28,BR_SE,BR,Brazil,SE,Sergipe,16,0,-10.56,-37.36,2298696
 2020-03-28,BR_SP,BR,Brazil,SP,São Paulo,1406,84,-23.533,-46.633,45919049
@@ -18890,7 +18890,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,ES_CB,ES,Spain,CB,Cantabria,937,22,43.464700,-3.804400,580229
 2020-03-28,ES_CE,ES,Spain,CE,Ceuta,17,1,35.889300,-5.319800,85144
 2020-03-28,ES_CL,ES,Spain,CL,Castilla y León,4791,321,41.652300,-4.724500,2447519
-2020-03-28,ES_CM,ES,Spain,CM,Castilla La Mancha,4512,448,39.862800,-4.027300,2041631
+2020-03-28,ES_CM,ES,Spain,CM,Castilla-La Mancha,4512,448,39.862800,-4.027300,2041631
 2020-03-28,ES_CN,ES,Spain,CN,Islas Canarias,1025,36,28.468200,-16.254600,2153389
 2020-03-28,ES_CT,ES,Spain,CT,Cataluña,14263,1070,41.388700,2.159000,7522596
 2020-03-28,ES_EX,ES,Spain,EX,Extremadura,1394,88,38.916100,-6.343600,1087778
@@ -19158,9 +19158,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-28,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-28,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-28,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-28,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-28,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-28,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,2,,57.867,39.200,1265684
-2020-03-28,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-28,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-28,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-28,RW,RW,Rwanda,,,54,0,-1.940278,29.873888,12626950
 2020-03-28,SA,SA,Saudi Arabia,,,1104,3,23.885942,45.079162,34268528
@@ -19339,7 +19339,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,BR_RN,BR,Brazil,RN,Rio Grande do Norte,68,1,-5.74,-36.55,3506853
 2020-03-29,BR_RO,BR,Brazil,RO,Rondônia,6,0,-10.90,-62.76,1777225
 2020-03-29,BR_RR,BR,Brazil,RR,Roraima,16,0,-2.050,-61.400,605761
-2020-03-29,BR_RS,BR,Brazil,RS,Rio Grande do Sul,226,1,-30.0,-53.0,11286500
+2020-03-29,BR_RS,BR,Brazil,RS,Rio Grande do Sul,226,1,-53.0,11286500,
 2020-03-29,BR_SC,BR,Brazil,SC,Santa Catarina,194,2,-27.250,-50.333,6727000
 2020-03-29,BR_SE,BR,Brazil,SE,Sergipe,16,0,-10.56,-37.36,2298696
 2020-03-29,BR_SP,BR,Brazil,SP,São Paulo,1451,98,-23.533,-46.633,45919049
@@ -19443,7 +19443,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,ES_CB,ES,Spain,CB,Cantabria,1023,26,43.464700,-3.804400,580229
 2020-03-29,ES_CE,ES,Spain,CE,Ceuta,21,1,35.889300,-5.319800,85144
 2020-03-29,ES_CL,ES,Spain,CL,Castilla y León,5414,380,41.652300,-4.724500,2447519
-2020-03-29,ES_CM,ES,Spain,CM,Castilla La Mancha,5246,539,39.862800,-4.027300,2041631
+2020-03-29,ES_CM,ES,Spain,CM,Castilla-La Mancha,5246,539,39.862800,-4.027300,2041631
 2020-03-29,ES_CN,ES,Spain,CN,Islas Canarias,1125,39,28.468200,-16.254600,2153389
 2020-03-29,ES_CT,ES,Spain,CT,Cataluña,15026,1226,41.388700,2.159000,7522596
 2020-03-29,ES_EX,ES,Spain,EX,Extremadura,1456,100,38.916100,-6.343600,1087778
@@ -19711,9 +19711,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-29,RU_VLA,RU,Russia,VLA,Vladimir Oblast,0,,56.083,40.617,1378337
 2020-03-29,RU_VLG,RU,Russia,VLG,Vologda Oblast,0,,60.083,40.450,1176689
 2020-03-29,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-29,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-29,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-29,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,3,,57.867,39.200,1265684
-2020-03-29,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-29,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-29,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-29,RW,RW,Rwanda,,,60,0,-1.940278,29.873888,12626950
 2020-03-29,SA,SA,Saudi Arabia,,,1203,4,23.885942,45.079162,34268528
@@ -19892,7 +19892,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,BR_RN,BR,Brazil,RN,Rio Grande do Norte,77,1,-5.74,-36.55,3506853
 2020-03-30,BR_RO,BR,Brazil,RO,Rondônia,6,0,-10.90,-62.76,1777225
 2020-03-30,BR_RR,BR,Brazil,RR,Roraima,16,0,-2.050,-61.400,605761
-2020-03-30,BR_RS,BR,Brazil,RS,Rio Grande do Sul,241,3,-30.0,-53.0,11286500
+2020-03-30,BR_RS,BR,Brazil,RS,Rio Grande do Sul,241,3,-53.0,11286500,
 2020-03-30,BR_SC,BR,Brazil,SC,Santa Catarina,197,1,-27.250,-50.333,6727000
 2020-03-30,BR_SE,BR,Brazil,SE,Sergipe,16,0,-10.56,-37.36,2298696
 2020-03-30,BR_SP,BR,Brazil,SP,São Paulo,1517,113,-23.533,-46.633,45919049
@@ -19995,7 +19995,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,ES_CB,ES,Spain,CB,Cantabria,1100,27,43.464700,-3.804400,580229
 2020-03-30,ES_CE,ES,Spain,CE,Ceuta,25,1,35.889300,-5.319800,85144
 2020-03-30,ES_CL,ES,Spain,CL,Castilla y León,5801,442,41.652300,-4.724500,2447519
-2020-03-30,ES_CM,ES,Spain,CM,Castilla La Mancha,5858,622,39.862800,-4.027300,2041631
+2020-03-30,ES_CM,ES,Spain,CM,Castilla-La Mancha,5858,622,39.862800,-4.027300,2041631
 2020-03-30,ES_CN,ES,Spain,CN,Islas Canarias,1204,40,28.468200,-16.254600,2153389
 2020-03-30,ES_CT,ES,Spain,CT,Cataluña,16157,1410,41.388700,2.159000,7522596
 2020-03-30,ES_EX,ES,Spain,EX,Extremadura,1560,106,38.916100,-6.343600,1087778
@@ -20263,9 +20263,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-30,RU_VLA,RU,Russia,VLA,Vladimir Oblast,2,,56.083,40.617,1378337
 2020-03-30,RU_VLG,RU,Russia,VLG,Vologda Oblast,2,,60.083,40.450,1176689
 2020-03-30,RU_VOR,RU,Russia,VOR,Voronezh Oblast,6,,51.050,40.150,2333768
-2020-03-30,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-30,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-30,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,3,,57.867,39.200,1265684
-2020-03-30,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-30,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-30,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-30,RW,RW,Rwanda,,,70,0,-1.940278,29.873888,12626950
 2020-03-30,SA,SA,Saudi Arabia,,,1229,8,23.885942,45.079162,34268528
@@ -20443,7 +20443,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,BR_RN,BR,Brazil,RN,Rio Grande do Norte,82,1,-5.74,-36.55,3506853
 2020-03-31,BR_RO,BR,Brazil,RO,Rondônia,8,1,-10.90,-62.76,1777225
 2020-03-31,BR_RR,BR,Brazil,RR,Roraima,16,0,-2.050,-61.400,605761
-2020-03-31,BR_RS,BR,Brazil,RS,Rio Grande do Sul,274,4,-30.0,-53.0,11286500
+2020-03-31,BR_RS,BR,Brazil,RS,Rio Grande do Sul,274,4,-53.0,11286500,
 2020-03-31,BR_SC,BR,Brazil,SC,Santa Catarina,219,2,-27.250,-50.333,6727000
 2020-03-31,BR_SE,BR,Brazil,SE,Sergipe,19,0,-10.56,-37.36,2298696
 2020-03-31,BR_SP,BR,Brazil,SP,São Paulo,2339,136,-23.533,-46.633,45919049
@@ -20526,7 +20526,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,ES_CB,ES,Spain,CB,Cantabria,1171,37,43.464700,-3.804400,580229
 2020-03-31,ES_CE,ES,Spain,CE,Ceuta,34,1,35.889300,-5.319800,85144
 2020-03-31,ES_CL,ES,Spain,CL,Castilla y León,6211,516,41.652300,-4.724500,2447519
-2020-03-31,ES_CM,ES,Spain,CM,Castilla La Mancha,6424,708,39.862800,-4.027300,2041631
+2020-03-31,ES_CM,ES,Spain,CM,Castilla-La Mancha,6424,708,39.862800,-4.027300,2041631
 2020-03-31,ES_CN,ES,Spain,CN,Islas Canarias,1262,55,28.468200,-16.254600,2153389
 2020-03-31,ES_CT,ES,Spain,CT,Cataluña,18773,1672,41.388700,2.159000,7522596
 2020-03-31,ES_EX,ES,Spain,EX,Extremadura,1628,133,38.916100,-6.343600,1087778
@@ -20795,9 +20795,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-31,RU_VLA,RU,Russia,VLA,Vladimir Oblast,2,,56.083,40.617,1378337
 2020-03-31,RU_VLG,RU,Russia,VLG,Vologda Oblast,2,,60.083,40.450,1176689
 2020-03-31,RU_VOR,RU,Russia,VOR,Voronezh Oblast,8,,51.050,40.150,2333768
-2020-03-31,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-03-31,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-03-31,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,3,,57.867,39.200,1265684
-2020-03-31,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-03-31,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-03-31,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-03-31,RW,RW,Rwanda,,,70,0,-1.940278,29.873888,12626950
 2020-03-31,SA,SA,Saudi Arabia,,,1453,8,23.885942,45.079162,34268528
@@ -20976,7 +20976,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,BR_RN,BR,Brazil,RN,Rio Grande do Norte,92,2,-5.74,-36.55,3506853
 2020-04-01,BR_RO,BR,Brazil,RO,Rondônia,9,1,-10.90,-62.76,1777225
 2020-04-01,BR_RR,BR,Brazil,RR,Roraima,22,0,-2.050,-61.400,605761
-2020-04-01,BR_RS,BR,Brazil,RS,Rio Grande do Sul,306,4,-30.0,-53.0,11286500
+2020-04-01,BR_RS,BR,Brazil,RS,Rio Grande do Sul,306,4,-53.0,11286500,
 2020-04-01,BR_SC,BR,Brazil,SC,Santa Catarina,235,2,-27.250,-50.333,6727000
 2020-04-01,BR_SE,BR,Brazil,SE,Sergipe,20,0,-10.56,-37.36,2298696
 2020-04-01,BR_SP,BR,Brazil,SP,São Paulo,2981,164,-23.533,-46.633,45919049
@@ -21076,7 +21076,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,ES_CB,ES,Spain,CB,Cantabria,1213,54,43.464700,-3.804400,580229
 2020-04-01,ES_CE,ES,Spain,CE,Ceuta,51,1,35.889300,-5.319800,85144
 2020-04-01,ES_CL,ES,Spain,CL,Castilla y León,6847,585,41.652300,-4.724500,2447519
-2020-04-01,ES_CM,ES,Spain,CM,Castilla La Mancha,7047,774,39.862800,-4.027300,2041631
+2020-04-01,ES_CM,ES,Spain,CM,Castilla-La Mancha,7047,774,39.862800,-4.027300,2041631
 2020-04-01,ES_CN,ES,Spain,CN,Islas Canarias,1380,62,28.468200,-16.254600,2153389
 2020-04-01,ES_CT,ES,Spain,CT,Cataluña,19991,1849,41.388700,2.159000,7522596
 2020-04-01,ES_EX,ES,Spain,EX,Extremadura,1679,152,38.916100,-6.343600,1087778
@@ -21344,9 +21344,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-01,RU_VLA,RU,Russia,VLA,Vladimir Oblast,3,,56.083,40.617,1378337
 2020-04-01,RU_VLG,RU,Russia,VLG,Vologda Oblast,9,,60.083,40.450,1176689
 2020-04-01,RU_VOR,RU,Russia,VOR,Voronezh Oblast,12,,51.050,40.150,2333768
-2020-04-01,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,0,,67.250,74.667,522904
+2020-04-01,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,0,,67.250,74.667,522904
 2020-04-01,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,3,,57.867,39.200,1265684
-2020-04-01,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-04-01,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-04-01,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-04-01,RW,RW,Rwanda,,,75,0,-1.940278,29.873888,12626950
 2020-04-01,SA,SA,Saudi Arabia,,,1563,10,23.885942,45.079162,34268528
@@ -21527,7 +21527,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,BR_RN,BR,Brazil,RN,Rio Grande do Norte,105,2,-5.74,-36.55,3506853
 2020-04-02,BR_RO,BR,Brazil,RO,Rondônia,10,1,-10.90,-62.76,1777225
 2020-04-02,BR_RR,BR,Brazil,RR,Roraima,26,0,-2.050,-61.400,605761
-2020-04-02,BR_RS,BR,Brazil,RS,Rio Grande do Sul,334,5,-30.0,-53.0,11286500
+2020-04-02,BR_RS,BR,Brazil,RS,Rio Grande do Sul,334,5,-53.0,11286500,
 2020-04-02,BR_SC,BR,Brazil,SC,Santa Catarina,247,2,-27.250,-50.333,6727000
 2020-04-02,BR_SE,BR,Brazil,SE,Sergipe,23,2,-10.56,-37.36,2298696
 2020-04-02,BR_SP,BR,Brazil,SP,São Paulo,3506,188,-23.533,-46.633,45919049
@@ -21632,7 +21632,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,ES_CB,ES,Spain,CB,Cantabria,1268,60,43.464700,-3.804400,580229
 2020-04-02,ES_CE,ES,Spain,CE,Ceuta,55,1,35.889300,-5.319800,85144
 2020-04-02,ES_CL,ES,Spain,CL,Castilla y León,7355,641,41.652300,-4.724500,2447519
-2020-04-02,ES_CM,ES,Spain,CM,Castilla La Mancha,7682,854,39.862800,-4.027300,2041631
+2020-04-02,ES_CM,ES,Spain,CM,Castilla-La Mancha,7682,854,39.862800,-4.027300,2041631
 2020-04-02,ES_CN,ES,Spain,CN,Islas Canarias,1444,68,28.468200,-16.254600,2153389
 2020-04-02,ES_CT,ES,Spain,CT,Cataluña,21804,2093,41.388700,2.159000,7522596
 2020-04-02,ES_EX,ES,Spain,EX,Extremadura,1837,181,38.916100,-6.343600,1087778
@@ -21901,9 +21901,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-02,RU_VLA,RU,Russia,VLA,Vladimir Oblast,3,,56.083,40.617,1378337
 2020-04-02,RU_VLG,RU,Russia,VLG,Vologda Oblast,12,,60.083,40.450,1176689
 2020-04-02,RU_VOR,RU,Russia,VOR,Voronezh Oblast,12,,51.050,40.150,2333768
-2020-04-02,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,2,,67.250,74.667,522904
+2020-04-02,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,2,,67.250,74.667,522904
 2020-04-02,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,3,,57.867,39.200,1265684
-2020-04-02,RU_YEV,RU,Russia,YEV,Jewish AO,0,,48.600,132.200,176558
+2020-04-02,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,0,,48.600,132.200,176558
 2020-04-02,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-04-02,RW,RW,Rwanda,,,82,0,-1.940278,29.873888,12626950
 2020-04-02,SA,SA,Saudi Arabia,,,1720,16,23.885942,45.079162,34268528
@@ -22084,7 +22084,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,BR_RN,BR,Brazil,RN,Rio Grande do Norte,176,4,-5.74,-36.55,3506853
 2020-04-03,BR_RO,BR,Brazil,RO,Rondônia,10,1,-10.90,-62.76,1777225
 2020-04-03,BR_RR,BR,Brazil,RR,Roraima,30,0,-2.050,-61.400,605761
-2020-04-03,BR_RS,BR,Brazil,RS,Rio Grande do Sul,396,5,-30.0,-53.0,11286500
+2020-04-03,BR_RS,BR,Brazil,RS,Rio Grande do Sul,396,5,-53.0,11286500,
 2020-04-03,BR_SC,BR,Brazil,SC,Santa Catarina,281,5,-27.250,-50.333,6727000
 2020-04-03,BR_SE,BR,Brazil,SE,Sergipe,25,2,-10.56,-37.36,2298696
 2020-04-03,BR_SP,BR,Brazil,SP,São Paulo,4048,219,-23.533,-46.633,45919049
@@ -22188,7 +22188,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,ES_CB,ES,Spain,CB,Cantabria,1321,64,43.464700,-3.804400,580229
 2020-04-03,ES_CE,ES,Spain,CE,Ceuta,62,1,35.889300,-5.319800,85144
 2020-04-03,ES_CL,ES,Spain,CL,Castilla y León,7875,723,41.652300,-4.724500,2447519
-2020-04-03,ES_CM,ES,Spain,CM,Castilla La Mancha,8523,916,39.862800,-4.027300,2041631
+2020-04-03,ES_CM,ES,Spain,CM,Castilla-La Mancha,8523,916,39.862800,-4.027300,2041631
 2020-04-03,ES_CN,ES,Spain,CN,Islas Canarias,1490,73,28.468200,-16.254600,2153389
 2020-04-03,ES_CT,ES,Spain,CT,Cataluña,23460,2335,41.388700,2.159000,7522596
 2020-04-03,ES_EX,ES,Spain,EX,Extremadura,1893,200,38.916100,-6.343600,1087778
@@ -22464,9 +22464,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-03,RU_VLA,RU,Russia,VLA,Vladimir Oblast,3,,56.083,40.617,1378337
 2020-04-03,RU_VLG,RU,Russia,VLG,Vologda Oblast,12,,60.083,40.450,1176689
 2020-04-03,RU_VOR,RU,Russia,VOR,Voronezh Oblast,12,,51.050,40.150,2333768
-2020-04-03,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,12,,67.250,74.667,522904
+2020-04-03,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,12,,67.250,74.667,522904
 2020-04-03,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,3,,57.867,39.200,1265684
-2020-04-03,RU_YEV,RU,Russia,YEV,Jewish AO,3,,48.600,132.200,176558
+2020-04-03,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,3,,48.600,132.200,176558
 2020-04-03,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-04-03,RW,RW,Rwanda,,,82,0,-1.940278,29.873888,12626950
 2020-04-03,SA,SA,Saudi Arabia,,,1885,21,23.885942,45.079162,34268528
@@ -22647,7 +22647,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-04,BR_RN,BR,Brazil,RN,Rio Grande do Norte,212,5,-5.74,-36.55,3506853
 2020-04-04,BR_RO,BR,Brazil,RO,Rondônia,11,1,-10.90,-62.76,1777225
 2020-04-04,BR_RR,BR,Brazil,RR,Roraima,37,1,-2.050,-61.400,605761
-2020-04-04,BR_RS,BR,Brazil,RS,Rio Grande do Sul,410,6,-30.0,-53.0,11286500
+2020-04-04,BR_RS,BR,Brazil,RS,Rio Grande do Sul,410,6,-53.0,11286500,
 2020-04-04,BR_SC,BR,Brazil,SC,Santa Catarina,334,5,-27.250,-50.333,6727000
 2020-04-04,BR_SE,BR,Brazil,SE,Sergipe,27,2,-10.56,-37.36,2298696
 2020-04-04,BR_SP,BR,Brazil,SP,São Paulo,4466,260,-23.533,-46.633,45919049
@@ -22732,7 +22732,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-04,ES_CB,ES,Spain,CB,Cantabria,1384,68,43.464700,-3.804400,580229
 2020-04-04,ES_CE,ES,Spain,CE,Ceuta,73,1,35.889300,-5.319800,85144
 2020-04-04,ES_CL,ES,Spain,CL,Castilla y León,8332,786,41.652300,-4.724500,2447519
-2020-04-04,ES_CM,ES,Spain,CM,Castilla La Mancha,9324,989,39.862800,-4.027300,2041631
+2020-04-04,ES_CM,ES,Spain,CM,Castilla-La Mancha,9324,989,39.862800,-4.027300,2041631
 2020-04-04,ES_CN,ES,Spain,CN,Islas Canarias,1564,78,28.468200,-16.254600,2153389
 2020-04-04,ES_CT,ES,Spain,CT,Cataluña,24734,2508,41.388700,2.159000,7522596
 2020-04-04,ES_EX,ES,Spain,EX,Extremadura,1979,208,38.916100,-6.343600,1087778
@@ -22996,9 +22996,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-04,RU_VLA,RU,Russia,VLA,Vladimir Oblast,3,,56.083,40.617,1378337
 2020-04-04,RU_VLG,RU,Russia,VLG,Vologda Oblast,13,,60.083,40.450,1176689
 2020-04-04,RU_VOR,RU,Russia,VOR,Voronezh Oblast,14,,51.050,40.150,2333768
-2020-04-04,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,12,,67.250,74.667,522904
+2020-04-04,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,12,,67.250,74.667,522904
 2020-04-04,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,5,,57.867,39.200,1265684
-2020-04-04,RU_YEV,RU,Russia,YEV,Jewish AO,3,,48.600,132.200,176558
+2020-04-04,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,3,,48.600,132.200,176558
 2020-04-04,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-04-04,RW,RW,Rwanda,,,89,0,-1.940278,29.873888,12626950
 2020-04-04,SA,SA,Saudi Arabia,,,1885,21,23.885942,45.079162,34268528
@@ -23195,7 +23195,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-05,ES_CB,ES,Spain,CB,Cantabria,1441,68,43.464700,-3.804400,580229
 2020-04-05,ES_CE,ES,Spain,CE,Ceuta,83,2,35.889300,-5.319800,85144
 2020-04-05,ES_CL,ES,Spain,CL,Castilla y León,8749,847,41.652300,-4.724500,2447519
-2020-04-05,ES_CM,ES,Spain,CM,Castilla La Mancha,10031,1055,39.862800,-4.027300,2041631
+2020-04-05,ES_CM,ES,Spain,CM,Castilla-La Mancha,10031,1055,39.862800,-4.027300,2041631
 2020-04-05,ES_CN,ES,Spain,CN,Islas Canarias,1622,80,28.468200,-16.254600,2153389
 2020-04-05,ES_CT,ES,Spain,CT,Cataluña,26032,2637,41.388700,2.159000,7522596
 2020-04-05,ES_EX,ES,Spain,EX,Extremadura,2047,218,38.916100,-6.343600,1087778
@@ -23440,9 +23440,9 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-05,RU_VLA,RU,Russia,VLA,Vladimir Oblast,3,,56.083,40.617,1378337
 2020-04-05,RU_VLG,RU,Russia,VLG,Vologda Oblast,13,,60.083,40.450,1176689
 2020-04-05,RU_VOR,RU,Russia,VOR,Voronezh Oblast,14,,51.050,40.150,2333768
-2020-04-05,RU_YAN,RU,Russia,YAN,Yamalo-Nenets AO,12,,67.250,74.667,522904
+2020-04-05,RU_YAN,RU,Russia,YAN,Yamalo-Nenets Avtonomnyy Okrug,12,,67.250,74.667,522904
 2020-04-05,RU_YAR,RU,Russia,YAR,Yaroslavl Oblast,6,,57.867,39.200,1265684
-2020-04-05,RU_YEV,RU,Russia,YEV,Jewish AO,3,,48.600,132.200,176558
+2020-04-05,RU_YEV,RU,Russia,YEV,Jewish Avtonomnyy Okrug,3,,48.600,132.200,176558
 2020-04-05,RU_ZAB,RU,Russia,ZAB,Zabaykalsky Krai,1,,54.000,118.000,1072806
 2020-04-05,RW,RW,Rwanda,,,102,0,-1.940278,29.873888,12626950
 2020-04-05,SA,SA,Saudi Arabia,,,2179,29,23.885942,45.079162,34268528
