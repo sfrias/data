@@ -611,14 +611,27 @@ L 1139.04 452.83
     </g>
     <g id="ytick_2">
      <g id="line2d_16">
-      <path clip-path="url(#pada38591d6)" d="M 33.53 33.90619 
-L 1139.04 33.90619 
+      <path clip-path="url(#pada38591d6)" d="M 33.53 243.368095 
+L 1139.04 243.368095 
 " style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
      </g>
      <g id="text_16">
       <!-- 1 -->
-      <g style="fill:#262626;" transform="translate(13.0356 40.47124)scale(0.1728 -0.1728)">
+      <g style="fill:#262626;" transform="translate(13.0356 249.933145)scale(0.1728 -0.1728)">
        <use xlink:href="#DejaVuSans-49"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17">
+      <path clip-path="url(#pada38591d6)" d="M 33.53 33.90619 
+L 1139.04 33.90619 
+" style="fill:none;stroke:#ffffff;stroke-linecap:round;"/>
+     </g>
+     <g id="text_17">
+      <!-- 2 -->
+      <g style="fill:#262626;" transform="translate(13.0356 40.47124)scale(0.1728 -0.1728)">
+       <use xlink:href="#DejaVuSans-50"/>
       </g>
      </g>
     </g>
@@ -722,8 +735,8 @@ z
    <g id="patch_15">
     <path clip-path="url(#pada38591d6)" d="M 1000.85125 452.83 
 L 1040.33375 452.83 
-L 1040.33375 33.90619 
-L 1000.85125 33.90619 
+L 1040.33375 243.368095 
+L 1000.85125 243.368095 
 z
 " style="fill:#4c72b0;stroke:#ffffff;stroke-linejoin:miter;"/>
    </g>
@@ -777,7 +790,7 @@ L 49.082 29.5461
 z
 " style="fill:#4c72b0;stroke:#ffffff;stroke-linejoin:miter;"/>
     </g>
-    <g id="text_17">
+    <g id="text_18">
      <!-- Deaths -->
      <defs>
       <path d="M 19.671875 64.796875 
