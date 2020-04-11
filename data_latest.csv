@@ -518,7 +518,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-11,ID_AC,ID,Indonesia,AC,Aceh,5.0,,5.550,95.317,5316320
 2020-04-11,ID_BA,ID,Indonesia,BA,Bali,79.0,,-8.33500,115.08806,4362000
 2020-04-11,ID_BB,ID,Indonesia,BB,Bangka Belitung Islands,4.0,,-2.133,106.117,1430900
-2020-04-11,ID_BE,ID,Indonesia,BE,Bengkulu,4.0,,,,1971800
+2020-04-11,ID_BE,ID,Indonesia,BE,Bengkulu,4.0,,-3.795556,102.259167,1971800
 2020-04-11,ID_BT,ID,Indonesia,BT,Banten,279.0,,-6.500,106.250,12959169
 2020-04-11,ID_GO,ID,Indonesia,GO,Gorontalo,1.0,,0.667,123.000,1133237
 2020-04-11,ID_JA,ID,Indonesia,JA,Jambi,4.0,,-1.583,103.617,3515000
@@ -783,7 +783,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-04-11,SE_C,SE,Sweden,C,Uppsala,437.0,30.0,59.85833,17.65000,367483
 2020-04-11,SE_E,SE,Sweden,E,Östergötland,942.0,32.0,58.528125,15.238037,456550
 2020-04-11,SE_F,SE,Sweden,F,Jönköping,336.0,24.0,57.75,14.2,356291
-2020-04-11,SE_G,SE,Sweden,G,Kronoberg,87.0,1.0,,,197040
+2020-04-11,SE_G,SE,Sweden,G,Kronoberg,87.0,1.0,56.876944,14.809167,197040
 2020-04-11,SE_H,SE,Sweden,H,Kalmar,65.0,4.0,56.73333,15.90000,243219
 2020-04-11,SE_I,SE,Sweden,I,Gotland,16.0,0.0,57.49917,18.50944,58464
 2020-04-11,SE_K,SE,Sweden,K,Blekinge,41.0,1.0,56.24333,14.38111,159367
