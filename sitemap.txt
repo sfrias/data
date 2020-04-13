@@ -3,6 +3,7 @@ world_latest.csv
 data_categories.csv
 cn_latest.json
 cn_latest.csv
+response.json
 data_latest.csv
 us_latest.csv
 data_minimal.csv
@@ -12,6 +13,7 @@ world.csv
 cn.csv
 metadata.csv
 us_latest.json
+mobility.json
 usa.csv
 usa_latest.csv
 world.json
@@ -19,6 +21,7 @@ china.json
 cn.json
 world_latest.json
 data.json
+response.csv
 data_latest.json
 data.csv
 us.json
