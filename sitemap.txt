@@ -13,6 +13,7 @@ world.csv
 cn.csv
 metadata.csv
 us_latest.json
+weather.json
 mobility.json
 usa.csv
 usa_latest.csv
@@ -35,3 +36,4 @@ usa.json
 metadata.json
 us.csv
 sitemap.txt
+weather.csv
