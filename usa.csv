@@ -51,7 +51,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-05,US_VA,US,United States of America,VA,Virginia,0.0,,37.769300,-78.170000,8535519,VA
 2020-03-05,US_WA,US,United States of America,WA,Washington,96.0,20.0,47.400900,-121.490500,7614893,WA
 2020-03-05,US_WI,US,United States of America,WI,Wisconsin,1.0,,43.018600,-89.549800,5822434,WI
-2020-03-06,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-06,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-06,US_AR,US,United States of America,AR,Arkansas,0.0,,34.969700,-92.373100,3017804,AR
 2020-03-06,US_AZ,US,United States of America,AZ,Arizona,3.0,,33.729800,-111.431200,7278717,AZ
 2020-03-06,US_CA,US,United States of America,CA,California,60.0,,36.116200,-119.681600,39512223,CA
@@ -88,7 +88,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-06,US_WA,US,United States of America,WA,Washington,149.0,26.0,47.400900,-121.490500,7614893,WA
 2020-03-06,US_WI,US,United States of America,WI,Wisconsin,1.0,,43.018600,-89.549800,5822434,WI
 2020-03-06,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
-2020-03-07,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-07,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-07,US_AL,US,United States of America,AL,Alabama,0.0,,32.318200,-86.902300,4903185,AL
 2020-03-07,US_AR,US,United States of America,AR,Arkansas,0.0,,34.969700,-92.373100,3017804,AR
 2020-03-07,US_AZ,US,United States of America,AZ,Arizona,5.0,,33.729800,-111.431200,7278717,AZ
@@ -139,7 +139,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-07,US_WI,US,United States of America,WI,Wisconsin,1.0,,43.018600,-89.549800,5822434,WI
 2020-03-07,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-07,US_WY,US,United States of America,WY,Wyoming,0.0,,42.756000,-107.302500,578759,WY
-2020-03-08,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-08,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-08,US_AL,US,United States of America,AL,Alabama,0.0,,32.318200,-86.902300,4903185,AL
 2020-03-08,US_AR,US,United States of America,AR,Arkansas,0.0,,34.969700,-92.373100,3017804,AR
 2020-03-08,US_AZ,US,United States of America,AZ,Arizona,5.0,,33.729800,-111.431200,7278717,AZ
@@ -190,7 +190,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-08,US_WI,US,United States of America,WI,Wisconsin,1.0,,43.018600,-89.549800,5822434,WI
 2020-03-08,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-08,US_WY,US,United States of America,WY,Wyoming,0.0,,42.756000,-107.302500,578759,WY
-2020-03-09,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-09,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-09,US_AL,US,United States of America,AL,Alabama,0.0,,32.318200,-86.902300,4903185,AL
 2020-03-09,US_AR,US,United States of America,AR,Arkansas,0.0,,34.969700,-92.373100,3017804,AR
 2020-03-09,US_AZ,US,United States of America,AZ,Arizona,5.0,,33.729800,-111.431200,7278717,AZ
@@ -241,7 +241,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-09,US_WI,US,United States of America,WI,Wisconsin,1.0,,43.018600,-89.549800,5822434,WI
 2020-03-09,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-09,US_WY,US,United States of America,WY,Wyoming,0.0,,42.756000,-107.302500,578759,WY
-2020-03-10,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-10,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-10,US_AL,US,United States of America,AL,Alabama,0.0,,32.318200,-86.902300,4903185,AL
 2020-03-10,US_AR,US,United States of America,AR,Arkansas,0.0,,34.969700,-92.373100,3017804,AR
 2020-03-10,US_AZ,US,United States of America,AZ,Arizona,6.0,,33.729800,-111.431200,7278717,AZ
@@ -292,7 +292,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-10,US_WI,US,United States of America,WI,Wisconsin,2.0,,43.018600,-89.549800,5822434,WI
 2020-03-10,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-10,US_WY,US,United States of America,WY,Wyoming,0.0,,42.756000,-107.302500,578759,WY
-2020-03-11,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-11,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-11,US_AL,US,United States of America,AL,Alabama,0.0,,32.318200,-86.902300,4903185,AL
 2020-03-11,US_AR,US,United States of America,AR,Arkansas,0.0,,34.969700,-92.373100,3017804,AR
 2020-03-11,US_AZ,US,United States of America,AZ,Arizona,9.0,,33.729800,-111.431200,7278717,AZ
@@ -343,7 +343,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-11,US_WI,US,United States of America,WI,Wisconsin,3.0,,43.018600,-89.549800,5822434,WI
 2020-03-11,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-11,US_WY,US,United States of America,WY,Wyoming,0.0,,42.756000,-107.302500,578759,WY
-2020-03-12,US_AK,US,United States of America,AK,Alaska,0.0,,61.370700,-152.404400,710249,AK
+2020-03-12,US_AK,US,United States of America,AK,Alaska,0.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-12,US_AL,US,United States of America,AL,Alabama,0.0,,32.318200,-86.902300,4903185,AL
 2020-03-12,US_AR,US,United States of America,AR,Arkansas,6.0,,34.969700,-92.373100,3017804,AR
 2020-03-12,US_AZ,US,United States of America,AZ,Arizona,9.0,,33.729800,-111.431200,7278717,AZ
@@ -394,7 +394,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-12,US_WI,US,United States of America,WI,Wisconsin,8.0,,43.018600,-89.549800,5822434,WI
 2020-03-12,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-12,US_WY,US,United States of America,WY,Wyoming,1.0,,42.756000,-107.302500,578759,WY
-2020-03-13,US_AK,US,United States of America,AK,Alaska,1.0,,61.370700,-152.404400,710249,AK
+2020-03-13,US_AK,US,United States of America,AK,Alaska,1.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-13,US_AL,US,United States of America,AL,Alabama,1.0,,32.318200,-86.902300,4903185,AL
 2020-03-13,US_AR,US,United States of America,AR,Arkansas,9.0,,34.969700,-92.373100,3017804,AR
 2020-03-13,US_AZ,US,United States of America,AZ,Arizona,9.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -445,7 +445,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-13,US_WI,US,United States of America,WI,Wisconsin,19.0,,43.018600,-89.549800,5822434,WI
 2020-03-13,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-13,US_WY,US,United States of America,WY,Wyoming,1.0,,42.756000,-107.302500,578759,WY
-2020-03-14,US_AK,US,United States of America,AK,Alaska,1.0,,61.370700,-152.404400,710249,AK
+2020-03-14,US_AK,US,United States of America,AK,Alaska,1.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-14,US_AL,US,United States of America,AL,Alabama,6.0,,32.318200,-86.902300,4903185,AL
 2020-03-14,US_AR,US,United States of America,AR,Arkansas,12.0,,34.969700,-92.373100,3017804,AR
 2020-03-14,US_AZ,US,United States of America,AZ,Arizona,12.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -496,7 +496,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,US_WI,US,United States of America,WI,Wisconsin,19.0,,43.018600,-89.549800,5822434,WI
 2020-03-14,US_WV,US,United States of America,WV,West Virginia,0.0,,38.491200,-80.954500,1792147,WV
 2020-03-14,US_WY,US,United States of America,WY,Wyoming,2.0,,42.756000,-107.302500,578759,WY
-2020-03-15,US_AK,US,United States of America,AK,Alaska,1.0,,61.370700,-152.404400,710249,AK
+2020-03-15,US_AK,US,United States of America,AK,Alaska,1.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-15,US_AL,US,United States of America,AL,Alabama,12.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-15,US_AR,US,United States of America,AR,Arkansas,16.0,,34.969700,-92.373100,3017804,AR
 2020-03-15,US_AZ,US,United States of America,AZ,Arizona,12.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -547,7 +547,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,US_WI,US,United States of America,WI,Wisconsin,33.0,,43.018600,-89.549800,5822434,WI
 2020-03-15,US_WV,US,United States of America,WV,West Virginia,0.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-15,US_WY,US,United States of America,WY,Wyoming,3.0,,42.756000,-107.302500,578759,WY
-2020-03-16,US_AK,US,United States of America,AK,Alaska,1.0,,61.370700,-152.404400,710249,AK
+2020-03-16,US_AK,US,United States of America,AK,Alaska,1.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-16,US_AL,US,United States of America,AL,Alabama,28.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-16,US_AR,US,United States of America,AR,Arkansas,22.0,,34.969700,-92.373100,3017804,AR
 2020-03-16,US_AZ,US,United States of America,AZ,Arizona,18.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -598,7 +598,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,US_WI,US,United States of America,WI,Wisconsin,47.0,,43.018600,-89.549800,5822434,WI
 2020-03-16,US_WV,US,United States of America,WV,West Virginia,0.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-16,US_WY,US,United States of America,WY,Wyoming,3.0,,42.756000,-107.302500,578759,WY
-2020-03-17,US_AK,US,United States of America,AK,Alaska,3.0,,61.370700,-152.404400,710249,AK
+2020-03-17,US_AK,US,United States of America,AK,Alaska,3.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-17,US_AL,US,United States of America,AL,Alabama,36.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-17,US_AR,US,United States of America,AR,Arkansas,22.0,,34.969700,-92.373100,3017804,AR
 2020-03-17,US_AZ,US,United States of America,AZ,Arizona,20.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -649,7 +649,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,US_WI,US,United States of America,WI,Wisconsin,72.0,,43.018600,-89.549800,5822434,WI
 2020-03-17,US_WV,US,United States of America,WV,West Virginia,0.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-17,US_WY,US,United States of America,WY,Wyoming,10.0,,42.756000,-107.302500,578759,WY
-2020-03-18,US_AK,US,United States of America,AK,Alaska,6.0,,61.370700,-152.404400,710249,AK
+2020-03-18,US_AK,US,United States of America,AK,Alaska,6.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-18,US_AL,US,United States of America,AL,Alabama,46.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-18,US_AR,US,United States of America,AR,Arkansas,33.0,,34.969700,-92.373100,3017804,AR
 2020-03-18,US_AZ,US,United States of America,AZ,Arizona,28.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -700,7 +700,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-18,US_WI,US,United States of America,WI,Wisconsin,106.0,,43.018600,-89.549800,5822434,WI
 2020-03-18,US_WV,US,United States of America,WV,West Virginia,1.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-18,US_WY,US,United States of America,WY,Wyoming,15.0,,42.756000,-107.302500,578759,WY
-2020-03-19,US_AK,US,United States of America,AK,Alaska,6.0,,61.370700,-152.404400,710249,AK
+2020-03-19,US_AK,US,United States of America,AK,Alaska,6.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-19,US_AL,US,United States of America,AL,Alabama,68.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-19,US_AR,US,United States of America,AR,Arkansas,46.0,,34.969700,-92.373100,3017804,AR
 2020-03-19,US_AZ,US,United States of America,AZ,Arizona,44.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -751,7 +751,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-19,US_WI,US,United States of America,WI,Wisconsin,155.0,,43.018600,-89.549800,5822434,WI
 2020-03-19,US_WV,US,United States of America,WV,West Virginia,2.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-19,US_WY,US,United States of America,WY,Wyoming,18.0,,42.756000,-107.302500,578759,WY
-2020-03-20,US_AK,US,United States of America,AK,Alaska,12.0,,61.370700,-152.404400,710249,AK
+2020-03-20,US_AK,US,United States of America,AK,Alaska,12.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-20,US_AL,US,United States of America,AL,Alabama,81.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-20,US_AR,US,United States of America,AR,Arkansas,96.0,,34.969700,-92.373100,3017804,AR
 2020-03-20,US_AZ,US,United States of America,AZ,Arizona,65.0,0.0,33.729800,-111.431200,7278717,AZ
@@ -802,7 +802,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,US_WI,US,United States of America,WI,Wisconsin,206.0,3.0,43.018600,-89.549800,5822434,WI
 2020-03-20,US_WV,US,United States of America,WV,West Virginia,7.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-20,US_WY,US,United States of America,WY,Wyoming,19.0,,42.756000,-107.302500,578759,WY
-2020-03-21,US_AK,US,United States of America,AK,Alaska,14.0,,61.370700,-152.404400,710249,AK
+2020-03-21,US_AK,US,United States of America,AK,Alaska,14.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-21,US_AL,US,United States of America,AL,Alabama,124.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-21,US_AR,US,United States of America,AR,Arkansas,118.0,,34.969700,-92.373100,3017804,AR
 2020-03-21,US_AZ,US,United States of America,AZ,Arizona,104.0,1.0,33.729800,-111.431200,7278717,AZ
@@ -853,7 +853,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,US_WI,US,United States of America,WI,Wisconsin,281.0,4.0,43.018600,-89.549800,5822434,WI
 2020-03-21,US_WV,US,United States of America,WV,West Virginia,11.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-21,US_WY,US,United States of America,WY,Wyoming,23.0,,42.756000,-107.302500,578759,WY
-2020-03-22,US_AK,US,United States of America,AK,Alaska,22.0,,61.370700,-152.404400,710249,AK
+2020-03-22,US_AK,US,United States of America,AK,Alaska,22.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-22,US_AL,US,United States of America,AL,Alabama,138.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-22,US_AR,US,United States of America,AR,Arkansas,165.0,0.0,34.969700,-92.373100,3017804,AR
 2020-03-22,US_AZ,US,United States of America,AZ,Arizona,152.0,2.0,33.729800,-111.431200,7278717,AZ
@@ -904,7 +904,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-22,US_WI,US,United States of America,WI,Wisconsin,385.0,4.0,43.018600,-89.549800,5822434,WI
 2020-03-22,US_WV,US,United States of America,WV,West Virginia,12.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-22,US_WY,US,United States of America,WY,Wyoming,24.0,,42.756000,-107.302500,578759,WY
-2020-03-23,US_AK,US,United States of America,AK,Alaska,22.0,,61.370700,-152.404400,710249,AK
+2020-03-23,US_AK,US,United States of America,AK,Alaska,22.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-23,US_AL,US,United States of America,AL,Alabama,167.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-23,US_AR,US,United States of America,AR,Arkansas,174.0,0.0,34.969700,-92.373100,3017804,AR
 2020-03-23,US_AZ,US,United States of America,AZ,Arizona,265.0,2.0,33.729800,-111.431200,7278717,AZ
@@ -955,7 +955,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-23,US_WI,US,United States of America,WI,Wisconsin,416.0,5.0,43.018600,-89.549800,5822434,WI
 2020-03-23,US_WV,US,United States of America,WV,West Virginia,16.0,0.0,38.491200,-80.954500,1792147,WV
 2020-03-23,US_WY,US,United States of America,WY,Wyoming,26.0,,42.756000,-107.302500,578759,WY
-2020-03-24,US_AK,US,United States of America,AK,Alaska,36.0,,61.370700,-152.404400,710249,AK
+2020-03-24,US_AK,US,United States of America,AK,Alaska,36.0,0.0,61.370700,-152.404400,710249,AK
 2020-03-24,US_AL,US,United States of America,AL,Alabama,215.0,0.0,32.318200,-86.902300,4903185,AL
 2020-03-24,US_AR,US,United States of America,AR,Arkansas,218.0,0.0,34.969700,-92.373100,3017804,AR
 2020-03-24,US_AZ,US,United States of America,AZ,Arizona,357.0,5.0,33.729800,-111.431200,7278717,AZ
