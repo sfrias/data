@@ -2211,4 +2211,6 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-05-07,CN_JS,CN,China,JS,Jiangsu,653.0,0.0,32.9,119.8,80400000,Jiangsu
 2020-05-07,CN_MO,CN,China,MO,Macau,45.0,0.0,22.167,113.550,622567,Macau
 2020-05-07,CN_SH,CN,China,SH,Shanghai,657.0,7.0,31.22861,121.47472,24281400,Shanghai
+2020-05-07,CN_SN,CN,China,SN,Shaanxi,308.0,3.0,35.6,108.4,37327378,Shaanxi
 2020-05-07,CN_SX,CN,China,SX,Shanxi,198.0,0.0,37.7,112.4,36500000,Shanxi
+2020-05-08,CN_HK,CN,China,HK,Hong Kong,1044.0,4.0,22.3,114.2,7392000,Hong Kong
