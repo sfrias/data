@@ -492,7 +492,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-14,US_IN,US,United States of America,IN,Indiana,15.0,0.0,39.849400,-86.258300,6732219
 2020-03-14,US_KS,US,United States of America,KS,Kansas,6.0,1.0,38.526600,-96.726500,2911505
 2020-03-14,US_KY,US,United States of America,KY,Kentucky,14.0,,37.668100,-84.670100,4468402
-2020-03-14,US_LA,US,United States of America,LA,Louisiana,69.0,,31.169500,-91.867800,4648794
+2020-03-14,US_LA,US,United States of America,LA,Louisiana,51.0,,31.169500,-91.867800,4648794
 2020-03-14,US_MA,US,United States of America,MA,Massachusetts,38.0,,42.230200,-71.530100,6939373
 2020-03-14,US_MD,US,United States of America,MD,Maryland,26.0,,39.063900,-76.802100,6045680
 2020-03-14,US_ME,US,United States of America,ME,Maine,3.0,,44.693900,-69.381900,1338404
@@ -543,7 +543,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-15,US_IN,US,United States of America,IN,Indiana,19.0,0.0,39.849400,-86.258300,6732219
 2020-03-15,US_KS,US,United States of America,KS,Kansas,8.0,1.0,38.526600,-96.726500,2911505
 2020-03-15,US_KY,US,United States of America,KY,Kentucky,16.0,,37.668100,-84.670100,4468402
-2020-03-15,US_LA,US,United States of America,LA,Louisiana,91.0,2.0,31.169500,-91.867800,4648794
+2020-03-15,US_LA,US,United States of America,LA,Louisiana,90.0,2.0,31.169500,-91.867800,4648794
 2020-03-15,US_MA,US,United States of America,MA,Massachusetts,64.0,,42.230200,-71.530100,6939373
 2020-03-15,US_MD,US,United States of America,MD,Maryland,31.0,,39.063900,-76.802100,6045680
 2020-03-15,US_ME,US,United States of America,ME,Maine,3.0,,44.693900,-69.381900,1338404
@@ -594,7 +594,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-16,US_IN,US,United States of America,IN,Indiana,24.0,1.0,39.849400,-86.258300,6732219
 2020-03-16,US_KS,US,United States of America,KS,Kansas,11.0,1.0,38.526600,-96.726500,2911505
 2020-03-16,US_KY,US,United States of America,KY,Kentucky,21.0,1.0,37.668100,-84.670100,4468402
-2020-03-16,US_LA,US,United States of America,LA,Louisiana,114.0,2.0,31.169500,-91.867800,4648794
+2020-03-16,US_LA,US,United States of America,LA,Louisiana,115.0,2.0,31.169500,-91.867800,4648794
 2020-03-16,US_MA,US,United States of America,MA,Massachusetts,97.0,,42.230200,-71.530100,6939373
 2020-03-16,US_MD,US,United States of America,MD,Maryland,37.0,,39.063900,-76.802100,6045680
 2020-03-16,US_ME,US,United States of America,ME,Maine,17.0,,44.693900,-69.381900,1338404
@@ -645,7 +645,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-17,US_IN,US,United States of America,IN,Indiana,30.0,2.0,39.849400,-86.258300,6732219
 2020-03-17,US_KS,US,United States of America,KS,Kansas,15.0,1.0,38.526600,-96.726500,2911505
 2020-03-17,US_KY,US,United States of America,KY,Kentucky,22.0,1.0,37.668100,-84.670100,4468402
-2020-03-17,US_LA,US,United States of America,LA,Louisiana,171.0,4.0,31.169500,-91.867800,4648794
+2020-03-17,US_LA,US,United States of America,LA,Louisiana,137.0,4.0,31.169500,-91.867800,4648794
 2020-03-17,US_MA,US,United States of America,MA,Massachusetts,118.0,,42.230200,-71.530100,6939373
 2020-03-17,US_MD,US,United States of America,MD,Maryland,57.0,,39.063900,-76.802100,6045680
 2020-03-17,US_ME,US,United States of America,ME,Maine,32.0,,44.693900,-69.381900,1338404
@@ -798,7 +798,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-20,US_IN,US,United States of America,IN,Indiana,79.0,2.0,39.849400,-86.258300,6732219
 2020-03-20,US_KS,US,United States of America,KS,Kansas,44.0,1.0,38.526600,-96.726500,2911505
 2020-03-20,US_KY,US,United States of America,KY,Kentucky,47.0,1.0,37.668100,-84.670100,4468402
-2020-03-20,US_LA,US,United States of America,LA,Louisiana,479.0,12.0,31.169500,-91.867800,4648794
+2020-03-20,US_LA,US,United States of America,LA,Louisiana,473.0,12.0,31.169500,-91.867800,4648794
 2020-03-20,US_MA,US,United States of America,MA,Massachusetts,314.0,5.0,42.230200,-71.530100,6939373
 2020-03-20,US_MD,US,United States of America,MD,Maryland,149.0,1.0,39.063900,-76.802100,6045680
 2020-03-20,US_ME,US,United States of America,ME,Maine,57.0,,44.693900,-69.381900,1338404
@@ -849,7 +849,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-03-21,US_IN,US,United States of America,IN,Indiana,126.0,4.0,39.849400,-86.258300,6732219
 2020-03-21,US_KS,US,United States of America,KS,Kansas,55.0,2.0,38.526600,-96.726500,2911505
 2020-03-21,US_KY,US,United States of America,KY,Kentucky,54.0,2.0,37.668100,-84.670100,4468402
-2020-03-21,US_LA,US,United States of America,LA,Louisiana,585.0,16.0,31.169500,-91.867800,4648794
+2020-03-21,US_LA,US,United States of America,LA,Louisiana,580.0,16.0,31.169500,-91.867800,4648794
 2020-03-21,US_MA,US,United States of America,MA,Massachusetts,426.0,7.0,42.230200,-71.530100,6939373
 2020-03-21,US_MD,US,United States of America,MD,Maryland,190.0,2.0,39.063900,-76.802100,6045680
 2020-03-21,US_ME,US,United States of America,ME,Maine,73.0,,44.693900,-69.381900,1338404
@@ -3211,7 +3211,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-05-06,US_NJ,US,United States of America,NJ,New Jersey,131890.0,8549.0,40.298900,-74.521000,8882190
 2020-05-06,US_NM,US,United States of America,NM,New Mexico,4138.0,162.0,34.840500,-106.248500,2096829
 2020-05-06,US_NV,US,United States of America,NV,Nevada,5663.0,276.0,38.313500,-117.055400,3080156
-2020-05-06,US_NY,US,United States of America,NY,New York,321192.0,19877.0,42.165700,-74.948100,19453561
+2020-05-06,US_NY,US,United States of America,NY,New York,323978.0,19877.0,42.165700,-74.948100,19453561
 2020-05-06,US_OH,US,United States of America,OH,Ohio,21576.0,1225.0,40.388800,-82.764900,11689100
 2020-05-06,US_OK,US,United States of America,OK,Oklahoma,4201.0,253.0,35.565300,-96.928900,3956971
 2020-05-06,US_OR,US,United States of America,OR,Oregon,2916.0,115.0,43.126100,-123.249200,4190713
@@ -3228,3 +3228,54 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-05-06,US_WI,US,United States of America,WI,Wisconsin,8901.0,362.0,43.018600,-89.549800,5822434
 2020-05-06,US_WV,US,United States of America,WV,West Virginia,1248.0,50.0,38.491200,-80.954500,1792147
 2020-05-06,US_WY,US,United States of America,WY,Wyoming,604.0,7.0,42.756000,-107.302500,578759
+2020-05-07,US_AK,US,United States of America,AK,Alaska,374.0,10.0,61.370700,-152.404400,710249
+2020-05-07,US_AL,US,United States of America,AL,Alabama,8898.0,349.0,32.318200,-86.902300,4903185
+2020-05-07,US_AR,US,United States of America,AR,Arkansas,3611.0,87.0,34.969700,-92.373100,3017804
+2020-05-07,US_AZ,US,United States of America,AZ,Arizona,9945.0,450.0,33.729800,-111.431200,7278717
+2020-05-07,US_CA,US,United States of America,CA,California,60614.0,2504.0,36.116200,-119.681600,39512223
+2020-05-07,US_CO,US,United States of America,CO,Colorado,17830.0,921.0,39.059800,-105.311100,5758736
+2020-05-07,US_CT,US,United States of America,CT,Connecticut,31784.0,2797.0,41.597800,-72.755400,3565287
+2020-05-07,US_DC,US,United States of America,DC,District of Columbia,5654.0,285.0,38.897400,-77.026800,705749
+2020-05-07,US_DE,US,United States of America,DE,Delaware,5939.0,202.0,39.318500,-75.507100,973764
+2020-05-07,US_FL,US,United States of America,FL,Florida,38828.0,1667.0,27.766300,-81.686800,21477737
+2020-05-07,US_GA,US,United States of America,GA,Georgia,31439.0,1336.0,33.040600,-83.643100,10617423
+2020-05-07,US_HI,US,United States of America,HI,Hawaii,626.0,17.0,21.094300,-157.498300,1415872
+2020-05-07,US_IA,US,United States of America,IA,Iowa,11059.0,231.0,42.011500,-93.210500,3155070
+2020-05-07,US_ID,US,United States of America,ID,Idaho,2158.0,66.0,44.240500,-114.478800,1787065
+2020-05-07,US_IL,US,United States of America,IL,Illinois,70873.0,3111.0,40.349500,-88.986100,12671821
+2020-05-07,US_IN,US,United States of America,IN,Indiana,22503.0,1414.0,39.849400,-86.258300,6732219
+2020-05-07,US_KS,US,United States of America,KS,Kansas,6144.0,147.0,38.526600,-96.726500,2911505
+2020-05-07,US_KY,US,United States of America,KY,Kentucky,5934.0,283.0,37.668100,-84.670100,4468402
+2020-05-07,US_LA,US,United States of America,LA,Louisiana,30652.0,2208.0,31.169500,-91.867800,4648794
+2020-05-07,US_MA,US,United States of America,MA,Massachusetts,73721.0,4552.0,42.230200,-71.530100,6939373
+2020-05-07,US_MD,US,United States of America,MD,Maryland,29374.0,1503.0,39.063900,-76.802100,6045680
+2020-05-07,US_ME,US,United States of America,ME,Maine,1330.0,62.0,44.693900,-69.381900,1338404
+2020-05-07,US_MI,US,United States of America,MI,Michigan,45646.0,4343.0,43.326600,-84.536100,9883635
+2020-05-07,US_MN,US,United States of America,MN,Minnesota,9365.0,508.0,44.825400,-93.784200,5639632
+2020-05-07,US_MO,US,United States of America,MO,Missouri,9341.0,418.0,38.456100,-92.288400,6126452
+2020-05-07,US_MS,US,United States of America,MS,Mississippi,8686.0,396.0,32.741600,-89.678700,2976149
+2020-05-07,US_MT,US,United States of America,MT,Montana,456.0,16.0,46.921900,-110.454400,1068778
+2020-05-07,US_NC,US,United States of America,NC,North Carolina,13397.0,507.0,35.630100,-79.806400,10488084
+2020-05-07,US_ND,US,United States of America,ND,North Dakota,1371.0,31.0,47.528900,-99.784000,762062
+2020-05-07,US_NE,US,United States of America,NE,Nebraska,6771.0,86.0,41.314800,-96.195100,1934408
+2020-05-07,US_NH,US,United States of America,NH,New Hampshire,2740.0,111.0,42.993100,-71.049800,1359711
+2020-05-07,US_NJ,US,United States of America,NJ,New Jersey,133635.0,8801.0,40.298900,-74.521000,8882190
+2020-05-07,US_NM,US,United States of America,NM,New Mexico,4291.0,169.0,34.840500,-106.248500,2096829
+2020-05-07,US_NV,US,United States of America,NV,Nevada,5766.0,286.0,38.313500,-117.055400,3080156
+2020-05-07,US_NY,US,United States of America,NY,New York,327649.0,20828.0,42.165700,-74.948100,19453561
+2020-05-07,US_OH,US,United States of America,OH,Ohio,22131.0,1271.0,40.388800,-82.764900,11689100
+2020-05-07,US_OK,US,United States of America,OK,Oklahoma,4330.0,260.0,35.565300,-96.928900,3956971
+2020-05-07,US_OR,US,United States of America,OR,Oregon,2989.0,121.0,43.126100,-123.249200,4190713
+2020-05-07,US_PA,US,United States of America,PA,Pennsylvania,52915.0,3416.0,40.590800,-77.209800,12801989
+2020-05-07,US_RI,US,United States of America,RI,Rhode Island,10530.0,388.0,41.888200,-71.477400,1057315
+2020-05-07,US_SC,US,United States of America,SC,South Carolina,6936.0,305.0,33.856900,-80.945000,5148714
+2020-05-07,US_SD,US,United States of America,SD,South Dakota,2905.0,31.0,43.890100,-102.254800,884659
+2020-05-07,US_TN,US,United States of America,TN,Tennessee,14096.0,237.0,35.747800,-86.692300,6833793
+2020-05-07,US_TX,US,United States of America,TX,Texas,35390.0,973.0,31.054500,-97.563500,28995881
+2020-05-07,US_UT,US,United States of America,UT,Utah,5724.0,61.0,40.150000,-111.862400,3205958
+2020-05-07,US_VA,US,United States of America,VA,Virginia,21570.0,769.0,37.769300,-78.170000,8535519
+2020-05-07,US_VT,US,United States of America,VT,Vermont,916.0,53.0,44.045900,-72.710700,623989
+2020-05-07,US_WA,US,United States of America,WA,Washington,15905.0,870.0,47.400900,-121.490500,7614893
+2020-05-07,US_WI,US,United States of America,WI,Wisconsin,9215.0,374.0,43.018600,-89.549800,5822434
+2020-05-07,US_WV,US,United States of America,WV,West Virginia,1287.0,51.0,38.491200,-80.954500,1792147
+2020-05-07,US_WY,US,United States of America,WY,Wyoming,631.0,7.0,42.756000,-107.302500,578759
