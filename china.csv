@@ -2308,4 +2308,7 @@ Date,Key,CountryCode,CountryName,RegionCode,RegionName,Confirmed,Deaths,Latitude
 2020-05-18,CN_JL,CN,China,JL,Jilin,146.0,2.0,43.7,126.2,27462297,Jilin
 2020-05-18,CN_SH,CN,China,SH,Shanghai,666.0,7.0,31.22861,121.47472,24281400,Shanghai
 2020-05-18,CN_TW,CN,China,TW,Taiwan,440.0,7.0,23.7,121.0,23580000,Taiwan
+2020-05-19,CN_HB,CN,China,HB,Hubei,68135.0,4512.0,31.2,112.3,58500000,Hubei
 2020-05-19,CN_HK,CN,China,HK,Hong Kong,1055.0,4.0,22.3,114.2,7392000,Hong Kong
+2020-05-19,CN_JL,CN,China,JL,Jilin,151.0,2.0,43.7,126.2,27462297,Jilin
+2020-05-19,CN_SN,CN,China,SN,Shaanxi,308.0,3.0,35.6,108.4,37327378,Shaanxi
