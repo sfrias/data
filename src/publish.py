@@ -57,7 +57,7 @@ def subset_last_days(data: DataFrame, days: int) -> DataFrame:
 
 
 # Create the folder which will be published
-v2_folder = ROOT / "public" / "v2"
+v2_folder = ROOT / "output" / "public" / "v2"
 v2_folder.mkdir(exist_ok=True, parents=True)
 
 # Copy all output files to the V2 folder
@@ -110,7 +110,7 @@ for csv_file in (v2_folder).glob("**/*.csv"):
         data.to_json(json_path, orient="values")
 
 # Perform data transformations for backwards compatibility
-v1_folder = ROOT / "public"
+v1_folder = ROOT / "output" / "public"
 print("Performing backwards compatibility transformations...")
 
 # Create the v1 data.csv file
