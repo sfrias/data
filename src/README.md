@@ -1,25 +1,35 @@
 # src
 This folder contains all the code necessary to update the data tables. It is a single Python package
 with the following modules:
-* [data](data): auxiliary and help data files used during processing of input
-* [lib](lib): core functions and utilities used across the package
-* [pipelines](pipelines): contains all the individual pipelines that produce the data tables
-* [scripts](scripts): collection of miscellaneous scripts, used only for manual processing
-* [test](test): unit testing of core functions
+* [cache](./cache): used to help aggregating data sources which do not provide historical data
+* [data](./data): auxiliary and help data files used during processing of input
+* [lib](./lib): core functions and utilities used across the package
+* [pipelines](./pipelines): contains all the individual pipelines that produce the data tables
+* [scripts](./scripts): collection of miscellaneous scripts, used only for manual processing
+* [test](./test): unit testing of core functions
 
 ## Running
-To run all the pipeline chains, execute the `run.py` script:
+Data is automatically updated by the CI server on a schedule. To manually update the data for all
+the pipeline chains, execute the `update.py` script:
 ```sh
-python run.py
+python update.py
 ```
 
-To run a specific pipeline chain, use the option `--only <comma_separated_names>`; for example:
+To update a specific pipeline chain, use the option `--only <comma_separated_names>`; for example:
 ```sh
-python run.py --only index,demographics,geography
+python update.py --only index,demographics,geography
 ```
+
+The update command will use the `output/tables` and `output/snapshot` folders at the root of the
+project path. The raw data sources downloaded to produce outputs are placed under the `snapshot`
+folder, and the processed data is placed in the `tables` folder.
+
+Files in the `tables` folder are not meant to be used as-is. They are intended to be used for the
+purpose of auditing changes in the dataset, being tracked by `git`. The files in the `tables` folder
+are made available for general use after a [publishing step](#publish).
 
 ## Testing
-Run execute the tests, run the following command from this directory:
+To execute the unit tests, run the following command from this directory:
 ```sh
 python -m unittest
 ```
@@ -69,3 +79,18 @@ schema will be filtered out in the final output.
 ### Overview
 The following diagram summarizes the architecture:
 ![](data/architecture.png)
+
+## Publish
+Data tables are made available for use via the `publish.py` script which uploads the files to a file
+server and creates the different versions of the datasets (like date subsets, the master table, JSON
+formatted files, etc.). Data is published automatically by the CI server with every change to the
+master branch; to run the publish step locally, simply execute this script from the `src` directory:
+```sh
+python publish.py
+```
+
+## Caching
+Some data sources are unreliable or only provide daily data (instead of historical). To improve the
+resiliency of the data pipeline, you may also use a cache layer which creates hourly snapshots of
+data sources, which can then be aggregated into historical data. See the [cache](./cache) folder for
+more details.

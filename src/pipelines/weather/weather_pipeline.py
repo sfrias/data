@@ -8,7 +8,7 @@ from multiprocessing import cpu_count
 from multiprocessing.pool import ThreadPool as Pool
 
 import numpy
-from tqdm import tqdm
+from tqdm.contrib import concurrent
 from pandas import DataFrame, Series, Int64Dtype, merge, read_csv, concat, isna
 
 from lib.cast import safe_int_cast
@@ -18,6 +18,11 @@ from lib.utils import ROOT
 
 
 class WeatherPipeline(DefaultPipeline):
+
+    # A bit of a circular dependency but we need the latitude and longitude to compute weather
+    def fetch(self, cache: Dict[str, str], **fetch_opts) -> List[str]:
+        return [ROOT / "output" / "tables" / "geography.csv"]
+
     @staticmethod
     def haversine_distance(
         stations: DataFrame, lat: float, lon: float, radius: float = 6373.0
@@ -42,9 +47,7 @@ class WeatherPipeline(DefaultPipeline):
 
         # Return the closest station and its distance
         idxmin = distances.idxmin()
-        nearest = stations.iloc[idxmin].copy()
-        nearest["noaa_distance"] = distances.iloc[idxmin]
-        return nearest
+        return distances.loc[idxmin], stations.loc[idxmin]
 
     @staticmethod
     def fix_temp(value: int):
@@ -55,7 +58,7 @@ class WeatherPipeline(DefaultPipeline):
     def station_records(station_cache: Dict[str, DataFrame], stations: DataFrame, location: Series):
 
         # Get the nearest station from our list of stations given lat and lon
-        nearest = WeatherPipeline.nearest_station(stations, location.lat, location.lon)
+        distance, nearest = WeatherPipeline.nearest_station(stations, location.lat, location.lon)
 
         # Query the cache and pull data only if not already cached
         if nearest.id not in station_cache:
@@ -86,26 +89,31 @@ class WeatherPipeline(DefaultPipeline):
 
             # Get only data for 2020 and add location values
             data = data[data.date > "2019-12-31"]
-            data["noaa_distance"] = "%.03f" % nearest.noaa_distance
 
             # Save into the cache
-            output_columns = [
-                "date",
-                "noaa_station",
-                "noaa_distance",
-                "minimum_temperature",
-                "maximum_temperature",
-                "rainfall",
-                "snowfall",
-            ]
-            station_cache[nearest.id] = data[[col for col in output_columns if col in data.columns]]
+            station_cache[nearest.id] = data
+
+        # Get station records from the cache
+        data = station_cache[nearest.id].copy()
 
         # Return all the available data from the records
-        data = station_cache[nearest.id].copy()
+        output_columns = [
+            "date",
+            "key",
+            "noaa_station",
+            "noaa_distance",
+            "minimum_temperature",
+            "maximum_temperature",
+            "rainfall",
+            "snowfall",
+        ]
         data["key"] = location.key
-        return data
+        data["noaa_distance"] = "%.03f" % distance
+        return data[[col for col in output_columns if col in data.columns]]
 
-    def parse(self, sources: List[str], aux: Dict[str, DataFrame], **parse_opts):
+    def parse_dataframes(
+        self, dataframes: List[DataFrame], aux: Dict[str, DataFrame], **parse_opts
+    ):
 
         # Get all the weather stations with data up until 2020
         stations_url = "https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/ghcnd-inventory.txt"
@@ -123,8 +131,7 @@ class WeatherPipeline(DefaultPipeline):
         stations = stations.reset_index()
 
         # Get all the POI from metadata and go through each key
-        metadata = aux["metadata"][["key"]]
-        metadata = metadata.merge(aux["wikidata"][["key", "latitude", "longitude"]]).dropna()
+        metadata = dataframes[0][["key", "latitude", "longitude"]].dropna()
 
         # Convert all coordinates to radians
         stations["lat"] = stations.lat.apply(math.radians)
@@ -135,7 +142,7 @@ class WeatherPipeline(DefaultPipeline):
         # Use a cache to avoid having to query the same station multiple times
         station_cache: Dict[str, DataFrame] = {}
 
-        # Make sure the stations and the cache is sent to each function call
+        # Make sure the stations and the cache are sent to each function call
         map_func = partial(WeatherPipeline.station_records, station_cache, stations)
 
         # We don't care about the index while iterating over each metadata item
@@ -145,11 +152,9 @@ class WeatherPipeline(DefaultPipeline):
         shuffle(map_iter)
 
         # Bottleneck is network so we can use lots of threads in parallel
-        records = list(
-            tqdm(Pool(cpu_count()).imap_unordered(map_func, map_iter), total=len(metadata),)
-        )
+        records = concurrent.thread_map(map_func, map_iter, total=len(metadata))
 
-        return concat(records).sort_values(["key", "date"])
+        return concat(records)
 
 
 class WeatherPipelineChain(PipelineChain):
