@@ -18,6 +18,7 @@ from pipelines.demographics.demographics_pipeline import DemographicsPipelineCha
 from pipelines.economy.economy_pipeline import EconomyPipelineChain
 from pipelines.epidemiology.pipeline_chain import EpidemiologyPipelineChain
 from pipelines.geography.geography_pipeline import GeographyPipelineChain
+from pipelines.hospitalizations.hospitalizations_pipeline import HospitalizationsPipelineChain
 from pipelines.index.index_pipeline import IndexPipelineChain
 from pipelines.mobility.mobility_pipeline import MobilityPipelineChain
 from pipelines.oxford_government_response.oxford_government_response_pipeline import (
@@ -32,6 +33,7 @@ all_pipeline_chains: List[PipelineChain] = [
     EconomyPipelineChain,
     EpidemiologyPipelineChain,
     GeographyPipelineChain,
+    HospitalizationsPipelineChain,
     IndexPipelineChain,
     OxfordGovernmentResponsePipelineChain,
     WeatherPipelineChain,
